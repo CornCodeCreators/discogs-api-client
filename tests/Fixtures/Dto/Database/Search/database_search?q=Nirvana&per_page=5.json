@@ -1,0 +1,229 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 2000,
+        "per_page": 5,
+        "items": 16342,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&page=2000",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 125246,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/125246-Nirvana",
+            "title": "Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/KydDnAWdAzeHy0dZ4YSnpkuh__uLXIk8w60uKQVW0G4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEyNTI0\/Ni0xNTAxMjg1MjAw\/LTMwNTguanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/S_HB3FZR5TTcRyjBqlnUQpF_WgF-i9iSqcMTQGdwB6M\/rs:fit\/g:sm\/q:90\/h:609\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEyNTI0\/Ni0xNTAxMjg1MjAw\/LTMwNTguanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/125246"
+        },
+        {
+            "country": "US",
+            "year": "2002",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "DGC",
+                "Geffen Records",
+                "Geffen Records",
+                "Universal Music & Video Distribution, Corp.",
+                "Universal Music & Video Distribution, Corp.",
+                "Future Media",
+                "Future Media"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 42476,
+            "barcode": [
+                "606949350727",
+                "6 06949 35072 7",
+                "IFPI LG33",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M04 S01",
+                "IFPI 3V53",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M03 S04",
+                "IFPI 3V42",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M03 S03",
+                "IFPI 3V15",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M02 S07",
+                "IFPI 3V36",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M01 S01",
+                "IFPI 3V04",
+                "FM\/CA FM 22851 (0694935072\/TE001) C02 M02 S02",
+                "IFPI 3V18",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M02 S04",
+                "IFPI 3V17",
+                "FM\/CA FM 22851 (0694935072\/TE001) C02 M01 S04",
+                "IFPI 3V22"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/master\/42476-Nirvana-Nirvana",
+            "catno": "0694935072",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/8aBENWXMv5PcGJ_YIQT1PA0ep2e64gjTyrKAM1audJM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NzYx\/NC0xMTQzMDAxNjMy\/LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/G9aRdNnZUwH1uehJ6i6w06triCGAQ2U1oIbjjV1Dg0g\/rs:fit\/g:sm\/q:90\/h:297\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NzYx\/NC0xMTQzMDAxNjMy\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "community": {
+                "want": 15674,
+                "have": 69317
+            }
+        },
+        {
+            "id": 307513,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/307513-Nirvana-2",
+            "title": "Nirvana (2)",
+            "thumb": "https:\/\/i.discogs.com\/Qsyci3jKVLuFe1pfcbCGrpfxBA3s0gNN9SlAWyfFl0Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMwNzUx\/My0xMjcwMjM2OTQy\/LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/KRbQ8QizNIgoIkRniPb6aHShHaARybPFZKR__HNUTg8\/rs:fit\/g:sm\/q:90\/h:525\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMwNzUx\/My0xMjcwMjM2OTQy\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/307513"
+        },
+        {
+            "country": "Europe",
+            "year": "2015",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "DGC",
+                "Sub Pop",
+                "Geffen Records",
+                "Geffen Records",
+                "Optimal Media GmbH"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge",
+                "Alternative Rock"
+            ],
+            "id": 7445961,
+            "barcode": [
+                "6 02547 37878 1",
+                "602547378781",
+                "BIEM\/SDRM",
+                "BF93390-01 A1 602547378781-A CB",
+                "BF93390-01 B1 602547378781-B CB"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/release\/7445961-Nirvana-Nirvana",
+            "catno": "0602547378781",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/w7JTNpEghFbtBxIFIgn8twjuiQlzqCCs6TQ3NRKKlzc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc0NDU5\/NjEtMTcwNzI0NzI1\/NC0zNTIzLmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/1Xuu3z4R1dmTMv8rh9V1lpyNKW9uFtdGXgGydJWnCt0\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc0NDU5\/NjEtMTcwNzI0NzI1\/NC0zNTIzLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/7445961",
+            "community": {
+                "want": 1459,
+                "have": 18556
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "180 Gram",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "2015",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Geffen Records",
+                "Sub Pop",
+                "UMe",
+                "Geffen Records",
+                "Geffen Records",
+                "Universal Music Distribution",
+                "Quality Record Pressings",
+                "Bernie Grundman Mastering"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 7802791,
+            "barcode": [
+                "602547378781",
+                "B0023396-01-A CB",
+                "B0023396-01-B CB",
+                "QRP"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/release\/7802791-Nirvana-Nirvana",
+            "catno": "B0023396-01",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/RbaZ_rwDiYLe65ew94XDIw549kcAqjV6hTljsTxGmRk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4MDI3\/OTEtMTYyMTM1MTgy\/My04NzE5LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/JaWi2I-ElToRWGV-ej_tl1vc0UGVWV_8LMtHLa9Xld8\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4MDI3\/OTEtMTYyMTM1MTgy\/My04NzE5LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/7802791",
+            "community": {
+                "want": 624,
+                "have": 8873
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "150g",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        }
+    ]
+}

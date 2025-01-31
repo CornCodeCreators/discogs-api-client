@@ -1,0 +1,53 @@
+{
+    "name": "Galaxy (3)",
+    "id": 71621,
+    "resource_url": "https:\/\/api.discogs.com\/artists\/71621",
+    "uri": "https:\/\/www.discogs.com\/artist\/71621-Galaxy-3",
+    "releases_url": "https:\/\/api.discogs.com\/artists\/71621\/releases",
+    "realname": "E. Van Damme, K. Andries & T. Van Der Linden",
+    "profile": "",
+    "aliases": [
+        {
+            "id": 22885,
+            "name": "DJ Springer",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/22885",
+            "thumbnail_url": "https:\/\/i.discogs.com\/OXyBO4DaM04hoK5P0nxlUtktuaLqmoLVIaWuBvz3alY\/rs:fit\/g:sm\/q:40\/h:224\/w:225\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIyODg1\/LTE2NTU4MTg5NTgt\/NDU3My5qcGVn.jpeg"
+        },
+        {
+            "id": 103354,
+            "name": "Roadblock Rhythms",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/103354",
+            "thumbnail_url": ""
+        },
+        {
+            "id": 627804,
+            "name": "T.E.K-No!",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/627804",
+            "thumbnail_url": ""
+        }
+    ],
+    "members": [
+        {
+            "id": 116966,
+            "name": "Erik Van Damme",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/116966",
+            "active": true,
+            "thumbnail_url": ""
+        },
+        {
+            "id": 629438,
+            "name": "Tim van der Linden",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/629438",
+            "active": true,
+            "thumbnail_url": ""
+        },
+        {
+            "id": 629439,
+            "name": "Koen Andries",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/629439",
+            "active": true,
+            "thumbnail_url": ""
+        }
+    ],
+    "data_quality": "Needs Vote"
+}

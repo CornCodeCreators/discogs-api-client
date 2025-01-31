@@ -1,0 +1,114 @@
+{
+    "id": 2676,
+    "main_release": 8049,
+    "most_recent_release": 2970035,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2676",
+    "uri": "https:\/\/www.discogs.com\/master\/2676-Rick-Wade-Deep-Threats",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2676\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/8049",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/1268265",
+    "num_for_sale": 10,
+    "lowest_price": 9,
+    "images": [
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/ZVUIftxsnMf3tJUkqe8IsQEX16nLYWQgL5Y9311JCHk\/rs:fit\/g:sm\/q:90\/h:489\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDkt\/MTE1NTEzNDkyMC5q\/cGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/ZVUIftxsnMf3tJUkqe8IsQEX16nLYWQgL5Y9311JCHk\/rs:fit\/g:sm\/q:90\/h:489\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDkt\/MTE1NTEzNDkyMC5q\/cGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/fnb1v7x7bHEHDy40e0OtsvmTGgxxC4SZg0UVFJb308o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDkt\/MTE1NTEzNDkyMC5q\/cGVn.jpeg",
+            "width": 500,
+            "height": 489
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/P-O--kN9vJB-_NVVkTNS05tvOHxn17ndh-HbmvBIy0A\/rs:fit\/g:sm\/q:90\/h:493\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDkt\/MTE1NTEzNDkzMy5q\/cGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/P-O--kN9vJB-_NVVkTNS05tvOHxn17ndh-HbmvBIy0A\/rs:fit\/g:sm\/q:90\/h:493\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDkt\/MTE1NTEzNDkzMy5q\/cGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/DFdHdWWukJLniZESFyXrygGt7yiICHpsWAfHtAYqjmg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDkt\/MTE1NTEzNDkzMy5q\/cGVn.jpeg",
+            "width": 500,
+            "height": 493
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Deep House"
+    ],
+    "year": 1999,
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Show-u-love",
+            "duration": "6:34"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Day Pimp",
+            "duration": "5:49"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Cool Out",
+            "duration": "4:42"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Still Angry",
+            "duration": "7:25"
+        }
+    ],
+    "artists": [
+        {
+            "name": "Rick Wade",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 1098,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1098",
+            "thumbnail_url": "https:\/\/i.discogs.com\/JnI5cRTVgt4RRXm6IM29wUN9Bc9ZoM2_Jurf5hWZpSM\/rs:fit\/g:sm\/q:90\/h:400\/w:592\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEwOTgt\/MTIwNjM5NTUxMS5q\/cGVn.jpeg"
+        }
+    ],
+    "title": "Deep Threats",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=twZuzAsjNfs",
+            "title": "Rick Wade - Show u love",
+            "description": "Label: A Touch Of Class (2) \u2013 ATC001 \nFormat : Vinyl, 12\"\nCountry : Germany\nSortie : 1999\nGenre : Deep House",
+            "duration": 395,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=Ex9nctMKERI",
+            "title": "Rick Wade - Day Pimp",
+            "description": "Available here:  https:\/\/www.beatport.com\/en-US\/html\/content\/release\/detail\/32167\/Deep%20Threats%20EP\n\nLabel:A Touch Of Class (Germany)\n\nCatalog#:ATC001\n\nFormat:Vinyl, 12\"\n\nCountry:Germany\n\nReleased:1999\n\nGenre:Electronic\n\nStyle:Deep House \n\nDiscogs URL: ",
+            "duration": 350,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=93_m9lt-Abc",
+            "title": "Rick Wade - Cool Out",
+            "description": "http:\/\/www.discogs.com\/Rick-Wade-Deep-Threats\/master\/2676",
+            "duration": 284,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=OcUpxzy8LF0",
+            "title": "Rick Wade - Still Angry",
+            "description": "Track from A Touch Of Class (Germany)",
+            "duration": 441,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=OdIaOOIm10U",
+            "title": "Rick Wade - Show u love",
+            "description": "Rick Wade \nShow u love\n#Vinyl\n \nCheck-out our Facebook page,\nhttps:\/\/www.facebook.com\/HouseCastOnline\/",
+            "duration": 409,
+            "embed": true
+        }
+    ]
+}

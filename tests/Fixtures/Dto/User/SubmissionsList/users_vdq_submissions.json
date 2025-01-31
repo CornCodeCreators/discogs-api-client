@@ -1,0 +1,2642 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 23,
+        "urls": []
+    },
+    "submissions": {
+        "releases": [
+            {
+                "id": 962741,
+                "status": "Accepted",
+                "year": 1985,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/962741",
+                "uri": "https:\/\/www.discogs.com\/release\/962741-Eva-Perouk-Auto-Da-F%C3%A9-La-Semaine-DUne-Somnambuliste",
+                "artists": [
+                    {
+                        "name": "Eva Perouk",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 791358,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/791358"
+                    }
+                ],
+                "artists_sort": "Eva Perouk",
+                "labels": [
+                    {
+                        "name": "Unlikely Records",
+                        "catno": "none",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 72215,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/72215"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Cassette",
+                        "qty": "1",
+                        "text": "C60"
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 11,
+                    "want": 79,
+                    "rating": {
+                        "count": 5,
+                        "average": 4.4
+                    },
+                    "submitter": {
+                        "username": "eetapes",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/eetapes"
+                    },
+                    "contributors": [
+                        {
+                            "username": "eetapes",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/eetapes"
+                        },
+                        {
+                            "username": "catharsiss",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/catharsiss"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        },
+                        {
+                            "username": "hlamerz",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/hlamerz"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2007-05-03T16:34:43-07:00",
+                "date_changed": "2023-03-20T04:30:52-07:00",
+                "num_for_sale": 0,
+                "lowest_price": null,
+                "master_id": 3023750,
+                "master_url": "https:\/\/api.discogs.com\/masters\/3023750",
+                "title": "Auto Da F\u00e9 \/ La Semaine D'Une Somnambuliste",
+                "country": "UK",
+                "released": "1985",
+                "released_formatted": "1985",
+                "identifiers": [],
+                "genres": [
+                    "Electronic",
+                    "Classical"
+                ],
+                "styles": [
+                    "Experimental",
+                    "Contemporary"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/beaqUyvWCPO5n-7vgZ7Q4_-gAo2wgqL83X0iZqyLR2I\/rs:fit\/g:sm\/q:90\/h:444\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMTI4\/LTcwOTkuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/beaqUyvWCPO5n-7vgZ7Q4_-gAo2wgqL83X0iZqyLR2I\/rs:fit\/g:sm\/q:90\/h:444\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMTI4\/LTcwOTkuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/HhwVLrctHlmuTUbwpxAFkwkRuKOStFXX6uR2ZVfjKpA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMTI4\/LTcwOTkuanBlZw.jpeg",
+                        "width": 450,
+                        "height": 444
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/g3gM6XX-Eu50p8N4UWvTtQTkq79Lp2c4aY44-VNuvv8\/rs:fit\/g:sm\/q:90\/h:596\/w:372\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMTU1\/LTExOTkuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/g3gM6XX-Eu50p8N4UWvTtQTkq79Lp2c4aY44-VNuvv8\/rs:fit\/g:sm\/q:90\/h:596\/w:372\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMTU1\/LTExOTkuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/TvElr40bxoNEc4eYPxRS6-HtdGKq7Tsbwv6VoNtOFFY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMTU1\/LTExOTkuanBlZw.jpeg",
+                        "width": 372,
+                        "height": 596
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/eYJIsAGY9tQH5pu1zqE4wPFJE-G2xACqrCJVePv3ro4\/rs:fit\/g:sm\/q:90\/h:305\/w:472\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjE5ODY0\/LTExNzUuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/eYJIsAGY9tQH5pu1zqE4wPFJE-G2xACqrCJVePv3ro4\/rs:fit\/g:sm\/q:90\/h:305\/w:472\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjE5ODY0\/LTExNzUuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/v_jgYSh3eaesppRuJeHavd_TfAl56lgT8a3lzSBCpKo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjE5ODY0\/LTExNzUuanBlZw.jpeg",
+                        "width": 472,
+                        "height": 305
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/UHnP3vHutx3mk1Y1s_efr5Rsv3SEZ6T_LLGxr7Jtrgs\/rs:fit\/g:sm\/q:90\/h:634\/w:386\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMDAz\/LTc2OTYuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/UHnP3vHutx3mk1Y1s_efr5Rsv3SEZ6T_LLGxr7Jtrgs\/rs:fit\/g:sm\/q:90\/h:634\/w:386\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMDAz\/LTc2OTYuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/NRY1JQRHM_zQWkd52fJ6bb8ClxJzjUv0hiVFFKtUg8s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMDAz\/LTc2OTYuanBlZw.jpeg",
+                        "width": 386,
+                        "height": 634
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/Jh_16kv5NdpGdm69yhHVuXFRdOFbC6ncWsccOX5ZGiI\/rs:fit\/g:sm\/q:90\/h:962\/w:271\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjE5OTE5\/LTQ4NjIuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/Jh_16kv5NdpGdm69yhHVuXFRdOFbC6ncWsccOX5ZGiI\/rs:fit\/g:sm\/q:90\/h:962\/w:271\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjE5OTE5\/LTQ4NjIuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/dlB4eKW8t-IRHbFPr6gC7HseZNawc5jBHQtOX7NAF5k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjE5OTE5\/LTQ4NjIuanBlZw.jpeg",
+                        "width": 271,
+                        "height": 962
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/HhwVLrctHlmuTUbwpxAFkwkRuKOStFXX6uR2ZVfjKpA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2Mjc0\/MS0xMzU5MjIwMTI4\/LTcwOTkuanBlZw.jpeg",
+                "estimated_weight": 65
+            },
+            {
+                "id": 1881485,
+                "status": "Accepted",
+                "year": 2009,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/1881485",
+                "uri": "https:\/\/www.discogs.com\/release\/1881485-Bizzy-B-Retrospective",
+                "artists": [
+                    {
+                        "name": "Bizzy B",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 54574,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/54574"
+                    }
+                ],
+                "artists_sort": "Bizzy B",
+                "labels": [
+                    {
+                        "name": "Planet Mu",
+                        "catno": "ZIQ145CD",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 185,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/185"
+                    }
+                ],
+                "series": [],
+                "companies": [
+                    {
+                        "name": "Copyright Control",
+                        "catno": "",
+                        "entity_type": "21",
+                        "entity_type_name": "Published By",
+                        "id": 48207,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/48207"
+                    },
+                    {
+                        "name": "Planet Mu Records Ltd.",
+                        "catno": "",
+                        "entity_type": "13",
+                        "entity_type_name": "Phonographic Copyright (p)",
+                        "id": 264372,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/264372"
+                    },
+                    {
+                        "name": "Planet Mu Records Ltd.",
+                        "catno": "",
+                        "entity_type": "14",
+                        "entity_type_name": "Copyright (c)",
+                        "id": 264372,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/264372"
+                    },
+                    {
+                        "name": "Optimal Media Production",
+                        "catno": "A971385",
+                        "entity_type": "10",
+                        "entity_type_name": "Manufactured By",
+                        "id": 129094,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/129094"
+                    }
+                ],
+                "formats": [
+                    {
+                        "name": "CD",
+                        "qty": "1",
+                        "descriptions": [
+                            "Album",
+                            "Compilation"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 179,
+                    "want": 102,
+                    "rating": {
+                        "count": 39,
+                        "average": 4.64
+                    },
+                    "submitter": {
+                        "username": "_luca_",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/_luca_"
+                    },
+                    "contributors": [
+                        {
+                            "username": "_luca_",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/_luca_"
+                        },
+                        {
+                            "username": "Hetzer",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Hetzer"
+                        },
+                        {
+                            "username": "OceanTiki",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/OceanTiki"
+                        },
+                        {
+                            "username": "steve_brown",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/steve_brown"
+                        },
+                        {
+                            "username": "evenflouw",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/evenflouw"
+                        },
+                        {
+                            "username": "rmc",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/rmc"
+                        },
+                        {
+                            "username": "Erinyes",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Erinyes"
+                        },
+                        {
+                            "username": "MISTER_DIA-TRIBE_73",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/MISTER_DIA-TRIBE_73"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2009-08-09T10:44:54-07:00",
+                "date_changed": "2023-03-11T00:35:05-08:00",
+                "num_for_sale": 4,
+                "lowest_price": 5.21,
+                "master_id": 167985,
+                "master_url": "https:\/\/api.discogs.com\/masters\/167985",
+                "title": "Retrospective",
+                "country": "UK",
+                "released": "2009-07-13",
+                "notes": "\"Rubadub Style\" and \"10 Inch V.I.P.\" are previously unreleased tracks.\r\n\r\nP & C 2009 Planet Mu Records Ltd.\r\nMade in the EU.\r\n",
+                "released_formatted": "13 Jul 2009",
+                "identifiers": [
+                    {
+                        "type": "Barcode",
+                        "value": "600116814524",
+                        "description": "String"
+                    },
+                    {
+                        "type": "Mastering SID Code",
+                        "value": "IFPI L571"
+                    },
+                    {
+                        "type": "Mould SID Code",
+                        "value": "IFPI 9726"
+                    },
+                    {
+                        "type": "Matrix \/ Runout",
+                        "value": "manufactured by optimal media production A971385-01"
+                    }
+                ],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Breakbeat",
+                    "Hardcore",
+                    "Jungle"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/r4M4mg1EDEjmjREkBbnQPcq8EvYEzGZCU3uw_ud1sqI\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI1MDIwMDQ1\/NS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/r4M4mg1EDEjmjREkBbnQPcq8EvYEzGZCU3uw_ud1sqI\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI1MDIwMDQ1\/NS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/VOuO2FgDFQ0-i9KnZROxHIUEjlxD9Eu2vkMncF9Ymfk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI1MDIwMDQ1\/NS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 594
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/rW7KS0d7GTINN_vcwT_BmzT1xbxfa41U5gucFCrgZfE\/rs:fit\/g:sm\/q:90\/h:298\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTYx\/NC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/rW7KS0d7GTINN_vcwT_BmzT1xbxfa41U5gucFCrgZfE\/rs:fit\/g:sm\/q:90\/h:298\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTYx\/NC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/nYPniaYvD-lMujL7pYmYeQNZSQ297vbwWeREOrqF6M0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTYx\/NC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 298
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/zRkfxZT9foH21-txjF3RuogE7he_uzpPCbzJh8doeN8\/rs:fit\/g:sm\/q:90\/h:594\/w:599\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI1MzA2NDYx\/MS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/zRkfxZT9foH21-txjF3RuogE7he_uzpPCbzJh8doeN8\/rs:fit\/g:sm\/q:90\/h:594\/w:599\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI1MzA2NDYx\/MS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/_6ofv4XClAUh-hOOMMG7h-4HQn6vdXjXp6OWFsydP3I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI1MzA2NDYx\/MS5qcGVn.jpeg",
+                        "width": 599,
+                        "height": 594
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/7eD-Z-_CpyQvTTNH66DzBPNAPwQ7aojFStkEIEYqAGc\/rs:fit\/g:sm\/q:90\/h:468\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTUx\/OC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/7eD-Z-_CpyQvTTNH66DzBPNAPwQ7aojFStkEIEYqAGc\/rs:fit\/g:sm\/q:90\/h:468\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTUx\/OC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/5QYhgoZfHPH0cKSe6Ss1Osv1BpHXnhwnUz_bEnriVN8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTUx\/OC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 468
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/5pXEj-CzCgBbVcVjT2nwXxFYqt8y8Tsgd3JpjZo6DPA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTYy\/Mi5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/5pXEj-CzCgBbVcVjT2nwXxFYqt8y8Tsgd3JpjZo6DPA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTYy\/Mi5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/9t_X0ZUftowAbfUUPedIS3fEvN4le6xo5gifnXFsUiw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI2NzQxMTYy\/Mi5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/VOuO2FgDFQ0-i9KnZROxHIUEjlxD9Eu2vkMncF9Ymfk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODE0\/ODUtMTI1MDIwMDQ1\/NS5qcGVn.jpeg",
+                "estimated_weight": 85
+            },
+            {
+                "id": 266244,
+                "status": "Accepted",
+                "year": 2004,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/266244",
+                "uri": "https:\/\/www.discogs.com\/release\/266244-Ras-Project-Walking-In-The-Air",
+                "artists": [
+                    {
+                        "name": "X Project",
+                        "anv": "Ras Project",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 48269,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/48269"
+                    }
+                ],
+                "artists_sort": "X Project",
+                "labels": [
+                    {
+                        "name": "Congo Natty",
+                        "catno": "CONGONATTY1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 5099,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/5099"
+                    }
+                ],
+                "series": [],
+                "companies": [
+                    {
+                        "name": "Ras Project Productions",
+                        "catno": "",
+                        "entity_type": "37",
+                        "entity_type_name": "Produced For",
+                        "id": 1557316,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/1557316"
+                    },
+                    {
+                        "name": "Unity Mastering",
+                        "catno": "",
+                        "entity_type": "29",
+                        "entity_type_name": "Mastered At",
+                        "id": 264673,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/264673"
+                    },
+                    {
+                        "name": "MPO",
+                        "catno": "",
+                        "entity_type": "17",
+                        "entity_type_name": "Pressed By",
+                        "id": 56025,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/56025"
+                    },
+                    {
+                        "name": "Eurodisc Manufacturing",
+                        "catno": "",
+                        "entity_type": "10",
+                        "entity_type_name": "Manufactured By",
+                        "id": 271735,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/271735"
+                    }
+                ],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM",
+                            "45 RPM"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 346,
+                    "want": 202,
+                    "rating": {
+                        "count": 51,
+                        "average": 4.71
+                    },
+                    "submitter": {
+                        "username": "MIKE-H",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/MIKE-H"
+                    },
+                    "contributors": [
+                        {
+                            "username": "MIKE-H",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/MIKE-H"
+                        },
+                        {
+                            "username": "Concrete",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Concrete"
+                        },
+                        {
+                            "username": "steady_pace",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/steady_pace"
+                        },
+                        {
+                            "username": "RootsRecords",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/RootsRecords"
+                        },
+                        {
+                            "username": "goemon",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/goemon"
+                        },
+                        {
+                            "username": "DiscogsUpdateBot",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/DiscogsUpdateBot"
+                        },
+                        {
+                            "username": "Oldskool-Sounds",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Oldskool-Sounds"
+                        },
+                        {
+                            "username": "rhythmmethods.",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/rhythmmethods."
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2004-06-11T14:10:03-07:00",
+                "date_changed": "2023-01-09T07:47:08-08:00",
+                "num_for_sale": 2,
+                "lowest_price": 23.6,
+                "master_id": 230136,
+                "master_url": "https:\/\/api.discogs.com\/masters\/230136",
+                "title": "Walking In The Air",
+                "country": "UK",
+                "released": "2004",
+                "notes": "Side A plays at 45 and side AA at 33 \u2153 RPM.\n\nAll tracks originally released on [m346604] in 1992.\n\n",
+                "released_formatted": "2004",
+                "identifiers": [
+                    {
+                        "type": "Matrix \/ Runout",
+                        "value": "CONGONATTY 01 A MPO EURODISC Chrisp @ UNITY",
+                        "description": "Side A runout, etched"
+                    },
+                    {
+                        "type": "Matrix \/ Runout",
+                        "value": "CONGONATTY 01 AA MPO EURODISC Chrisp @ UNITY",
+                        "description": "Side AA runout, etched"
+                    }
+                ],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Breakbeat",
+                    "Hardcore",
+                    "Jungle"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/-19plGyUAz6Q5jWciSunAl37qIYLuXURG1qMtP0Ju9U\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5Mjcy\/LTMwNjcuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/-19plGyUAz6Q5jWciSunAl37qIYLuXURG1qMtP0Ju9U\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5Mjcy\/LTMwNjcuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/vULilW_GMRvqzOV6xiPyHHHOrfDR7iLOKm40uKl5shs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5Mjcy\/LTMwNjcuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/UuL624it07KApm-BAGGhSnT-GmZXLQ8ecxPsVUJArGU\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5Mjcy\/LTYxNDYuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/UuL624it07KApm-BAGGhSnT-GmZXLQ8ecxPsVUJArGU\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5Mjcy\/LTYxNDYuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/gzfuoUPpGiLUUlhAYdJGTs7VJvZ-TVK4g7b2_aQ4ohw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5Mjcy\/LTYxNDYuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/c11XX4lUjFAn6oyONznEUwxgtuycFwxTkvDIAGoOXYY\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNDkzMzI1MTEw\/LTQxNTcuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/c11XX4lUjFAn6oyONznEUwxgtuycFwxTkvDIAGoOXYY\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNDkzMzI1MTEw\/LTQxNTcuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/fr2SXfzKf43j0ZjsHcjRvlAGupEtIIYw5X_-I2B-XM4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNDkzMzI1MTEw\/LTQxNTcuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 594
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/06EVxWWfTgxyM707doQM_2yqHPaqc3wuo2xGkx8QsAQ\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5MjYy\/LTgyODQuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/06EVxWWfTgxyM707doQM_2yqHPaqc3wuo2xGkx8QsAQ\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5MjYy\/LTgyODQuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/jX6vv9E1r6eHEnd-XC02L0E7Cc1qIKI1ueeyTnrryV0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5MjYy\/LTgyODQuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 601
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/vULilW_GMRvqzOV6xiPyHHHOrfDR7iLOKm40uKl5shs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NjI0\/NC0xNTQzNDA5Mjcy\/LTMwNjcuanBlZw.jpeg",
+                "estimated_weight": 230
+            },
+            {
+                "id": 2908133,
+                "status": "Accepted",
+                "year": 1982,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/2908133",
+                "uri": "https:\/\/www.discogs.com\/release\/2908133-Daniel-Emmanuel-Wizards-Music-Of-Other-Memories",
+                "artists": [
+                    {
+                        "name": "Daniel Emmanuel",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 651293,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/651293"
+                    }
+                ],
+                "artists_sort": "Daniel Emmanuel",
+                "labels": [
+                    {
+                        "name": "North Star Productions",
+                        "catno": "NSP-2003",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 74764,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/74764"
+                    }
+                ],
+                "series": [],
+                "companies": [
+                    {
+                        "name": "Daniel Emmanuel",
+                        "catno": "",
+                        "entity_type": "14",
+                        "entity_type_name": "Copyright (c)",
+                        "id": 291258,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/291258"
+                    },
+                    {
+                        "name": "Daniel Emmanuel",
+                        "catno": "",
+                        "entity_type": "13",
+                        "entity_type_name": "Phonographic Copyright (p)",
+                        "id": 291258,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/291258"
+                    },
+                    {
+                        "name": "North Star Productions",
+                        "catno": "",
+                        "entity_type": "14",
+                        "entity_type_name": "Copyright (c)",
+                        "id": 74764,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/74764"
+                    },
+                    {
+                        "name": "North Star Productions",
+                        "catno": "",
+                        "entity_type": "13",
+                        "entity_type_name": "Phonographic Copyright (p)",
+                        "id": 74764,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/74764"
+                    }
+                ],
+                "formats": [
+                    {
+                        "name": "Cassette",
+                        "qty": "1",
+                        "text": "Dolby C\/HX Pro",
+                        "descriptions": [
+                            "Album"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 98,
+                    "want": 150,
+                    "rating": {
+                        "count": 12,
+                        "average": 4.58
+                    },
+                    "submitter": {
+                        "username": "oceanofsound",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/oceanofsound"
+                    },
+                    "contributors": [
+                        {
+                            "username": "oceanofsound",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/oceanofsound"
+                        },
+                        {
+                            "username": "walshington",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/walshington"
+                        },
+                        {
+                            "username": "pkdickhead",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/pkdickhead"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2011-05-29T23:53:17-07:00",
+                "date_changed": "2022-10-30T23:14:10-07:00",
+                "num_for_sale": 0,
+                "lowest_price": null,
+                "master_id": 215367,
+                "master_url": "https:\/\/api.discogs.com\/masters\/215367",
+                "title": "Wizards (Music Of Other Memories)",
+                "country": "US",
+                "released": "1982",
+                "notes": "\u00a9 \u2117 1981 Daniel Emmanuel\r\n\u00a9 \u2117 North Star Productions 1982\r\n\r\nChrome Tape \/ \"Dolby C\/HX Pro\" on tape labels \/ \"DOLBY C\/PRO HX\" on front.\r\nTitle on front: Wizards (Music Of Other Memories). Title on spine and tape labels: Wizards.\r\nThis first cassette edition features the second edition LP cover design with newly added song titles.",
+                "released_formatted": "1982",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Minimal",
+                    "Ambient"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/W7hnaYx05NqP2xu3Gaf4cbU6XZmLr1lxdLUZtkpe4Ck\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQx\/Mi5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/W7hnaYx05NqP2xu3Gaf4cbU6XZmLr1lxdLUZtkpe4Ck\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQx\/Mi5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/gzmEwtqj4kLXOX1C3efgiL6B3hFN_NKdF0KGOQS_cgA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQx\/Mi5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/d1IhpdkSff3n9evE_wbqt7DtSNpLf0W1urnADkKB24U\/rs:fit\/g:sm\/q:90\/h:374\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQx\/Ny5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/d1IhpdkSff3n9evE_wbqt7DtSNpLf0W1urnADkKB24U\/rs:fit\/g:sm\/q:90\/h:374\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQx\/Ny5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/8Y7yMtTNYEU7txjlg60tpkeW7mCC_f9TKAVAGK0mPjc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQx\/Ny5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 374
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/0rs_8-5EGuJz2OCnL6Ru2g6qRgDr-pVVewMNNJeY8po\/rs:fit\/g:sm\/q:90\/h:370\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQy\/Mi5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/0rs_8-5EGuJz2OCnL6Ru2g6qRgDr-pVVewMNNJeY8po\/rs:fit\/g:sm\/q:90\/h:370\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQy\/Mi5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/3ynAgLmATArApJyedAnrRO-BCgXsFcshLNZ4lOPNR8U\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQy\/Mi5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 370
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/gzmEwtqj4kLXOX1C3efgiL6B3hFN_NKdF0KGOQS_cgA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDgx\/MzMtMTMwNjczODQx\/Mi5qcGVn.jpeg",
+                "estimated_weight": 65
+            },
+            {
+                "id": 31553,
+                "status": "Accepted",
+                "year": 1995,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/31553",
+                "uri": "https:\/\/www.discogs.com\/release\/31553-Various-Sixt",
+                "artists": [
+                    {
+                        "name": "Various",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 194,
+                        "resource_url": ""
+                    }
+                ],
+                "artists_sort": "Various",
+                "labels": [
+                    {
+                        "name": "Head In The Clouds",
+                        "catno": "H 001",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 4988,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/4988"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "descriptions": [
+                            "12\""
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 275,
+                    "want": 510,
+                    "rating": {
+                        "count": 64,
+                        "average": 4.31
+                    },
+                    "submitter": {
+                        "username": "Rend",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Rend"
+                    },
+                    "contributors": [
+                        {
+                            "username": "Rend",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Rend"
+                        },
+                        {
+                            "username": "mayday",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/mayday"
+                        },
+                        {
+                            "username": "beztyol",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/beztyol"
+                        },
+                        {
+                            "username": "mrformic",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/mrformic"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 2,
+                "date_added": "2002-04-19T09:38:11-07:00",
+                "date_changed": "2022-07-05T02:31:54-07:00",
+                "num_for_sale": 16,
+                "lowest_price": 12.5,
+                "master_id": 791868,
+                "master_url": "https:\/\/api.discogs.com\/masters\/791868",
+                "title": "Sixt",
+                "country": "US",
+                "released": "1995",
+                "released_formatted": "1995",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Techno",
+                    "House",
+                    "Acid"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/AFl3uiAZrrboPjxBtW2pxyOAMaMm9tHPdVlTIm7mxT8\/rs:fit\/g:sm\/q:90\/h:495\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyNDEu\/anBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/AFl3uiAZrrboPjxBtW2pxyOAMaMm9tHPdVlTIm7mxT8\/rs:fit\/g:sm\/q:90\/h:495\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyNDEu\/anBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/55kmKdmM_6zsTNHxgn9bKMW0FO34ktwR-WrVxWM9B_o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyNDEu\/anBlZw.jpeg",
+                        "width": 500,
+                        "height": 495
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/QXNO7x7n5iEYBNu4JM9H-YLTvxB1VGUyadqu23lbFNk\/rs:fit\/g:sm\/q:90\/h:501\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyNTgu\/anBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/QXNO7x7n5iEYBNu4JM9H-YLTvxB1VGUyadqu23lbFNk\/rs:fit\/g:sm\/q:90\/h:501\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyNTgu\/anBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/VR87BI1JuJrY-OhuS857O6GhKteMn6ZPwC6UOhat8HM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyNTgu\/anBlZw.jpeg",
+                        "width": 500,
+                        "height": 501
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/YAdQB2S5AluZMbQzs6Z7IV__qSh2I8g9bDkxkCNMRts\/rs:fit\/g:sm\/q:90\/h:501\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyOTku\/anBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/YAdQB2S5AluZMbQzs6Z7IV__qSh2I8g9bDkxkCNMRts\/rs:fit\/g:sm\/q:90\/h:501\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyOTku\/anBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/L6WlJZgmZJqqwijkfYNgJTYtgSyJRDnsMz2tTKs0PQU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyOTku\/anBlZw.jpeg",
+                        "width": 500,
+                        "height": 501
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/5FOgB2C-mwnSext5irW0-XDkYRxwjmL5U4SYk_gjOTc\/rs:fit\/g:sm\/q:90\/h:495\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIzMjAu\/anBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/5FOgB2C-mwnSext5irW0-XDkYRxwjmL5U4SYk_gjOTc\/rs:fit\/g:sm\/q:90\/h:495\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIzMjAu\/anBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/P6TobjrPeZz9VgJQQldQxbZwBL9QhxXGTHaXubxj6S4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIzMjAu\/anBlZw.jpeg",
+                        "width": 500,
+                        "height": 495
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/55kmKdmM_6zsTNHxgn9bKMW0FO34ktwR-WrVxWM9B_o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxNTUz\/LTEyMDkwNDIyNDEu\/anBlZw.jpeg",
+                "estimated_weight": 460
+            },
+            {
+                "id": 13410272,
+                "status": "Accepted",
+                "year": 2019,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/13410272",
+                "uri": "https:\/\/www.discogs.com\/release\/13410272-Octavio-Earnest-Lie",
+                "artists": [
+                    {
+                        "name": "Octavio Garabello",
+                        "anv": "Octavio",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 7066585,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/7066585"
+                    }
+                ],
+                "artists_sort": "Octavio Garabello",
+                "labels": [
+                    {
+                        "name": "Das Andere Selbst",
+                        "catno": "031",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 255646,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/255646"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Cassette",
+                        "qty": "1",
+                        "descriptions": [
+                            "Album"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 4,
+                    "want": 3,
+                    "rating": {
+                        "count": 1,
+                        "average": 5
+                    },
+                    "submitter": {
+                        "username": "dasandereselbst",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/dasandereselbst"
+                    },
+                    "contributors": [
+                        {
+                            "username": "dasandereselbst",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/dasandereselbst"
+                        },
+                        {
+                            "username": "senor_velasco",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/senor_velasco"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2019-03-27T01:58:21-07:00",
+                "date_changed": "2021-07-19T01:43:20-07:00",
+                "num_for_sale": 0,
+                "lowest_price": null,
+                "title": "Earnest Lie",
+                "country": "Germany",
+                "released": "2019-01-12",
+                "released_formatted": "12 Jan 2019",
+                "identifiers": [],
+                "genres": [
+                    "Pop"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/fDc3Npxh2rYR8nrDGkQLmD2gE6vNzk8yXFKSW7vyH0E\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNDEw\/MjcyLTE1NTM2Nzc0\/MTMtNDUzMi5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/fDc3Npxh2rYR8nrDGkQLmD2gE6vNzk8yXFKSW7vyH0E\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNDEw\/MjcyLTE1NTM2Nzc0\/MTMtNDUzMi5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/M14JJP2BO3l1CJa-cpfZeQwKVgcZDnsDCgA9R1NfGxk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNDEw\/MjcyLTE1NTM2Nzc0\/MTMtNDUzMi5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/h40obqjpZHt_jJxdg-L0XAduumC24HQ845v87hmEgHM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNDEw\/MjcyLTE1NTM2Nzc0\/NTktNTMwMS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/h40obqjpZHt_jJxdg-L0XAduumC24HQ845v87hmEgHM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNDEw\/MjcyLTE1NTM2Nzc0\/NTktNTMwMS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/9dQ3zr24-kyQCSX5WH20Ico7pyt83Sz5wmDjzbAPG58\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNDEw\/MjcyLTE1NTM2Nzc0\/NTktNTMwMS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/M14JJP2BO3l1CJa-cpfZeQwKVgcZDnsDCgA9R1NfGxk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNDEw\/MjcyLTE1NTM2Nzc0\/MTMtNDUzMi5qcGVn.jpeg",
+                "estimated_weight": 65
+            },
+            {
+                "id": 13862744,
+                "status": "Accepted",
+                "year": 2019,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/13862744",
+                "uri": "https:\/\/www.discogs.com\/release\/13862744-John-Di-Stefano-For-the-Moment",
+                "artists": [
+                    {
+                        "name": "John Di Stefano",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 697869,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/697869"
+                    }
+                ],
+                "artists_sort": "John Di Stefano",
+                "labels": [
+                    {
+                        "name": "Concentric Circles",
+                        "catno": "CC-003",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1513183,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/1513183"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Compilation"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 129,
+                    "want": 169,
+                    "rating": {
+                        "count": 18,
+                        "average": 4.39
+                    },
+                    "submitter": {
+                        "username": "jbindeman",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/jbindeman"
+                    },
+                    "contributors": [
+                        {
+                            "username": "jbindeman",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/jbindeman"
+                        },
+                        {
+                            "username": "moominmammaa",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/moominmammaa"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2019-07-10T15:53:30-07:00",
+                "date_changed": "2021-04-06T03:11:47-07:00",
+                "num_for_sale": 20,
+                "lowest_price": 6.25,
+                "title": "For the Moment",
+                "country": "US",
+                "released": "2019",
+                "notes": "A collection of barely-released and unreleased recordings from John Di Stefano, spanning the years 1982-1996.",
+                "released_formatted": "2019",
+                "identifiers": [],
+                "genres": [
+                    "Electronic",
+                    "Rock",
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Ambient",
+                    "Experimental",
+                    "Gamelan",
+                    "Post-Punk"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/_PtK_2JwImagzLBep9qoNlN66lC-OG86NXbCMPs4dDw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODYy\/NzQ0LTE1NjI3OTkz\/NjItMzI5Ni5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/_PtK_2JwImagzLBep9qoNlN66lC-OG86NXbCMPs4dDw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODYy\/NzQ0LTE1NjI3OTkz\/NjItMzI5Ni5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/7lt67RC9BmFeHhNmoXdIdASZ81TFYW8mkCctJcbE80c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODYy\/NzQ0LTE1NjI3OTkz\/NjItMzI5Ni5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/Ku007kBn9TT7hSZ8I-L0L7v3nc4qpfHU9gF53Ycaf70\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODYy\/NzQ0LTE1NjI3OTkz\/NjItODM2MC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/Ku007kBn9TT7hSZ8I-L0L7v3nc4qpfHU9gF53Ycaf70\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODYy\/NzQ0LTE1NjI3OTkz\/NjItODM2MC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/gVsTvSrIGSY_vgy2G-Kg3ACrYT4Bv-9YaW8WP5HS3QQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODYy\/NzQ0LTE1NjI3OTkz\/NjItODM2MC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/7lt67RC9BmFeHhNmoXdIdASZ81TFYW8mkCctJcbE80c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODYy\/NzQ0LTE1NjI3OTkz\/NjItMzI5Ni5qcGVn.jpeg",
+                "estimated_weight": 230
+            },
+            {
+                "id": 4684461,
+                "status": "Accepted",
+                "year": 2013,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/4684461",
+                "uri": "https:\/\/www.discogs.com\/release\/4684461-Los-Paranos-Living-On-A-Red-Line-83-86",
+                "artists": [
+                    {
+                        "name": "Los Paranos",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 528691,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/528691"
+                    }
+                ],
+                "artists_sort": "Los Paranos",
+                "labels": [
+                    {
+                        "name": "Vinyl-on-demand",
+                        "catno": "VOD115.2",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 21757,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/21757"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Compilation",
+                            "Limited Edition",
+                            "Numbered"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 71,
+                    "want": 100,
+                    "rating": {
+                        "count": 9,
+                        "average": 4.33
+                    },
+                    "submitter": {
+                        "username": "MILITANT_SOUL_Torino",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/MILITANT_SOUL_Torino"
+                    },
+                    "contributors": [
+                        {
+                            "username": "MILITANT_SOUL_Torino",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/MILITANT_SOUL_Torino"
+                        },
+                        {
+                            "username": "vamosadelante",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vamosadelante"
+                        },
+                        {
+                            "username": "tomkom",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/tomkom"
+                        },
+                        {
+                            "username": "ildjarn.is.dead",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/ildjarn.is.dead"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2013-06-25T04:07:54-07:00",
+                "date_changed": "2021-02-24T07:22:54-08:00",
+                "num_for_sale": 3,
+                "lowest_price": 17.71,
+                "title": "Living On A Red Line 83 \u2013 86",
+                "country": "Germany",
+                "released": "2013-06-00",
+                "notes": "Limited numbered Edition of 500 copies.",
+                "released_formatted": "Jun 2013",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Synth-pop",
+                    "Electro"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/jFqVKjmV8qBd-M7dXKIvauIb76FngBAHLBI9ied9zE4\/rs:fit\/g:sm\/q:90\/h:219\/w:216\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2ODQ0\/NjEtMTM3MjE1ODQ5\/NC03ODQxLmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/jFqVKjmV8qBd-M7dXKIvauIb76FngBAHLBI9ied9zE4\/rs:fit\/g:sm\/q:90\/h:219\/w:216\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2ODQ0\/NjEtMTM3MjE1ODQ5\/NC03ODQxLmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/5_F1RyjHsvJszOSg47Wk5XdrMxVBEnfVRz3CO3L_ScE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2ODQ0\/NjEtMTM3MjE1ODQ5\/NC03ODQxLmpwZWc.jpeg",
+                        "width": 216,
+                        "height": 219
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/5_F1RyjHsvJszOSg47Wk5XdrMxVBEnfVRz3CO3L_ScE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2ODQ0\/NjEtMTM3MjE1ODQ5\/NC03ODQxLmpwZWc.jpeg",
+                "estimated_weight": 230
+            },
+            {
+                "id": 16242645,
+                "status": "Accepted",
+                "year": 2020,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/16242645",
+                "uri": "https:\/\/www.discogs.com\/release\/16242645-Unknown-Artist-Mauritanian-Tapes-502-990",
+                "artists": [
+                    {
+                        "name": "Unknown Artist",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 355,
+                        "resource_url": ""
+                    }
+                ],
+                "artists_sort": "Unknown Artist",
+                "labels": [
+                    {
+                        "name": "Standard In-Fi",
+                        "catno": "std infi 30",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 220633,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/220633"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Cassette",
+                        "qty": "2"
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 6,
+                    "want": 17,
+                    "rating": {
+                        "count": 0,
+                        "average": 0
+                    },
+                    "submitter": {
+                        "username": "el_datsito",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/el_datsito"
+                    },
+                    "contributors": [
+                        {
+                            "username": "el_datsito",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/el_datsito"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        },
+                        {
+                            "username": "chn74",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/chn74"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 2,
+                "date_added": "2020-11-20T03:04:00-08:00",
+                "date_changed": "2021-01-28T06:51:28-08:00",
+                "num_for_sale": 0,
+                "lowest_price": null,
+                "title": "Mauritanian Tapes 502 \/ 990",
+                "country": "France",
+                "released": "2020-06-00",
+                "notes": "    ",
+                "released_formatted": "Jun 2020",
+                "identifiers": [],
+                "genres": [
+                    "Folk, World, & Country"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/Yp1DeupEiVLbinQGNQm3JWo3Mt3aW2KWVHvaUFaAOQM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjQy\/NjQ1LTE2MTE4NDUy\/NjUtNDIyNC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/Yp1DeupEiVLbinQGNQm3JWo3Mt3aW2KWVHvaUFaAOQM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjQy\/NjQ1LTE2MTE4NDUy\/NjUtNDIyNC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/c80jBur6bVfr_5BpT7EBs21vsq81mDql8ASfvWs8wbI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjQy\/NjQ1LTE2MTE4NDUy\/NjUtNDIyNC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/QEusqT3gkm3yPFHLtGTYoNzpaAcTE0auOkPkRt4f26E\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjQy\/NjQ1LTE2MTE4NDUy\/NjQtMzY5NS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/QEusqT3gkm3yPFHLtGTYoNzpaAcTE0auOkPkRt4f26E\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjQy\/NjQ1LTE2MTE4NDUy\/NjQtMzY5NS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/v0XzJ6mhiUIgtGU0UqHpH8E5CeCaoup1Ppj3ZrbRtC8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjQy\/NjQ1LTE2MTE4NDUy\/NjQtMzY5NS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/c80jBur6bVfr_5BpT7EBs21vsq81mDql8ASfvWs8wbI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjQy\/NjQ1LTE2MTE4NDUy\/NjUtNDIyNC5qcGVn.jpeg",
+                "estimated_weight": 130
+            },
+            {
+                "id": 900486,
+                "status": "Accepted",
+                "year": 1982,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/900486",
+                "uri": "https:\/\/www.discogs.com\/release\/900486-Stillife-Rubrica",
+                "artists": [
+                    {
+                        "name": "Stillife (3)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 742886,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/742886"
+                    }
+                ],
+                "artists_sort": "Stillife (3)",
+                "labels": [
+                    {
+                        "name": "Contagion Records",
+                        "catno": "EP-001",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 66654,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/66654"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "33 \u2153 RPM",
+                            "10\""
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 50,
+                    "want": 355,
+                    "rating": {
+                        "count": 16,
+                        "average": 4.88
+                    },
+                    "submitter": {
+                        "username": "EricLanzillotta",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/EricLanzillotta"
+                    },
+                    "contributors": [
+                        {
+                            "username": "EricLanzillotta",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/EricLanzillotta"
+                        },
+                        {
+                            "username": "Mister.Marken",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Mister.Marken"
+                        },
+                        {
+                            "username": "-yard-",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/-yard-"
+                        },
+                        {
+                            "username": "sodaknows",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/sodaknows"
+                        },
+                        {
+                            "username": "ElektraRecords",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/ElektraRecords"
+                        },
+                        {
+                            "username": "Same.Old.Me",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Same.Old.Me"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2007-02-06T17:55:08-08:00",
+                "date_changed": "2020-05-14T00:37:31-07:00",
+                "num_for_sale": 0,
+                "lowest_price": null,
+                "title": "Rubrica",
+                "country": "US",
+                "released": "1982",
+                "notes": "Special thanks to Mag City & Fredrick Nilsen.",
+                "released_formatted": "1982",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Experimental"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/njfx5em1OJVtkIohhdEBSJaQRgksPsIvHZ66lPWQTKI\/rs:fit\/g:sm\/q:90\/h:600\/w:589\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzM4\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/njfx5em1OJVtkIohhdEBSJaQRgksPsIvHZ66lPWQTKI\/rs:fit\/g:sm\/q:90\/h:600\/w:589\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzM4\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/GrguZ6wKaqTPK-cB4cv005IB89pwk-B41K-KjfUJTZo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzM4\/LmpwZWc.jpeg",
+                        "width": 589,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/Esk_HR3oTZXT4-V5Z2NBhYb23AKePIYi7rRIK6eHdSY\/rs:fit\/g:sm\/q:90\/h:600\/w:588\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzQ0\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/Esk_HR3oTZXT4-V5Z2NBhYb23AKePIYi7rRIK6eHdSY\/rs:fit\/g:sm\/q:90\/h:600\/w:588\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzQ0\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/giTj3UaX3bZ7NnUpWzgzRAShoobBjDeDiPOJK2YpMR4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzQ0\/LmpwZWc.jpeg",
+                        "width": 588,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/DsaOgQMGmo4DWm3cu-sWqn9LQM412YfeRNlvJyPYkB8\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzUx\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/DsaOgQMGmo4DWm3cu-sWqn9LQM412YfeRNlvJyPYkB8\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzUx\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/vyqDtThYvqXymffGVgvJmoz2g-RCluhhi45OWB1cotw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzUx\/LmpwZWc.jpeg",
+                        "width": 600,
+                        "height": 598
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/-VeNMjNN87j0owsofqX8nyBRthRA-pWaQ_WtbuTxl2c\/rs:fit\/g:sm\/q:90\/h:587\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzYw\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/-VeNMjNN87j0owsofqX8nyBRthRA-pWaQ_WtbuTxl2c\/rs:fit\/g:sm\/q:90\/h:587\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzYw\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/l60KRUhrD4z9pkeMFCoVwHmaJgIfXeHcOQyne3efZw0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzYw\/LmpwZWc.jpeg",
+                        "width": 600,
+                        "height": 587
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/GrguZ6wKaqTPK-cB4cv005IB89pwk-B41K-KjfUJTZo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDQ4\/Ni0xMjIyMTcyMzM4\/LmpwZWc.jpeg",
+                "estimated_weight": 135
+            },
+            {
+                "id": 948694,
+                "status": "Accepted",
+                "year": 1992,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/948694",
+                "uri": "https:\/\/www.discogs.com\/release\/948694-Spiritualized-Lazer-Guided-Melodies",
+                "artists": [
+                    {
+                        "name": "Spiritualized",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 3551,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/3551"
+                    }
+                ],
+                "artists_sort": "Spiritualized",
+                "labels": [
+                    {
+                        "name": "Dedicated",
+                        "catno": "DEDMC 004",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 863,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/863"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Cassette",
+                        "qty": "1",
+                        "descriptions": [
+                            "Album"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 73,
+                    "want": 144,
+                    "rating": {
+                        "count": 8,
+                        "average": 4.75
+                    },
+                    "submitter": {
+                        "username": "spacegirl3",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/spacegirl3"
+                    },
+                    "contributors": [
+                        {
+                            "username": "spacegirl3",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/spacegirl3"
+                        },
+                        {
+                            "username": "rhythmoflife.se",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/rhythmoflife.se"
+                        },
+                        {
+                            "username": "jaseywacey",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/jaseywacey"
+                        },
+                        {
+                            "username": "cardnotready",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/cardnotready"
+                        },
+                        {
+                            "username": "oceanographer",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/oceanographer"
+                        },
+                        {
+                            "username": "Pornflakes",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Pornflakes"
+                        },
+                        {
+                            "username": "hookedupsolid",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/hookedupsolid"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2007-05-01T00:13:45-07:00",
+                "date_changed": "2020-03-16T07:40:18-07:00",
+                "num_for_sale": 1,
+                "lowest_price": 72.92,
+                "master_id": 30278,
+                "master_url": "https:\/\/api.discogs.com\/masters\/30278",
+                "title": "Lazer Guided Melodies",
+                "country": "Europe",
+                "released": "1992-03-30",
+                "notes": "Original 16 track recordings at VHF Sound Centre, Rugby, November 1990.\r\nAdditional tracking at Moles Studio, Bath, May 1991.\r\nAngel Sigh recorded at Far Heath Studio, Northamptonshire, July 1991.\r\nMixed at Gooseberry Studio, London, Jan 1992.\r\n200 Bars & Symphony Space mixed at Comforts Place Studios, Jan 1992.\r\nBIEM\/GEMA\r\n",
+                "released_formatted": "30 Mar 1992",
+                "identifiers": [],
+                "genres": [
+                    "Electronic",
+                    "Rock"
+                ],
+                "styles": [
+                    "Psychedelic Rock",
+                    "Shoegaze",
+                    "Ambient"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/18Qm2FK6G7F0hFlAvxzrTHbtbT_Thj2zen9DRMpXHf8\/rs:fit\/g:sm\/q:90\/h:946\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTc0\/LTcyNDYuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/18Qm2FK6G7F0hFlAvxzrTHbtbT_Thj2zen9DRMpXHf8\/rs:fit\/g:sm\/q:90\/h:946\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTc0\/LTcyNDYuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/uReeYGlD7bdgl1oF5DshsMbciDkGNmMko60dTKyOto0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTc0\/LTcyNDYuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 946
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/-9lRL9H2eFcONlOqCaPapvbpHrLhOp3yYFAWSBsVPtk\/rs:fit\/g:sm\/q:90\/h:224\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTcx\/LTQ3NzEuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/-9lRL9H2eFcONlOqCaPapvbpHrLhOp3yYFAWSBsVPtk\/rs:fit\/g:sm\/q:90\/h:224\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTcx\/LTQ3NzEuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/yGEWoZQy7ez7SqkiONvv3KPLOgO-lUlC1QvXj9NVQvU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTcx\/LTQ3NzEuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 224
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/Lo-GDID2nt15uVNQE1jWHeCAJ4WIs24dUDIwdpXqH2M\/rs:fit\/g:sm\/q:90\/h:373\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTcy\/LTM3NTYuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/Lo-GDID2nt15uVNQE1jWHeCAJ4WIs24dUDIwdpXqH2M\/rs:fit\/g:sm\/q:90\/h:373\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTcy\/LTM3NTYuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/GtDyZVKVTDs2_PdH7P_cUQppivMDJNKgpUkGPFJrdRE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTcy\/LTM3NTYuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 373
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/Oddh64MfG1kChtlI-cxCX-tdeTxB1wQq9ax3pcXvybc\/rs:fit\/g:sm\/q:90\/h:361\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTc0\/LTExMTQuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/Oddh64MfG1kChtlI-cxCX-tdeTxB1wQq9ax3pcXvybc\/rs:fit\/g:sm\/q:90\/h:361\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTc0\/LTExMTQuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/trGTr4S313YsDoUQrb_S7vNpHbeJfTlq1yk0PD6FF9g\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTc0\/LTExMTQuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 361
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/XmiVIt04q5zTDxZvq9oLjgkaf8a_2TfIATUms0YIZNQ\/rs:fit\/g:sm\/q:90\/h:378\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTY3\/LTI5NzMuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/XmiVIt04q5zTDxZvq9oLjgkaf8a_2TfIATUms0YIZNQ\/rs:fit\/g:sm\/q:90\/h:378\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTY3\/LTI5NzMuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/j7rdNegNFD-LWgYaJpJMo8zUKUuHPiqQU9nTOV75X-4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTY3\/LTI5NzMuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 378
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/66Ab3LtBCyp6jgm5k4p3YubaXL1AcTMZjl5NIJDvwK0\/rs:fit\/g:sm\/q:90\/h:376\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTY3\/LTIyMzAuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/66Ab3LtBCyp6jgm5k4p3YubaXL1AcTMZjl5NIJDvwK0\/rs:fit\/g:sm\/q:90\/h:376\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTY3\/LTIyMzAuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/WNzMttCygnyY0aOW-HOJnLMYgeARQxFoWWPScjfp2ao\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTY3\/LTIyMzAuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 376
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/uReeYGlD7bdgl1oF5DshsMbciDkGNmMko60dTKyOto0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0ODY5\/NC0xNTczMjUxNTc0\/LTcyNDYuanBlZw.jpeg",
+                "estimated_weight": 65
+            },
+            {
+                "id": 14379400,
+                "status": "Accepted",
+                "year": 2019,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/14379400",
+                "uri": "https:\/\/www.discogs.com\/release\/14379400-Fi-Why-Not-NowAlan",
+                "artists": [
+                    {
+                        "name": "F\/i",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 94864,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/94864"
+                    }
+                ],
+                "artists_sort": "F\/i",
+                "labels": [
+                    {
+                        "name": "Sorcerer Records (2)",
+                        "catno": "SORC1002LP",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1381742,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/1381742"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Limited Edition",
+                            "Reissue"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 43,
+                    "want": 33,
+                    "rating": {
+                        "count": 1,
+                        "average": 5
+                    },
+                    "submitter": {
+                        "username": "GROOVEENT",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/GROOVEENT"
+                    },
+                    "contributors": [
+                        {
+                            "username": "GROOVEENT",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/GROOVEENT"
+                        },
+                        {
+                            "username": "pitje007",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/pitje007"
+                        },
+                        {
+                            "username": "fraserahrt",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/fraserahrt"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2019-11-09T14:05:48-08:00",
+                "date_changed": "2020-01-05T06:05:09-08:00",
+                "num_for_sale": 11,
+                "lowest_price": 22.21,
+                "master_id": 170704,
+                "master_url": "https:\/\/api.discogs.com\/masters\/170704",
+                "title": "Why Not Now?...Alan!",
+                "country": "US",
+                "released": "2019",
+                "notes": "Limited to 500 copies, comes with download code.",
+                "released_formatted": "2019",
+                "identifiers": [
+                    {
+                        "type": "Barcode",
+                        "value": "0742832924351"
+                    }
+                ],
+                "genres": [
+                    "Electronic",
+                    "Rock"
+                ],
+                "styles": [
+                    "Experimental",
+                    "Space Rock"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/U7s4iuFYa8bKhFw_UIw2w8coPawK1LxVhECZ5cO7xTc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0Mzc5\/NDAwLTE1NzQzMzM4\/NzYtMTY2MC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/U7s4iuFYa8bKhFw_UIw2w8coPawK1LxVhECZ5cO7xTc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0Mzc5\/NDAwLTE1NzQzMzM4\/NzYtMTY2MC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/G2aH7bj7AF7pIvskQZJYYBUZZsfT7f97mXyWUSpPbnk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0Mzc5\/NDAwLTE1NzQzMzM4\/NzYtMTY2MC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/G2aH7bj7AF7pIvskQZJYYBUZZsfT7f97mXyWUSpPbnk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0Mzc5\/NDAwLTE1NzQzMzM4\/NzYtMTY2MC5qcGVn.jpeg",
+                "estimated_weight": 230
+            },
+            {
+                "id": 716908,
+                "status": "Accepted",
+                "year": 1987,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/716908",
+                "uri": "https:\/\/www.discogs.com\/release\/716908-Fi-Why-Not-NowAlan",
+                "artists": [
+                    {
+                        "name": "F\/i",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 94864,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/94864"
+                    }
+                ],
+                "artists_sort": "F\/i",
+                "labels": [
+                    {
+                        "name": "RRRecords",
+                        "catno": "RRR 012",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 10867,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/10867"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 106,
+                    "want": 163,
+                    "rating": {
+                        "count": 12,
+                        "average": 4.58
+                    },
+                    "submitter": {
+                        "username": "Wackelpeter",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Wackelpeter"
+                    },
+                    "contributors": [
+                        {
+                            "username": "Wackelpeter",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Wackelpeter"
+                        },
+                        {
+                            "username": "jmoortga",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/jmoortga"
+                        },
+                        {
+                            "username": "PopMonster",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/PopMonster"
+                        },
+                        {
+                            "username": "pitje007",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/pitje007"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2006-06-25T21:13:46-07:00",
+                "date_changed": "2020-01-05T06:04:05-08:00",
+                "num_for_sale": 7,
+                "lowest_price": 16,
+                "master_id": 170704,
+                "master_url": "https:\/\/api.discogs.com\/masters\/170704",
+                "title": "Why Not Now?...Alan!",
+                "country": "US",
+                "released": "1987",
+                "released_formatted": "1987",
+                "identifiers": [],
+                "genres": [
+                    "Electronic",
+                    "Rock"
+                ],
+                "styles": [
+                    "Experimental",
+                    "Space Rock"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/fK8ZuT29Ve9clBxSbINfQ9fS_secV2C_EQABwEgOOJY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc3\/LTUxMjguanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/fK8ZuT29Ve9clBxSbINfQ9fS_secV2C_EQABwEgOOJY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc3\/LTUxMjguanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/HbFJ1LbzocVyzRfKht22MZGMx51RuCBKxFieRJUtYGs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc3\/LTUxMjguanBlZw.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/nvjiCR6s6PyXS91QZScM5c8YQo38Rq-Wj53eP7kDqvk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc4\/LTg0NDMuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/nvjiCR6s6PyXS91QZScM5c8YQo38Rq-Wj53eP7kDqvk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc4\/LTg0NDMuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/lI--FqlBtaZnmJPkwNHm7GAceik6QUh742phWWjuFko\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc4\/LTg0NDMuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/ue3B0ZRqjvK5qDdUYgfATIN-9i_mpsDlCpeEzVujge0\/rs:fit\/g:sm\/q:90\/h:619\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc4\/LTQ2OTcuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/ue3B0ZRqjvK5qDdUYgfATIN-9i_mpsDlCpeEzVujge0\/rs:fit\/g:sm\/q:90\/h:619\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc4\/LTQ2OTcuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/nzs33FunerW3jTHJwvOzYxHjaNpEX9A32Stw__GLGwQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc4\/LTQ2OTcuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 619
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/HbFJ1LbzocVyzRfKht22MZGMx51RuCBKxFieRJUtYGs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxNjkw\/OC0xNDk2NDE1OTc3\/LTUxMjguanBlZw.jpeg",
+                "estimated_weight": 230
+            },
+            {
+                "id": 11567497,
+                "status": "Accepted",
+                "year": 0,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/11567497",
+                "uri": "https:\/\/www.discogs.com\/release\/11567497-Ron-Shaw-And-The-The-Pickle-Factory-Tomorrows-Another-Day-Who-Will-Be-The-Next-In-Line",
+                "artists": [
+                    {
+                        "name": "Ron Shaw",
+                        "anv": "",
+                        "join": "And The",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1383052,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/1383052"
+                    },
+                    {
+                        "name": "The Pickle Factory (2)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 6406923,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/6406923"
+                    }
+                ],
+                "artists_sort": "Ron Shaw And The Pickle Factory (2), The",
+                "labels": [
+                    {
+                        "name": "Pacific Challenger",
+                        "catno": "PC-503",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 758797,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/758797"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 3,
+                    "want": 3,
+                    "rating": {
+                        "count": 0,
+                        "average": 0
+                    },
+                    "submitter": {
+                        "username": "retro-records",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/retro-records"
+                    },
+                    "contributors": [
+                        {
+                            "username": "retro-records",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/retro-records"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        },
+                        {
+                            "username": "Master_of_Sound",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Master_of_Sound"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2018-02-14T11:03:37-08:00",
+                "date_changed": "2019-06-02T07:28:58-07:00",
+                "num_for_sale": 4,
+                "lowest_price": 7.5,
+                "master_id": 1558272,
+                "master_url": "https:\/\/api.discogs.com\/masters\/1558272",
+                "title": "Tomorrow's Another Day \/ Who Will Be The Next In Line",
+                "country": "US",
+                "identifiers": [],
+                "genres": [
+                    "Pop",
+                    "Folk, World, & Country"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/wGsE8BMALh0JqCFHmjymhccIWgzQt6850iggQE9L_iE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTY3\/NDk3LTE1MTg2MzUw\/NDctNDYzNS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/wGsE8BMALh0JqCFHmjymhccIWgzQt6850iggQE9L_iE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTY3\/NDk3LTE1MTg2MzUw\/NDctNDYzNS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/g39bYjjBMGyVHw7TeFO6lrH35iw10mE3ZqypSsk_ZxA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTY3\/NDk3LTE1MTg2MzUw\/NDctNDYzNS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/LPwZyeiHrdsLOwPCyLd8G0NyzbRH-gzZNdi5ucjqEuc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTY3\/NDk3LTE1MTg2MzUw\/NDctMjc4Mi5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/LPwZyeiHrdsLOwPCyLd8G0NyzbRH-gzZNdi5ucjqEuc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTY3\/NDk3LTE1MTg2MzUw\/NDctMjc4Mi5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/6Onq_7WBtSlMHskHF9CkLr7A458loksaAOSlRiAHSyg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTY3\/NDk3LTE1MTg2MzUw\/NDctMjc4Mi5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/g39bYjjBMGyVHw7TeFO6lrH35iw10mE3ZqypSsk_ZxA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTY3\/NDk3LTE1MTg2MzUw\/NDctNDYzNS5qcGVn.jpeg",
+                "estimated_weight": 60
+            },
+            {
+                "id": 3651183,
+                "status": "Accepted",
+                "year": 1982,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/3651183",
+                "uri": "https:\/\/www.discogs.com\/release\/3651183-Goebbels-Harth-I-Dont-Bend-I-Never-Turn-Round",
+                "artists": [
+                    {
+                        "name": "Heiner Goebbels \/ Alfred Harth",
+                        "anv": "Goebbels \/ Harth",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 2832406,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/2832406"
+                    }
+                ],
+                "artists_sort": "Heiner Goebbels \/ Alfred Harth",
+                "labels": [
+                    {
+                        "name": "Marquee Moon",
+                        "catno": "M.M.0007",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 60696,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/60696"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Flexi-disc",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "Single Sided"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 16,
+                    "want": 41,
+                    "rating": {
+                        "count": 1,
+                        "average": 2
+                    },
+                    "submitter": {
+                        "username": "dadou",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/dadou"
+                    },
+                    "contributors": [
+                        {
+                            "username": "dadou",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/dadou"
+                        },
+                        {
+                            "username": "Mr.Slut",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Mr.Slut"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2012-06-05T09:19:36-07:00",
+                "date_changed": "2018-03-27T01:07:47-07:00",
+                "num_for_sale": 2,
+                "lowest_price": 15.76,
+                "title": "I Don't Bend, I Never Turn Round",
+                "country": "Japan",
+                "released": "1982",
+                "released_formatted": "1982",
+                "identifiers": [],
+                "genres": [
+                    "Electronic",
+                    "Jazz"
+                ],
+                "styles": [
+                    "Experimental"
+                ],
+                "images": [
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/cfv-_ciQzRkI5ZsUnTMBhfb7cQQFVUxAlo7LNMpMaws\/rs:fit\/g:sm\/q:90\/h:225\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2NTEx\/ODMtMTMzODkxMzA3\/OC05NjQwLmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/cfv-_ciQzRkI5ZsUnTMBhfb7cQQFVUxAlo7LNMpMaws\/rs:fit\/g:sm\/q:90\/h:225\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2NTEx\/ODMtMTMzODkxMzA3\/OC05NjQwLmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/ykPir23WFC_yNdRKy52cImalGczyYjkL3n8Ud0rFyDE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2NTEx\/ODMtMTMzODkxMzA3\/OC05NjQwLmpwZWc.jpeg",
+                        "width": 300,
+                        "height": 225
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/ykPir23WFC_yNdRKy52cImalGczyYjkL3n8Ud0rFyDE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2NTEx\/ODMtMTMzODkxMzA3\/OC05NjQwLmpwZWc.jpeg",
+                "estimated_weight": 10
+            },
+            {
+                "id": 5686104,
+                "status": "Accepted",
+                "year": 2014,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/5686104",
+                "uri": "https:\/\/www.discogs.com\/release\/5686104-Safe-House-Region-VI",
+                "artists": [
+                    {
+                        "name": "Safe House",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 252421,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/252421"
+                    }
+                ],
+                "artists_sort": "Safe House",
+                "labels": [
+                    {
+                        "name": "Vitrine",
+                        "catno": "VT03",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 624144,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/624144"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Cassette",
+                        "qty": "1"
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 40,
+                    "want": 51,
+                    "rating": {
+                        "count": 10,
+                        "average": 4.8
+                    },
+                    "submitter": {
+                        "username": "gnebrll",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/gnebrll"
+                    },
+                    "contributors": [
+                        {
+                            "username": "gnebrll",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/gnebrll"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2014-05-12T06:44:20-07:00",
+                "date_changed": "2016-06-06T01:33:00-07:00",
+                "num_for_sale": 2,
+                "lowest_price": 24,
+                "title": "Region VI",
+                "country": "US",
+                "released": "2014",
+                "notes": "K. DePetris\r\nS. English\r\n\r\nFebruary. 2014",
+                "released_formatted": "2014",
+                "identifiers": [],
+                "genres": [
+                    "Electronic",
+                    "Rock"
+                ],
+                "styles": [
+                    "Experimental",
+                    "Post-Punk",
+                    "Industrial"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/a8SsCJkMaJaNEjEA20P0yadtOQJu9kGk_pUo8_gjBlk\/rs:fit\/g:sm\/q:90\/h:600\/w:377\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU2ODYx\/MDQtMTM5OTkwMzQ1\/MC0zMjM0LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/a8SsCJkMaJaNEjEA20P0yadtOQJu9kGk_pUo8_gjBlk\/rs:fit\/g:sm\/q:90\/h:600\/w:377\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU2ODYx\/MDQtMTM5OTkwMzQ1\/MC0zMjM0LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/jLvbi9u6ypHUPACH8sNB7TRBhj4t7irFwR5DVI7w7ZE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU2ODYx\/MDQtMTM5OTkwMzQ1\/MC0zMjM0LmpwZWc.jpeg",
+                        "width": 377,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/jLvbi9u6ypHUPACH8sNB7TRBhj4t7irFwR5DVI7w7ZE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU2ODYx\/MDQtMTM5OTkwMzQ1\/MC0zMjM0LmpwZWc.jpeg",
+                "estimated_weight": 65
+            },
+            {
+                "id": 1139579,
+                "status": "Accepted",
+                "year": 2007,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/1139579",
+                "uri": "https:\/\/www.discogs.com\/release\/1139579-Scaff-Aparatus-Periodic-Fluctuations-Of-Voltages",
+                "artists": [
+                    {
+                        "name": "Scaff",
+                        "anv": "",
+                        "join": "&",
+                        "role": "",
+                        "tracks": "",
+                        "id": 464486,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/464486"
+                    },
+                    {
+                        "name": "Aparatus",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 966650,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/966650"
+                    }
+                ],
+                "artists_sort": "Scaff & Aparatus",
+                "labels": [
+                    {
+                        "name": "Kontra-Musik",
+                        "catno": "KM006",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 60709,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/60709"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "12\""
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 105,
+                    "want": 47,
+                    "rating": {
+                        "count": 20,
+                        "average": 4.1
+                    },
+                    "submitter": {
+                        "username": "Tribaltek",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Tribaltek"
+                    },
+                    "contributors": [
+                        {
+                            "username": "Tribaltek",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Tribaltek"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        },
+                        {
+                            "username": "disruptive-influence",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/disruptive-influence"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2008-03-13T04:33:04-07:00",
+                "date_changed": "2014-04-20T00:47:47-07:00",
+                "num_for_sale": 10,
+                "lowest_price": 4.17,
+                "master_id": 678206,
+                "master_url": "https:\/\/api.discogs.com\/masters\/678206",
+                "title": "Periodic Fluctuations Of Voltages",
+                "country": "Sweden",
+                "released": "2007-11-07",
+                "released_formatted": "07 Nov 2007",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Dub Techno",
+                    "Tech House"
+                ],
+                "images": [
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/zbeZl2tJ6AelhmIrB8loIbzcdVFuB0h21iJQaUs_LF8\/rs:fit\/g:sm\/q:90\/h:359\/w:365\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMzk1\/NzktMTE5NTIzNTg4\/NC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/zbeZl2tJ6AelhmIrB8loIbzcdVFuB0h21iJQaUs_LF8\/rs:fit\/g:sm\/q:90\/h:359\/w:365\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMzk1\/NzktMTE5NTIzNTg4\/NC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/02vDBF0yHW25REPctXer0Yt94_36tamJ9QwYPXcFoPY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMzk1\/NzktMTE5NTIzNTg4\/NC5qcGVn.jpeg",
+                        "width": 365,
+                        "height": 359
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/02vDBF0yHW25REPctXer0Yt94_36tamJ9QwYPXcFoPY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMzk1\/NzktMTE5NTIzNTg4\/NC5qcGVn.jpeg",
+                "estimated_weight": 230
+            },
+            {
+                "id": 1913072,
+                "status": "Accepted",
+                "year": 2009,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/1913072",
+                "uri": "https:\/\/www.discogs.com\/release\/1913072-300-Degrees-Mobile-Music-EP",
+                "artists": [
+                    {
+                        "name": "300 Degrees",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1558496,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/1558496"
+                    }
+                ],
+                "artists_sort": "300 Degrees",
+                "labels": [
+                    {
+                        "name": "Napalm Enema Records",
+                        "catno": "NER038",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 99743,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/99743"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "File",
+                        "qty": "4",
+                        "text": "320 kbps",
+                        "descriptions": [
+                            "MP3",
+                            "EP"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 8,
+                    "want": 4,
+                    "rating": {
+                        "count": 3,
+                        "average": 5
+                    },
+                    "submitter": {
+                        "username": "Pitbulle",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Pitbulle"
+                    },
+                    "contributors": [
+                        {
+                            "username": "Pitbulle",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Pitbulle"
+                        },
+                        {
+                            "username": "Hwertu_",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Hwertu_"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 0,
+                "date_added": "2009-09-04T00:31:18-07:00",
+                "date_changed": "2010-02-05T06:11:09-08:00",
+                "num_for_sale": 0,
+                "lowest_price": null,
+                "title": "Mobile Music EP",
+                "country": "Canada",
+                "released": "2009-08-30",
+                "released_formatted": "30 Aug 2009",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Acid House",
+                    "Techno",
+                    "Deep House"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/k4mMijegA-rsHL8s7bJXgtjwGJpZBTkUQXEhRv0BJvQ\/rs:fit\/g:sm\/q:90\/h:595\/w:595\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTMw\/NzItMTI1MjA0OTE5\/OC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/k4mMijegA-rsHL8s7bJXgtjwGJpZBTkUQXEhRv0BJvQ\/rs:fit\/g:sm\/q:90\/h:595\/w:595\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTMw\/NzItMTI1MjA0OTE5\/OC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/t1lxIWtccqll4m_DIUfLAPgpAdEh02gezUz9xu3N91A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTMw\/NzItMTI1MjA0OTE5\/OC5qcGVn.jpeg",
+                        "width": 595,
+                        "height": 595
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/t1lxIWtccqll4m_DIUfLAPgpAdEh02gezUz9xu3N91A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTMw\/NzItMTI1MjA0OTE5\/OC5qcGVn.jpeg"
+            },
+            {
+                "id": 1549975,
+                "status": "Accepted",
+                "year": 2008,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/1549975",
+                "uri": "https:\/\/www.discogs.com\/release\/1549975-Various-Digital-Freak",
+                "artists": [
+                    {
+                        "name": "Various",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 194,
+                        "resource_url": ""
+                    }
+                ],
+                "artists_sort": "Various",
+                "labels": [
+                    {
+                        "name": "Hi Freaks",
+                        "catno": "HIFR001D",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 66137,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/66137"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "File",
+                        "qty": "1",
+                        "text": "320 kbps",
+                        "descriptions": [
+                            "MP3",
+                            "Compilation"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 5,
+                    "want": 1,
+                    "rating": {
+                        "count": 1,
+                        "average": 5
+                    },
+                    "submitter": {
+                        "username": "rico_puestel",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/rico_puestel"
+                    },
+                    "contributors": [
+                        {
+                            "username": "rico_puestel",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/rico_puestel"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 0,
+                "date_added": "2008-11-26T01:58:56-08:00",
+                "date_changed": "2009-06-22T15:50:25-07:00",
+                "num_for_sale": 0,
+                "lowest_price": null,
+                "title": "Digital Freak",
+                "country": "Germany",
+                "released": "2008-11-26",
+                "notes": "Catalog# for Juno: HIFR001DJU\r\nCatalog# for Beatport: HIFR001DB\n",
+                "released_formatted": "26 Nov 2008",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Minimal",
+                    "Tech House"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/MKX0jbol1_RXXxApON9I4R8ToaJMJSGkTe25-UScDxI\/rs:fit\/g:sm\/q:90\/h:400\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDk5\/NzUtMTIyNzY5MzU2\/MC5naWY.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/MKX0jbol1_RXXxApON9I4R8ToaJMJSGkTe25-UScDxI\/rs:fit\/g:sm\/q:90\/h:400\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDk5\/NzUtMTIyNzY5MzU2\/MC5naWY.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/Hf640HVyb9ZP9KmCo1BkiDqYtDO-00XbPjXHDbzJLdE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDk5\/NzUtMTIyNzY5MzU2\/MC5naWY.jpeg",
+                        "width": 400,
+                        "height": 400
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/Hf640HVyb9ZP9KmCo1BkiDqYtDO-00XbPjXHDbzJLdE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDk5\/NzUtMTIyNzY5MzU2\/MC5naWY.jpeg"
+            },
+            {
+                "id": 1031977,
+                "status": "Accepted",
+                "year": 2007,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/1031977",
+                "uri": "https:\/\/www.discogs.com\/release\/1031977-Mood-Engineering-Trust-EP",
+                "artists": [
+                    {
+                        "name": "Mood Engineering",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 868432,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/868432"
+                    }
+                ],
+                "artists_sort": "Mood Engineering",
+                "labels": [
+                    {
+                        "name": "Sound Architecture",
+                        "catno": "SA005",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 21892,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/21892"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "12\"",
+                            "EP"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 130,
+                    "want": 40,
+                    "rating": {
+                        "count": 20,
+                        "average": 4.45
+                    },
+                    "submitter": {
+                        "username": "erickdewit",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/erickdewit"
+                    },
+                    "contributors": [
+                        {
+                            "username": "erickdewit",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/erickdewit"
+                        },
+                        {
+                            "username": "maxxyme",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/maxxyme"
+                        },
+                        {
+                            "username": "vdq",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2007-08-30T01:36:52-07:00",
+                "date_changed": "2009-04-22T02:07:58-07:00",
+                "num_for_sale": 15,
+                "lowest_price": 2.86,
+                "title": "Trust EP",
+                "country": "Netherlands",
+                "released": "2007-07-00",
+                "notes": "Licensing and copyright by Sound Architecture Records.",
+                "released_formatted": "Jul 2007",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Techno",
+                    "Minimal",
+                    "Tech House",
+                    "Acid"
+                ],
+                "images": [
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/7IUy4m9_77fZ_DqSqf1yiukVE9ge5UxUH-Cw81e9j7E\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzE5\/NzctMTE4ODUwMTQ5\/OS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/7IUy4m9_77fZ_DqSqf1yiukVE9ge5UxUH-Cw81e9j7E\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzE5\/NzctMTE4ODUwMTQ5\/OS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/8j6fSfY1GF733_hrtFXzEHKNZYq2nGuGI7vwDni_aa8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzE5\/NzctMTE4ODUwMTQ5\/OS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/RPa2rPnacs2-ScBFeoxLTrnAKCNKLZ-H11DfaPLnjvo\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzE5\/NzctMTE4ODUwMTU3\/MS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/RPa2rPnacs2-ScBFeoxLTrnAKCNKLZ-H11DfaPLnjvo\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzE5\/NzctMTE4ODUwMTU3\/MS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/pt7aGrzDFf6SczBs_zy7NdFqN7XgDeWtcw0Sm1eU8v8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzE5\/NzctMTE4ODUwMTU3\/MS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 602
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/8j6fSfY1GF733_hrtFXzEHKNZYq2nGuGI7vwDni_aa8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzE5\/NzctMTE4ODUwMTQ5\/OS5qcGVn.jpeg",
+                "estimated_weight": 230
+            }
+        ],
+        "artists": [
+            {
+                "name": "Marius Stavaris",
+                "id": 4572631,
+                "resource_url": "https:\/\/api.discogs.com\/artists\/4572631",
+                "uri": "https:\/\/www.discogs.com\/artist\/4572631-Marius-Stavaris",
+                "releases_url": "https:\/\/api.discogs.com\/artists\/4572631\/releases",
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/uWKWct_71IyVxheZKBqReabKLAZnGhxRXvX-kgDaZXQ\/rs:fit\/g:sm\/q:90\/h:614\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ1NzI2\/MzEtMTU2NDY1NzE3\/MS0xMzk1LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/uWKWct_71IyVxheZKBqReabKLAZnGhxRXvX-kgDaZXQ\/rs:fit\/g:sm\/q:90\/h:614\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ1NzI2\/MzEtMTU2NDY1NzE3\/MS0xMzk1LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/DnaO3lLF9ZQu3j3L-roijn5l-_5rTAwQRE4_MlGsXMI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ1NzI2\/MzEtMTU2NDY1NzE3\/MS0xMzk1LmpwZWc.jpeg",
+                        "width": 600,
+                        "height": 614
+                    }
+                ],
+                "profile": "",
+                "namevariations": [
+                    "Stavaris"
+                ],
+                "groups": [
+                    "Darbo D\u017eiaugsmai",
+                    "Tytia Mina Teremina",
+                    "Verslo Rizikos Rezervas"
+                ],
+                "data_quality": "Needs Vote"
+            },
+            {
+                "name": "Nana",
+                "id": 31796,
+                "resource_url": "https:\/\/api.discogs.com\/artists\/31796",
+                "uri": "https:\/\/www.discogs.com\/artist\/31796-Nana",
+                "releases_url": "https:\/\/api.discogs.com\/artists\/31796\/releases",
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/tzNtA4ciuOFVoG5H_bD-1uPrdDW0N9NXBPhVF5JZZaY\/rs:fit\/g:sm\/q:90\/h:743\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMxNzk2\/LTExMzMxMjU5NTQu\/anBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/tzNtA4ciuOFVoG5H_bD-1uPrdDW0N9NXBPhVF5JZZaY\/rs:fit\/g:sm\/q:90\/h:743\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMxNzk2\/LTExMzMxMjU5NTQu\/anBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/DUrFLwJNUC7Wswbi6MEM7jbwXTafels33sw6E-T-bZs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMxNzk2\/LTExMzMxMjU5NTQu\/anBlZw.jpeg",
+                        "width": 600,
+                        "height": 743
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/eWE02K5EOWtoo27ZkwA3aBwlFpQMoahp4JCuuhJkU8Q\/rs:fit\/g:sm\/q:90\/h:742\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMxNzk2\/LTEyODMyNTQxMjku\/anBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/eWE02K5EOWtoo27ZkwA3aBwlFpQMoahp4JCuuhJkU8Q\/rs:fit\/g:sm\/q:90\/h:742\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMxNzk2\/LTEyODMyNTQxMjku\/anBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/PDpoOgTIfFSlMKGnP55bxZc-OHqOFmXeZLBaSK8HQVk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMxNzk2\/LTEyODMyNTQxMjku\/anBlZw.jpeg",
+                        "width": 600,
+                        "height": 742
+                    }
+                ],
+                "realname": "Nana Ahaasa Asante",
+                "profile": "UK Garage artist.",
+                "urls": [
+                    "http:\/\/www.myspace.com\/nanamusic"
+                ],
+                "namevariations": [
+                    "Na Na",
+                    "Nay Nay"
+                ],
+                "aliases": [
+                    "Nana Asante"
+                ],
+                "data_quality": "Needs Vote"
+            },
+            {
+                "name": "Xyramat",
+                "id": 141194,
+                "resource_url": "https:\/\/api.discogs.com\/artists\/141194",
+                "uri": "https:\/\/www.discogs.com\/artist\/141194-Xyramat",
+                "releases_url": "https:\/\/api.discogs.com\/artists\/141194\/releases",
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/Y8jfyprTfxcAiHdUlSj6VAhlOETlvdfP-N6GFhbm9Ms\/rs:fit\/g:sm\/q:90\/h:849\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xNTc3NjE1ODU4\/LTc0MTUuanBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/Y8jfyprTfxcAiHdUlSj6VAhlOETlvdfP-N6GFhbm9Ms\/rs:fit\/g:sm\/q:90\/h:849\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xNTc3NjE1ODU4\/LTc0MTUuanBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/Muyg3BZNaNzGsbrqUWVKaiP9IRnBYwd2pXo_EsDWoi8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xNTc3NjE1ODU4\/LTc0MTUuanBlZw.jpeg",
+                        "width": 600,
+                        "height": 849
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/v0DqKwgUTW889sjf2hp0AF5fMICQG8dWB4wEsXbr45I\/rs:fit\/g:sm\/q:90\/h:600\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xMTY2NDA0NTcx\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/v0DqKwgUTW889sjf2hp0AF5fMICQG8dWB4wEsXbr45I\/rs:fit\/g:sm\/q:90\/h:600\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xMTY2NDA0NTcx\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/Vy64BNEPNemPYoZF58dqt-9XWYd0KzpzgQzx5TtTACo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xMTY2NDA0NTcx\/LmpwZWc.jpeg",
+                        "width": 450,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/i-iTXcV2FONBEIQ-9Zys4zUfoXNFPi2hHpwbF-Vlc7w\/rs:fit\/g:sm\/q:90\/h:536\/w:376\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xMTU2MzIzNTM5\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/i-iTXcV2FONBEIQ-9Zys4zUfoXNFPi2hHpwbF-Vlc7w\/rs:fit\/g:sm\/q:90\/h:536\/w:376\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xMTU2MzIzNTM5\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/RIQbSKEa4uLsWkv4-PuugsaYGL0_-SBmCTiif0PpDPU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE0MTE5\/NC0xMTU2MzIzNTM5\/LmpwZWc.jpeg",
+                        "width": 376,
+                        "height": 536
+                    }
+                ],
+                "realname": "D\u00f6rte Marth",
+                "profile": "Electronic\/experimental artist from Germany who was active since the early 80s.",
+                "urls": [
+                    "http:\/\/www.xyramat.de",
+                    "http:\/\/myspace.com\/xyramat ",
+                    "http:\/\/www.electronic-ladiez.net\/artists\/xyramat.php"
+                ],
+                "aliases": [
+                    "D\u00f6rte Marth",
+                    "MAAT"
+                ],
+                "data_quality": "Needs Vote"
+            }
+        ],
+        "labels": []
+    }
+}

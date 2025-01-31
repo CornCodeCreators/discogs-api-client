@@ -1,0 +1,32 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 1,
+        "urls": []
+    },
+    "releases": [
+        {
+            "status": "Accepted",
+            "format": "12\"",
+            "catno": "fs1",
+            "thumb": "https:\/\/i.discogs.com\/tyibWzT9CAjizRHnvKXpstLMilI3g6h9stpsJEZiFkA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMTAt\/MTM5Mzk1MTc1NS00\/NDAyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1310",
+            "title": "Original Melancholy",
+            "id": 1310,
+            "year": 2000,
+            "artist": "Russ Gabriel",
+            "stats": {
+                "community": {
+                    "in_wantlist": 94,
+                    "in_collection": 90
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

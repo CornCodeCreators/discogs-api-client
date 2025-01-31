@@ -1,0 +1,289 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 2000,
+        "per_page": 5,
+        "items": 469883,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=id&per_page=5&type=release&page=2000",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=id&per_page=5&type=release&page=2"
+        }
+    },
+    "results": [
+        {
+            "country": "Germany",
+            "year": "2011",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "EP",
+                "45 RPM",
+                "Limited Edition"
+            ],
+            "label": [
+                "Raster-Noton"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Minimal",
+                "Experimental"
+            ],
+            "id": 2799928,
+            "barcode": [
+                "4260115999279"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "\/Cyclo-Id\/release\/2799928",
+            "catno": "r-n127-2",
+            "title": "Cyclo. - Id",
+            "thumb": "https:\/\/i.discogs.com\/APgzfNbtMd9jfh-Pqi2hRo2kuiRwFzb4-j3kSO0giis\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3OTk5\/MjgtMTMwMTU4OTcw\/NS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/Opv-c_KSF8Lkr-XTb5o9UsToFJ5RNaGVM9qGQa2Em8Q\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3OTk5\/MjgtMTMwMTU4OTcw\/NS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/2799928",
+            "community": {
+                "want": 141,
+                "have": 293
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "White",
+                    "descriptions": [
+                        "12\"",
+                        "EP",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Germany",
+            "year": "2011",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Raster-Noton",
+                "Raster-Noton",
+                "MPO",
+                "MPO"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Glitch",
+                "Abstract",
+                "Experimental"
+            ],
+            "id": 2744653,
+            "barcode": [
+                "4 260115 991273",
+                "lc 01293",
+                "CA RN127 @@",
+                "IFPI LY88",
+                "IFPI 1288"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 315557,
+            "master_url": "https:\/\/api.discogs.com\/masters\/315557",
+            "uri": "\/release\/2744653-Cyclo-Id",
+            "catno": "r-n 127",
+            "title": "Cyclo. - Id",
+            "thumb": "https:\/\/i.discogs.com\/MfYQPRkHMkCMJ2Kvc6O5kcv4d_Mom6_nPZN7ENzpi1Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3NDQ2\/NTMtMTI5OTY3MzY0\/OS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/WNuLBZxe4gA9eJZzeZVjJHR-iuMlSuW0o6ubEAgH9Q0\/rs:fit\/g:sm\/q:90\/h:540\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3NDQ2\/NTMtMTI5OTY3MzY0\/OS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/2744653",
+            "community": {
+                "want": 101,
+                "have": 294
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Poland",
+            "year": "1992",
+            "format": [
+                "Vinyl",
+                "EP",
+                "7\"",
+                "33 \u2153 RPM"
+            ],
+            "label": [
+                "Flabby Records",
+                "Malarie Records",
+                "Gold Rock Studio"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Punk"
+            ],
+            "id": 3397546,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "\/release\/3397546-ID-ID",
+            "catno": "003",
+            "title": "I.D.* - ID",
+            "thumb": "https:\/\/i.discogs.com\/V_7rBdgd7YSrzYBV19GVnGS73enU2YpM8WM7bsSUu3Q\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzOTc1\/NDYtMTY4Mjk4MjIy\/Ni03MDM2LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/PGQZ_Ub6gvtrwA9gIV_cLTzqvNlurkkhR06gvLmjENY\/rs:fit\/g:sm\/q:90\/h:609\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzOTc1\/NDYtMTY4Mjk4MjIy\/Ni03MDM2LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/3397546",
+            "community": {
+                "want": 47,
+                "have": 39
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "EP",
+                        "7\"",
+                        "33 \u2153 RPM"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "1967",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "RCA Victor",
+                "RCA",
+                "RCA Records Pressing Plant, Indianapolis"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock",
+                "Pop"
+            ],
+            "style": [
+                "Psychedelic Rock"
+            ],
+            "id": 2142721,
+            "barcode": [
+                "UPRS-8241--1S \u2160 \u039b2",
+                "UPRS-8242--4S \u039b1 \u2160"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 236498,
+            "master_url": "https:\/\/api.discogs.com\/masters\/236498",
+            "uri": "\/release\/2142721-The-Id-The-Inner-Sounds-Of-The-Id",
+            "catno": "LSP 3805",
+            "title": "The Id (3) - The Inner Sounds Of The Id",
+            "thumb": "https:\/\/i.discogs.com\/J3km-d2S05R87n7Z10-KqCtVcqabKbzX9G6zC0a876g\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNDI3\/MjEtMTM4MDI3MTU4\/NC03NzAyLmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/dpfjhYMsja3zt1K3Vlu6KGvJr2juTB_dmX-j91T_9HM\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNDI3\/MjEtMTM4MDI3MTU4\/NC03NzAyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/2142721",
+            "community": {
+                "want": 336,
+                "have": 306
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Indianapolis Pressing",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Stereo"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "1998",
+            "format": [
+                "Vinyl",
+                "7\"",
+                "Limited Edition",
+                "33 \u2153 RPM"
+            ],
+            "label": [
+                "Crackpipe Records"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grindcore"
+            ],
+            "id": 1350061,
+            "barcode": [
+                "ID A R-17801",
+                "ID B R-17802"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "\/id-id\/release\/1350061",
+            "catno": "CPR#2",
+            "title": "id. - id.",
+            "thumb": "https:\/\/i.discogs.com\/bR9t4Urt-xRFUPNhGwNraq93S14JCbIsRdPu-Zkn5So\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNTAw\/NjEtMTIxMTg1MzEx\/OS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/J3Rx4LbSc222UvG5jwSNKytnnevjXCZgTW686lGa27Q\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNTAw\/NjEtMTIxMTg1MzEx\/OS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1350061",
+            "community": {
+                "want": 20,
+                "have": 59
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "7\"",
+                        "Limited Edition",
+                        "33 \u2153 RPM"
+                    ]
+                }
+            ]
+        }
+    ]
+}

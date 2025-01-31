@@ -1,0 +1,89 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 806,
+        "per_page": 5,
+        "items": 4027,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=aut&per_page=5&type=artist&page=806",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=aut&per_page=5&type=artist&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 677697,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/677697-AutChose",
+            "title": "Aut'Chose",
+            "thumb": "https:\/\/i.discogs.com\/BNvdhzmf4XUDzVk3pqWyy3Xv_9w9UZFC_1X-0tgm7Vs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTY3NzY5\/Ny0xNTcxNDI3NzQx\/LTMwNDcuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/fMWYSlAZ1i72TBPOskslwPjEsyVOYCt-UF14WAleMXk\/rs:fit\/g:sm\/q:90\/h:397\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTY3NzY5\/Ny0xNTcxNDI3NzQx\/LTMwNDcuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/677697"
+        },
+        {
+            "id": 2176477,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/2176477-Aut-Aut-2",
+            "title": "Aut Aut (2)",
+            "thumb": "https:\/\/i.discogs.com\/odJ9NdPeygK1GQAnE0DWlkO3w3PmLtqspCXf-ismVaQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIxNzY0\/NzctMTQyNDE2OTI1\/OC05NTI0LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/sFCpvT7In48SeizUeApul6h4cFryInV1UsdH0zPgssw\/rs:fit\/g:sm\/q:90\/h:721\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIxNzY0\/NzctMTQyNDE2OTI1\/OC05NTI0LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2176477"
+        },
+        {
+            "id": 667606,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/667606-Aut-Aut",
+            "title": "Aut Aut",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/667606"
+        },
+        {
+            "id": 41,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/41-Autechre",
+            "title": "Autechre",
+            "thumb": "https:\/\/i.discogs.com\/81dl5Lj_RRLTbcPr7tCkiHQV-dzJpOjf6OAhY7tXMpQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQxLTE2\/MDAyOTU3NTEtNzg0\/Mi5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/yS9onBChwe-bOF1WJlK54D2oP1zxlaookMsdO6gKuGw\/rs:fit\/g:sm\/q:90\/h:465\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQxLTE2\/MDAyOTU3NTEtNzg0\/Mi5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/41"
+        },
+        {
+            "id": 5154856,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/5154856-AUT2M",
+            "title": "AUT2M",
+            "thumb": "https:\/\/i.discogs.com\/LZH0oItErI-2xIF5-ttSnap-l8KD9IcTzIyaleu8g6M\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUxNTQ4\/NTYtMTU2Njc0NjY0\/MS0yNzIwLnBuZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/oX_lVPr7w0sqpBhk1LDZIfPifNB0wmbQRlAtNngAi3Y\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUxNTQ4\/NTYtMTU2Njc0NjY0\/MS0yNzIwLnBuZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/5154856"
+        }
+    ]
+}

@@ -1,0 +1,1019 @@
+{
+    "id": 5967,
+    "status": "Accepted",
+    "year": 2000,
+    "resource_url": "https:\/\/api.discogs.com\/releases\/5967",
+    "uri": "https:\/\/www.discogs.com\/release\/5967-Various-Rollcage-Stage-II-The-Soundtrack",
+    "artists": [
+        {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/194"
+        }
+    ],
+    "artists_sort": "Various",
+    "labels": [
+        {
+            "name": "Moving Shadow",
+            "catno": "ASHADOW 23 LP",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 123,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/123",
+            "thumbnail_url": "https:\/\/i.discogs.com\/1gaWtq0fbsx6TlKUoeY2EA526XneTwAFT_rtNfuxzpg\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEyMy0x\/NjM4Mjk2MzYzLTMw\/NDQucG5n.jpeg"
+        },
+        {
+            "name": "Moving Shadow",
+            "catno": "ASHADOW23LP",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 123,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/123",
+            "thumbnail_url": "https:\/\/i.discogs.com\/1gaWtq0fbsx6TlKUoeY2EA526XneTwAFT_rtNfuxzpg\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEyMy0x\/NjM4Mjk2MzYzLTMw\/NDQucG5n.jpeg"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "Moving Shadow Ltd.",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 324800,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/324800"
+        },
+        {
+            "name": "Moving Shadow Ltd.",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 324800,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/324800"
+        },
+        {
+            "name": "Moving Shadow Music Ltd.",
+            "catno": "",
+            "entity_type": "21",
+            "entity_type_name": "Published By",
+            "id": 1863094,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1863094"
+        },
+        {
+            "name": "Technical Itch Studios",
+            "catno": "",
+            "entity_type": "26",
+            "entity_type_name": "Produced At",
+            "id": 316295,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/316295"
+        },
+        {
+            "name": "Too Manic Studios",
+            "catno": "",
+            "entity_type": "26",
+            "entity_type_name": "Produced At",
+            "id": 1790939,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1790939"
+        },
+        {
+            "name": "Mainline Studios",
+            "catno": "",
+            "entity_type": "26",
+            "entity_type_name": "Produced At",
+            "id": 428282,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/428282"
+        },
+        {
+            "name": "The Exchange",
+            "catno": "",
+            "entity_type": "30",
+            "entity_type_name": "Lacquer Cut At",
+            "id": 158759,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/158759",
+            "thumbnail_url": "https:\/\/i.discogs.com\/FRs_id2oczuOJRhH2gfwymzkpVYWrNO8vGb2m2uQhCk\/rs:fit\/g:sm\/q:90\/h:600\/w:590\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE1ODc1\/OS0xMzE0NzgzNzMx\/LmpwZWc.jpeg"
+        },
+        {
+            "name": "EFA Medien GmbH",
+            "catno": "",
+            "entity_type": "9",
+            "entity_type_name": "Distributed By",
+            "id": 199815,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/199815",
+            "thumbnail_url": "https:\/\/i.discogs.com\/Ek6efRxXiv3_iWmKFZpYnE_Clu4bm-TYxAFRBHxqUKw\/rs:fit\/g:sm\/q:90\/h:185\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE5OTgx\/NS0xNTgxNzkzNTEy\/LTIxNDAuanBlZw.jpeg"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "4",
+            "descriptions": [
+                "12\"",
+                "33 \u2153 RPM",
+                "Compilation"
+            ]
+        }
+    ],
+    "data_quality": "Correct",
+    "community": {
+        "have": 402,
+        "want": 213,
+        "rating": {
+            "count": 67,
+            "average": 3.9
+        },
+        "submitter": {
+            "username": "delysid",
+            "resource_url": "https:\/\/api.discogs.com\/users\/delysid"
+        },
+        "contributors": [
+            {
+                "username": "delysid",
+                "resource_url": "https:\/\/api.discogs.com\/users\/delysid"
+            },
+            {
+                "username": "sjcee",
+                "resource_url": "https:\/\/api.discogs.com\/users\/sjcee"
+            },
+            {
+                "username": "Dandruff",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Dandruff"
+            },
+            {
+                "username": "mrcivic89",
+                "resource_url": "https:\/\/api.discogs.com\/users\/mrcivic89"
+            },
+            {
+                "username": "hermandc",
+                "resource_url": "https:\/\/api.discogs.com\/users\/hermandc"
+            },
+            {
+                "username": "rhythmmethods.",
+                "resource_url": "https:\/\/api.discogs.com\/users\/rhythmmethods."
+            },
+            {
+                "username": "frodekommode",
+                "resource_url": "https:\/\/api.discogs.com\/users\/frodekommode"
+            },
+            {
+                "username": "TReimer",
+                "resource_url": "https:\/\/api.discogs.com\/users\/TReimer"
+            }
+        ],
+        "data_quality": "Correct",
+        "status": "Accepted"
+    },
+    "format_quantity": 4,
+    "date_added": "2001-06-13T04:24:15-07:00",
+    "date_changed": "2021-06-22T03:32:33-07:00",
+    "num_for_sale": 5,
+    "lowest_price": 3.8,
+    "master_id": 46411,
+    "master_url": "https:\/\/api.discogs.com\/masters\/46411",
+    "title": "Rollcage Stage II The Soundtrack",
+    "country": "UK",
+    "released": "2000-03-27",
+    "notes": "Music taken from the Playstation game Rollcage Stage 2.\n\nTrack A & E: Written, produced & engineered @ Technical Itch Studios, Bristol, UK.\nTrack B & G1: Written, produced & engineered @ Too Manic Studios, London, UK.\nTrack H2: Written, produced & engineered @ Mainline Studios, Suffolk, UK.\n\nTrack durations not listed on release.\n\n\u2117 & \u00a9 2000 Moving Shadow Ltd.\n\nMade in England.",
+    "released_formatted": "27 Mar 2000",
+    "identifiers": [
+        {
+            "type": "Matrix \/ Runout",
+            "value": "ASHADOW-23-A1 SIMON EXCHANGE 2000 mA.",
+            "description": "Side A runout, etched"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "ASHADOW-23-B1 EXCHANGE 2000 SIMON. mA.",
+            "description": "Side B runout, etched"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "ASHADOW-23-C1 EXCHANGE 2000 SIMON. mA.",
+            "description": "Side C runout, etched"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "ASHADOW-23-D1 EXCHANGE 2000 SIMON. mA.",
+            "description": "Side D runout, etched"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "ASHADOW-23-E1 EXCHANGE 2000 SIMON. mA.",
+            "description": "Side E runout, etched"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "ASHADOW-23-F1 EXCHANGE 2000 SIMON. mA.",
+            "description": "Side F runout, etched"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "ASHADOW-23 G1 EXCHANGE 2000 SIMON. mA.",
+            "description": "Side G runout, etched"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "ASHADOW-23-H1 SIMON. EXCHANGE 2000 mA.",
+            "description": "Side H runout, etched"
+        },
+        {
+            "type": "Barcode",
+            "value": "6 56360 90231 9",
+            "description": "Text"
+        },
+        {
+            "type": "Cistribution Code",
+            "value": "EFA 94023-1"
+        },
+        {
+            "type": "Label Code",
+            "value": "LC6110"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=REkPg5Odze0",
+            "title": "Technical Itch - Deadline",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy",
+            "duration": 441,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=UJzZ9H7-ylY",
+            "title": "On Dope - Rollcage Stage II",
+            "description": "Playstation 1 Soundtrack game.",
+            "duration": 211,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=T4kDpITTpHw",
+            "title": "Snar Nation - Rollcage Stage II OST",
+            "description": "Rollcage Stage II OST - PC-Version\n\nMusic of the Leviathan levels.",
+            "duration": 363,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=KITfQkQ6Ibw",
+            "title": "Re-Load - Secret Life Cover (Omni Trio\/Rollcage 2) \u266b",
+            "description": "So in love with this song, amazing soundtrack.\r\nNot that I tought something was missing in the music,,\r\nI just had to do it.\r\n\r\n\r\nRollcage Stage II",
+            "duration": 82,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=6EjKAJrN5ZM",
+            "title": "Aquasky - Halifax",
+            "description": "Rollcage Stage II The Soundtrack (2000)",
+            "duration": 408,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=f0GxdEW6XJ4",
+            "title": "Flytronix  - Imaginary Forces",
+            "description": "Haven't  seen that one on youtube before. Taken from Rollcage Stage II Soundtrack. Enjoy",
+            "duration": 477,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=njowAiE89o8",
+            "title": "Flytronix - Naked Funk",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy",
+            "duration": 451,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=DqSD3VT3lOg",
+            "title": "Dom & Roland - Spooks",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy!",
+            "duration": 403,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=2m9gfJLB5Ks",
+            "title": "Technical Itch - Caution",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy!",
+            "duration": 479,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=TwpvOaDocgw",
+            "title": "Dom & Roland - Slipstream",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy",
+            "duration": 327,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=J7bPKsOovA8",
+            "title": "Aquasky - Control",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy!",
+            "duration": 395,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=g7zGaOgg0xg",
+            "title": "Omni Trio - Penetration",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy!",
+            "duration": 333,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=tIxSJAbWe1M",
+            "title": "EZ Rollers - Double Cross",
+            "description": "I decided to upload the music featured in the Rollcage games, considering i had the original PS1 discs at hand.\n\nIf you are looking for full tracks, this is not the channel!\n\nI decided to upload the actual in-game versions, due to the fact that some of th",
+            "duration": 207,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=cfUmtkgwB3k",
+            "title": "E-Z Rollers - Double Cross",
+            "description": "Label:\nMoving Shadow\u00a0\u200e\u2013 ASHADOW 23 LP\nFormat:\n4 \u00d7\u00a0Vinyl, 12\", Compilation\nCountry:\nUK\nReleased:\n2000\nGenre:\nElectronic\nStyle:\nDrum n Bass\n\n| Jungle DNB Hood | Hidden Gems | Classics | Up From the Underground | Since 2015 |\n\nhttps:\/\/www.facebook.com",
+            "duration": 339,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=REkPg5Odze0",
+            "title": "Technical Itch - Deadline",
+            "description": null,
+            "duration": 441,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=o7qfyEQR78g",
+            "title": "E-Z Rollers - Breakbeat Generation",
+            "description": null,
+            "duration": 189,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=4341FfSedsQ",
+            "title": "Omni Trio - Secret Life",
+            "description": null,
+            "duration": 356,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=REkPg5Odze0",
+            "title": "Technical Itch - Deadline",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy",
+            "duration": 441,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=UJzZ9H7-ylY",
+            "title": "On Dope - Rollcage Stage II",
+            "description": "Playstation 1 Soundtrack game.",
+            "duration": 211,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=T4kDpITTpHw",
+            "title": "Snar Nation - Rollcage Stage II OST",
+            "description": "Rollcage Stage II OST - PC-Version\n\nMusic of the Leviathan levels.",
+            "duration": 363,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=KITfQkQ6Ibw",
+            "title": "Re-Load - Secret Life Cover (Omni Trio\/Rollcage 2) \u266b",
+            "description": "So in love with this song, amazing soundtrack.\r\nNot that I tought something was missing in the music,,\r\nI just had to do it.\r\n\r\n\r\nRollcage Stage II",
+            "duration": 82,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=6EjKAJrN5ZM",
+            "title": "Aquasky - Halifax",
+            "description": "Rollcage Stage II The Soundtrack (2000)",
+            "duration": 408,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=f0GxdEW6XJ4",
+            "title": "Flytronix  - Imaginary Forces",
+            "description": "Haven't  seen that one on youtube before. Taken from Rollcage Stage II Soundtrack. Enjoy",
+            "duration": 477,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=njowAiE89o8",
+            "title": "Flytronix - Naked Funk",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy",
+            "duration": 451,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=DqSD3VT3lOg",
+            "title": "Dom & Roland - Spooks",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy!",
+            "duration": 403,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=2m9gfJLB5Ks",
+            "title": "Technical Itch - Caution",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy!",
+            "duration": 479,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=TwpvOaDocgw",
+            "title": "Dom & Roland - Slipstream",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy",
+            "duration": 327,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=J7bPKsOovA8",
+            "title": "Aquasky - Control",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy!",
+            "duration": 395,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=g7zGaOgg0xg",
+            "title": "Omni Trio - Penetration",
+            "description": "Taken from Rollcage Stage II Soundtrack. Enjoy!",
+            "duration": 333,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=tIxSJAbWe1M",
+            "title": "EZ Rollers - Double Cross",
+            "description": "I decided to upload the music featured in the Rollcage games, considering i had the original PS1 discs at hand.\n\nIf you are looking for full tracks, this is not the channel!\n\nI decided to upload the actual in-game versions, due to the fact that some of th",
+            "duration": 207,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=cfUmtkgwB3k",
+            "title": "E-Z Rollers - Double Cross",
+            "description": "Label:\nMoving Shadow\u00a0\u200e\u2013 ASHADOW 23 LP\nFormat:\n4 \u00d7\u00a0Vinyl, 12\", Compilation\nCountry:\nUK\nReleased:\n2000\nGenre:\nElectronic\nStyle:\nDrum n Bass\n\n| Jungle DNB Hood | Hidden Gems | Classics | Up From the Underground | Since 2015 |\n\nhttps:\/\/www.facebook.com",
+            "duration": 339,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=HzcBG1yyspA",
+            "title": "Rollcage Stage II Soundtrack Mix",
+            "description": "A mix I did awhile back for the Rollcage Stage 2 soundtrack.",
+            "duration": 3182,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic",
+        "Stage & Screen"
+    ],
+    "styles": [
+        "Drum n Bass",
+        "Video Game Music"
+    ],
+    "tracklist": [
+        {
+            "position": "A",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Technical Itch",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 311,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/311"
+                }
+            ],
+            "title": "Deadline",
+            "extraartists": [
+                {
+                    "name": "Mark Caro",
+                    "anv": "M. Caro",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 7907,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/7907"
+                }
+            ],
+            "duration": "5:19"
+        },
+        {
+            "position": "B",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Dom & Roland",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 289,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/289"
+                }
+            ],
+            "title": "Spooks",
+            "extraartists": [
+                {
+                    "name": "Dominic Angus",
+                    "anv": "D. Angas",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 8880,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/8880"
+                }
+            ],
+            "duration": "6:43"
+        },
+        {
+            "position": "C",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Flytronix",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 1859,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1859"
+                }
+            ],
+            "title": "Imaginary Forces",
+            "extraartists": [
+                {
+                    "name": "Danny Demierre",
+                    "anv": "D. Demierre",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 435671,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/435671"
+                }
+            ],
+            "duration": "7:58"
+        },
+        {
+            "position": "D",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Aquasky",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 1716,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1716"
+                }
+            ],
+            "title": "Halifax",
+            "extraartists": [
+                {
+                    "name": "Brent Newitt",
+                    "anv": "B. Newitt",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 504270,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/504270"
+                },
+                {
+                    "name": "Dave Wallace",
+                    "anv": "D. Wallace",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 1555,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1555"
+                },
+                {
+                    "name": "Kieron Bailey",
+                    "anv": "K. James",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 528369,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/528369"
+                }
+            ],
+            "duration": "6:48"
+        },
+        {
+            "position": "E",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Technical Itch",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 311,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/311"
+                }
+            ],
+            "title": "Caution",
+            "extraartists": [
+                {
+                    "name": "Mark Caro",
+                    "anv": "M. Caro",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 7907,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/7907"
+                }
+            ],
+            "duration": "8:00"
+        },
+        {
+            "position": "F",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Flytronix",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 1859,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1859"
+                }
+            ],
+            "title": "Naked Funk",
+            "extraartists": [
+                {
+                    "name": "Danny Demierre",
+                    "anv": "D. Demierre",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 435671,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/435671"
+                }
+            ],
+            "duration": "7:31"
+        },
+        {
+            "position": "G1",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Dom & Roland",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 289,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/289"
+                }
+            ],
+            "title": "Slipstream",
+            "extraartists": [
+                {
+                    "name": "Dominic Angus",
+                    "anv": "D. Angas",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 8880,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/8880"
+                }
+            ],
+            "duration": "5:26"
+        },
+        {
+            "position": "G2",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Aquasky",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 1716,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1716"
+                }
+            ],
+            "title": "Control",
+            "extraartists": [
+                {
+                    "name": "Brent Newitt",
+                    "anv": "B. Newitt",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 504270,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/504270"
+                },
+                {
+                    "name": "Dave Wallace",
+                    "anv": "D. Wallace",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 1555,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1555"
+                },
+                {
+                    "name": "Kieron Bailey",
+                    "anv": "K. James",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 528369,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/528369"
+                }
+            ],
+            "duration": "6:35"
+        },
+        {
+            "position": "H1",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "E-Z Rollers",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 288,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/288"
+                }
+            ],
+            "title": "Double Cross",
+            "extraartists": [
+                {
+                    "name": "Lee Vasey",
+                    "anv": "L. Vasey",
+                    "join": "",
+                    "role": "Bass",
+                    "tracks": "",
+                    "id": 399858,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/399858"
+                },
+                {
+                    "name": "Jo Sanger",
+                    "anv": "J. Sanger",
+                    "join": "",
+                    "role": "Electric Piano [Rhodes]",
+                    "tracks": "",
+                    "id": 399856,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/399856"
+                },
+                {
+                    "name": "Judy Unwin",
+                    "anv": "J. Unwin",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 399859,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/399859"
+                },
+                {
+                    "name": "P. Eagling",
+                    "anv": "",
+                    "join": "",
+                    "role": "Trombone",
+                    "tracks": "",
+                    "id": 557513,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/557513"
+                },
+                {
+                    "name": "David Howes",
+                    "anv": "D. Howes",
+                    "join": "",
+                    "role": "Trumpet",
+                    "tracks": "",
+                    "id": 399857,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/399857"
+                },
+                {
+                    "name": "Alex Banks",
+                    "anv": "A. Banks",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 10141,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/10141"
+                },
+                {
+                    "name": "Jay Hurren",
+                    "anv": "J. Hurren",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 474638,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/474638"
+                }
+            ],
+            "duration": "5:39"
+        },
+        {
+            "position": "H2",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Omni Trio",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 1415,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1415"
+                }
+            ],
+            "title": "Penetration",
+            "extraartists": [
+                {
+                    "name": "Robert Haigh",
+                    "anv": "R. Haigh",
+                    "join": "",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": "",
+                    "id": 74421,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/74421"
+                }
+            ],
+            "duration": "5:33"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "Process Studios",
+            "anv": "",
+            "join": "",
+            "role": "Artwork",
+            "tracks": "",
+            "id": 1889910,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1889910"
+        },
+        {
+            "name": "Simon Davey",
+            "anv": "Simon",
+            "join": "",
+            "role": "Lacquer Cut By",
+            "tracks": "",
+            "id": 92821,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/92821"
+        },
+        {
+            "name": "Maxwell Anandappa",
+            "anv": "mA.",
+            "join": "",
+            "role": "Plated By",
+            "tracks": "",
+            "id": 2481548,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2481548"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/m2aLafQdqNUmKVZG9CgLttOlb7YoPpl_Crl7lXsPWh8\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODA5NS03\/MTY3LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/m2aLafQdqNUmKVZG9CgLttOlb7YoPpl_Crl7lXsPWh8\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODA5NS03\/MTY3LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/6rwFD_G8SuN_MjMFIt7OoSeEpfwCTI74uANFwlc7Hps\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODA5NS03\/MTY3LmpwZWc.jpeg",
+            "width": 600,
+            "height": 598
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Mgq2MXGmcWuPDdG-AzT2EAaI1o08TUu6tKgrelj6Fjo\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODA5NS04\/NTU4LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Mgq2MXGmcWuPDdG-AzT2EAaI1o08TUu6tKgrelj6Fjo\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODA5NS04\/NTU4LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/RS1rZr71BdgSEi_XCxqJnF1kN1_jkEMqsGId7nR_KI4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODA5NS04\/NTU4LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/JCnMBS9nzvxN5z-L-lHJUspkY5I-3OOiexkFIAzMal0\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC01\/ODEyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/JCnMBS9nzvxN5z-L-lHJUspkY5I-3OOiexkFIAzMal0\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC01\/ODEyLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/y01j73NDLKCip6szb1AVhK6kTig8caMB2TMujteXtCw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC01\/ODEyLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/4bcVCMVhJSqTIQZsCMepAUjme6jZiaChIrQcR3FQN28\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC05\/Njc4LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/4bcVCMVhJSqTIQZsCMepAUjme6jZiaChIrQcR3FQN28\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC05\/Njc4LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/WsCcs56HMz-H0T2zoVoKOCNwMUXnq3gJ9vOrrUK85BQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC05\/Njc4LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/SPf7Cu46bjQtfcXqrrI6bXNzVl00zRqu-onqgmvRe04\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMy0y\/MjE0LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/SPf7Cu46bjQtfcXqrrI6bXNzVl00zRqu-onqgmvRe04\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMy0y\/MjE0LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/34u0Cs0oTXsNfzy72MA6REJCz7XMxmO7rckPDJIk2P4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMy0y\/MjE0LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/ZPXsu-tp-4sGL3OZYHlEqh-TOmmMEnuppRC9xjPf8Oc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMy01\/NjIyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/ZPXsu-tp-4sGL3OZYHlEqh-TOmmMEnuppRC9xjPf8Oc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMy01\/NjIyLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/XcWUbPuLFGEnMrUlsEJaOC4puliNcOmlpdBgG0DiJAo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMy01\/NjIyLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/_3EupmB-X-WaKFyGO5zBOWsPwcVhwI_WUb86aOHXWEk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy04\/NTIyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/_3EupmB-X-WaKFyGO5zBOWsPwcVhwI_WUb86aOHXWEk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy04\/NTIyLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/fN1D_RMdKzPCJFC-4Nt7pXvT24uX5-nrYzV5c0Z9vbI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy04\/NTIyLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/1YEGdO-0lKSAhOM9ex0RxuTZImE1myEq0FsOQ36cOlc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy02\/MzYwLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/1YEGdO-0lKSAhOM9ex0RxuTZImE1myEq0FsOQ36cOlc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy02\/MzYwLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/z1_UFCjFS_1sNRIMkSAJnV5KW62-OJEZXNdEMnEBkzA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy02\/MzYwLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/sAnicGiMysy9NYt4gQ4CTj2o3NMKom6rJz6orhz1NfY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS03\/MTYxLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/sAnicGiMysy9NYt4gQ4CTj2o3NMKom6rJz6orhz1NfY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS03\/MTYxLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/qa8dujI5paKcDm25_lv4nOH36osPk0iZyJP2YKiNFuo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS03\/MTYxLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/2JnsxZaTAHMUScHIhylm9qlnBbOMOO9q-R9_ZzqCHsY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS01\/MjA3LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/2JnsxZaTAHMUScHIhylm9qlnBbOMOO9q-R9_ZzqCHsY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS01\/MjA3LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/eAfgAske31CRDgbr-fnyMebw3eyD9qWZVs7dUYEAHYs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS01\/MjA3LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/4SI_AnR_yJ1Op_mcMsQSlx0PUGbEA5mY2JKKcmWRs00\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC01\/NDcyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/4SI_AnR_yJ1Op_mcMsQSlx0PUGbEA5mY2JKKcmWRs00\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC01\/NDcyLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/I9VO2eJny5ZJqC_8YkaeILJoCkzhEKhGK7udyGPZI1Q\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc1NzIxMC01\/NDcyLmpwZWc.jpeg",
+            "width": 600,
+            "height": 597
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/G1heWOLEgbFyjFBgklgUs3rXJ9x47AAIBMhC8b1DxEk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODIwNC04\/MzUwLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/G1heWOLEgbFyjFBgklgUs3rXJ9x47AAIBMhC8b1DxEk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODIwNC04\/MzUwLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/eP_GS1hRFzfnLMXjOpmR-b63rwQKv3RJf4jUNvToxac\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODIwNC04\/MzUwLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/wXPDQSYztLkrJstfR2ICEsrmGHIFZmbCgpshSN7ccbs\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMi0x\/NzcwLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/wXPDQSYztLkrJstfR2ICEsrmGHIFZmbCgpshSN7ccbs\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMi0x\/NzcwLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/_ymp3AtjBWqaol6YpqK2kG_HVjcZWFtWTMHVZ6fLBdg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMi0x\/NzcwLmpwZWc.jpeg",
+            "width": 600,
+            "height": 594
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/8hoKWCswNdf_uiQH0sVBLm_hyFXQYSG4KOt-mgU2oBg\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMi04\/NDIwLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/8hoKWCswNdf_uiQH0sVBLm_hyFXQYSG4KOt-mgU2oBg\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMi04\/NDIwLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/HNRSSjUEFzU8ufjz7OEiHAaZsxMUqPKYzKeT_Y89PFs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NTczMi04\/NDIwLmpwZWc.jpeg",
+            "width": 600,
+            "height": 594
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/JteOYhkB6M8ur4npe7zLoqOoBSoWpOvIUO48hEKwbn8\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy0z\/Mjg3LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/JteOYhkB6M8ur4npe7zLoqOoBSoWpOvIUO48hEKwbn8\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy0z\/Mjg3LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/cEOqDC4Vvw3sL562tSv5XNmSh3xWMsa37HTTcyve9P4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy0z\/Mjg3LmpwZWc.jpeg",
+            "width": 600,
+            "height": 596
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/mRL-v1ar9PgPNYDiQGiCoP4POxk52mNIpcf93I2E3gg\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy02\/MzYzLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/mRL-v1ar9PgPNYDiQGiCoP4POxk52mNIpcf93I2E3gg\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy02\/MzYzLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/ZKnqc25cXg0-zMyaiJlEXg49qdUQFaCGqpDRwuTpZVU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDc2NzAzMy02\/MzYzLmpwZWc.jpeg",
+            "width": 600,
+            "height": 594
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/M_a3zVt9o-vsXzyYE7TX-dLVt5BL5tANvtgsd0iyxFE\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS04\/Nzg2LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/M_a3zVt9o-vsXzyYE7TX-dLVt5BL5tANvtgsd0iyxFE\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS04\/Nzg2LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/19pnC0kPEofpXw0we4iWGTLju9nfBdj9wSDBEGoBmwE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTM5NDgxNzYwOS04\/Nzg2LmpwZWc.jpeg",
+            "width": 600,
+            "height": 596
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/aZGwxmA9QQrkWpX9CXJs48n8iSMyGQHxyIxp-ueME_o\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODIwNC0x\/OTgwLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/aZGwxmA9QQrkWpX9CXJs48n8iSMyGQHxyIxp-ueME_o\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODIwNC0x\/OTgwLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/RF-QaYhiSrkYO8xLNmm00arsv1LwBjiktZd9-MUZaZE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODIwNC0x\/OTgwLmpwZWc.jpeg",
+            "width": 600,
+            "height": 590
+        }
+    ],
+    "thumb": "https:\/\/i.discogs.com\/6rwFD_G8SuN_MjMFIt7OoSeEpfwCTI74uANFwlc7Hps\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Njct\/MTU2NDM1ODA5NS03\/MTY3LmpwZWc.jpeg",
+    "estimated_weight": 920,
+    "blocked_from_sale": false
+}

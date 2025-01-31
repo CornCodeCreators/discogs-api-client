@@ -1,0 +1,543 @@
+{
+    "id": 3096,
+    "status": "Accepted",
+    "year": 1998,
+    "resource_url": "https:\/\/api.discogs.com\/releases\/3096",
+    "uri": "https:\/\/www.discogs.com\/release\/3096-Paul-Johnson-White-Winds-Santa-Claus-Remix",
+    "artists": [
+        {
+            "name": "Paul Johnson",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 866,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/866",
+            "thumbnail_url": "https:\/\/i.discogs.com\/avOJDGTks4QwzQId-Pg3THUKrHwFQZilfKG_W74MeVA\/rs:fit\/g:sm\/q:90\/h:280\/w:431\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTg2Ni0x\/NDM0NDQ2MDYwLTg4\/NDAuanBlZw.jpeg"
+        }
+    ],
+    "artists_sort": "Paul Johnson",
+    "labels": [
+        {
+            "name": "Crydamoure",
+            "catno": "CRYDA 002",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 823,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/823",
+            "thumbnail_url": "https:\/\/i.discogs.com\/YVSv2GglxSfD7uE6yMsPlSSA23tH54Mp6H-vsH0i5JE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgyMy0x\/NjU0NTI5ODU1LTkw\/ODAuanBlZw.jpeg"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "DCNI",
+            "catno": "",
+            "entity_type": "19",
+            "entity_type_name": "Printed By",
+            "id": 270542,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/270542",
+            "thumbnail_url": "https:\/\/i.discogs.com\/ql22jRN1iBSnVtRKyE7RwOgSenmPyckJnZ9jRBoXA_Q\/rs:fit\/g:sm\/q:90\/h:292\/w:292\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI3MDU0\/Mi0xMzk3MDUxOTA5\/LTg1MzMuanBlZw.jpeg"
+        },
+        {
+            "name": "Crydamoure",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 823,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/823",
+            "thumbnail_url": "https:\/\/i.discogs.com\/YVSv2GglxSfD7uE6yMsPlSSA23tH54Mp6H-vsH0i5JE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgyMy0x\/NjU0NTI5ODU1LTkw\/ODAuanBlZw.jpeg"
+        },
+        {
+            "name": "Crydamoure",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 823,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/823",
+            "thumbnail_url": "https:\/\/i.discogs.com\/YVSv2GglxSfD7uE6yMsPlSSA23tH54Mp6H-vsH0i5JE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgyMy0x\/NjU0NTI5ODU1LTkw\/ODAuanBlZw.jpeg"
+        },
+        {
+            "name": "Zomba Music Publishing Ltd.",
+            "catno": "",
+            "entity_type": "21",
+            "entity_type_name": "Published By",
+            "id": 270768,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/270768"
+        },
+        {
+            "name": "Delabel Editions",
+            "catno": "",
+            "entity_type": "21",
+            "entity_type_name": "Published By",
+            "id": 219670,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/219670",
+            "thumbnail_url": "https:\/\/i.discogs.com\/EA59Als71yGCmPiaMNSUg5zrslqCTZvaIBlXA0i7VN0\/rs:fit\/g:sm\/q:90\/h:459\/w:489\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTIxOTY3\/MC0xNzA2MDQwNDQ5\/LTk1MzAuanBlZw.jpeg"
+        },
+        {
+            "name": "Daft Music",
+            "catno": "",
+            "entity_type": "21",
+            "entity_type_name": "Published By",
+            "id": 274855,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/274855",
+            "thumbnail_url": "https:\/\/i.discogs.com\/cXFQnlkQyEYD5c4YUQtfvHqWTP4SCFtC5yLsVp53oeo\/rs:fit\/g:sm\/q:90\/h:49\/w:165\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI3NDg1\/NS0xNTkwOTcyMTUz\/LTM5MjguanBlZw.jpeg"
+        },
+        {
+            "name": "Funkytown Distribution",
+            "catno": "",
+            "entity_type": "9",
+            "entity_type_name": "Distributed By",
+            "id": 399081,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/399081",
+            "thumbnail_url": "https:\/\/i.discogs.com\/g0XHkioxYNcsNE2du1AFt3Mt6wtjYaAHJk2iXOizITY\/rs:fit\/g:sm\/q:90\/h:47\/w:235\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OTA4\/MS0xMzM4ODExNTgx\/LTk1MDYuanBlZw.jpeg"
+        },
+        {
+            "name": "The Exchange",
+            "catno": "",
+            "entity_type": "30",
+            "entity_type_name": "Lacquer Cut At",
+            "id": 158759,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/158759",
+            "thumbnail_url": "https:\/\/i.discogs.com\/FRs_id2oczuOJRhH2gfwymzkpVYWrNO8vGb2m2uQhCk\/rs:fit\/g:sm\/q:90\/h:600\/w:590\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE1ODc1\/OS0xMzE0NzgzNzMx\/LmpwZWc.jpeg"
+        },
+        {
+            "name": "DFI",
+            "catno": "",
+            "entity_type": "17",
+            "entity_type_name": "Pressed By",
+            "id": 219229,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/219229",
+            "thumbnail_url": "https:\/\/i.discogs.com\/EpLh_gPT7di-2SJpm9TFnz3NDPjy6RM2p5UUlR9FyHM\/rs:fit\/g:sm\/q:90\/h:128\/w:279\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTIxOTIy\/OS0xMzI3MjYxMTc2\/LmpwZWc.jpeg"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+                "12\"",
+                "45 RPM"
+            ]
+        }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+        "have": 1603,
+        "want": 825,
+        "rating": {
+            "count": 200,
+            "average": 4.04
+        },
+        "submitter": {
+            "username": "jiri909",
+            "resource_url": "https:\/\/api.discogs.com\/users\/jiri909"
+        },
+        "contributors": [
+            {
+                "username": "jiri909",
+                "resource_url": "https:\/\/api.discogs.com\/users\/jiri909"
+            },
+            {
+                "username": "Mad_Porno_Max",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Mad_Porno_Max"
+            },
+            {
+                "username": "BenHancer",
+                "resource_url": "https:\/\/api.discogs.com\/users\/BenHancer"
+            },
+            {
+                "username": "Vinylized2023",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Vinylized2023"
+            },
+            {
+                "username": "steve_brown",
+                "resource_url": "https:\/\/api.discogs.com\/users\/steve_brown"
+            },
+            {
+                "username": "eiki",
+                "resource_url": "https:\/\/api.discogs.com\/users\/eiki"
+            },
+            {
+                "username": "Se-BusT-eL",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Se-BusT-eL"
+            },
+            {
+                "username": "meletmat",
+                "resource_url": "https:\/\/api.discogs.com\/users\/meletmat"
+            },
+            {
+                "username": "yvan",
+                "resource_url": "https:\/\/api.discogs.com\/users\/yvan"
+            },
+            {
+                "username": "flat_soundz",
+                "resource_url": "https:\/\/api.discogs.com\/users\/flat_soundz"
+            },
+            {
+                "username": "milkman345",
+                "resource_url": "https:\/\/api.discogs.com\/users\/milkman345"
+            },
+            {
+                "username": "etnofunk",
+                "resource_url": "https:\/\/api.discogs.com\/users\/etnofunk"
+            }
+        ],
+        "data_quality": "Needs Vote",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2001-04-03T05:07:34-07:00",
+    "date_changed": "2022-12-24T04:22:04-08:00",
+    "num_for_sale": 34,
+    "lowest_price": 13.48,
+    "master_id": 216392,
+    "master_url": "https:\/\/api.discogs.com\/masters\/216392",
+    "title": "White Winds \/ Santa Claus (Remix)",
+    "country": "France",
+    "released": "1998",
+    "notes": "Sticker: \nPaul Johnson & Crydamoure vous pr\u00e9sentent\n\nSleeve:\nDCNI Imprimerie\n\nLabels:\n\u2117 & \u00a9 1998 Crydamoure.\nPublished by Zomba Music for World \/ Delabel Editions - Daft Music for France\nMade in France\n\nAdditional information:\nTrack A samples [url=https:\/\/www.discogs.com\/release\/927924]Black Ivory - White Wind[\/url].\n\nBPM:\nA1: 129.7 BPM\nB1: 131.3 BPM",
+    "released_formatted": "1998",
+    "identifiers": [
+        {
+            "type": "Matrix \/ Runout",
+            "value": "THE EXCHANGE \u2013 NiLZ.",
+            "description": "Side A (etched)"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "SANTA CLAUS IS BACK FROM AMERICA. THE EXCHANGE \u2013 NiLZ.",
+            "description": "Side B (etched)"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "DFI 98 3 CRYDA 002 A2",
+            "description": "Side A (stamped)"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "DFI-97-10 CRYDA 002 BI ",
+            "description": "Side B (stamped)"
+        },
+        {
+            "type": "Rights Society",
+            "value": "SACEM SACD SDRM SCAM"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=7-Vy0o1SkKE",
+            "title": "Paul Johnson -White Winds",
+            "description": "Paul Johnson \u200e\u2013 White Winds \/ Santa Claus (Remix)\nLabel:Crydamoure \u200e\u2013 CRYDA 002\nFormat:Vinyl, 12\", 45 RPM\nCountry:France\nReleased:1998\nGenre:Electronic\nStyle:House",
+            "duration": 351,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=yQNmwaPRuyE",
+            "title": "Le Knight Club - Santa Claus (Remix)",
+            "description": "Paul Johnson \u200e\u2013 White Winds \/ Santa Claus (Remix)\nLabel:Crydamoure \u200e\u2013 CRYDA 002\nFormat:Vinyl, 12\", 45 RPM\nCountry:France\nReleased:1998\nGenre:Electronic\nStyle:House",
+            "duration": 330,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=6dcYQidV_zA",
+            "title": "CRYDA 002 | Paul Johnson \/ Le Knight Club \u200e\u2013 White Winds \/ Santa Claus [Remix] (1997)",
+            "description": "CRYDA 002 Paul Johnson \/ Le Knight Club \u200e\u2013 White Winds \/ Santa Claus (Remix) (12'') - 1997\n\nhttps:\/\/www.discogs.com\/master\/216392-Paul-Johnson-White-Winds-Santa-Claus-Remix\n\nProduction by : Paul Johnson and Le Knight Club\nLabel : Crydamoure\n\nAll rights an",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=Z3A8IrKxpVo",
+            "title": "Paul Johnson - Santa Claus (Remix), White Winds (BEST QUALITY)",
+            "description": "One of my favorite Crydamoure releases, in the best quality possible, enjoy!\n\nTRACKLIST:\n\n0:00 Le Knight Club - Santa Claus (Paul Johnson Remix)\n5:16 Paul Johnson - White Winds\n\nRELEASE INFO:\n\nLabel: Crydamoure - (CRYDA 002)\nRelease Date: 1997\nCountry: Fr",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=2pbnwo7acLw",
+            "title": "Le Knight Club - Santa Claus (Paul Johnson Remix)",
+            "description": "Merry Xmas!\r\n\r\nCRYDA 002: Paul Johnson - White Winds\/Santa Claus Remix\r\nLabel: Crydamoure\r\nCountry: France\r\nYear: 1998\n\r\n\r- video upload powered by https:\/\/www.TunesToTube.com",
+            "duration": 335,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=HaevpxqO9AE",
+            "title": "Le Knight Club - Santa claus ( paul johnson remix)",
+            "description": "DANCE TO DA DISCO! :D \nLe Knight Club - Santa claus ( paul johnson remix)\nthe-music-in-us.blogspot.com\/\nhttp:\/\/www.myspace.com\/crydajam",
+            "duration": 336,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=H8VYqs2MFBw",
+            "title": "Le Knight Club - Santa Claus (Paul Johnson Remix) [HQ] (2\/2)",
+            "description": "Paul Johnson - White Winds \/ Santa Claus (Remix)\nCrydamoure : 1998 (CRYDA 002)\n\nCopyright belongs to the copyright holder. \nNo infringement intended.\nFor reference purposes only.\n\nCheck out my channel for more high quality, remastered old house (of differ",
+            "duration": 330,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=Z-8BQzCr544",
+            "title": "Le Knight Club - Santa Claus (Paul Johnson Remix)",
+            "description": "Le Knight Club\nSanta Claus\n(Paul Johnson Remix)\n\nCrydamoure\nFrance 1997\n\n\nLe Knight Club on\nhttps:\/\/www.discogs.com\/de\/artist\/3774-Le-Knight-Club\nhttps:\/\/www.beatport.com\/artist\/le-knight-club\/55373 \n\nPaul Johnson on\nhttps:\/\/www.discogs.com\/artist\/866-Pau",
+            "duration": 336,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=U5w6AB9QcU0",
+            "title": "paul johnson - White Winds",
+            "description": "[Cryda002] (1998) and in Waves I (2000)\n\nMore : https:\/\/linkr.bio\/crydamoure",
+            "duration": 349,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=KoAcjk-KS8w",
+            "title": "Le Knight Club - Santa claus ( paul johnson remix)",
+            "description": " ",
+            "duration": 336,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=EpVgBFhjgiw",
+            "title": "Paul Johnson - White Winds \/ Santa Claus (Remix)",
+            "description": "Paul Johnson - White Winds \/ Santa Claus (Remix) [FLAC, Vinyl, 24 Bit 96khz]\n\nTracklist:\nWhite Winds 0:00\nSanta Claus (Remix)5:50",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=yQNmwaPRuyE",
+            "title": "Le Knight Club - Santa Claus (Remix)",
+            "description": "Paul Johnson \u200e\u2013 White Winds \/ Santa Claus (Remix)\nLabel:Crydamoure \u200e\u2013 CRYDA 002\nFormat:Vinyl, 12\", 45 RPM\nCountry:France\nReleased:1998\nGenre:Electronic\nStyle:House paypal.me\/dawoodhelmandi\n\nThanks for Your Support to keep the Channel going!",
+            "duration": 330,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=C_oa0SezhZc",
+            "title": "[DanceXMixer] Cyberstar Winteress - Santa Claus(Paul Johnson Mix) - Le Knight Club",
+            "description": "one of my best works. Enjoy.",
+            "duration": 101,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=ubj6_Hq887o",
+            "title": "Le Knight Club - Santa Claus Paul Johnson Remix (Cryda002 B)",
+            "description": "Cryda 002 B",
+            "duration": 335,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=pP4NPasr_TY",
+            "title": "Paul Johnson - Santa Claus (Remix)",
+            "description": "CRYDA 002. Crydamoure logo re-made by Mr Hoosteen",
+            "duration": 332,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=xbxeT2Zawo0",
+            "title": "Paul Johnson - White Winds",
+            "description": "CRYDA 002. Crydamoure logo re-made by Mr Hoosteen",
+            "duration": 351,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=MulWFk6-Lkw",
+            "title": "Paul Johnson - White Winds",
+            "description": "A song of Paul Johnson by Crydamoure.",
+            "duration": 186,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=yb9GitAu5XU",
+            "title": "Le Knight Club - Santa Claus (Paul Johnson Remix) [Crydamoure CRYDA 002] 1998",
+            "description": "Le Knight Club - Santa Claus (Paul Johnson Remix) [Crydamoure CRYDA 002] 1998.",
+            "duration": 331,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=7-Vy0o1SkKE",
+            "title": "Paul Johnson -White Winds",
+            "description": "Paul Johnson \u200e\u2013 White Winds \/ Santa Claus (Remix)\nLabel:Crydamoure \u200e\u2013 CRYDA 002\nFormat:Vinyl, 12\", 45 RPM\nCountry:France\nReleased:1998\nGenre:Electronic\nStyle:House",
+            "duration": 351,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=yQNmwaPRuyE",
+            "title": "Le Knight Club - Santa Claus (Remix)",
+            "description": "Paul Johnson \u200e\u2013 White Winds \/ Santa Claus (Remix)\nLabel:Crydamoure \u200e\u2013 CRYDA 002\nFormat:Vinyl, 12\", 45 RPM\nCountry:France\nReleased:1998\nGenre:Electronic\nStyle:House",
+            "duration": 330,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "House"
+    ],
+    "tracklist": [
+        {
+            "position": "A",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Paul Johnson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 866,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/866"
+                }
+            ],
+            "title": "White Winds",
+            "extraartists": [
+                {
+                    "name": "Paul Johnson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Producer",
+                    "tracks": "",
+                    "id": 866,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/866"
+                }
+            ],
+            "duration": "5:47"
+        },
+        {
+            "position": "B",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Le Knight Club",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 3774,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/3774"
+                }
+            ],
+            "title": "Santa Claus (Remix)",
+            "extraartists": [
+                {
+                    "name": "Paul Johnson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Remix",
+                    "tracks": "",
+                    "id": 866,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/866"
+                },
+                {
+                    "name": "Eric Chedeville",
+                    "anv": "E. Chedeville",
+                    "join": "",
+                    "role": "Written-By, Producer",
+                    "tracks": "",
+                    "id": 424279,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/424279"
+                },
+                {
+                    "name": "Guy-Manuel de Homem-Christo",
+                    "anv": "G.M. de Homem-Christo",
+                    "join": "",
+                    "role": "Written-By, Producer",
+                    "tracks": "",
+                    "id": 424278,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/424278"
+                }
+            ],
+            "duration": "5:28"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "C\u00e9dric H.",
+            "anv": "",
+            "join": "",
+            "role": "Artwork",
+            "tracks": "",
+            "id": 2575202,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2575202"
+        },
+        {
+            "name": "DJ Crabbe",
+            "anv": "",
+            "join": "",
+            "role": "Artwork",
+            "tracks": "",
+            "id": 349882,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/349882"
+        },
+        {
+            "name": "Guy-Manuel de Homem-Christo",
+            "anv": "GMDHC",
+            "join": "",
+            "role": "Artwork",
+            "tracks": "",
+            "id": 424278,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/424278"
+        },
+        {
+            "name": "Magic Design",
+            "anv": "",
+            "join": "",
+            "role": "Artwork",
+            "tracks": "",
+            "id": 2043637,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2043637"
+        },
+        {
+            "name": "Nilesh Patel",
+            "anv": "Nilz",
+            "join": "",
+            "role": "Lacquer Cut By",
+            "tracks": "",
+            "id": 386598,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/386598"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/U7u04QJocgdSw87-D-7eH5-31ArK25QcnD6Zaf-Y0jA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkxMS0y\/MTI5LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/U7u04QJocgdSw87-D-7eH5-31ArK25QcnD6Zaf-Y0jA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkxMS0y\/MTI5LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/8qAgBj0-LxQx-uC0fCfDedt_kFVpZnfpRSi5hGD3kZY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkxMS0y\/MTI5LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/ePDSHYsTLuyXEV4JQAnV4PqmWs1PIA5nY1qfVlL9zLk\/rs:fit\/g:sm\/q:90\/h:150\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTYzMDU0NDQ1NS03\/OTk4LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/ePDSHYsTLuyXEV4JQAnV4PqmWs1PIA5nY1qfVlL9zLk\/rs:fit\/g:sm\/q:90\/h:150\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTYzMDU0NDQ1NS03\/OTk4LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/sFvGFQjhxIUPREHtHkhgBNQwuEuvF3oQ66GHGv-P3QM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTYzMDU0NDQ1NS03\/OTk4LmpwZWc.jpeg",
+            "width": 600,
+            "height": 150
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/a01gT6RPorkR5YVgCisqo3pFLzqync17nd2_LSwkKx0\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkzMy00\/Njk0LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/a01gT6RPorkR5YVgCisqo3pFLzqync17nd2_LSwkKx0\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkzMy00\/Njk0LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/UK2-g7byqUOAX1tzI6HDvxUw6SBpn7Ppl0Gia2zO4lg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkzMy00\/Njk0LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/9IKZyBnVpkt7Jyrfc26j-2-VbCd9ZFMCdSPRWjy0JxU\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjgxMy0z\/NjUyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/9IKZyBnVpkt7Jyrfc26j-2-VbCd9ZFMCdSPRWjy0JxU\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjgxMy0z\/NjUyLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/AXgwtBD-ObSTCl5ta5vDhhVHCS2RyMnP8T6SzUbKSlg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjgxMy0z\/NjUyLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/un1c3w_Mt5TKSsoueLTzY4rnY35efbtMJRX4yLwM6a4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkzMy02\/NjkzLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/un1c3w_Mt5TKSsoueLTzY4rnY35efbtMJRX4yLwM6a4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkzMy02\/NjkzLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/RYfm2tsfh7UqhQJ6PzAYD5sRSu0UHtE-EoWTbQHGAeA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkzMy02\/NjkzLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        }
+    ],
+    "thumb": "https:\/\/i.discogs.com\/8qAgBj0-LxQx-uC0fCfDedt_kFVpZnfpRSi5hGD3kZY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwOTYt\/MTQxOTYwMjkxMS0y\/MTI5LmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

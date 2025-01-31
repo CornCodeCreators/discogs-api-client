@@ -1,0 +1,156 @@
+{
+    "id": 2704,
+    "main_release": 152811,
+    "most_recent_release": 1083369,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2704",
+    "uri": "https:\/\/www.discogs.com\/master\/2704-The-Criminal-Minds-Versus-DOT-4-Sound-Clash-At-The-Hill-Vol1",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2704\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/152811",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/152811",
+    "num_for_sale": 9,
+    "lowest_price": 13.19,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/Rfnel_S8hZq_8UFp3s4oy5935BkOKv_8q4XI62deK3o\/rs:fit\/g:sm\/q:90\/h:600\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzQ2NDEzODA4\/LTE4MjUuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Rfnel_S8hZq_8UFp3s4oy5935BkOKv_8q4XI62deK3o\/rs:fit\/g:sm\/q:90\/h:600\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzQ2NDEzODA4\/LTE4MjUuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/0lPtkRcuHlI7Kfur_5htB8DOGAb2nEnWwuLWaO2_zo8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzQ2NDEzODA4\/LTE4MjUuanBlZw.jpeg",
+            "width": 593,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Z3F2YaFm2wjZCvufdo1amszxMWLVbiaD65PVItpPdOc\/rs:fit\/g:sm\/q:90\/h:583\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzk2NDcxOTQx\/LTI1NjYuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Z3F2YaFm2wjZCvufdo1amszxMWLVbiaD65PVItpPdOc\/rs:fit\/g:sm\/q:90\/h:583\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzk2NDcxOTQx\/LTI1NjYuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/iA1mwXPNXdixvh_Goro586oeqLX3dPVuAgvs6f2PAHk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzk2NDcxOTQx\/LTI1NjYuanBlZw.jpeg",
+            "width": 600,
+            "height": 583
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/bz4sI59mHNaStCSNAOUySPvxOflqX8qz2-SiH_eTRpI\/rs:fit\/g:sm\/q:90\/h:268\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzk2NDcxOTQx\/LTYwMTEuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/bz4sI59mHNaStCSNAOUySPvxOflqX8qz2-SiH_eTRpI\/rs:fit\/g:sm\/q:90\/h:268\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzk2NDcxOTQx\/LTYwMTEuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/HB79u_50qNhJt6_jzA9JzacC7rINsxqqrjPm45faTHQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xMzk2NDcxOTQx\/LTYwMTEuanBlZw.jpeg",
+            "width": 500,
+            "height": 268
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/EGsFPtQZ7oMS6N1vhAHW5G9K3nmPZcZu_WFzYtHkXIM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xNDc4NDI3MzY4\/LTk5NDUuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/EGsFPtQZ7oMS6N1vhAHW5G9K3nmPZcZu_WFzYtHkXIM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xNDc4NDI3MzY4\/LTk5NDUuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/-RIjk5a9xSZ-Cv2urm9taRdp1MJUz_9k8wyXja1Pe68\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xNDc4NDI3MzY4\/LTk5NDUuanBlZw.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/DXJBAEaljkFSVnVHGcpmc3unWgTGYI9Eiic3YhLidNo\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xNDc4NDI3Mzcy\/LTU2NTcuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/DXJBAEaljkFSVnVHGcpmc3unWgTGYI9Eiic3YhLidNo\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xNDc4NDI3Mzcy\/LTU2NTcuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/treR0KQfu3T0KGkiuz12nKU454l8LUKi8P7U_sbr5X4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mjgx\/MS0xNDc4NDI3Mzcy\/LTU2NTcuanBlZw.jpeg",
+            "width": 600,
+            "height": 600
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Breakbeat",
+        "Hardcore",
+        "Jungle"
+    ],
+    "year": 1993,
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Drums Of Doom",
+            "duration": ""
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Speckles",
+            "duration": ""
+        },
+        {
+            "position": "AA1",
+            "type_": "track",
+            "title": "Dub",
+            "duration": ""
+        },
+        {
+            "position": "AA2",
+            "type_": "track",
+            "title": "Halo Caust",
+            "duration": ""
+        }
+    ],
+    "artists": [
+        {
+            "name": "The Criminal Minds",
+            "anv": "",
+            "join": "Versus",
+            "role": "",
+            "tracks": "",
+            "id": 137627,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/137627",
+            "thumbnail_url": "https:\/\/i.discogs.com\/38cThz-SfzFZZbGZs4FPXPXSVQxNydzMhoMjOPy6Jms\/rs:fit\/g:sm\/q:90\/h:163\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEzNzYy\/Ny0xMDk3ODM3NzIx\/LmpwZw.jpeg"
+        },
+        {
+            "name": "D.O.T. (4)",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 649786,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/649786"
+        }
+    ],
+    "title": "Sound Clash At The Hill Vol.1",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=oxKLpOhWJ9I",
+            "title": "Criminal Minds Vs. Dot - Speckles",
+            "description": "Label: Labello Blanco Recordings \u200e\u2013 LB 33\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK\nReleased: 1993\nStyle: Breakbeat, Hardcore, Jungle",
+            "duration": 382,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=gSrRqXNvJAY",
+            "title": "The Criminal Minds vs DOT - Dub (1993)",
+            "description": "https:\/\/www.discogs.com\/The-Criminal-Minds-Versus-DOT-Sound-Clash-At-The-Hill-Vol1\/master\/2704",
+            "duration": 364,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=MqsRBmjYugI",
+            "title": "Criminal Minds Vs The D.O.T - Halo Caust",
+            "description": "\u266b \u2665 \u266b",
+            "duration": 278,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=c2FBF8vpN6Q",
+            "title": "Criminal Minds - Drums of Doom (LP Version)",
+            "description": "Version from the Labello Selection Box 2 Album.",
+            "duration": 285,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=BtG3e33Qw38",
+            "title": "The Criminal Minds \"Drums of doom\"",
+            "description": "Side A track one from the 1993 Sound clash at the hill ep by The Criminal Minds vs D.O.T. For further information please visit https:\/\/www.breaktothebeat.com\/mk-hip-hop-culture-part-1-1980-1990\/the-criminal-minds-tcm-part-one\/",
+            "duration": 354,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=edFAzUhFOuo",
+            "title": "Criminal  minds  vs d  o  t    drums of doom",
+            "description": "",
+            "duration": 356,
+            "embed": true
+        }
+    ]
+}

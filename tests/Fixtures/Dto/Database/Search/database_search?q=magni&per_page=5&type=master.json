@@ -1,0 +1,267 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 176,
+        "per_page": 5,
+        "items": 879,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=magni&per_page=5&type=master&page=176",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=magni&per_page=5&type=master&page=2"
+        }
+    },
+    "results": [
+        {
+            "country": "Austria",
+            "year": "1998",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Napalm Records",
+                "SPV GmbH",
+                "Blue House Studio",
+                "Blue House Studio",
+                "Gramofonov\u00e9 Z\u00e1vody"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Viking Metal",
+                "Black Metal"
+            ],
+            "id": 29236,
+            "barcode": [
+                "4001617276723",
+                "GZ IC1021 NPR037",
+                "IFPI 5J12",
+                "IFPI 5J24",
+                "IFPI 5J17",
+                "IFPI 5J01",
+                "01 (on mould)"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 29236,
+            "master_url": "https:\/\/api.discogs.com\/masters\/29236",
+            "uri": "\/master\/29236-Falkenbach-Magni-Blandinn-Ok-Megintiri",
+            "catno": "NPR037",
+            "title": "Falkenbach - ...Magni Blandinn Ok Megintiri...",
+            "thumb": "https:\/\/i.discogs.com\/emTOBihOjO19yvPBmV_fXs9KUN7b0F3lUNpaq3AR12I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNzc3\/Ni0xMTI4MTE1NzE1\/LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/OUUoulBQ9iheEpk4oAkfMlXm831lKNTVQF8TSGj9FZg\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNzc3\/Ni0xMTI4MTE1NzE1\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/29236",
+            "community": {
+                "want": 1587,
+                "have": 2872
+            }
+        },
+        {
+            "country": "France",
+            "year": "2005",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Marabi Productions",
+                "Harmonia Mundi Distribution",
+                "Marabi Productions",
+                "Marabi",
+                "Marabi Productions",
+                "Marabi Productions",
+                "Sonopress Arvato",
+                "Marabi",
+                "Marabi Productions",
+                "Studio Bogolan",
+                "Studio Boxson",
+                "Studio Boxson",
+                "Studio Boxson"
+            ],
+            "type": "master",
+            "genre": [
+                "Blues",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "African",
+                "Griot"
+            ],
+            "id": 664376,
+            "barcode": [
+                "794881779024",
+                "7 9488 177902 4",
+                "HM 83",
+                "SACEM SACD SGDL SDRM",
+                "[Sonopress Arvato logo] 51408866\/468809-2 21",
+                "IFPI LP 73",
+                "IFPI 0776"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 664376,
+            "master_url": "https:\/\/api.discogs.com\/masters\/664376",
+            "uri": "\/master\/664376-Boubacar-Traor%C3%A9-Kongo-Magni",
+            "catno": "46809.2",
+            "title": "Boubacar Traor\u00e9 - Kongo Magni",
+            "thumb": "https:\/\/i.discogs.com\/rKoISsWbPk5Fke2G2Ll2PmjwGcd8Ee9svSumYrDR0Io\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU0OTA3\/NjEtMTY2OTAxODk1\/OS01Mzc1LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/pNs7yI_fF3KpzwU8uaoLXx5UveO9A5mZZWpMSrIyDNI\/rs:fit\/g:sm\/q:90\/h:529\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU0OTA3\/NjEtMTY2OTAxODk1\/OS01Mzc1LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/664376",
+            "community": {
+                "want": 41,
+                "have": 158
+            }
+        },
+        {
+            "country": "Russia",
+            "year": "2010",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 \u2153 RPM",
+                "Compilation",
+                "Limited Edition"
+            ],
+            "label": [
+                "Arma Diaboli Productions",
+                "GZ Digital Media"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Black Metal",
+                "Death Metal"
+            ],
+            "id": 537114,
+            "barcode": [
+                "87286E1\/A",
+                "87286E2\/A"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 537114,
+            "master_url": "https:\/\/api.discogs.com\/masters\/537114",
+            "uri": "\/master\/537114-Pseudogod-Triumphus-Serpentis-Magni",
+            "catno": "ADWAX-001",
+            "title": "Pseudogod - Triumphus Serpentis Magni",
+            "thumb": "https:\/\/i.discogs.com\/7G8OUc2hEDJTiEOrleU58wHsVMDV7BYMkzsFS8tvcGo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NDI2\/NTMtMTI4NDMwNjY4\/Ni5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/AtDJv4MwpqVjrCkDNKOr6X76sX-83yiXwKLZKft0mC4\/rs:fit\/g:sm\/q:90\/h:200\/w:200\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NDI2\/NTMtMTI4NDMwNjY4\/Ni5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/537114",
+            "community": {
+                "want": 200,
+                "have": 208
+            }
+        },
+        {
+            "country": "UK, Europe & US",
+            "year": "2002",
+            "format": [
+                "CD",
+                "Maxi-Single"
+            ],
+            "label": [
+                "F Communications",
+                "PIAS Benelux",
+                "PIAS Germany",
+                "PIAS America",
+                "Creative Vibes",
+                "Musikvertrieb AG",
+                "PIAS France",
+                "Vital",
+                "Connected Music Vertrieb GmbH",
+                "Family Affair Distribution",
+                "Soul Seduction",
+                "Cisco International",
+                "Optimal Media Production",
+                "F Communications",
+                "F Communications"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "House"
+            ],
+            "id": 87613,
+            "barcode": [
+                "5 413356 185720",
+                "manufactured by optimal media production A264928-01",
+                "ifpi L571",
+                "IFPI 9713",
+                "SABAM \/ BIEM",
+                "LC 01347",
+                "081PS"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 87613,
+            "master_url": "https:\/\/api.discogs.com\/masters\/87613",
+            "uri": "\/Frederic-Galliano-And-The-African-Divas-Alla-Cassi-Magni\/master\/87613",
+            "catno": "F 164 CD",
+            "title": "Frederic Galliano And The African Divas - Alla Cassi Magni",
+            "thumb": "https:\/\/i.discogs.com\/1fiRJs90dNSp1oJO0uW21BTsA_hl9KuUl9zhOT2Pj70\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NDcw\/NC0xMjIzMDI1NzMy\/LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/YG0zbU7BLytDNnVoDi22mLtSGm_kB1IJa8_mq83yE00\/rs:fit\/g:sm\/q:90\/h:253\/w:293\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NDcw\/NC0xMjIzMDI1NzMy\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/87613",
+            "community": {
+                "want": 44,
+                "have": 219
+            }
+        },
+        {
+            "country": "UK",
+            "year": "1999",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Blackend",
+                "Nimbus",
+                "Diskxpress"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Black Metal",
+                "Death Metal"
+            ],
+            "id": 691799,
+            "barcode": [
+                "5028563253423",
+                "AAC2335 02655 BLACK017CD : 1:0",
+                "IFPI L123",
+                "ifpi 8Y07"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 691799,
+            "master_url": "https:\/\/api.discogs.com\/masters\/691799",
+            "uri": "\/master\/691799-Vim-Patior-Magni-Nominis-Umbra",
+            "catno": "BLACK017CD",
+            "title": "Vim Patior - Magni Nominis Umbra",
+            "thumb": "https:\/\/i.discogs.com\/KOJuk5zRcenmpOO4mgG7AwjC3btjhNu5AoedsfqOU4Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTYz\/NDAtMTU1MzMzNjEw\/NC03NTc5LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/uFl9H39lc-9OCU2SHznUca9Ky-A77WiIOz4GKHVKENs\/rs:fit\/g:sm\/q:90\/h:467\/w:470\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTYz\/NDAtMTU1MzMzNjEw\/NC03NTc5LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/691799",
+            "community": {
+                "want": 52,
+                "have": 123
+            }
+        }
+    ]
+}

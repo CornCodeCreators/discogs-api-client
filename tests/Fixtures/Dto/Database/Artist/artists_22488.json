@@ -1,0 +1,31 @@
+{
+    "name": "Ben Young",
+    "id": 22488,
+    "resource_url": "https:\/\/api.discogs.com\/artists\/22488",
+    "uri": "https:\/\/www.discogs.com\/artist\/22488-Ben-Young",
+    "releases_url": "https:\/\/api.discogs.com\/artists\/22488\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/T76VFma0_iGbKMNGibD4p8lq3Hs8yV7bg4yLLpTy8VU\/rs:fit\/g:sm\/q:90\/h:535\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIyNDg4\/LTE0MzM5NTc3NDMt\/NDg5OS5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/T76VFma0_iGbKMNGibD4p8lq3Hs8yV7bg4yLLpTy8VU\/rs:fit\/g:sm\/q:90\/h:535\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIyNDg4\/LTE0MzM5NTc3NDMt\/NDg5OS5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/tldyrd_CfsyTTBXozu240dd9vW1H3YiRnIvPaR8FR10\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIyNDg4\/LTE0MzM5NTc3NDMt\/NDg5OS5qcGVn.jpeg",
+            "width": 600,
+            "height": 535
+        }
+    ],
+    "profile": "Electronic genre remixing engineer and producer (e.g., [a=Massive Attack], [a=Almamegretta], [a=Bisca]).\r\n\r\n(For the jazz researcher and restorer use [a=Ben Young (3)])\n",
+    "namevariations": [
+        "B. Young"
+    ],
+    "groups": [
+        {
+            "id": 18997,
+            "name": "Fini Dolo",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/18997",
+            "active": true,
+            "thumbnail_url": ""
+        }
+    ],
+    "data_quality": "Needs Vote"
+}

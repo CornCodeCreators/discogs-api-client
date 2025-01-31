@@ -1,0 +1,211 @@
+{
+    "id": 2251,
+    "main_release": 497725,
+    "most_recent_release": 26714387,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2251",
+    "uri": "https:\/\/www.discogs.com\/master\/2251-Sunn-O-00-Void",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2251\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/497725",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/27207507",
+    "num_for_sale": 112,
+    "lowest_price": 3.99,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/aYbf9L31bHVP4jAy0CEHAozAOPIVhBa_qMS60GnGHfs\/rs:fit\/g:sm\/q:90\/h:522\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njg4\/LTYzNjUuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/aYbf9L31bHVP4jAy0CEHAozAOPIVhBa_qMS60GnGHfs\/rs:fit\/g:sm\/q:90\/h:522\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njg4\/LTYzNjUuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/88Fr2bXNAS1KY4z3KkIMAs8uHMMXBGtSf-K5Sg8ciws\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njg4\/LTYzNjUuanBlZw.jpeg",
+            "width": 600,
+            "height": 522
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/s0ccT5n2m3zqX-2R4FwVDloNppd4H8KIx1yUOdy2bYQ\/rs:fit\/g:sm\/q:90\/h:538\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njgz\/LTUyMDcuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/s0ccT5n2m3zqX-2R4FwVDloNppd4H8KIx1yUOdy2bYQ\/rs:fit\/g:sm\/q:90\/h:538\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njgz\/LTUyMDcuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/NlMBKPf_GXptb7FiKOi5PVLO--dg3sIEz7tUu1Ezjfs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njgz\/LTUyMDcuanBlZw.jpeg",
+            "width": 600,
+            "height": 538
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/nNxD5I0KAi2M_CU39rc8EOjd4qS7u53kDg3pi0IaR0U\/rs:fit\/g:sm\/q:90\/h:535\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njc4\/LTU0MTEuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/nNxD5I0KAi2M_CU39rc8EOjd4qS7u53kDg3pi0IaR0U\/rs:fit\/g:sm\/q:90\/h:535\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njc4\/LTU0MTEuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/ul9mg7UgCOTBVCH3hcf6oTuYHFcKmmJ-j57wlKtHpqE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njc4\/LTU0MTEuanBlZw.jpeg",
+            "width": 600,
+            "height": 535
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/f1ESge6sHNpKF08G3wkvHYbFNrfABi9uAzCwcXobvVE\/rs:fit\/g:sm\/q:90\/h:592\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njgw\/LTI3OTguanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/f1ESge6sHNpKF08G3wkvHYbFNrfABi9uAzCwcXobvVE\/rs:fit\/g:sm\/q:90\/h:592\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njgw\/LTI3OTguanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/tJMlEVNPV84aJu_US3FrLsjnhfDtrccvu6ayqEA6GlM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njgw\/LTI3OTguanBlZw.jpeg",
+            "width": 600,
+            "height": 592
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/nblKo06K9Fg0AtCD7iPIt-GNFLsYXWmB2H95JWzZzo4\/rs:fit\/g:sm\/q:90\/h:531\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njky\/LTY2MTUuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/nblKo06K9Fg0AtCD7iPIt-GNFLsYXWmB2H95JWzZzo4\/rs:fit\/g:sm\/q:90\/h:531\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njky\/LTY2MTUuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/cxeJUiL83FVxEOzNXBFfGFe0wyegclUNmDLFPqVYFCo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njky\/LTY2MTUuanBlZw.jpeg",
+            "width": 600,
+            "height": 531
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Bwv0PQ-9Q5eXTiVY-ki2SFVuHgLC2n8K9n_T8hj5-lo\/rs:fit\/g:sm\/q:90\/h:600\/w:555\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njky\/LTcwNjguanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Bwv0PQ-9Q5eXTiVY-ki2SFVuHgLC2n8K9n_T8hj5-lo\/rs:fit\/g:sm\/q:90\/h:600\/w:555\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njky\/LTcwNjguanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/ubV9CTEps0Mbpy0ZKT0M9zJIm8PcqMNBx-m9Pi-fQcM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njky\/LTcwNjguanBlZw.jpeg",
+            "width": 555,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/raWnhdlCnzZuFqDBGwQuhxAw_HwjU4tY6hn_jwaB-2Q\/rs:fit\/g:sm\/q:90\/h:130\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njg0\/LTM5MzQuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/raWnhdlCnzZuFqDBGwQuhxAw_HwjU4tY6hn_jwaB-2Q\/rs:fit\/g:sm\/q:90\/h:130\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njg0\/LTM5MzQuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/1W2PDctgQiWGjTPoRQRSKTXpmW9g3w2ARzNgZA7msqk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTU4OTk2Njg0\/LTM5MzQuanBlZw.jpeg",
+            "width": 600,
+            "height": 130
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/NB26bXb7t-rj9yKRivgHttUNZzDQn9dAiChG1hf1wf4\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTkxNzY3OTU2\/LTk2NzEuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/NB26bXb7t-rj9yKRivgHttUNZzDQn9dAiChG1hf1wf4\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTkxNzY3OTU2\/LTk2NzEuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/P6Za-d4hk9IyxB1z2odFE0uiy5C2jCLcGDoFu-92_Pc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5Nzcy\/NS0xNTkxNzY3OTU2\/LTk2NzEuanBlZw.jpeg",
+            "width": 600,
+            "height": 599
+        }
+    ],
+    "genres": [
+        "Electronic",
+        "Rock"
+    ],
+    "styles": [
+        "Drone",
+        "Doom Metal",
+        "Experimental"
+    ],
+    "year": 2000,
+    "tracklist": [
+        {
+            "position": "1",
+            "type_": "track",
+            "title": "Richard",
+            "extraartists": [
+                {
+                    "name": "G:Subharmonia",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Arranged By",
+                    "tracks": "",
+                    "id": 961874,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/961874"
+                }
+            ],
+            "duration": "14:32"
+        },
+        {
+            "position": "2",
+            "type_": "track",
+            "title": "NN O)))",
+            "extraartists": [
+                {
+                    "name": "The Duke (5)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Arranged By",
+                    "tracks": "",
+                    "id": 386397,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/386397"
+                }
+            ],
+            "duration": "15:15"
+        },
+        {
+            "position": "3",
+            "type_": "track",
+            "title": "Rabbits' Revenge",
+            "extraartists": [
+                {
+                    "name": "Sunn O)))",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Re-arranged By]",
+                    "tracks": "",
+                    "id": 218169,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/218169"
+                },
+                {
+                    "name": "Melvins",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 87652,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/87652"
+                }
+            ],
+            "duration": "14:01"
+        },
+        {
+            "position": "4",
+            "type_": "track",
+            "title": "Ra At Dusk",
+            "extraartists": [
+                {
+                    "name": "MK Ultra Blizzard",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Arranged By",
+                    "tracks": "",
+                    "id": 405629,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/405629"
+                }
+            ],
+            "duration": "14:43"
+        }
+    ],
+    "artists": [
+        {
+            "name": "Sunn O)))",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 218169,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/218169",
+            "thumbnail_url": "https:\/\/i.discogs.com\/PBJr67I3-Y92WowsF1meKc0n5A2mgA1TG9oYDMangts\/rs:fit\/g:sm\/q:90\/h:449\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIxODE2\/OS0xNTYwNjAyMzU5\/LTg4NzEuanBlZw.jpeg"
+        }
+    ],
+    "title": "0\u03380\u0338 Void",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=6-JHmV5LMLM",
+            "title": "Sunn O))) - Richard",
+            "description": "https:\/\/sunn.bandcamp.com\/album\/void\n\nhttps:\/\/www.southernlord.com\/releases\/view\/oo-void\n\nhttp:\/\/sunn.southernlord.com",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=90nRy1HL0iw",
+            "title": "NN O)))",
+            "description": "Provided to YouTube by The Orchard Enterprises\n\nNN O))) \u00b7 sunn O))) \u00b7 Stephen O'Malley \u00b7 Greg Anderson\n\nVoid 00\n\n\u2117 2000 Southern Lord Recordings\n\nReleased on: 2000-06-05\n\nAuto-generated by YouTube.",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=G7Ar8TZB0CQ",
+            "title": "Rabbits' Revenge",
+            "description": "Provided to YouTube by The Orchard Enterprises\n\nRabbits' Revenge \u00b7 sunn O))) \u00b7 Stephen O'Malley \u00b7 Greg Anderson\n\nVoid 00\n\n\u2117 2000 Southern Lord Recordings\n\nReleased on: 2000-06-05\n\nAuto-generated by YouTube.",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=sOtlMfCyCeM",
+            "title": "Ra at Dusk",
+            "description": "Provided to YouTube by The Orchard Enterprises\n\nRa at Dusk \u00b7 sunn O))) \u00b7 Stephen O'Malley \u00b7 Greg Anderson\n\nVoid 00\n\n\u2117 2000 Southern Lord Recordings\n\nReleased on: 2000-06-05\n\nAuto-generated by YouTube.",
+            "duration": 0,
+            "embed": true
+        }
+    ]
+}

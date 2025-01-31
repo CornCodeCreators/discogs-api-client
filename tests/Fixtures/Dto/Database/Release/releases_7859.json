@@ -1,0 +1,399 @@
+{
+    "id": 7859,
+    "status": "Accepted",
+    "year": 1972,
+    "resource_url": "https:\/\/api.discogs.com\/releases\/7859",
+    "uri": "https:\/\/www.discogs.com\/release\/7859-The-Mighty-Moog-Everything-You-Always-Wanted-To-Hear-On-The-Moog-But-Were-Afraid-To-Ask-For",
+    "artists": [
+        {
+            "name": "The Mighty Moog",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 1392354,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1392354"
+        }
+    ],
+    "artists_sort": "Mighty Moog, The",
+    "labels": [
+        {
+            "name": "Columbia Masterworks",
+            "catno": "M 30383",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 73845,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/73845",
+            "thumbnail_url": "https:\/\/i.discogs.com\/YxAJM8cikyslpCENpASYpDLh2RfhpxeZLuPk4l1gL2U\/rs:fit\/g:sm\/q:90\/h:245\/w:246\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTczODQ1\/LTE0MTMwNTA5NDkt\/Nzc5Ni5qcGVn.jpeg"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "Columbia Records",
+            "catno": "",
+            "entity_type": "10",
+            "entity_type_name": "Manufactured By",
+            "id": 93330,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/93330",
+            "thumbnail_url": "https:\/\/i.discogs.com\/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g\/rs:fit\/g:sm\/q:90\/h:117\/w:328\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTkzMzMw\/LTE1MjY0ODU4MTgt\/Mzk2Mi5qcGVn.jpeg"
+        },
+        {
+            "name": "CBS Inc.",
+            "catno": "",
+            "entity_type": "10",
+            "entity_type_name": "Manufactured By",
+            "id": 211334,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/211334",
+            "thumbnail_url": "https:\/\/i.discogs.com\/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA\/rs:fit\/g:sm\/q:90\/h:225\/w:225\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTIxMTMz\/NC0xNDg2NDIyMDYw\/LTExMzguanBlZw.jpeg"
+        },
+        {
+            "name": "Columbia Records Pressing Plant, Pitman",
+            "catno": "",
+            "entity_type": "17",
+            "entity_type_name": "Pressed By",
+            "id": 447694,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/447694",
+            "thumbnail_url": "https:\/\/i.discogs.com\/wBWbBFOUkrSdKRV0SZ5BnJd4BHbnh6JtHDUy3MT6h4s\/rs:fit\/g:sm\/q:90\/h:216\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTQ0NzY5\/NC0xMzk1MzQzMzg3\/LTU3NDguanBlZw.jpeg"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+            ]
+        }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+        "have": 1634,
+        "want": 138,
+        "rating": {
+            "count": 74,
+            "average": 3.96
+        },
+        "submitter": {
+            "username": "torkel",
+            "resource_url": "https:\/\/api.discogs.com\/users\/torkel"
+        },
+        "contributors": [
+            {
+                "username": "torkel",
+                "resource_url": "https:\/\/api.discogs.com\/users\/torkel"
+            },
+            {
+                "username": "Damnote",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Damnote"
+            },
+            {
+                "username": "SoulDancer",
+                "resource_url": "https:\/\/api.discogs.com\/users\/SoulDancer"
+            },
+            {
+                "username": "Kepe",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Kepe"
+            },
+            {
+                "username": "Alton2",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Alton2"
+            },
+            {
+                "username": "hugohugo",
+                "resource_url": "https:\/\/api.discogs.com\/users\/hugohugo"
+            },
+            {
+                "username": "Diognes_The_Fox",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Diognes_The_Fox"
+            },
+            {
+                "username": "TexasNoisician",
+                "resource_url": "https:\/\/api.discogs.com\/users\/TexasNoisician"
+            },
+            {
+                "username": "stassen",
+                "resource_url": "https:\/\/api.discogs.com\/users\/stassen"
+            },
+            {
+                "username": "Xaman",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Xaman"
+            },
+            {
+                "username": "disneyfacts",
+                "resource_url": "https:\/\/api.discogs.com\/users\/disneyfacts"
+            },
+            {
+                "username": "kinoeyevert",
+                "resource_url": "https:\/\/api.discogs.com\/users\/kinoeyevert"
+            },
+            {
+                "username": "BarnyardOrbit",
+                "resource_url": "https:\/\/api.discogs.com\/users\/BarnyardOrbit"
+            },
+            {
+                "username": "DiscogsUpdateBot",
+                "resource_url": "https:\/\/api.discogs.com\/users\/DiscogsUpdateBot"
+            },
+            {
+                "username": "JeffSKennedy",
+                "resource_url": "https:\/\/api.discogs.com\/users\/JeffSKennedy"
+            },
+            {
+                "username": "Snooper228",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Snooper228"
+            }
+        ],
+        "data_quality": "Needs Vote",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2001-07-25T03:21:26-07:00",
+    "date_changed": "2022-03-21T05:55:50-07:00",
+    "num_for_sale": 47,
+    "lowest_price": 2.6,
+    "master_id": 163588,
+    "master_url": "https:\/\/api.discogs.com\/masters\/163588",
+    "title": "Everything You Always Wanted To Hear On The Moog (But Were Afraid To Ask For)",
+    "country": "US",
+    "released": "1972",
+    "notes": "LP housed in a company dust sleeve with detailed catalog info about current LP's titled \"The Inner Sleeve\" dated 1972.",
+    "released_formatted": "1972",
+    "identifiers": [
+        {
+            "type": "Pressing Plant ID",
+            "value": "p",
+            "description": "Stamped in runout areas"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "AL 30383",
+            "description": "A-Side Label"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "BL 30383",
+            "description": "B-Side Label"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "p MAL-30383-1B 1 p C3",
+            "description": "Runout Side 1 (Stamped)"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "MBL 30383-1J 1 p D3",
+            "description": "Runout Side 2 (Stamped)"
+        },
+        {
+            "type": "Other",
+            "value": "79-751746",
+            "description": "Library of Congress catalog card number"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=064j6263wRk",
+            "title": "The Mighty Moog - Everything You Always Wanted To Hear On The Moog (FULL ALBUM)",
+            "description": "00:00 A1.Espa\u00f1a (Chabrier)\n06:21 A2.Malaguena (Lecuona)\n09:39 A3.Carmen Prelude To Act I; Habanera;(Les Tor\u00e9adors) (Bizet)\n15:15 B1.Bolero (Ravel)",
+            "duration": 1794,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=064j6263wRk",
+            "title": "The Mighty Moog - Everything You Always Wanted To Hear On The Moog (FULL ALBUM)",
+            "description": "00:00 A1.Espa\u00f1a (Chabrier)\n06:21 A2.Malaguena (Lecuona)\n09:39 A3.Carmen Prelude To Act I; Habanera;(Les Tor\u00e9adors) (Bizet)\n15:15 B1.Bolero (Ravel)",
+            "duration": 1794,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=064j6263wRk",
+            "title": "The Mighty Moog - Everything You Always Wanted To Hear On The Moog (FULL ALBUM)",
+            "description": "00:00 A1.Espa\u00f1a (Chabrier)\n06:21 A2.Malaguena (Lecuona)\n09:39 A3.Carmen Prelude To Act I; Habanera;(Les Tor\u00e9adors) (Bizet)\n15:15 B1.Bolero (Ravel)",
+            "duration": 1794,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic",
+        "Classical"
+    ],
+    "styles": [
+        "Modern Classical",
+        "Experimental"
+    ],
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Espa\u00f1a",
+            "extraartists": [
+                {
+                    "name": "Emmanuel Chabrier",
+                    "anv": "Chabrier",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 342541,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/342541"
+                }
+            ],
+            "duration": "6:17"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Malaguena",
+            "extraartists": [
+                {
+                    "name": "Ernesto Lecuona",
+                    "anv": "Lecuona",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 342539,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/342539"
+                }
+            ],
+            "duration": "3:14"
+        },
+        {
+            "position": "A3",
+            "type_": "track",
+            "title": "Prelude To Act I; Habanera; Introduction To Act I (Les Tor\u00e9adors) From \"Carmen\"",
+            "extraartists": [
+                {
+                    "name": "Georges Bizet",
+                    "anv": "Bizet",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 342543,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/342543"
+                }
+            ],
+            "duration": "5:30"
+        },
+        {
+            "position": "B",
+            "type_": "track",
+            "title": "Bolero",
+            "extraartists": [
+                {
+                    "name": "Maurice Ravel",
+                    "anv": "Ravel",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 216140,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/216140"
+                }
+            ],
+            "duration": "14:33"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "Tomi Ungerer",
+            "anv": "",
+            "join": "",
+            "role": "Cover",
+            "tracks": "",
+            "id": 1659221,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1659221"
+        },
+        {
+            "name": "John Berg",
+            "anv": "",
+            "join": "",
+            "role": "Cover, Design",
+            "tracks": "",
+            "id": 760210,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/760210"
+        },
+        {
+            "name": "Ray Moore",
+            "anv": "Raymond Moore",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 384856,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/384856"
+        },
+        {
+            "name": "Robert Waller (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 1417047,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1417047"
+        },
+        {
+            "name": "Stuart J. Romaine",
+            "anv": "Stew Romain",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2795351,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2795351"
+        },
+        {
+            "name": "Andrew Kazdin",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Conductor [Semi-conducted By]",
+            "tracks": "",
+            "id": 342540,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/342540"
+        },
+        {
+            "name": "Thomas Z. Shepard",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Conductor [Semi-conducted By]",
+            "tracks": "",
+            "id": 342542,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/342542"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/5z1pbfmuFZq3J2d5n2rLL0Bl20Jr5pADHwx0vt6YE1w\/rs:fit\/g:sm\/q:90\/h:600\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTQ1Nzk3OTYwMC0z\/NDkxLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/5z1pbfmuFZq3J2d5n2rLL0Bl20Jr5pADHwx0vt6YE1w\/rs:fit\/g:sm\/q:90\/h:600\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTQ1Nzk3OTYwMC0z\/NDkxLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/zbbt5IMpYk6IUbuLymAbLK8WZtC8wKqkv1Bnfj1K-UE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTQ1Nzk3OTYwMC0z\/NDkxLmpwZWc.jpeg",
+            "width": 593,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/2719GzVS73SNQKezKKbDYvpdQzRAL-sINFG1di65vJo\/rs:fit\/g:sm\/q:90\/h:600\/w:594\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTQ1Nzk3OTU5OS02\/MTc0LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/2719GzVS73SNQKezKKbDYvpdQzRAL-sINFG1di65vJo\/rs:fit\/g:sm\/q:90\/h:600\/w:594\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTQ1Nzk3OTU5OS02\/MTc0LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/l0a6Dv7cKAm2LNzM-WiUzwfSuV55hWPCFg9bjALcc1I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTQ1Nzk3OTU5OS02\/MTc0LmpwZWc.jpeg",
+            "width": 594,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Ti54_XVWPPtOigtLYr7N2wRmCJjZDUNvOoRANPY8e_8\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTI2NzU1NDgxMi5q\/cGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Ti54_XVWPPtOigtLYr7N2wRmCJjZDUNvOoRANPY8e_8\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTI2NzU1NDgxMi5q\/cGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/BROHrB8XZI6Jz2AnwLHWrRdlotKYSRs8Rk2Xe1HQBLM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTI2NzU1NDgxMi5q\/cGVn.jpeg",
+            "width": 600,
+            "height": 596
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/7Ec5NqFofABwstbzS_cfWWp9kUJuqGZmOUpfN4ufhl8\/rs:fit\/g:sm\/q:90\/h:600\/w:596\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTM2OTEyNTgwNi05\/NzQ3LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/7Ec5NqFofABwstbzS_cfWWp9kUJuqGZmOUpfN4ufhl8\/rs:fit\/g:sm\/q:90\/h:600\/w:596\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTM2OTEyNTgwNi05\/NzQ3LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/Lad5Ske74so6vd7cmoRK1qkR9MuAM69H_7s4_2Rg1AQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTM2OTEyNTgwNi05\/NzQ3LmpwZWc.jpeg",
+            "width": 596,
+            "height": 600
+        }
+    ],
+    "thumb": "https:\/\/i.discogs.com\/zbbt5IMpYk6IUbuLymAbLK8WZtC8wKqkv1Bnfj1K-UE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NTkt\/MTQ1Nzk3OTYwMC0z\/NDkxLmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

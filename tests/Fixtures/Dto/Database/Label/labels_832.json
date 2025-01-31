@@ -1,0 +1,27 @@
+{
+    "id": 832,
+    "name": "Wedafuqawi",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/832",
+    "uri": "https:\/\/www.discogs.com\/label\/832-Wedafuqawi",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/832\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/W4k8cU6J2of6P--ShwM28mq9sW02L5MYFq-Xa1cbdA8\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgzMi0x\/NjgzNTU2MDkyLTcy\/MzkuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/W4k8cU6J2of6P--ShwM28mq9sW02L5MYFq-Xa1cbdA8\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgzMi0x\/NjgzNTU2MDkyLTcy\/MzkuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/jPilGdmW1XmQN_zX5oO6cFxVanThBNmAdXDUx_uSso8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgzMi0x\/NjgzNTU2MDkyLTcy\/MzkuanBlZw.jpeg",
+            "width": 600,
+            "height": 591
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/yLuzZaaQch6OeJf_Hm-DpEd4mQw-PZXCcrByHJYT57c\/rs:fit\/g:sm\/q:90\/h:250\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgzMi0x\/MjA1MDE1OTI0Lmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/yLuzZaaQch6OeJf_Hm-DpEd4mQw-PZXCcrByHJYT57c\/rs:fit\/g:sm\/q:90\/h:250\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgzMi0x\/MjA1MDE1OTI0Lmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/_Gkd31WIWCG9jlkn9CrLk1v_qDEeKXeksGrc9T17s5o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTgzMi0x\/MjA1MDE1OTI0Lmpw\/ZWc.jpeg",
+            "width": 250,
+            "height": 250
+        }
+    ],
+    "profile": "Uk techno label distributed by [L=Intergroove]",
+    "data_quality": "Needs Vote"
+}

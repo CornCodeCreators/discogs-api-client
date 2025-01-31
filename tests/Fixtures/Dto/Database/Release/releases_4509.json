@@ -1,0 +1,253 @@
+{
+    "id": 4509,
+    "status": "Accepted",
+    "year": 1994,
+    "resource_url": "https:\/\/api.discogs.com\/releases\/4509",
+    "uri": "https:\/\/www.discogs.com\/release\/4509-Dan-Curtin-Dream-Not-Of-Today",
+    "artists": [
+        {
+            "name": "Dan Curtin",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 3402,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/3402",
+            "thumbnail_url": "https:\/\/i.discogs.com\/NrSCLtIDc3QO6qVngjgmrtT_Ujk5aGHUmoQwiVTEk6U\/rs:fit\/g:sm\/q:90\/h:600\/w:399\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTM0MDIt\/MTY5Nzk4OTQ3Ni03\/Mzk3LmpwZWc.jpeg"
+        }
+    ],
+    "artists_sort": "Dan Curtin",
+    "labels": [
+        {
+            "name": "Peacefrog Records",
+            "catno": "PF 024",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 253,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/253",
+            "thumbnail_url": "https:\/\/i.discogs.com\/w7KMm5sLd1eUJBSqK7fEVjePO5NZsk8B0B4vbJAVAEc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI1My0x\/NTI5MTI4Mjc4LTI1\/MDkucG5n.jpeg"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "Peace Frog",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 428110,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/428110"
+        },
+        {
+            "name": "JTS Studios",
+            "catno": "",
+            "entity_type": "30",
+            "entity_type_name": "Lacquer Cut At",
+            "id": 266169,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/266169",
+            "thumbnail_url": "https:\/\/i.discogs.com\/sGCFNRSLp4OEp2rMJHlIc6g4KWZUhzPoDwRgM9_BJao\/rs:fit\/g:sm\/q:90\/h:151\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2NjE2\/OS0xMzU5MDY2NTY5\/LTM1MTAuanBlZw.jpeg"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+                "12\"",
+                "33 \u2153 RPM"
+            ]
+        }
+    ],
+    "data_quality": "Correct",
+    "community": {
+        "have": 802,
+        "want": 1241,
+        "rating": {
+            "count": 177,
+            "average": 4.32
+        },
+        "submitter": {
+            "username": "tom",
+            "resource_url": "https:\/\/api.discogs.com\/users\/tom"
+        },
+        "contributors": [
+            {
+                "username": "tom",
+                "resource_url": "https:\/\/api.discogs.com\/users\/tom"
+            },
+            {
+                "username": "mattpuritan",
+                "resource_url": "https:\/\/api.discogs.com\/users\/mattpuritan"
+            },
+            {
+                "username": "missingchannel",
+                "resource_url": "https:\/\/api.discogs.com\/users\/missingchannel"
+            },
+            {
+                "username": "-MKII-",
+                "resource_url": "https:\/\/api.discogs.com\/users\/-MKII-"
+            },
+            {
+                "username": "3DSP",
+                "resource_url": "https:\/\/api.discogs.com\/users\/3DSP"
+            },
+            {
+                "username": "neurp",
+                "resource_url": "https:\/\/api.discogs.com\/users\/neurp"
+            },
+            {
+                "username": "vinylmaddy",
+                "resource_url": "https:\/\/api.discogs.com\/users\/vinylmaddy"
+            }
+        ],
+        "data_quality": "Correct",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2001-05-14T03:25:42-07:00",
+    "date_changed": "2023-09-25T07:42:57-07:00",
+    "num_for_sale": 21,
+    "lowest_price": 7.26,
+    "master_id": 300032,
+    "master_url": "https:\/\/api.discogs.com\/masters\/300032",
+    "title": "Dream Not Of Today",
+    "country": "UK",
+    "released": "1994-12-12",
+    "released_formatted": "12 Dec 1994",
+    "identifiers": [
+        {
+            "type": "Matrix \/ Runout",
+            "value": "PF 024-A \u2733-J.T.S.-",
+            "description": "Side A, etched"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "PF 024-B \u2733-J.T.S.-",
+            "description": "Side B, etched"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=lXVjQToKtJQ",
+            "title": "Dan Curtin - Track 17",
+            "description": "Label: Peacefrog Records \u200e\u2013 PF 024\r\nFormat: Vinyl, 12\", 33 \u2153 RPM \r\nCountry: UK\r\nReleased: 1994\r\nGenre: Electronic\r\nStyle: Acid, Deep House, Techno\r\n\r\nhttps:\/\/www.discogs.com\/Dan-Curtin-Dream-Not-Of-Today\/release\/4509\r\n\r\nI don't make any money with the vid",
+            "duration": 320,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=yPbZWXRN3GE",
+            "title": "Dan Curtin - Spliffed",
+            "description": "Label: Peacefrog Records \u200e\u2013 PF 024\r\nFormat: Vinyl, 12\", 33 \u2153 RPM \r\nCountry: UK\r\nReleased: 1994\r\nGenre: Electronic\r\nStyle: Acid, Deep House, Techno\r\n\r\nhttps:\/\/www.discogs.com\/Dan-Curtin-Dream-Not-Of-Today\/release\/4509\r\n\r\nI don't make any money with the vid",
+            "duration": 365,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=4DFoA9GsETo",
+            "title": "Dan Curtin - Wind And Water",
+            "description": "https:\/\/www.discogs.com\/Dan-Curtin-Dream-Not-Of-Today\/master\/300032",
+            "duration": 415,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=MMgf6055PAM",
+            "title": "Dan Curtin - One Evening At Mrs. Applebees",
+            "description": "Label: Peacefrog Records \u200e\u2013 PF 024\r\nFormat: Vinyl, 12\", 33 \u2153 RPM \r\nCountry: UK\r\nReleased: 1994\r\nGenre: Electronic\r\nStyle: Acid, Deep House, Techno\r\n\r\nhttps:\/\/www.discogs.com\/Dan-Curtin-Dream-Not-Of-Today\/release\/4509\r\n\r\nI don't make any money with the vid",
+            "duration": 325,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=lXVjQToKtJQ",
+            "title": "Dan Curtin - Track 17",
+            "description": "Label: Peacefrog Records \u200e\u2013 PF 024\r\nFormat: Vinyl, 12\", 33 \u2153 RPM \r\nCountry: UK\r\nReleased: 1994\r\nGenre: Electronic\r\nStyle: Acid, Deep House, Techno\r\n\r\nhttps:\/\/www.discogs.com\/Dan-Curtin-Dream-Not-Of-Today\/release\/4509\r\n\r\nI don't make any money with the vid",
+            "duration": 320,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=yPbZWXRN3GE",
+            "title": "Dan Curtin - Spliffed",
+            "description": "Label: Peacefrog Records \u200e\u2013 PF 024\r\nFormat: Vinyl, 12\", 33 \u2153 RPM \r\nCountry: UK\r\nReleased: 1994\r\nGenre: Electronic\r\nStyle: Acid, Deep House, Techno\r\n\r\nhttps:\/\/www.discogs.com\/Dan-Curtin-Dream-Not-Of-Today\/release\/4509\r\n\r\nI don't make any money with the vid",
+            "duration": 365,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=4DFoA9GsETo",
+            "title": "Dan Curtin - Wind And Water",
+            "description": "https:\/\/www.discogs.com\/Dan-Curtin-Dream-Not-Of-Today\/master\/300032",
+            "duration": 415,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=MMgf6055PAM",
+            "title": "Dan Curtin - One Evening At Mrs. Applebees",
+            "description": "Label: Peacefrog Records \u200e\u2013 PF 024\r\nFormat: Vinyl, 12\", 33 \u2153 RPM \r\nCountry: UK\r\nReleased: 1994\r\nGenre: Electronic\r\nStyle: Acid, Deep House, Techno\r\n\r\nhttps:\/\/www.discogs.com\/Dan-Curtin-Dream-Not-Of-Today\/release\/4509\r\n\r\nI don't make any money with the vid",
+            "duration": 325,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Acid",
+        "Deep House",
+        "Techno"
+    ],
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Track 17",
+            "duration": "5:16"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Spliffed",
+            "duration": "6:00"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Wind And Water",
+            "duration": "6:48"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "One Evening At Mrs. Applebees",
+            "duration": "5:17"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "Dan Curtin",
+            "anv": "",
+            "join": "",
+            "role": "Written-By, Producer",
+            "tracks": "",
+            "id": 3402,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/3402"
+        }
+    ],
+    "images": [
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Ruuksjlxbgv1D_wn1E6G7kpSuGqsbovZ7LgHdlkS86Y\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1MDkt\/MTE1NDA1MzY0OS5q\/cGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Ruuksjlxbgv1D_wn1E6G7kpSuGqsbovZ7LgHdlkS86Y\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1MDkt\/MTE1NDA1MzY0OS5q\/cGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/vufGXzlQNbJ9EoJQUZ0JZREM01EMBAj_WI1EYgZTFsY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1MDkt\/MTE1NDA1MzY0OS5q\/cGVn.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/oXkyv7WNm7M4H3N3gPPj1rWUwr3CpngtMrDTPtXWzxQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1MDkt\/MTE1NDA1MzY2Mi5q\/cGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/oXkyv7WNm7M4H3N3gPPj1rWUwr3CpngtMrDTPtXWzxQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1MDkt\/MTE1NDA1MzY2Mi5q\/cGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/aDPBBpjpULuj_L9Ks03IMx6dsKF_ui0x4ZSzqJlRKQA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1MDkt\/MTE1NDA1MzY2Mi5q\/cGVn.jpeg",
+            "width": 600,
+            "height": 600
+        }
+    ],
+    "thumb": "https:\/\/i.discogs.com\/vufGXzlQNbJ9EoJQUZ0JZREM01EMBAj_WI1EYgZTFsY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1MDkt\/MTE1NDA1MzY0OS5q\/cGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

@@ -1,0 +1,31 @@
+{
+    "id": 640,
+    "name": "Retroactive",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/640",
+    "uri": "https:\/\/www.discogs.com\/label\/640-Retroactive",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/640\/releases",
+    "images": [
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/U7xTEIVq4kpckgYPdZmrHdwS0-3jXI9hfN2wLDaORn0\/rs:fit\/g:sm\/q:90\/h:184\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTY0MC0x\/MTYwNTg2NzkxLmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/U7xTEIVq4kpckgYPdZmrHdwS0-3jXI9hfN2wLDaORn0\/rs:fit\/g:sm\/q:90\/h:184\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTY0MC0x\/MTYwNTg2NzkxLmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/RnzDrx39BufyerAR-tonUJxYXnKATVbkycWSxMPaVLY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTY0MC0x\/MTYwNTg2NzkxLmpw\/ZWc.jpeg",
+            "width": 150,
+            "height": 184
+        }
+    ],
+    "contact_info": "music@retroactiverecords.us",
+    "profile": "A Detroit label founded in 1990 by [a=Damon Booker] AKA djBlkout. Originally only 7 label releases appeared on Retroactive, some releases were moved to one of the two Retroactive sub labels: [l=33rpm Records \/ Sinewave] and [l=Centrifuge Records]. Retroactive records was re-activated in 2005 with 2 releases and a new Cat number Retro001 & Retro002",
+    "data_quality": "Needs Vote",
+    "urls": [
+        "http:\/\/www.retroactiverecords.us",
+        "http:\/\/www.myspace.com\/retroactivemusic"
+    ],
+    "sublabels": [
+        {
+            "id": 1678147,
+            "name": "Metal Icon Series",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1678147"
+        }
+    ]
+}

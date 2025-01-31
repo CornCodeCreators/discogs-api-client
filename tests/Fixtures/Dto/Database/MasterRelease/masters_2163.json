@@ -1,0 +1,136 @@
+{
+    "id": 2163,
+    "main_release": 247167,
+    "most_recent_release": 12946119,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2163",
+    "uri": "https:\/\/www.discogs.com\/master\/2163-Enzyme-X-Kapotnaaien-VIP",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2163\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/247167",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/12946090",
+    "num_for_sale": 16,
+    "lowest_price": 6,
+    "images": [
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/kIimaAc0LPz4IsOYilxJoPhdVqCdtGZi_kiIC9VhxQ0\/rs:fit\/g:sm\/q:90\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NzE2\/Ny0xMTA3NTE0MzIz\/LmpwZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/kIimaAc0LPz4IsOYilxJoPhdVqCdtGZi_kiIC9VhxQ0\/rs:fit\/g:sm\/q:90\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NzE2\/Ny0xMTA3NTE0MzIz\/LmpwZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/-en2HKviNkavIXmCeOUwgrAWZ-dp53pdXvfXqMfuxes\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NzE2\/Ny0xMTA3NTE0MzIz\/LmpwZw.jpeg",
+            "width": 150,
+            "height": 150
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Hardcore",
+        "Gabber",
+        "Ambient"
+    ],
+    "year": 2004,
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Kapotnaaien (Spunkbucket Mix)",
+            "extraartists": [
+                {
+                    "name": "Endymion",
+                    "anv": "",
+                    "join": "",
+                    "role": "Remix",
+                    "tracks": "",
+                    "id": 15147,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/15147"
+                },
+                {
+                    "name": "Nosferatu",
+                    "anv": "",
+                    "join": "",
+                    "role": "Remix",
+                    "tracks": "",
+                    "id": 15140,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/15140"
+                }
+            ],
+            "duration": "6:01"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Kapotnaaien (Original Mix)",
+            "duration": "3:57"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Kapotnaaien (Fotzelegger Mix)",
+            "extraartists": [
+                {
+                    "name": "D'Spyre",
+                    "anv": "",
+                    "join": "",
+                    "role": "Remix",
+                    "tracks": "",
+                    "id": 15146,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/15146"
+                }
+            ],
+            "duration": "5:59"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Kapotnaaien (Bukake Mix)",
+            "extraartists": [
+                {
+                    "name": "D'Spyre",
+                    "anv": "",
+                    "join": "",
+                    "role": "Remix",
+                    "tracks": "",
+                    "id": 15146,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/15146"
+                }
+            ],
+            "duration": "3:20"
+        }
+    ],
+    "artists": [
+        {
+            "name": "Enzyme X",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 17510,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/17510",
+            "thumbnail_url": "https:\/\/i.discogs.com\/FUNEVuefaVYwjrCoKbVv6ZOnbfWDVFsTZWTScltn7IM\/rs:fit\/g:sm\/q:90\/h:150\/w:149\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE3NTEw\/LTEwODQxNTQ5NDku\/Z2lm.jpeg"
+        }
+    ],
+    "title": "Kapotnaaien VIP",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=ZH18-06aTeM",
+            "title": "Enzyme X - Kapotnaaien",
+            "description": null,
+            "duration": 243,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=ZfyqbETNK-M",
+            "title": "DJ Nosferatu & Endymion - Kapotnaaien (D'spyre Fotzelegger Mix)",
+            "description": "Connect with the Enzyme crew here:\n\n++++++++++++++++++++++++++++++\u00ad++++++++++\u00ad+++++\n\nOfficial Website : http:\/\/www.enzyme.nl\nFacebook : http:\/\/facebook.com\/enzymerecords\nTwitter : http:\/\/twitter.com\/enzymerecords\nSoundcloud : http:\/\/soundcloud.com\/enzymer",
+            "duration": 356,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=YRTQceIxnU0",
+            "title": "Enzyme X - Kapotnaaien (Spunkbucket Remix) (Pitch + Harder)",
+            "description": "Enzyme X - Kapotnaaien (Spunkbucket Remix) (Pitch + Harder)",
+            "duration": 272,
+            "embed": true
+        }
+    ]
+}

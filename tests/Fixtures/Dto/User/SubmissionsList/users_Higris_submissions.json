@@ -1,0 +1,115 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 1,
+        "urls": []
+    },
+    "submissions": {
+        "releases": [
+            {
+                "id": 15345904,
+                "status": "Accepted",
+                "year": 2018,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/15345904",
+                "uri": "https:\/\/www.discogs.com\/release\/15345904-The-Beatles-Nme-Pollwinners-Concert-Empire-Poll-Wembley-London-England-26th-11th-April-1964",
+                "artists": [
+                    {
+                        "name": "The Beatles",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 82730,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/82730"
+                    }
+                ],
+                "artists_sort": "Beatles, The",
+                "labels": [
+                    {
+                        "name": "Not On Label",
+                        "catno": "none",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1818,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/1818"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "10\"",
+                            "Mini-Album",
+                            "Picture Disc",
+                            "Unofficial Release"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 5,
+                    "want": 6,
+                    "rating": {
+                        "count": 0,
+                        "average": 0
+                    },
+                    "submitter": {
+                        "username": "Carluqui1966",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Carluqui1966"
+                    },
+                    "contributors": [
+                        {
+                            "username": "Carluqui1966",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Carluqui1966"
+                        },
+                        {
+                            "username": "Higris",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Higris"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2020-05-21T08:57:53-07:00",
+                "date_changed": "2021-06-18T13:26:20-07:00",
+                "num_for_sale": 1,
+                "lowest_price": 72.92,
+                "title": "Nme Pollwinners Concert, Empire Poll, Wembley, London, England 26th - 11th April 1964",
+                "country": "Europe",
+                "released": "2018",
+                "notes": "C'est un picture disc.",
+                "released_formatted": "2018",
+                "identifiers": [
+                    {
+                        "type": "Barcode",
+                        "value": "05141100387"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Pop"
+                ],
+                "images": [
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/NKqspEeGjyMBTGVwk8y32ecSYbeYzvqGVziSkmcjsBw\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzQ1\/OTA0LTE1OTAwNzY2\/NzYtNzA0OS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/NKqspEeGjyMBTGVwk8y32ecSYbeYzvqGVziSkmcjsBw\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzQ1\/OTA0LTE1OTAwNzY2\/NzYtNzA0OS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/ZWgkydfhUyvWWZI35IaHMj6WewHlQBWtQdoWMfL9yU4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzQ1\/OTA0LTE1OTAwNzY2\/NzYtNzA0OS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 597
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/ZWgkydfhUyvWWZI35IaHMj6WewHlQBWtQdoWMfL9yU4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzQ1\/OTA0LTE1OTAwNzY2\/NzYtNzA0OS5qcGVn.jpeg",
+                "estimated_weight": 135
+            }
+        ],
+        "artists": [],
+        "labels": []
+    }
+}

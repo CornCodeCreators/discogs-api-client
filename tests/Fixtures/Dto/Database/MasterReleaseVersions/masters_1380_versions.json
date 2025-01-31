@@ -1,0 +1,152 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 2,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "45 RPM": 2,
+                "7\"": 2,
+                "Limited Edition": 2,
+                "Vinyl": 2
+            },
+            "label": {
+                "Cold Meat Industry": 2,
+                "Gz Digital Media": 1
+            },
+            "country": {
+                "Sweden": 2
+            },
+            "released": {
+                "2000": 2
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "45 RPM",
+                    "value": "45+RPM",
+                    "count": 2
+                },
+                {
+                    "title": "7\"",
+                    "value": "7%22",
+                    "count": 2
+                },
+                {
+                    "title": "Limited Edition",
+                    "value": "Limited+Edition",
+                    "count": 2
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Cold Meat Industry",
+                    "value": "Cold+Meat+Industry",
+                    "count": 2
+                },
+                {
+                    "title": "Gz Digital Media",
+                    "value": "Gz+Digital+Media",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "Sweden",
+                    "value": "Sweden",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "2000",
+                    "value": "2000",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 1070283,
+            "label": "Cold Meat Industry",
+            "country": "Sweden",
+            "title": "Legion Ultra",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "7\", 45 RPM, Limited Edition",
+            "catno": "CMI.82",
+            "released": "2000",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1070283",
+            "thumb": "https:\/\/i.discogs.com\/_BEAJ2woHnp6j6Cpmp8LPOacEc0_mS1Fx_XfMgF38jg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzAy\/ODMtMTE4OTg1MDAz\/OC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 126,
+                    "in_collection": 156
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 68750,
+            "label": "Cold Meat Industry",
+            "country": "Sweden",
+            "title": "Legion Ultra",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "7\", 45 RPM, Limited Edition",
+            "catno": "CMI.82",
+            "released": "2000",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/68750",
+            "thumb": "https:\/\/i.discogs.com\/AFczDhSttbDrUVFGuvXsq7UrtZvWJaMGE39CzNsHOuY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY4NzUw\/LTExODk1MjM1MTgu\/anBlZw.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 129,
+                    "in_collection": 216
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

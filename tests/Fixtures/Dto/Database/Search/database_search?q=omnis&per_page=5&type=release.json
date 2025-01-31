@@ -1,0 +1,301 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 233,
+        "per_page": 5,
+        "items": 1164,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=omnis&per_page=5&type=release&page=233",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=omnis&per_page=5&type=release&page=2"
+        }
+    },
+    "results": [
+        {
+            "country": "Germany",
+            "year": "2001",
+            "format": [
+                "CD",
+                "Maxi-Single"
+            ],
+            "label": [
+                "Chrom Records",
+                "Indigo",
+                "DOCdata Germany"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Synth-pop",
+                "Modern Classical",
+                "Techno"
+            ],
+            "id": 109945,
+            "barcode": [
+                "4 015698 053722",
+                "LC 02250",
+                "GEMA",
+                "DOCdata Germany INDIGO 0537-2",
+                "IFPI LL88",
+                "IFPI 5230"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1025619,
+            "master_url": "https:\/\/api.discogs.com\/masters\/1025619",
+            "uri": "\/release\/109945-Helium-Vola-Omnis-Mundi-Creatura",
+            "catno": "CRO 6422",
+            "title": "Helium Vola - Omnis Mundi Creatura",
+            "thumb": "https:\/\/i.discogs.com\/12gmrB6hAPkmerCKzl-5ffDfN0G24G1Cpj_mkAp2CyM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk0\/NS0xMTY0MTQwODU1\/LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/ihphaSVJitC54PI83pECmANLIkY1bnz94NU9NaSMEC4\/rs:fit\/g:sm\/q:90\/h:509\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk0\/NS0xMTY0MTQwODU1\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/109945",
+            "community": {
+                "want": 21,
+                "have": 87
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Maxi-Single"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "France",
+            "year": "2018",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Limited Edition"
+            ],
+            "label": [
+                "Osmose Productions",
+                "Les Editions Hurlantes",
+                "Osmose Productions",
+                "Osmose Productions",
+                "WSL Studio",
+                "XVINYLX.COM",
+                "GZ Media"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Black Metal"
+            ],
+            "id": 11659441,
+            "barcode": [
+                "XVINYLX.COM 165832E1\/A",
+                "XVINYLX.COM 165832E2\/A",
+                "XVINYLX.COM 165832E3\/A",
+                "XVINYLX.COM 165832E4\/A",
+                "LC 02406",
+                "SACEM SACD SCAM SDRM"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1278298,
+            "master_url": "https:\/\/api.discogs.com\/masters\/1278298",
+            "uri": "\/Meyhnach-Non-Omnis-Moriar\/release\/11659441",
+            "catno": "OPLP343",
+            "title": "Meyhnach - Non Omnis Moriar",
+            "thumb": "https:\/\/i.discogs.com\/b3-mBGydrKNXsgDLFvs960m2yoIB9Pv0H7kVxX2XgwY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjU5\/NDQxLTE1MjAxODYw\/ODEtMzcwNS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/KgzQDD_ErXcPYHQEMH__MR0ZuGgnH-4nKiVJaegPvbE\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjU5\/NDQxLTE1MjAxODYw\/ODEtMzcwNS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/11659441",
+            "community": {
+                "want": 22,
+                "have": 73
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "2",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "1997",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Celtic Heartbeat",
+                "Celtic Heartbeat Ltd.",
+                "Universal Records Inc.",
+                "Universal Music & Video Distribution, Inc.",
+                "Universal, Pinckneyville, IL",
+                "An\u00fana Teoranta",
+                "Celtic Heartbeat Ltd.",
+                "PhotoDisc, Inc.",
+                "Warner\/Chappell Music Ltd.",
+                "Blackrock College Chapel",
+                "Windmill Lane Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Classical",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Celtic",
+                "Choral"
+            ],
+            "id": 2688821,
+            "barcode": [
+                "601215309829",
+                "6 01215 30982 9",
+                "UD53098 0317307311 MFG BY UNIVERSAL",
+                "IFPI L771",
+                "IFPI 2A30"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 698526,
+            "master_url": "https:\/\/api.discogs.com\/masters\/698526",
+            "uri": "\/release\/2688821-An%C3%BAna-Omnis",
+            "catno": "UD-53098",
+            "title": "An\u00fana - Omnis",
+            "thumb": "https:\/\/i.discogs.com\/yn0qVfD7Li1GcWEWi0FmyvLXg9iEgV0X2Wv-1-dox-o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2ODg4\/MjEtMTI5NjY0NzI4\/My5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/3Q_ta0y6bhOo_LNzmea7YpBU5u81eu0Scghkl9ZywZg\/rs:fit\/g:sm\/q:90\/h:588\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2ODg4\/MjEtMTI5NjY0NzI4\/My5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/2688821",
+            "community": {
+                "want": 3,
+                "have": 38
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Germany",
+            "year": "2021",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Purity Through Fire",
+                "Kalthallen Studio",
+                "Kalthallen Studio"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Black Metal"
+            ],
+            "id": 21314374,
+            "barcode": [
+                "72812 8MERCH.COM",
+                "IFPI LZ88",
+                "IFPI Z938"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 2417557,
+            "master_url": "https:\/\/api.discogs.com\/masters\/2417557",
+            "uri": "\/release\/21314374-Mavorim-Non-Omnis-Moriar",
+            "catno": "PTF260",
+            "title": "Mavorim - Non Omnis Moriar",
+            "thumb": "https:\/\/i.discogs.com\/YauEIYxk67sEKgHayNCdiFyrhvwRtAcceV8DDB7mSnM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxMzE0\/Mzc0LTE2MzkyNTE5\/MjctNzQ3Ni5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/ocJqmXveI918euQ7P3SIcmvYwYIAju6s_RUkGt-07_g\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxMzE0\/Mzc0LTE2MzkyNTE5\/MjctNzQ3Ni5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/21314374",
+            "community": {
+                "want": 18,
+                "have": 98
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Germany",
+            "year": "2022",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Limited Edition"
+            ],
+            "label": [
+                "Purity Through Fire"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Black Metal"
+            ],
+            "id": 23550602,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 2417557,
+            "master_url": "https:\/\/api.discogs.com\/masters\/2417557",
+            "uri": "\/release\/23550602-Mavorim-Non-Omnis-Moriar",
+            "catno": "PTF260",
+            "title": "Mavorim - Non Omnis Moriar",
+            "thumb": "https:\/\/i.discogs.com\/f3ZZeidFtgWIOvpFPChv7o0KwIN-C0GZIUaLZIIkPX8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzNTUw\/NjAyLTE2NTUwNDQ5\/MDktNzIzNC5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/EZNrSzmLu727L8S8waN8HtH5ARN0ghzrpQUbI72krBA\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzNTUw\/NjAyLTE2NTUwNDQ5\/MDktNzIzNC5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/23550602",
+            "community": {
+                "want": 21,
+                "have": 92
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Clear w\/ White Splatter",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            ]
+        }
+    ]
+}

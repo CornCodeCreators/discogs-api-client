@@ -1,0 +1,365 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 2000,
+        "per_page": 5,
+        "items": 14422,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&type=release&page=2000",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&type=release&page=2"
+        }
+    },
+    "results": [
+        {
+            "country": "Europe",
+            "year": "2015",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "DGC",
+                "Sub Pop",
+                "Geffen Records",
+                "Geffen Records",
+                "Optimal Media GmbH"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge",
+                "Alternative Rock"
+            ],
+            "id": 7445961,
+            "barcode": [
+                "6 02547 37878 1",
+                "602547378781",
+                "BIEM\/SDRM",
+                "BF93390-01 A1 602547378781-A CB",
+                "BF93390-01 B1 602547378781-B CB"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/release\/7445961-Nirvana-Nirvana",
+            "catno": "0602547378781",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/w7JTNpEghFbtBxIFIgn8twjuiQlzqCCs6TQ3NRKKlzc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc0NDU5\/NjEtMTcwNzI0NzI1\/NC0zNTIzLmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/1Xuu3z4R1dmTMv8rh9V1lpyNKW9uFtdGXgGydJWnCt0\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc0NDU5\/NjEtMTcwNzI0NzI1\/NC0zNTIzLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/7445961",
+            "community": {
+                "want": 1459,
+                "have": 18556
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "180 Gram",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "2015",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Geffen Records",
+                "Sub Pop",
+                "UMe",
+                "Geffen Records",
+                "Geffen Records",
+                "Universal Music Distribution",
+                "Quality Record Pressings",
+                "Bernie Grundman Mastering"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 7802791,
+            "barcode": [
+                "602547378781",
+                "B0023396-01-A CB",
+                "B0023396-01-B CB",
+                "QRP"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/release\/7802791-Nirvana-Nirvana",
+            "catno": "B0023396-01",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/RbaZ_rwDiYLe65ew94XDIw549kcAqjV6hTljsTxGmRk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4MDI3\/OTEtMTYyMTM1MTgy\/My04NzE5LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/JaWi2I-ElToRWGV-ej_tl1vc0UGVWV_8LMtHLa9Xld8\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4MDI3\/OTEtMTYyMTM1MTgy\/My04NzE5LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/7802791",
+            "community": {
+                "want": 624,
+                "have": 8873
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "150g",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "2020",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Limited Edition",
+                "Reissue"
+            ],
+            "label": [
+                "DGC",
+                "Walmart",
+                "Quality Record Pressings",
+                "Bernie Grundman Mastering",
+                "Geffen Records",
+                "Geffen Records",
+                "Universal Records",
+                "UMe",
+                "Robert Lange Studios, Seattle",
+                "Sub Pop Records",
+                "Sub Pop Records",
+                "Bernie Grundman Mastering",
+                "Sterling Sound",
+                "Abbey Road Studios",
+                "MTV Networks",
+                "The End Of Music, LLC",
+                "Primary Wave Tunes",
+                "BMG Rights Management (US) LLC",
+                "Murky Slough Music",
+                "Songs Of Kobalt Music Publishing",
+                "M.J. Twelve Music",
+                "Tintoretto Music",
+                "Screen Gems",
+                "Chrysalis Songs"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Alternative Rock",
+                "Grunge",
+                "Acoustic"
+            ],
+            "id": 16208904,
+            "barcode": [
+                "6 02507 20406 8",
+                "602507204068",
+                "B0023396-01-A CB [QRP logo]",
+                "B0023396-01-B CB [QRP logo]",
+                "BMI"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/release\/16208904-Nirvana-Nirvana",
+            "catno": "B0032293-01",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/e6O5lXo7d7hBzG72dE0Pi3qOkjlW6gUHBw7quConFAs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjA4\/OTA0LTE2OTkxNTU1\/OTEtNjc3My5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/t5ocUbZqyzmjhTNkXL-Bj-W49c7MNPTcZCZoic_c8IE\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MjA4\/OTA0LTE2OTkxNTU1\/OTEtNjc3My5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/16208904",
+            "community": {
+                "want": 878,
+                "have": 6039
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Smoke",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Limited Edition",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "year": "2015",
+            "format": [
+                "Vinyl",
+                "LP",
+                "45 RPM",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "DGC",
+                "Sub Pop",
+                "MTV Unplugged",
+                "Universal Music Group",
+                "Geffen Records",
+                "Geffen Records",
+                "Universal Music & Video Distribution, Corp.",
+                "Universal Music & Video Distribution, Corp.",
+                "Bernie Grundman Mastering",
+                "Bernie Grundman Mastering",
+                "Optimal Media GmbH"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 7710040,
+            "barcode": [
+                "602547289483",
+                "602547289483-A CB BF93389-01 A1",
+                "602547289483-B CB BF93389-01 B1",
+                "602547289483-C CB BF93389-02 C1",
+                "602547289483-D CB BF93389-02 D1"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/release\/7710040-Nirvana-Nirvana",
+            "catno": "0602547289483",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/k1N76GA6NbA9I2zOuqo0l8F2I9BlepvtZQWGK_rcsxw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc3MTAw\/NDAtMTcxMjY1MTk0\/Ny05NTg0LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/KdlXis-hkX4Obx3Rv0pnTtbPrnPm8jyPmHuXt64EKw4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc3MTAw\/NDAtMTcxMjY1MTk0\/Ny05NTg0LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/7710040",
+            "community": {
+                "want": 640,
+                "have": 3859
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "2",
+                    "text": "180g, Gatefold",
+                    "descriptions": [
+                        "LP",
+                        "45 RPM",
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "year": "2002",
+            "format": [
+                "CD",
+                "Compilation",
+                "Remastered"
+            ],
+            "label": [
+                "Geffen Records",
+                "Sub Pop",
+                "Geffen Records",
+                "Geffen Records",
+                "Gateway Mastering",
+                "The End Of Music",
+                "EMI Virgin Songs, Inc.",
+                "M.J. Twelve Music",
+                "Murky Slough Music",
+                "Tintoretto Music",
+                "Screen Gems-EMI",
+                "Chrysalis Songs",
+                "Folkways Music Publishers, Inc."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge",
+                "Alternative Rock"
+            ],
+            "id": 5322406,
+            "barcode": [
+                "606949352325",
+                "6 06949 35232 5",
+                "LC07266",
+                "BIEM\/MCPS",
+                "C4935232",
+                "IFPI LL21",
+                "IFPI 0620",
+                "C4935232.2",
+                "IFPI LL21",
+                "IFPI 0624",
+                "C4935232",
+                "IFPI LL21",
+                "none"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/release\/5322406-Nirvana-Nirvana",
+            "catno": "493 523-2",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/frCC75Kl8L6RqocuaGDcy3i51cJdV_43jvpTOC-p6kA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUzMjI0\/MDYtMTQ2MjUzMDg3\/NC00OTIwLnBuZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/1V37KN-78EuHcbWz0BZ0x4gJz-UjeUGpBdB_9AD7eFU\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUzMjI0\/MDYtMTQ2MjUzMDg3\/NC00OTIwLnBuZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/5322406",
+            "community": {
+                "want": 154,
+                "have": 3907
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Compilation",
+                        "Remastered"
+                    ]
+                }
+            ]
+        }
+    ]
+}

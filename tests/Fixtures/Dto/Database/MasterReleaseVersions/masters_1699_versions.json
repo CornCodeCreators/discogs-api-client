@@ -1,0 +1,189 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 3,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "12\"": 3,
+                "Vinyl": 3,
+                "33 \u2153 RPM": 2,
+                "45 RPM": 2,
+                "Limited Edition": 1,
+                "Test Pressing": 1,
+                "White Label": 1
+            },
+            "label": {
+                "Surface": 3
+            },
+            "country": {
+                "UK": 3
+            },
+            "released": {
+                "2001": 3
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "12\"",
+                    "value": "12%22",
+                    "count": 3
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 3
+                },
+                {
+                    "title": "33 \u2153 RPM",
+                    "value": "33+%E2%85%93+RPM",
+                    "count": 2
+                },
+                {
+                    "title": "45 RPM",
+                    "value": "45+RPM",
+                    "count": 2
+                },
+                {
+                    "title": "Limited Edition",
+                    "value": "Limited+Edition",
+                    "count": 1
+                },
+                {
+                    "title": "Test Pressing",
+                    "value": "Test+Pressing",
+                    "count": 1
+                },
+                {
+                    "title": "White Label",
+                    "value": "White+Label",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Surface",
+                    "value": "Surface",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "UK",
+                    "value": "UK",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "2001",
+                    "value": "2001",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 15006607,
+            "label": "Surface",
+            "country": "UK",
+            "title": "Last Journey",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM, 45 RPM, White Label",
+            "catno": "SF014.5",
+            "released": "2001",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/15006607",
+            "thumb": "https:\/\/i.discogs.com\/zSaot_ZaSuyDFuKerv2mcnK7Z7rCEOCIpAuAH0AXAIw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDA2\/NjA3LTE1ODU0MTYw\/NjYtODkxMS5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 35,
+                    "in_collection": 9
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 15493,
+            "label": "Surface",
+            "country": "UK",
+            "title": "Last Journey",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", Limited Edition",
+            "catno": "Surface 14.5",
+            "released": "2001",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/15493",
+            "thumb": "https:\/\/i.discogs.com\/5KIFuXr6SFtWyemseThMlztwr5BEEHlbnEztgyi89Fc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDkz\/LTEzNTQ0MDMxMTEt\/MzczOS5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 392,
+                    "in_collection": 298
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1588476,
+            "label": "Surface",
+            "country": "UK",
+            "title": "Last Journey",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", Test Pressing, 45 RPM, 33 \u2153 RPM",
+            "catno": "SF014.5",
+            "released": "2001",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1588476",
+            "thumb": "",
+            "stats": {
+                "community": {
+                    "in_wantlist": 146,
+                    "in_collection": 25
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

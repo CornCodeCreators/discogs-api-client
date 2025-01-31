@@ -1,0 +1,101 @@
+{
+    "id": 754,
+    "name": "EMI Records",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/754",
+    "uri": "https:\/\/www.discogs.com\/label\/754-EMI-Records",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/754\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/Z6fF-KnSzJG4uGQWWNzaKUICfdE3QoVMeEC5XzieAL4\/rs:fit\/g:sm\/q:90\/h:200\/w:200\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/Mzg3NjIyNzUwLTky\/NzQuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Z6fF-KnSzJG4uGQWWNzaKUICfdE3QoVMeEC5XzieAL4\/rs:fit\/g:sm\/q:90\/h:200\/w:200\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/Mzg3NjIyNzUwLTky\/NzQuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/iBeqMSiMr2C9glbH-TGcjRli7XEoOmwCRvLmw69Puy8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/Mzg3NjIyNzUwLTky\/NzQuanBlZw.jpeg",
+            "width": 200,
+            "height": 200
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/PeveWDJA9WX_mLYyhwF9JEzOy-OAvJlSCMZbWBgRr1A\/rs:fit\/g:sm\/q:90\/h:86\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTI4MzcxNjc3Lmdp\/Zg.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/PeveWDJA9WX_mLYyhwF9JEzOy-OAvJlSCMZbWBgRr1A\/rs:fit\/g:sm\/q:90\/h:86\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTI4MzcxNjc3Lmdp\/Zg.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/zWr1ZR8VKQEYYhH0et-F6z4UfOW9CPv17TQpGMjNuqI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTI4MzcxNjc3Lmdp\/Zg.jpeg",
+            "width": 150,
+            "height": 86
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/BwBshNtX09Fn2tBDpm6kwvCXCSCixLvSAETBIG6JmsY\/rs:fit\/g:sm\/q:90\/h:42\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTQyOTE3OTIyLmdp\/Zg.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/BwBshNtX09Fn2tBDpm6kwvCXCSCixLvSAETBIG6JmsY\/rs:fit\/g:sm\/q:90\/h:42\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTQyOTE3OTIyLmdp\/Zg.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/FMGHTzON6R5aGR2tvp3iA8BBaShvR3VbjhnLUpH5Hk8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTQyOTE3OTIyLmdp\/Zg.jpeg",
+            "width": 250,
+            "height": 42
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/hEmTaCoM7-QyH2caYwyMoIRB-P5AEysAm1z8K6wQJX0\/rs:fit\/g:sm\/q:90\/h:97\/w:175\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTQ0ODA4OTkzLmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/hEmTaCoM7-QyH2caYwyMoIRB-P5AEysAm1z8K6wQJX0\/rs:fit\/g:sm\/q:90\/h:97\/w:175\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTQ0ODA4OTkzLmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/5Uy56n6JJ1JEyDBtJ4zqWvdzlL-VC4Rz8XfObam0sDw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/MTQ0ODA4OTkzLmpw\/ZWc.jpeg",
+            "width": 175,
+            "height": 97
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/udEyApdorkuj8noyAJdh4Y9I8sT3UrxGX0axkosxxyA\/rs:fit\/g:sm\/q:90\/h:377\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDQ0MTQwNDAzLTE5\/MDguanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/udEyApdorkuj8noyAJdh4Y9I8sT3UrxGX0axkosxxyA\/rs:fit\/g:sm\/q:90\/h:377\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDQ0MTQwNDAzLTE5\/MDguanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/_fgx4JIhxY7huT18BqjuUJuk7epmr5mtE7F-26AlVeM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDQ0MTQwNDAzLTE5\/MDguanBlZw.jpeg",
+            "width": 600,
+            "height": 377
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/OPMakwLx3q44h-Vqy2edtARs9idNy2qHiWq450lANyQ\/rs:fit\/g:sm\/q:90\/h:300\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDk1NjExMzk0LTM3\/MzIuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/OPMakwLx3q44h-Vqy2edtARs9idNy2qHiWq450lANyQ\/rs:fit\/g:sm\/q:90\/h:300\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDk1NjExMzk0LTM3\/MzIuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/0TPBExAL9q9NjNkhVJo6wnOrB1hQBc2W1RNlP8-BD9g\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDk1NjExMzk0LTM3\/MzIuanBlZw.jpeg",
+            "width": 400,
+            "height": 300
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/dBH2qrB4lKNsjAcCqqM6boBGEvMLYXzqUYzIEiZF3AM\/rs:fit\/g:sm\/q:90\/h:400\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NjU0MTc1MzM0LTkw\/MzYuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/dBH2qrB4lKNsjAcCqqM6boBGEvMLYXzqUYzIEiZF3AM\/rs:fit\/g:sm\/q:90\/h:400\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NjU0MTc1MzM0LTkw\/MzYuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/Vgkjh0TShpQ9M9pbUIZMrfi80lchnoht-MasNFE_5c0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NjU0MTc1MzM0LTkw\/MzYuanBlZw.jpeg",
+            "width": 600,
+            "height": 400
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/9Qw2yukYrfL9NgNt_AcV-VrjqDWTHbVc57IVZQG-xeM\/rs:fit\/g:sm\/q:90\/h:392\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/Mzg3NjIyOTI2LTgw\/MTMuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/9Qw2yukYrfL9NgNt_AcV-VrjqDWTHbVc57IVZQG-xeM\/rs:fit\/g:sm\/q:90\/h:392\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/Mzg3NjIyOTI2LTgw\/MTMuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/ejPM4P7Cw1YRBjDFlECAkDwU4CWSJnU0LKnLkoiyB9U\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/Mzg3NjIyOTI2LTgw\/MTMuanBlZw.jpeg",
+            "width": 600,
+            "height": 392
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/eUrFW-GMnijTIQtKJ3W_bOX7EGZpBLHhpYjTq1fkScc\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDg3MzQxMTI0LTQ0\/NDIuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/eUrFW-GMnijTIQtKJ3W_bOX7EGZpBLHhpYjTq1fkScc\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDg3MzQxMTI0LTQ0\/NDIuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/XOhYOySmw-z96oPIGSqwpAyAhs5EcYLqF0pPoJwcNCM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NDg3MzQxMTI0LTQ0\/NDIuanBlZw.jpeg",
+            "width": 600,
+            "height": 450
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/1rY1IQIg3g9CaxSUE8MusdtRUM0a7a8z366Q3_rANos\/rs:fit\/g:sm\/q:90\/h:751\/w:547\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NTkxNzQ2NDAyLTI0\/NDguanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/1rY1IQIg3g9CaxSUE8MusdtRUM0a7a8z366Q3_rANos\/rs:fit\/g:sm\/q:90\/h:751\/w:547\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NTkxNzQ2NDAyLTI0\/NDguanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/1qrAWKiKbiCeTZC4P4dAxDK3NNgOlh7KDw26SJsGA4o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTc1NC0x\/NTkxNzQ2NDAyLTI0\/NDguanBlZw.jpeg",
+            "width": 547,
+            "height": 751
+        }
+    ],
+    "contact_info": "Factory, July 1972 - 2000:\r\n1-3 Uxbridge Road\r\nHayes, Middlesex UB4 0SY\r\nUK\r\nTel.: 01-561 8722\r\n[obsolete]\r\n\r\nThe US company of the same name:\r\nEMI Records\r\n1290 Avenue of the Americas\r\nNew York, NY 10104",
+    "profile": "Trading name for [l=EMI Records Ltd.] \r\n\r\nThis can be used for \"Pressed By\" on records and \"Duplicated By\" on cassettes manufactured between July 1973 and 2000 by that company.\r\n\r\nDo not confuse with the record company [l=E.M.I. Records], often followed by \"(The Gramophone Co. Ltd.)\". \r\nFor releases showing the \"EMI\" logo, see [l=EMI].\r\n\r\nEMI Records manufactured records at their record factories in Hayes, Middlesex. Originally, the plant was located on Blyth Road but moved to new premises at Uxbridge Road by July 1972. The 160,000 sq. ft. pressing plant consisted of a pressroom with 112 vinyl presses plus room for 28 more when needed, the sleeve store and sleeving area, as well as a tape duplication plant. The plant is famous for using the unique EMI 1400 presses, which were custom-built in-house and as such are the only presses of their kind in the world.\r\n\r\nThe plant previously operated as [l=The Gramophone Co. Ltd.] until 1 July 1973. It was closed in 2000 and was subsequently acquired by the independent manufacturer [url=https:\/\/www.discogs.com\/label\/476195-Portal-Space]Portalspace Records Limited[\/url].\r\n\r\nRecords pressed by EMI Records always feature a runout machine-stamp unique to the EMI 1400 press, with a unique typography and a wide spaced typeface (see images for example).\r\n\r\nFor the pressing of EMI labels, the plant used the 9 and 3 o'clock locations for mother and stamper identity respectively (oriented to the matrix). For stampers the company used the 10-digit code \"GRAMOPHLTD\"; G=1 R=2 A=3 M=4 O=5 P=6 H=7 L=8 T=9 D=0. This was given up by 1981.\r\n\r\nEMI Records was the first UK pressing plant to press DMM, starting in early\/mid 1984. \r\n\r\n[b]Contract pressings[\/b]:\r\nThe plant also undertook contract pressings for other companies from the late 1960s until 1999. Clients included [l=Liberty], [l=United Artists Records] and [l=Island Records] (until 1974). Additionally, between 1988 (when the Polygram UK plant was closed) and 1992 (Polygram switched to other manufacturers), EMI also pressed for PolyGram UK.\r\nThe contract pressings never credit EMI Records directly.\r\n\r\n[b]Big hole\/jukebox records[\/b]: \r\nEMI Records did not press 7\u201d records with big holes apart from some specific items in the late 1980s and 1990s. Up until November 1966, EMI had pressed both solid centre 7\u201d records and push-out centre 7\u201d records with the latter being the most common, however, in that month the decision was made to only press 7\u201d records with solid centres thereafter, apart from a small number of push-out centre singles for \u201cspecial purposes\u201d. One of these \u201cspecial purposes\u201d was export, and another was for use in jukeboxes. Later in the 1970s they seem to have reversed this and push out centres became common again but there is no evidence of big hole 45s with paper labels and EMI staff stated they had no presses that could do this.\r\n\r\nIn the last half of the 1980s, EMI introduced injection moulded 7\u201d records and with the downturn in vinyl sales, jukeboxes became more important and some 7\u201d injection moulded 45s were made with big holes. These are the only big hole 45s manufactured by EMI and any others with paper labels are post-manufactured \u201cdinks\u201d. \r\n\r\n[b]EMI pressings using lacquers from non-EMI studios[\/b]:\r\nThe letter U was added at the stage of making the 'father'. It indicates that the lacquers were cut by an external (non-EMI) mastering studio.\r\nThe characteristic runout pattern is: [b]-xU-m-n[\/b] (e.g. -1U-1-7). A record with the following in the runout \"[url=http:\/\/tinyurl.com\/svnskux]LASH 19-A-1U-1-Q2[\/url]\" can be broken down as follows:\r\n\"LASH 19\" is the catalogue number. \"A\" is the side identifier. \"1U\" is the cut number with U identifying the pressing as an external cut (i.e. that it was not cut at the EMI-owned [l217694]), \"1-Q2\" shows the mother and stamper numbers.\r\nOften, the U is very faint and looks more like a J.\r\n\r\nBy 1993, the runout pattern did not contain the \"U\" cut or \"Q\" stamper indicators anymore but looks like [b]-x-m-n[\/b] (e.g. -1-1-7). \r\nAs before, a record with the following in the runout \"[url=https:\/\/www.discogs.com\/release\/79792]B2B 12001 A-1-1-1[\/url]\" can be broken down as follows:\r\n\"B2B 12001\" is the catalogue number. \"A\" is the side identifier. \"1-1-1\" indicates the cut-mother-stamper numbers respectively.\r\nLeading zeros, e.g. -01-01-1 have also been used frequently (see [url=https:\/\/www.discogs.com\/Eternal-2-Featuring-BeBe-Winans-I-Wanna-Be-The-Only-One\/release\/1629667]this example[\/url]).\r\n\r\nA stamped \"C\" means that the mastering was done from an alternative source (not from the original master tape). \r\nA stamped \"D\" stands for DMM, and indicates that the plant received a copper plate not a lacquer (since 1984).\r\nNote: hybrid versions with mixes of -U -C and\/or D are not necessarily variants and could potentially be different submissions - see [url=https:\/\/www.discogs.com\/release\/5682280-TPau-Bridge-Of-Spies]here[\/url] and [url=https:\/\/www.discogs.com\/release\/20933422-TPau-Bridge-Of-Spies]here[\/url] for separated examples. When in doubt, add as variant.\r\n\r\nBy April 1982 the runout matrix was combined at 6 o'clock.\r\n\r\nThe LP stamper ring diameter is 33 mm.",
+    "parent_label": {
+        "id": 1032063,
+        "name": "EMI Group Plc",
+        "resource_url": "https:\/\/api.discogs.com\/labels\/1032063"
+    },
+    "data_quality": "Correct",
+    "urls": [
+        "https:\/\/forums.stevehoffman.tv\/threads\/emi-hayes-production-plant.323099\/",
+        "https:\/\/www.7tt77.co.uk\/matrix_numbers.html"
+    ]
+}

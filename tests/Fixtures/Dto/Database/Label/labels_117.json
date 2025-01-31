@@ -1,0 +1,58 @@
+{
+    "id": 117,
+    "name": "Emotif Recordings",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/117",
+    "uri": "https:\/\/www.discogs.com\/label\/117-Emotif-Recordings",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/117\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/wSs-azF7Jr0WIppkpzYQm7uJfqpvX9Pi02SLafIhB4s\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0x\/NDM3OTMzNDkxLTU0\/NzkuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/wSs-azF7Jr0WIppkpzYQm7uJfqpvX9Pi02SLafIhB4s\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0x\/NDM3OTMzNDkxLTU0\/NzkuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/lL-yHRq3nR8KlfzsAkHUMBbvXdXtftOcM4MzSlqk1Xs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0x\/NDM3OTMzNDkxLTU0\/NzkuanBlZw.jpeg",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/II-uhdYX4jkEn7O8QoGLugxiLO481EswgaLhWPXaCXI\/rs:fit\/g:sm\/q:90\/h:118\/w:118\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0w\/MDEuanBn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/II-uhdYX4jkEn7O8QoGLugxiLO481EswgaLhWPXaCXI\/rs:fit\/g:sm\/q:90\/h:118\/w:118\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0w\/MDEuanBn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/euBs3f1U69Q75UkttL_GAf-2zVVl2jFdgwYJphA7hqQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0w\/MDEuanBn.jpeg",
+            "width": 118,
+            "height": 118
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/wy4gEM-KkAjhsgvrr_rXkHFCJqTKIMHhBUwAnKUp-Zg\/rs:fit\/g:sm\/q:90\/h:133\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0x\/MTk2Njk4NTI3Lmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/wy4gEM-KkAjhsgvrr_rXkHFCJqTKIMHhBUwAnKUp-Zg\/rs:fit\/g:sm\/q:90\/h:133\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0x\/MTk2Njk4NTI3Lmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/mvJkbyR6iF_fNfk1jH-t4uB5hkEhAVbWjgoBUFhz2X8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExNy0x\/MTk2Njk4NTI3Lmpw\/ZWc.jpeg",
+            "width": 600,
+            "height": 133
+        }
+    ],
+    "contact_info": "emotif recordings\r\nPO BOX 16047\r\nLondon\r\nNW1 7ZH\r\nTel: +44 (0) 207 729 8030\r\nFax: +44 (0) 207 729 8131 \r\nEmail: info@emotif.co.uk\r\n",
+    "profile": "Set up in September 1995 by the late [a=DJ Vini] & Martin Love, as an experimental Drum and Bass label as SOUR collective did not wanted to be associated with rude-boy Ragga Jungle.\r\n\r\n[b]Related Labels:[\/b] [l=Simple Tings], [l=Botchit & Scarper]\r\n",
+    "parent_label": {
+        "id": 2792,
+        "name": "SOUR",
+        "resource_url": "https:\/\/api.discogs.com\/labels\/2792"
+    },
+    "data_quality": "Needs Vote",
+    "urls": [
+        "https:\/\/emotif.bandcamp.com\/",
+        "https:\/\/www.emotifrecordings.com\/",
+        "http:\/\/www.myspace.com\/emotifrecordings"
+    ],
+    "sublabels": [
+        {
+            "id": 2784,
+            "name": "Double Zero",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/2784"
+        },
+        {
+            "id": 62223,
+            "name": "DZ Recordings (DZR)",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/62223"
+        }
+    ]
+}

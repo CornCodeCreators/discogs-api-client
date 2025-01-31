@@ -1,0 +1,89 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 82,
+        "per_page": 5,
+        "items": 409,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&type=artist&page=82",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&type=artist&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 125246,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/125246-Nirvana",
+            "title": "Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/KydDnAWdAzeHy0dZ4YSnpkuh__uLXIk8w60uKQVW0G4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEyNTI0\/Ni0xNTAxMjg1MjAw\/LTMwNTguanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/S_HB3FZR5TTcRyjBqlnUQpF_WgF-i9iSqcMTQGdwB6M\/rs:fit\/g:sm\/q:90\/h:609\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEyNTI0\/Ni0xNTAxMjg1MjAw\/LTMwNTguanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/125246"
+        },
+        {
+            "id": 307513,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/307513-Nirvana-2",
+            "title": "Nirvana (2)",
+            "thumb": "https:\/\/i.discogs.com\/Qsyci3jKVLuFe1pfcbCGrpfxBA3s0gNN9SlAWyfFl0Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMwNzUx\/My0xMjcwMjM2OTQy\/LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/KRbQ8QizNIgoIkRniPb6aHShHaARybPFZKR__HNUTg8\/rs:fit\/g:sm\/q:90\/h:525\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMwNzUx\/My0xMjcwMjM2OTQy\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/307513"
+        },
+        {
+            "id": 1087206,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/1087206-Nirvana-2002",
+            "title": "Nirvana 2002",
+            "thumb": "https:\/\/i.discogs.com\/En_1HSxvSYoERq6_fLIy9pP8PJokMJfDi5p3oTldawc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEwODcy\/MDYtMTI2Njg2OTQx\/MS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/FJ_ScJXJ0Vf5sLKURBXrbGgoQaWsHbS5Hq2QuEGBV6c\/rs:fit\/g:sm\/q:90\/h:492\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEwODcy\/MDYtMTI2Njg2OTQx\/MS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1087206"
+        },
+        {
+            "id": 2744248,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/2744248-Nirvana-10",
+            "title": "Nirvana (10)",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2744248"
+        },
+        {
+            "id": 1176738,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/1176738-Nirvana-7",
+            "title": "Nirvana (7)",
+            "thumb": "https:\/\/i.discogs.com\/6KE3Av0tDwVFHLxa-bp4E-yAQprNFFuJeCT7YoQm84w\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTExNzY3\/MzgtMTMxNzcwNTU0\/OS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/eDjmWDsQtSnMceH_S7LzFrasPiqn6DZ---qpdMQ4JnQ\/rs:fit\/g:sm\/q:90\/h:193\/w:200\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTExNzY3\/MzgtMTMxNzcwNTU0\/OS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1176738"
+        }
+    ]
+}

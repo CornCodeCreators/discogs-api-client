@@ -1,0 +1,111 @@
+{
+    "id": 2744,
+    "main_release": 1239627,
+    "most_recent_release": 2202005,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2744",
+    "uri": "https:\/\/www.discogs.com\/master\/2744-Amnesys-Worldwide-Crisis",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2744\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/1239627",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/1664786",
+    "num_for_sale": 14,
+    "lowest_price": 15,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/hPFiy540ossqt97Q6dv7_7wERBRITrxdvh-X-JgWiN8\/rs:fit\/g:sm\/q:90\/h:600\/w:597\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTIwMzE5NzU1\/My5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/hPFiy540ossqt97Q6dv7_7wERBRITrxdvh-X-JgWiN8\/rs:fit\/g:sm\/q:90\/h:600\/w:597\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTIwMzE5NzU1\/My5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/UK-fBhdM2qYOEPcFUowR_H87ItRsGHm6T-HMVn1cL_s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTIwMzE5NzU1\/My5qcGVn.jpeg",
+            "width": 597,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Dz5jnT1R1Nc2_GHGdKL-NiKLkN2qb9p0-0cfwHC9iLo\/rs:fit\/g:sm\/q:90\/h:600\/w:597\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTIwMzE5NzU2\/Ni5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Dz5jnT1R1Nc2_GHGdKL-NiKLkN2qb9p0-0cfwHC9iLo\/rs:fit\/g:sm\/q:90\/h:600\/w:597\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTIwMzE5NzU2\/Ni5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/fFgH7e55wPaHSR7aQOTQ7xaOTRATDVML8rL-LxguT7I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTIwMzE5NzU2\/Ni5qcGVn.jpeg",
+            "width": 597,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/tNbaSS9_GRurpkXpF9vjbRomi0ElhLs5uebNjIhNAhc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTY3NzgzNTA0\/MS02OTE4LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/tNbaSS9_GRurpkXpF9vjbRomi0ElhLs5uebNjIhNAhc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTY3NzgzNTA0\/MS02OTE4LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/xzs-7GsnHEfoPeBy0_Pi67YgnIuq4KoSm9dI6Ar65DU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTY3NzgzNTA0\/MS02OTE4LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/QHSw6XR-PGpcqut8DT9gVdCLX99MQEDCyAqJ6rZdlCo\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTY3NzgzNTA0\/MS03NTgzLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/QHSw6XR-PGpcqut8DT9gVdCLX99MQEDCyAqJ6rZdlCo\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTY3NzgzNTA0\/MS03NTgzLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/5sRT2MsmgV6jiN3JYJ685vdrxiMLRjDQCUrOhVaBSRQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMzk2\/MjctMTY3NzgzNTA0\/MS03NTgzLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Hardcore",
+        "Gabber"
+    ],
+    "year": 2008,
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Worldwide Crisis",
+            "duration": "5:11"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Underground Revolution",
+            "duration": "5:02"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Catastrophes",
+            "duration": "4:45"
+        }
+    ],
+    "artists": [
+        {
+            "name": "Amnesys",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 244031,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/244031",
+            "thumbnail_url": "https:\/\/i.discogs.com\/aDnDXhX8KoQcxrLxLXw_3DspDGF8R5cRefEmV3cghec\/rs:fit\/g:sm\/q:90\/h:197\/w:243\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI0NDAz\/MS0xMTkwNDgxMjgw\/LmpwZWc.jpeg"
+        }
+    ],
+    "title": "Worldwide Crisis",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=1Qt3A08bCM8",
+            "title": "Amnesys - Worldwide Crisis ( Original Mix )",
+            "description": "Amnesys - Worldwide Crisis ( Original Mix )",
+            "duration": 313,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=RMgru_VBDC4",
+            "title": "Amnesys - Underground Revolution",
+            "description": " ",
+            "duration": 289,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=OupYXsWCXc8",
+            "title": "Amnesys - Catastrophes",
+            "description": " ",
+            "duration": 291,
+            "embed": true
+        }
+    ]
+}

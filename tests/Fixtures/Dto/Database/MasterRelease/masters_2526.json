@@ -1,0 +1,174 @@
+{
+    "id": 2526,
+    "main_release": 154007,
+    "most_recent_release": 542833,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2526",
+    "uri": "https:\/\/www.discogs.com\/master\/2526-Klinik-To-The-Knife",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2526\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/154007",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/154007",
+    "num_for_sale": 7,
+    "lowest_price": 14,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/8nmIyn8i54vi4QaRkRIVTWNWK_ONlHjUIkF_QP2ywAg\/rs:fit\/g:sm\/q:90\/h:600\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODQ5\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/8nmIyn8i54vi4QaRkRIVTWNWK_ONlHjUIkF_QP2ywAg\/rs:fit\/g:sm\/q:90\/h:600\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODQ5\/LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/_D2watHG9ksFqIpwk-ROfyknvZOIIJ48odDEJwSoy3k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODQ5\/LmpwZWc.jpeg",
+            "width": 593,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/gKKaY8el_iI8hiVxnhvdUeMB574F2-5JJo_mbU4uxkw\/rs:fit\/g:sm\/q:90\/h:463\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODg4\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/gKKaY8el_iI8hiVxnhvdUeMB574F2-5JJo_mbU4uxkw\/rs:fit\/g:sm\/q:90\/h:463\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODg4\/LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/dLnyF0G3NLr1y3W_EJNdoTRBJ-t7es3LmX_vGwxZHeM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODg4\/LmpwZWc.jpeg",
+            "width": 600,
+            "height": 463
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/bzWwwxDLfNcLYkBpw4idwYUJF3SXeMG9rGaaO8MmL3M\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyOTA4\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/bzWwwxDLfNcLYkBpw4idwYUJF3SXeMG9rGaaO8MmL3M\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyOTA4\/LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/AemIXd6F6Crh3nQAQxpAcpPbvLP_D2p1_K_3KhAV9lk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyOTA4\/LmpwZWc.jpeg",
+            "width": 600,
+            "height": 595
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/epYn7UhC8QEvyKLch24_LwryoWb3KgeaakVpfQokNoI\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODYw\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/epYn7UhC8QEvyKLch24_LwryoWb3KgeaakVpfQokNoI\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODYw\/LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/8fBiYmCvf01viJdCg6lTicqd_Jpcb4H_rbfF7Ivy3Js\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODYw\/LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/wfDfSWh9tFbye6V9lMtxqNdB6f87zCAaSl6qtrNAlnE\/rs:fit\/g:sm\/q:90\/h:600\/w:591\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODY3\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/wfDfSWh9tFbye6V9lMtxqNdB6f87zCAaSl6qtrNAlnE\/rs:fit\/g:sm\/q:90\/h:600\/w:591\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODY3\/LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/BWWwxOGYUbNylohlf1DzKRdK9he4m2OPNsx5nV7bioc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODY3\/LmpwZWc.jpeg",
+            "width": 591,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/DCpCKshGLan2Esd0sV5K0WTBAtr86OuUg9zybAmW6Gk\/rs:fit\/g:sm\/q:90\/h:600\/w:589\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODc2\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/DCpCKshGLan2Esd0sV5K0WTBAtr86OuUg9zybAmW6Gk\/rs:fit\/g:sm\/q:90\/h:600\/w:589\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODc2\/LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/flm28rJDySC56qzMhk0dnMNa_kqFhOaafZO5M0UMGbM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyODc2\/LmpwZWc.jpeg",
+            "width": 589,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Wyc8QDAm2_tCfcnCHPXZW4KeX46OqdEP2mFP99GhAU0\/rs:fit\/g:sm\/q:90\/h:463\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyOTAw\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Wyc8QDAm2_tCfcnCHPXZW4KeX46OqdEP2mFP99GhAU0\/rs:fit\/g:sm\/q:90\/h:463\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyOTAw\/LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/zBS-R-rKk2KVxNc07Hi6NIPax3aXMhOtF-boz7q4udU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDAw\/Ny0xMTkyMDkyOTAw\/LmpwZWc.jpeg",
+            "width": 600,
+            "height": 463
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Industrial",
+        "Electro"
+    ],
+    "year": 1995,
+    "tracklist": [
+        {
+            "position": "1",
+            "type_": "track",
+            "title": "Intro",
+            "duration": "3:50"
+        },
+        {
+            "position": "2",
+            "type_": "track",
+            "title": "The Knife",
+            "duration": "6:20"
+        },
+        {
+            "position": "3",
+            "type_": "track",
+            "title": "In Your Mind",
+            "duration": "4:48"
+        },
+        {
+            "position": "4",
+            "type_": "track",
+            "title": "Opposite",
+            "duration": "5:10"
+        },
+        {
+            "position": "5",
+            "type_": "track",
+            "title": "Forest",
+            "duration": "9:30"
+        },
+        {
+            "position": "6",
+            "type_": "track",
+            "title": "Phoenix",
+            "duration": "6:25"
+        },
+        {
+            "position": "7",
+            "type_": "track",
+            "title": "Animal Torture",
+            "extraartists": [
+                {
+                    "name": "Erwin Breugelmans",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 893214,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/893214"
+                }
+            ],
+            "duration": "6:10"
+        },
+        {
+            "position": "8",
+            "type_": "track",
+            "title": "Black Thing",
+            "duration": "6:10"
+        },
+        {
+            "position": "9",
+            "type_": "track",
+            "title": "In Your Mind (Instr.)",
+            "duration": "4:50"
+        },
+        {
+            "position": "10",
+            "type_": "track",
+            "title": "Diagnose",
+            "duration": "13:05"
+        }
+    ],
+    "artists": [
+        {
+            "name": "Klinik",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 21249,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/21249",
+            "thumbnail_url": "https:\/\/i.discogs.com\/D1FX0Yiu_tEVaPZPU1Tifl4t5SoDvI7hCmZ7_XW4Uc0\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIxMjQ5\/LTExMDkyMzY4NTcu\/anBn.jpeg"
+        }
+    ],
+    "title": "To The Knife",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=KwJ4-B1BFa8",
+            "title": "The Klinik - To the Knife (1995) FULL ALBUM",
+            "description": "00:00 Intro\n03:59 The Knife\n10:19 In Your Mind\n15:13 Opposite\n20:31 Forest\n29:53 Phoenix\n36:16 Animal Torture\n42:22 Black Thing\n48:36 In Your Mind (Instrumental)\n53:13 Diagnose",
+            "duration": 4001,
+            "embed": true
+        }
+    ]
+}

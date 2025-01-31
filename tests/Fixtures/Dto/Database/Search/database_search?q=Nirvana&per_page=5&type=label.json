@@ -1,0 +1,89 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 19,
+        "per_page": 5,
+        "items": 92,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&type=label&page=19",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&type=label&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 358027,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/358027-Nirvana",
+            "title": "Nirvana",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/358027"
+        },
+        {
+            "id": 136492,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/136492-Not-On-Label-Nirvana",
+            "title": "Not On Label (Nirvana)",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/136492"
+        },
+        {
+            "id": 267439,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/267439-Nirvana-Music",
+            "title": "Nirvana Music",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/267439"
+        },
+        {
+            "id": 146259,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/146259-Nirvana-Records",
+            "title": "Nirvana Records",
+            "thumb": "https:\/\/i.discogs.com\/tAbjzAld0KEzRPbIqnW1lFSQyc8ZLxYod5S8NMt3drA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE0NjI1\/OS0xNjA1MTYxODc1\/LTE5NTUuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/qjfXqb6Q15nWdXNhcrTo48L65lCK7Czxn56KWWYmvTQ\/rs:fit\/g:sm\/q:90\/h:221\/w:213\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE0NjI1\/OS0xNjA1MTYxODc1\/LTE5NTUuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/146259"
+        },
+        {
+            "id": 1014391,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/1014391-Song-Of-Nirvana",
+            "title": "Song Of Nirvana",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1014391"
+        }
+    ]
+}

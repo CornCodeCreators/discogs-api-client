@@ -1,0 +1,57 @@
+{
+    "name": "DJ Synergee",
+    "id": 52248,
+    "resource_url": "https:\/\/api.discogs.com\/artists\/52248",
+    "uri": "https:\/\/www.discogs.com\/artist\/52248-DJ-Synergee",
+    "releases_url": "https:\/\/api.discogs.com\/artists\/52248\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/d680WKqjD0Ps7h7oiZgQj7GZNrOTPT3vs44CgxA2vQE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTE1NzQ4NzQyMDct\/NDgyNy5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/d680WKqjD0Ps7h7oiZgQj7GZNrOTPT3vs44CgxA2vQE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTE1NzQ4NzQyMDct\/NDgyNy5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/wlB3L6HQ5uuYnpK9N8ksaawXCOXVzh5pc-tVWmYP8mo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTE1NzQ4NzQyMDct\/NDgyNy5qcGVn.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/A6L0L-yXITOu0iohSPPJyChBaZPZ3vpHdPeLrFVY_t8\/rs:fit\/g:sm\/q:90\/h:440\/w:295\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTEwODU0NzUwMTcu\/anBn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/A6L0L-yXITOu0iohSPPJyChBaZPZ3vpHdPeLrFVY_t8\/rs:fit\/g:sm\/q:90\/h:440\/w:295\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTEwODU0NzUwMTcu\/anBn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/OJ4FTI04jELid-aUa1eZ6kzR5oNGgcdBXQxkEwG7ntM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTEwODU0NzUwMTcu\/anBn.jpeg",
+            "width": 295,
+            "height": 440
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/kVzCQlSlgZ979brwAa1hhNmcgN05nNaaCh5rRNXa1Us\/rs:fit\/g:sm\/q:90\/h:577\/w:577\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTE1NzQ4NzQyMTYt\/NTIyNy5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/kVzCQlSlgZ979brwAa1hhNmcgN05nNaaCh5rRNXa1Us\/rs:fit\/g:sm\/q:90\/h:577\/w:577\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTE1NzQ4NzQyMTYt\/NTIyNy5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/4cV-rRrqrvR2tVeYhExdESCPtUEJz7uEe1GQSAfygTY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUyMjQ4\/LTE1NzQ4NzQyMTYt\/NTIyNy5qcGVn.jpeg",
+            "width": 577,
+            "height": 577
+        }
+    ],
+    "realname": "Marco Codoni",
+    "profile": "Hard Trance \/ Hardstyle DJ & producer based in the Canton of Ticino, Switzerland.\r\nContact: hsticino@gmail.com",
+    "urls": [
+        "http:\/\/web.archive.org\/web\/20130525232427\/http:\/\/www.djsynergee.com\/",
+        "http:\/\/web.archive.org\/web\/20010925043041\/http:\/\/www.djsynergee.ch:80\/",
+        "http:\/\/www.facebook.com\/DjSynergee",
+        "http:\/\/www.instagram.com\/marco_synergee_codoni_\/",
+        "http:\/\/twitter.com\/Dj_Synergee",
+        "http:\/\/www.last.fm\/music\/DJ+Synergee",
+        "http:\/\/soundcloud.com\/marco-synergee-codoni"
+    ],
+    "namevariations": [
+        "SNG",
+        "Synergee"
+    ],
+    "aliases": [
+        {
+            "id": 1073577,
+            "name": "Marco Codoni",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1073577",
+            "thumbnail_url": ""
+        }
+    ],
+    "data_quality": "Needs Vote"
+}

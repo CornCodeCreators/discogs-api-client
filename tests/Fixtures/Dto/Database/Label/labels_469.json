@@ -1,0 +1,36 @@
+{
+    "id": 469,
+    "name": "User",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/469",
+    "uri": "https:\/\/www.discogs.com\/label\/469-User",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/469\/releases",
+    "images": [
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/k6RruFIKbSEmBm9CMBtaGrkrNXdagQbgQeBR8eb8OZU\/rs:fit\/g:sm\/q:90\/h:228\/w:238\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTQ2OS0w\/MDIucG5n.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/k6RruFIKbSEmBm9CMBtaGrkrNXdagQbgQeBR8eb8OZU\/rs:fit\/g:sm\/q:90\/h:228\/w:238\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTQ2OS0w\/MDIucG5n.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/Qu8-PGFB6fWFnVeaRTHj_UPUuaWA66fj7y5TRH5dmWU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTQ2OS0w\/MDIucG5n.jpeg",
+            "width": 238,
+            "height": 228
+        }
+    ],
+    "profile": "UK\r\nLabel operated by the pseudonym [a=Dean Cole] who is also the fake identity behind the releases as artist [a=User (4)].\r\n[l=User] has an offshoot label [l=00A] where the releases with catalog numbers ending with the letter 'A' belong. According to the distributor, Integrale Muzique, the releases are 'with huge support from worldwide DJs' - sounds like remixing.\r\nSome releases on [l=User] were produced by a different pseudonym [a=Richard Harvey].\r\n",
+    "data_quality": "Needs Vote",
+    "sublabels": [
+        {
+            "id": 2657,
+            "name": "00A",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/2657"
+        },
+        {
+            "id": 7046,
+            "name": "Abuser",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/7046"
+        },
+        {
+            "id": 3519,
+            "name": "Utility Plastics",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/3519"
+        }
+    ]
+}

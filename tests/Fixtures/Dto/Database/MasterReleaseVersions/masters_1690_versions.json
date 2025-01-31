@@ -1,0 +1,516 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 12,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "12\"": 11,
+                "Vinyl": 11,
+                "45 RPM": 6,
+                "Promo": 6,
+                "White Label": 6,
+                "33 \u2153 RPM": 5,
+                "CD": 1,
+                "Mispress": 1,
+                "Single": 1,
+                "Single Sided": 1,
+                "Test Pressing": 1
+            },
+            "label": {
+                "Production House": 9,
+                "Broadcrest Ltd.": 4,
+                "Profile Records": 3,
+                "Bmg Songs, Inc.": 2,
+                "Cts Studios": 2,
+                "Fjr Music Ltd.": 2,
+                "Profile Records, Inc.": 2,
+                "Promuse, Inc.": 2,
+                "Masterdisk": 1,
+                "Nimbus": 1,
+                "Production House Records Ltd.": 1,
+                "Specialty Records Corporation": 1
+            },
+            "country": {
+                "UK": 9,
+                "US": 3
+            },
+            "released": {
+                "1993": 9,
+                "1994": 3
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "12\"",
+                    "value": "12%22",
+                    "count": 11
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 11
+                },
+                {
+                    "title": "45 RPM",
+                    "value": "45+RPM",
+                    "count": 6
+                },
+                {
+                    "title": "Promo",
+                    "value": "Promo",
+                    "count": 6
+                },
+                {
+                    "title": "White Label",
+                    "value": "White+Label",
+                    "count": 6
+                },
+                {
+                    "title": "33 \u2153 RPM",
+                    "value": "33+%E2%85%93+RPM",
+                    "count": 5
+                },
+                {
+                    "title": "CD",
+                    "value": "CD",
+                    "count": 1
+                },
+                {
+                    "title": "Mispress",
+                    "value": "Mispress",
+                    "count": 1
+                },
+                {
+                    "title": "Single",
+                    "value": "Single",
+                    "count": 1
+                },
+                {
+                    "title": "Single Sided",
+                    "value": "Single+Sided",
+                    "count": 1
+                },
+                {
+                    "title": "Test Pressing",
+                    "value": "Test+Pressing",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Production House",
+                    "value": "Production+House",
+                    "count": 9
+                },
+                {
+                    "title": "Broadcrest Ltd.",
+                    "value": "Broadcrest+Ltd.",
+                    "count": 4
+                },
+                {
+                    "title": "Profile Records",
+                    "value": "Profile+Records",
+                    "count": 3
+                },
+                {
+                    "title": "Bmg Songs, Inc.",
+                    "value": "Bmg+Songs%2C+Inc.",
+                    "count": 2
+                },
+                {
+                    "title": "Cts Studios",
+                    "value": "Cts+Studios",
+                    "count": 2
+                },
+                {
+                    "title": "Fjr Music Ltd.",
+                    "value": "Fjr+Music+Ltd.",
+                    "count": 2
+                },
+                {
+                    "title": "Profile Records, Inc.",
+                    "value": "Profile+Records%2C+Inc.",
+                    "count": 2
+                },
+                {
+                    "title": "Promuse, Inc.",
+                    "value": "Promuse%2C+Inc.",
+                    "count": 2
+                },
+                {
+                    "title": "Masterdisk",
+                    "value": "Masterdisk",
+                    "count": 1
+                },
+                {
+                    "title": "Nimbus",
+                    "value": "Nimbus",
+                    "count": 1
+                },
+                {
+                    "title": "Production House Records Ltd.",
+                    "value": "Production+House+Records+Ltd.",
+                    "count": 1
+                },
+                {
+                    "title": "Specialty Records Corporation",
+                    "value": "Specialty+Records+Corporation",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "UK",
+                    "value": "UK",
+                    "count": 9
+                },
+                {
+                    "title": "US",
+                    "value": "US",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "1993",
+                    "value": "1993",
+                    "count": 9
+                },
+                {
+                    "title": "1994",
+                    "value": "1994",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 513464,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Krystal Fairground",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", White Label, Promo, Single Sided, 45 RPM",
+            "catno": "PNT 051",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/513464",
+            "thumb": "https:\/\/i.discogs.com\/FkeAlKwna8T8FuBTuoTGgRGY5YJPd472sZnxAGkQMjI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUxMzQ2\/NC0xMTk1MzAwNjIx\/LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 138,
+                    "in_collection": 37
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 527167,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Close Your Eyes \/ Window In The Sky",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", Mispress, 45 RPM",
+            "catno": "PNT-034 R-A, PNT 051 A-2, PNT 051 A",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/527167",
+            "thumb": "https:\/\/i.discogs.com\/aeGUFf3widjCKTnoSrGVlv4z2KzoIClRSvRJF20DEyg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUyNzE2\/Ny0xNTIzMzU0NDg1\/LTM2NDkuanBlZw.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 373,
+                    "in_collection": 101
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1169977,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Window In The Sky Part 1 & 2",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", White Label, Promo, 45 RPM",
+            "catno": "PNT 051",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1169977",
+            "thumb": "https:\/\/i.discogs.com\/h-rpl0GztrHhsAZH29Ok7Nq0u_fJRp_PWobLoGlVIzI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjk5\/NzctMTU5MzMxMjE4\/Ny04NTM3LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 128,
+                    "in_collection": 41
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 936027,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Window In The Sky (Remixes) (2 Track Version)",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", White Label, Promo, 45 RPM",
+            "catno": "PNT 051R",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/936027",
+            "thumb": "https:\/\/i.discogs.com\/I8OZXdHPxz7RX6lXHofucyAgMIvpKECbEBCOqYbP6mw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkzNjAy\/Ny0xMjg4MjYzNDcz\/LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 131,
+                    "in_collection": 32
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 3565822,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Window In The Sky (Remixes)",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", Promo, White Label, 33 \u2153 RPM",
+            "catno": "PNT 051R 2",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/3565822",
+            "thumb": "https:\/\/i.discogs.com\/sJo8g_w67xvwgjlrdGQc0YU3AurycPUtp2lplFMTEAw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1NjU4\/MjItMTMzNTUyNDU4\/NC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 102,
+                    "in_collection": 44
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 912304,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Window In The Sky (2 Track Version)",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", Promo, White Label, 45 RPM",
+            "catno": "PNT 051",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/912304",
+            "thumb": "",
+            "stats": {
+                "community": {
+                    "in_wantlist": 114,
+                    "in_collection": 55
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 33433,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Window In The Sky Parts One & Two",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM",
+            "catno": "PNT 051",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/33433",
+            "thumb": "https:\/\/i.discogs.com\/5WKQC4wbTJicJ9TnpaByOH13soD1ektvi8ZSRUpkjjc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzNDMz\/LTEyOTIxMDE0ODMu\/anBlZw.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 493,
+                    "in_collection": 991
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 224369,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Window In The Sky (Remixes)",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM",
+            "catno": "PNT 051R",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/224369",
+            "thumb": "https:\/\/i.discogs.com\/TcGNpYEl7BlbdazLbs6j-HtG2tBeEvWA8K54MejGNbc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNDM2\/OS0xMjg3ODYyMDI5\/LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 360,
+                    "in_collection": 693
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 146517,
+            "label": "Production House",
+            "country": "UK",
+            "title": "Window In The Sky",
+            "major_formats": [
+                "CD"
+            ],
+            "format": "Single",
+            "catno": "PNC 051",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/146517",
+            "thumb": "https:\/\/i.discogs.com\/LpkDeyKsZai9NkMTWEI38ebkNLT9xTeAMcKd38GDUgo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjUx\/Ny0xMzQ1NTYxOTkw\/LTEwMjMuanBlZw.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 145,
+                    "in_collection": 68
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 2730988,
+            "label": "Profile Records",
+            "country": "US",
+            "title": "Window In The Sky",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", Test Pressing, White Label, 33 \u2153 RPM",
+            "catno": "PRO-7413",
+            "released": "1994",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/2730988",
+            "thumb": "https:\/\/i.discogs.com\/uBBrFYVW0zELv60Yh99q2KgXSRjYAJ0bewckSfse_vc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MzA5\/ODgtMTM5NDU2NTA4\/MC0zMjA1LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 129,
+                    "in_collection": 57
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 146656,
+            "label": "Profile Records",
+            "country": "US",
+            "title": "Window In The Sky \/ Trip II The Moon \/ Close Your Eyes",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM",
+            "catno": "PRO-7413",
+            "released": "1994",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/146656",
+            "thumb": "https:\/\/i.discogs.com\/j35G0c4Ta5F49VBmo6G-bSwjBk__C7R7gEgsxwp1xCQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjY1\/Ni0xMzc3Mzc3NTY1\/LTc2MDMuanBlZw.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 260,
+                    "in_collection": 151
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 33973,
+            "label": "Profile Records",
+            "country": "US",
+            "title": "Window In The Sky",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM, Promo",
+            "catno": "PRO-7413-DJ",
+            "released": "1994",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/33973",
+            "thumb": "https:\/\/i.discogs.com\/XZHTGqKjxU8zwGH2yfm2_F2f7ebTy9HyGyVOyv_lVqU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzOTcz\/LTE1ODU5MzEwMzct\/OTk3MC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 172,
+                    "in_collection": 59
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 5,
+        "items": 2,
+        "urls": []
+    },
+    "results": [
+        {
+            "country": "Italy",
+            "year": "2014",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 \u2153 RPM",
+                "Limited Edition"
+            ],
+            "label": [
+                "ICON of DESIRE",
+                "SST Br\u00fcggemann GmbH"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Techno",
+                "Electro",
+                "Experimental",
+                "IDM"
+            ],
+            "id": 5513198,
+            "barcode": [
+                "IOD - 002 A K SST",
+                "IOD - 002 B K SST",
+                "DISTAT ENIM QUAE SIDERA TE EXCIPIANT",
+                "NOS TAMEN HOC AGIMUS TENUIQUE IN PULUERE SULCOS DUCIMUS"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 664439,
+            "master_url": "https:\/\/api.discogs.com\/masters\/664439",
+            "uri": "\/release\/5513198-Various-The-Lost-Satellites",
+            "catno": "IOD-002",
+            "title": "Various - The Lost Satellites",
+            "thumb": "https:\/\/i.discogs.com\/OFOU_gd1fO-YbsMq_XTx00tqk1QJgXnRsXK-INvq-0E\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MTMx\/OTgtMTQwNjIwNTg3\/MS04MjQyLmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/22-ydK8vDMupKbpXmaMRNvZZyZO0sY2gRzN2T9oIdBs\/rs:fit\/g:sm\/q:90\/h:561\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MTMx\/OTgtMTQwNjIwNTg3\/MS04MjQyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/5513198",
+            "community": {
+                "want": 48,
+                "have": 57
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Magenta",
+                    "descriptions": [
+                        "12\"",
+                        "33 \u2153 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Unknown",
+            "year": "2014",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 \u2153 RPM"
+            ],
+            "label": [
+                "ICON of DESIRE",
+                "SST Br\u00fcggemann GmbH"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Techno",
+                "Electro",
+                "Experimental",
+                "IDM"
+            ],
+            "id": 5491201,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 664439,
+            "master_url": "https:\/\/api.discogs.com\/masters\/664439",
+            "uri": "\/Various-The-Lost-Satellites\/release\/5491201",
+            "catno": "IOD-002",
+            "title": "Various - The Lost Satellites",
+            "thumb": "https:\/\/i.discogs.com\/k71wVgMgA5bqGpY9YyjY-DeXZhp-iV8GT5Ud40MrFQk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU0OTEy\/MDEtMTM5NDc0NjIy\/Ni01ODg5LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/5cMi4uVPA8O6b6KpVSSG6a23HJQl1i0Xsz1_O17gFIw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU0OTEy\/MDEtMTM5NDc0NjIy\/Ni01ODg5LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/5491201",
+            "community": {
+                "want": 54,
+                "have": 41
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "12\"",
+                        "33 \u2153 RPM"
+                    ]
+                }
+            ]
+        }
+    ]
+}

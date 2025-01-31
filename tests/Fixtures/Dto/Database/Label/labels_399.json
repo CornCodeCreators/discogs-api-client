@@ -1,0 +1,69 @@
+{
+    "id": 399,
+    "name": "M-Plant",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/399",
+    "uri": "https:\/\/www.discogs.com\/label\/399-M-Plant",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/399\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/dFqTzreefpixoBAwDdMslAZDWBjyJqTK7u0vw0T8qVk\/rs:fit\/g:sm\/q:90\/h:46\/w:277\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/MjU0MTk4Mjc4LnBu\/Zw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/dFqTzreefpixoBAwDdMslAZDWBjyJqTK7u0vw0T8qVk\/rs:fit\/g:sm\/q:90\/h:46\/w:277\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/MjU0MTk4Mjc4LnBu\/Zw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/HVAHAAlWbc-JawTQNtak6yPGVqNm2T2yYz6mI3pSY3k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/MjU0MTk4Mjc4LnBu\/Zw.jpeg",
+            "width": 277,
+            "height": 46
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/WmnfGzR2jGz0WffKRSjs0OGnzB45iivukex0IBju388\/rs:fit\/g:sm\/q:90\/h:105\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0w\/MDEuanBn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/WmnfGzR2jGz0WffKRSjs0OGnzB45iivukex0IBju388\/rs:fit\/g:sm\/q:90\/h:105\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0w\/MDEuanBn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/P92SN2H-uk-OvH-cVlWoyb7N-NzZ5DpCvL3kcBo_7s8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0w\/MDEuanBn.jpeg",
+            "width": 150,
+            "height": 105
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/cFq-GSuL0CUIkPOuYnZJAh9wbAzEkhDO_NjDc_zQHXI\/rs:fit\/g:sm\/q:90\/h:125\/w:338\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/MjAwMTYzOTYwLmdp\/Zg.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/cFq-GSuL0CUIkPOuYnZJAh9wbAzEkhDO_NjDc_zQHXI\/rs:fit\/g:sm\/q:90\/h:125\/w:338\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/MjAwMTYzOTYwLmdp\/Zg.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/ByqTcBmNjb75km1tAbYlc4rWbLZVoJZ7LsY6XLz9LAc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/MjAwMTYzOTYwLmdp\/Zg.jpeg",
+            "width": 338,
+            "height": 125
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Tl-u_lL619HMRYZrw5Mt7OSV7O1Dawob5YCG7RZYdnQ\/rs:fit\/g:sm\/q:90\/h:365\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/Mzg3MTAwNjA0LTY5\/NzIuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Tl-u_lL619HMRYZrw5Mt7OSV7O1Dawob5YCG7RZYdnQ\/rs:fit\/g:sm\/q:90\/h:365\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/Mzg3MTAwNjA0LTY5\/NzIuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/bIoGhRT8raxISo4KU1t7KnH3rLNUPZNPSwQmLFDwf9g\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTM5OS0x\/Mzg3MTAwNjA0LTY5\/NzIuanBlZw.jpeg",
+            "width": 250,
+            "height": 365
+        }
+    ],
+    "contact_info": "M-Plant\r\n1486 Gratiot Avenue\r\nDetroit, MI 48207\r\nUSA",
+    "profile": "Minimal techno label from Detroit, USA.\r\nFormed by Robert Hood in 1994 and active until 2002.\r\nIn the beginning of 2009 the label was re-launched.",
+    "data_quality": "Needs Vote",
+    "urls": [
+        "https:\/\/m-plant.bandcamp.com\/"
+    ],
+    "sublabels": [
+        {
+            "id": 412,
+            "name": "Drama",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/412"
+        },
+        {
+            "id": 1849,
+            "name": "Duet",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1849"
+        },
+        {
+            "id": 391964,
+            "name": "M-Plant Music",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/391964"
+        },
+        {
+            "id": 3171899,
+            "name": "Perpetual Masters",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/3171899"
+        }
+    ]
+}

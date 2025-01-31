@@ -1,0 +1,232 @@
+{
+    "id": 2073,
+    "status": "Accepted",
+    "year": 1992,
+    "resource_url": "https:\/\/api.discogs.com\/releases\/2073",
+    "uri": "https:\/\/www.discogs.com\/release\/2073-0733-Intelligensia",
+    "artists": [
+        {
+            "name": "0733",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 2556,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2556"
+        }
+    ],
+    "artists_sort": "0733",
+    "labels": [
+        {
+            "name": "Probe Records",
+            "catno": "PRO 15",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 408,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/408",
+            "thumbnail_url": "https:\/\/i.discogs.com\/MWhdb4pDO-uDyXxBpFHIUtlgcmWBfL7qnnl_xV6foF0\/rs:fit\/g:sm\/q:90\/h:99\/w:457\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTQwOC0x\/MTMxNTYxOTM2Lmdp\/Zg.jpeg"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "IntelliNET",
+            "catno": "",
+            "entity_type": "9",
+            "entity_type_name": "Distributed By",
+            "id": 47,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/47",
+            "thumbnail_url": "https:\/\/i.discogs.com\/tWOmnKKUlKgom8LDCZeZeaZlyCOp4dbi26uh8SzHqJc\/rs:fit\/g:sm\/q:90\/h:170\/w:286\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTQ3LTEz\/NjIyNTQ0OTktODk2\/NS5qcGVn.jpeg"
+        },
+        {
+            "name": "Plus 8 Music Europe",
+            "catno": "",
+            "entity_type": "21",
+            "entity_type_name": "Published By",
+            "id": 411609,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/411609"
+        },
+        {
+            "name": "NANADA Music",
+            "catno": "",
+            "entity_type": "21",
+            "entity_type_name": "Published By",
+            "id": 269637,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/269637",
+            "thumbnail_url": "https:\/\/i.discogs.com\/a5-T_bMcb4aoNE3SOfr4TIQxMtvunb20lCtXooHeM6Y\/rs:fit\/g:sm\/q:90\/h:83\/w:155\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2OTYz\/Ny0xMzI3NDE0NTYx\/LmpwZWc.jpeg"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+                "12\"",
+                "33 \u2153 RPM"
+            ]
+        }
+    ],
+    "data_quality": "Correct",
+    "community": {
+        "have": 609,
+        "want": 485,
+        "rating": {
+            "count": 151,
+            "average": 4.03
+        },
+        "submitter": {
+            "username": "zevulon",
+            "resource_url": "https:\/\/api.discogs.com\/users\/zevulon"
+        },
+        "contributors": [
+            {
+                "username": "zevulon",
+                "resource_url": "https:\/\/api.discogs.com\/users\/zevulon"
+            },
+            {
+                "username": "RICKJANE",
+                "resource_url": "https:\/\/api.discogs.com\/users\/RICKJANE"
+            },
+            {
+                "username": "tekkno-guy",
+                "resource_url": "https:\/\/api.discogs.com\/users\/tekkno-guy"
+            },
+            {
+                "username": "mayday",
+                "resource_url": "https:\/\/api.discogs.com\/users\/mayday"
+            },
+            {
+                "username": "SecretSquizza",
+                "resource_url": "https:\/\/api.discogs.com\/users\/SecretSquizza"
+            },
+            {
+                "username": "Mr.Slut",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Mr.Slut"
+            },
+            {
+                "username": "neurp",
+                "resource_url": "https:\/\/api.discogs.com\/users\/neurp"
+            }
+        ],
+        "data_quality": "Correct",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2001-02-07T04:18:37-08:00",
+    "date_changed": "2020-08-14T09:32:13-07:00",
+    "num_for_sale": 19,
+    "lowest_price": 3.8,
+    "title": "Intelligensia",
+    "country": "US",
+    "released": "1992",
+    "notes": "Generic cover.",
+    "released_formatted": "1992",
+    "identifiers": [],
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=e8oJm4oXzwM",
+            "title": "0733 \u200e- Intelligensia [1992]",
+            "description": "Label: Probe Records \u200e\u2013 PRO 15\nFormat: Vinyl, 12\", 33 \u2153 RPM \nCountry: US\nReleased: 1992\nGenre: Electronic\nStyle: Techno, Acid",
+            "duration": 315,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=vP8fzKbbJNM",
+            "title": "0733 - Synthetic Emotions",
+            "description": "Label: Probe Records\nReleased: 1992\nGenre: Electronic\nStyle: Techno, Acid",
+            "duration": 325,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=R_d4UkWiesQ",
+            "title": "[1992] 0733 - sector 4",
+            "description": "http:\/\/www.discogs.com\/0733-Intelligensia\/release\/2073",
+            "duration": 323,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=8kMlO9NGAvM",
+            "title": "0733 - Variable Methods",
+            "description": "Label: Probe Records\nReleased: 1992\nGenre: Electronic\nStyle: Techno, Acid",
+            "duration": 351,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Techno",
+        "Acid"
+    ],
+    "tracklist": [
+        {
+            "position": "",
+            "type_": "heading",
+            "title": "Dis Side",
+            "duration": ""
+        },
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Intelligensia",
+            "duration": "5:10"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Synthetic Emotions",
+            "duration": "5:24"
+        },
+        {
+            "position": "",
+            "type_": "heading",
+            "title": "Dat Side",
+            "duration": ""
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Sector 4",
+            "duration": "5:22"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Variable Methods",
+            "duration": "5:50"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "Casey Tucker",
+            "anv": "",
+            "join": "",
+            "role": "Written-By, Producer",
+            "tracks": "",
+            "id": 131719,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/131719"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/O906nVl9nMOUVenjTZZNCBLye7RWIWVwAhrA8lFpW-8\/rs:fit\/g:sm\/q:90\/h:585\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNzMt\/MTQ0NDEzMzY2OC0x\/MTc4LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/O906nVl9nMOUVenjTZZNCBLye7RWIWVwAhrA8lFpW-8\/rs:fit\/g:sm\/q:90\/h:585\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNzMt\/MTQ0NDEzMzY2OC0x\/MTc4LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/HbfoIa24zKfuz2aIkjMCKRZ5WihoVP9mlGx6wMKbVDU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNzMt\/MTQ0NDEzMzY2OC0x\/MTc4LmpwZWc.jpeg",
+            "width": 600,
+            "height": 585
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/PaUOtLnHyIQuWlJidVyZwaLVwKvF2_GDW8w4VlM7Y30\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNzMt\/MTQ0NDEzMzY2OC0x\/Mzg2LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/PaUOtLnHyIQuWlJidVyZwaLVwKvF2_GDW8w4VlM7Y30\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNzMt\/MTQ0NDEzMzY2OC0x\/Mzg2LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/FMLSwGRlnNpSnY6rIIF5mRRGn5dZGJ7ZjDEQaymuhVo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNzMt\/MTQ0NDEzMzY2OC0x\/Mzg2LmpwZWc.jpeg",
+            "width": 600,
+            "height": 590
+        }
+    ],
+    "thumb": "https:\/\/i.discogs.com\/HbfoIa24zKfuz2aIkjMCKRZ5WihoVP9mlGx6wMKbVDU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNzMt\/MTQ0NDEzMzY2OC0x\/MTc4LmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

@@ -1,0 +1,89 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1208,
+        "per_page": 5,
+        "items": 6036,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=eum&per_page=5&page=1208",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=eum&per_page=5&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 290180,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/290180-Sung-Eum-Limited",
+            "title": "Sung Eum Limited",
+            "thumb": "https:\/\/i.discogs.com\/trzJYXA05HeesyRje1-pgzAn1XxCUSedqGisFl2gaoE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI5MDE4\/MC0xNDY5MjA5MTMy\/LTQwMjIucG5n.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/VOpWoexNEDI_lEXoGzlgkAvXFDigwDDWDOIJMGgzeQw\/rs:fit\/g:sm\/q:90\/h:238\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI5MDE4\/MC0xNDY5MjA5MTMy\/LTQwMjIucG5n.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/290180"
+        },
+        {
+            "id": 83740,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/83740-Eumir-Deodato",
+            "title": "Eumir Deodato",
+            "thumb": "https:\/\/i.discogs.com\/7n4isJ6_VsgpXRa4KN9yW3oj4rWibyvZxMSxVWpmPHM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTgzNzQw\/LTEyMzMxNjg1MDku\/anBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/PBMZyfynsKXYe_EB9gG2L7ipJ19Tq2NX_FGyacK37fo\/rs:fit\/g:sm\/q:90\/h:368\/w:544\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTgzNzQw\/LTEyMzMxNjg1MDku\/anBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/83740"
+        },
+        {
+            "id": 104889,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/104889-Yeh-Eum-Records",
+            "title": "Yeh Eum Records",
+            "thumb": "https:\/\/i.discogs.com\/a2xEXxTMKCg7P_PWJSY4oH_dtzifUIDXUsrvbdYipa4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEwNDg4\/OS0xNDYyNDE1MDQ1\/LTU3NTYucG5n.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/xclBMZDz2QfH7AdvcpG6VuLHN_XSUQdEqV-kk386Rf0\/rs:fit\/g:sm\/q:90\/h:220\/w:380\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEwNDg4\/OS0xNDYyNDE1MDQ1\/LTU3NTYucG5n.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/104889"
+        },
+        {
+            "id": 347724,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/347724-Hwa-Eum-Records-Ltd",
+            "title": "Hwa Eum Records Ltd.",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/347724"
+        },
+        {
+            "id": 318653,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/318653-Yeh-Eum-Records-Co-Ltd",
+            "title": "Yeh Eum Records Co., Ltd.",
+            "thumb": "https:\/\/i.discogs.com\/b3Q6qq3ht2a9zF8djm1L4EYHKf5LEnpACMmFTh6ihOA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTMxODY1\/My0xNTg1OTI4MzU5\/LTM5NjIuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/QAY1og_TX3j1LXzIoDuN0R-Z-uetIlISOq4vBATzZUM\/rs:fit\/g:sm\/q:90\/h:117\/w:595\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTMxODY1\/My0xNTg1OTI4MzU5\/LTM5NjIuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/318653"
+        }
+    ]
+}

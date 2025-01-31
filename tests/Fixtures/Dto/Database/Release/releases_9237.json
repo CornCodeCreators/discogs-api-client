@@ -1,0 +1,548 @@
+{
+    "id": 9237,
+    "status": "Accepted",
+    "year": 1997,
+    "resource_url": "https:\/\/api.discogs.com\/releases\/9237",
+    "uri": "https:\/\/www.discogs.com\/release\/9237-Death-In-Vegas-Rekkit-Death-By-A-Thousand-Cuts",
+    "artists": [
+        {
+            "name": "Death In Vegas",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 3637,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/3637",
+            "thumbnail_url": "https:\/\/i.discogs.com\/2cKA19FWH05_sq1hEQRo8tL6_OPVhHf8szuTvom3r88\/rs:fit\/g:sm\/q:90\/h:368\/w:572\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTM2Mzct\/MTMzOTcwMTQzNC02\/NDY0LmpwZWc.jpeg"
+        }
+    ],
+    "artists_sort": "Death In Vegas",
+    "labels": [
+        {
+            "name": "Concrete",
+            "catno": "Hard 23 12X",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1583,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1583",
+            "thumbnail_url": "https:\/\/i.discogs.com\/ZPCGtYyaZlDj__5pU8K4J0Y58Ht9sduA_9moIbxu8yQ\/rs:fit\/g:sm\/q:90\/h:94\/w:303\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE1ODMt\/MTMzNzI3MzUwOC03\/OTg3LmpwZWc.jpeg"
+        },
+        {
+            "name": "Concrete",
+            "catno": "HARD 23 12X",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1583,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1583",
+            "thumbnail_url": "https:\/\/i.discogs.com\/ZPCGtYyaZlDj__5pU8K4J0Y58Ht9sduA_9moIbxu8yQ\/rs:fit\/g:sm\/q:90\/h:94\/w:303\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE1ODMt\/MTMzNzI3MzUwOC03\/OTg3LmpwZWc.jpeg"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "Concrete Recordings (3)",
+            "catno": "",
+            "entity_type": "4",
+            "entity_type_name": "Record Company",
+            "id": 1358998,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1358998"
+        },
+        {
+            "name": "BMG Entertainment",
+            "catno": "",
+            "entity_type": "4",
+            "entity_type_name": "Record Company",
+            "id": 113857,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/113857",
+            "thumbnail_url": "https:\/\/i.discogs.com\/hr502a1Aj5dFjQfLXRFYvHxu7UJF5AZqsAWW8awK8kE\/rs:fit\/g:sm\/q:90\/h:220\/w:312\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExMzg1\/Ny0xNjQwMDU5MTYx\/LTUzNzcuanBlZw.jpeg"
+        },
+        {
+            "name": "BMG",
+            "catno": "",
+            "entity_type": "9",
+            "entity_type_name": "Distributed By",
+            "id": 1003,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1003",
+            "thumbnail_url": "https:\/\/i.discogs.com\/yJh5JTLKgDAMF3Pe0hsvqkhMascCBoXbAVcvHBBb6RI\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEwMDMt\/MTU4ODc1NzY0Ny00\/ODMzLmpwZWc.jpeg"
+        },
+        {
+            "name": "Deconstruction Ltd.",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 287613,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/287613"
+        },
+        {
+            "name": "Deconstruction Ltd.",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 287613,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/287613"
+        },
+        {
+            "name": "Sabresonic Studios",
+            "catno": "",
+            "entity_type": "28",
+            "entity_type_name": "Remixed At",
+            "id": 303150,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/303150",
+            "thumbnail_url": "https:\/\/i.discogs.com\/BHfAwZ6acNDL-q_QVvfQCqxkMykqTGRrPV1VyFp_vbU\/rs:fit\/g:sm\/q:90\/h:210\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTMwMzE1\/MC0xMzgzMTY1MTA4\/LTc5OTIuanBlZw.jpeg"
+        },
+        {
+            "name": "Sabresonic Studios",
+            "catno": "",
+            "entity_type": "26",
+            "entity_type_name": "Produced At",
+            "id": 303150,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/303150",
+            "thumbnail_url": "https:\/\/i.discogs.com\/BHfAwZ6acNDL-q_QVvfQCqxkMykqTGRrPV1VyFp_vbU\/rs:fit\/g:sm\/q:90\/h:210\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTMwMzE1\/MC0xMzgzMTY1MTA4\/LTc5OTIuanBlZw.jpeg"
+        },
+        {
+            "name": "Deconstruction Songs Ltd.",
+            "catno": "",
+            "entity_type": "21",
+            "entity_type_name": "Published By",
+            "id": 287036,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/287036"
+        },
+        {
+            "name": "The Exchange",
+            "catno": "",
+            "entity_type": "30",
+            "entity_type_name": "Lacquer Cut At",
+            "id": 158759,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/158759",
+            "thumbnail_url": "https:\/\/i.discogs.com\/FRs_id2oczuOJRhH2gfwymzkpVYWrNO8vGb2m2uQhCk\/rs:fit\/g:sm\/q:90\/h:600\/w:590\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE1ODc1\/OS0xMzE0NzgzNzMx\/LmpwZWc.jpeg"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+                "12\"",
+                "33 \u2153 RPM"
+            ]
+        }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+        "have": 323,
+        "want": 75,
+        "rating": {
+            "count": 29,
+            "average": 4
+        },
+        "submitter": {
+            "username": "dubwave",
+            "resource_url": "https:\/\/api.discogs.com\/users\/dubwave"
+        },
+        "contributors": [
+            {
+                "username": "dubwave",
+                "resource_url": "https:\/\/api.discogs.com\/users\/dubwave"
+            },
+            {
+                "username": "dani72",
+                "resource_url": "https:\/\/api.discogs.com\/users\/dani72"
+            },
+            {
+                "username": "bobdobolina",
+                "resource_url": "https:\/\/api.discogs.com\/users\/bobdobolina"
+            },
+            {
+                "username": "ivo6",
+                "resource_url": "https:\/\/api.discogs.com\/users\/ivo6"
+            },
+            {
+                "username": "BlackCrack",
+                "resource_url": "https:\/\/api.discogs.com\/users\/BlackCrack"
+            },
+            {
+                "username": "TheEvilGenius",
+                "resource_url": "https:\/\/api.discogs.com\/users\/TheEvilGenius"
+            },
+            {
+                "username": "dmtrptpv",
+                "resource_url": "https:\/\/api.discogs.com\/users\/dmtrptpv"
+            },
+            {
+                "username": "DiscogsUpdateBot",
+                "resource_url": "https:\/\/api.discogs.com\/users\/DiscogsUpdateBot"
+            },
+            {
+                "username": "kraftberg",
+                "resource_url": "https:\/\/api.discogs.com\/users\/kraftberg"
+            },
+            {
+                "username": "etnofunk",
+                "resource_url": "https:\/\/api.discogs.com\/users\/etnofunk"
+            }
+        ],
+        "data_quality": "Needs Vote",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2001-08-24T04:06:53-07:00",
+    "date_changed": "2022-12-23T13:13:49-08:00",
+    "num_for_sale": 17,
+    "lowest_price": 1.48,
+    "master_id": 92428,
+    "master_url": "https:\/\/api.discogs.com\/masters\/92428",
+    "title": "Rekkit (Death By A Thousand Cuts)",
+    "country": "UK & Europe",
+    "released": "1997-02-00",
+    "notes": "Remix and additional production at Sabresonic Studios.\n\n\u2117 Deconstruction Limited 1997. The copyright in this sound recording is owned by Deconstruction Limited.\nManufactured in the EC. \u00a9 Deconstruction Limited 1997. \nDistributed by the local BMG company, a unit of BMG Entertainment.\n\nCatalog number printed as \"Hard 23 12X\" on sleeve and disc and as \"HARD 23 12X\" on the spine.",
+    "released_formatted": "Feb 1997",
+    "identifiers": [
+        {
+            "type": "Barcode",
+            "value": "7 43214 64591 8",
+            "description": "Text"
+        },
+        {
+            "type": "Barcode",
+            "value": "0743214645918",
+            "description": "Scanned"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "HARD 2312X A1 THE EXCHANGE - NiLZ.",
+            "description": "Side A Runout Etching"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "HARD 2312X B1 THE EXCHANGE - NiLZ.",
+            "description": "Side B Runout Etching"
+        },
+        {
+            "type": "Label Code",
+            "value": "LC 8280"
+        },
+        {
+            "type": "Price Code",
+            "value": "BM 120",
+            "description": "F:"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=KzB9da1x23c",
+            "title": "Death In Vegas - Rekkit (greetings from lino square)",
+            "description": "@Vinyl-Beats \n\nDeath In Vegas - Rekkit (greetings from lino square)\n\nDeath In Vegas - Rekkit (Death By A Thousand Cuts)\nLabel: Concrete \u2013 Hard 23 12X, Concrete \u2013 HARD 23 12X\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK & Europe\nReleased: Feb 1997\nGenre: Elect",
+            "duration": 530,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=lKsg1WSgpHo",
+            "title": "Death In Vegas - Rekkit (effective machine)",
+            "description": "@Vinyl-Beats \n\nDeath In Vegas - Rekkit (effective machine)\n\nDeath In Vegas - Rekkit (Death By A Thousand Cuts)\nLabel: Concrete \u2013 Hard 23 12X, Concrete \u2013 HARD 23 12X\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK & Europe\nReleased: Feb 1997\nGenre: Electronic\nSty",
+            "duration": 282,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=f64OFEXDmvk",
+            "title": "Death In Vegas - Rekkit (vega sintro)",
+            "description": "@Vinyl-Beats \n\nDeath In Vegas - Rekkit (vega sintro)\n\nDeath In Vegas - Rekkit (Death By A Thousand Cuts)\nLabel: Concrete \u2013 Hard 23 12X, Concrete \u2013 HARD 23 12X\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK & Europe\nReleased: Feb 1997\nGenre: Electronic\nStyle: Te",
+            "duration": 256,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=kKcKfMt-K5c",
+            "title": "Death In Vegas - Rekkit (short jacking)",
+            "description": "@Vinyl-Beats \n\nDeath In Vegas - Rekkit (short jacking)\n\nDeath In Vegas - Rekkit (Death By A Thousand Cuts)\nLabel: Concrete \u2013 Hard 23 12X, Concrete \u2013 HARD 23 12X\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK & Europe\nReleased: Feb 1997\nGenre: Electronic\nStyle: ",
+            "duration": 273,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=ptyazR3pSTs",
+            "title": "Death In Vegas - Rekkit (Greetings From Lino Square) (Concrete HARD 23 12X A1) 1997",
+            "description": "Hi-fi quality #vinyl rip of \"Rekkit (Greetings From Lino Square)\" by Death In Vegas\nFrom the 12\" EP of Two Lone Swordsmen remixes, Death By A Thousand Cuts, released in 1997 #breakbeat\n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by A",
+            "duration": 531,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=-yAPcd2cpC4",
+            "title": "Death In Vegas - Rekkit (Effective Machine) (Concrete HARD 23 12X A2) 1997",
+            "description": "Hi-fi quality #vinyl rip of \"Rekkit (Effective Machine)\" by Death In Vegas\nFrom the 12\" EP of Two Lone Swordsmen remixes, Death By A Thousand Cuts, released in 1997 #breakbeat\n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by Andrew Wea",
+            "duration": 286,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=q15xde8Ck_M",
+            "title": "Death In Vegas - Rekkit (Short Jacking) (Concrete HARD 23 12X B1) 1997",
+            "description": "Hi-fi quality #vinyl rip of \"Rekkit (Greetings From Lino Square)\" by Death In Vegas\nFrom the 12\" EP of Two Lone Swordsmen remixes, Death By A Thousand Cuts, released in 1997 #breakbeat\n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by A",
+            "duration": 278,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=fpyPNavd8hg",
+            "title": "Death In Vegas - Rekkit (Vega Sintro) (Concrete HARD 23 12X B2) 1997",
+            "description": "Hi-fi quality #vinyl rip of \"Rekkit (Vega Sintro)\" by Death In Vegas\nFrom the 12\" EP of Two Lone Swordsmen remixes, Death By A Thousand Cuts, released in 1997 #downtempo \n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by Andrew Weathera",
+            "duration": 269,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=KzB9da1x23c",
+            "title": "Death In Vegas - Rekkit (greetings from lino square)",
+            "description": "@Vinyl-Beats \n\nDeath In Vegas - Rekkit (greetings from lino square)\n\nDeath In Vegas - Rekkit (Death By A Thousand Cuts)\nLabel: Concrete \u2013 Hard 23 12X, Concrete \u2013 HARD 23 12X\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK & Europe\nReleased: Feb 1997\nGenre: Elect",
+            "duration": 530,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=lKsg1WSgpHo",
+            "title": "Death In Vegas - Rekkit (effective machine)",
+            "description": "@Vinyl-Beats \n\nDeath In Vegas - Rekkit (effective machine)\n\nDeath In Vegas - Rekkit (Death By A Thousand Cuts)\nLabel: Concrete \u2013 Hard 23 12X, Concrete \u2013 HARD 23 12X\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK & Europe\nReleased: Feb 1997\nGenre: Electronic\nSty",
+            "duration": 282,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=f64OFEXDmvk",
+            "title": "Death In Vegas - Rekkit (vega sintro)",
+            "description": "@Vinyl-Beats \n\nDeath In Vegas - Rekkit (vega sintro)\n\nDeath In Vegas - Rekkit (Death By A Thousand Cuts)\nLabel: Concrete \u2013 Hard 23 12X, Concrete \u2013 HARD 23 12X\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK & Europe\nReleased: Feb 1997\nGenre: Electronic\nStyle: Te",
+            "duration": 256,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=kKcKfMt-K5c",
+            "title": "Death In Vegas - Rekkit (short jacking)",
+            "description": "@Vinyl-Beats \n\nDeath In Vegas - Rekkit (short jacking)\n\nDeath In Vegas - Rekkit (Death By A Thousand Cuts)\nLabel: Concrete \u2013 Hard 23 12X, Concrete \u2013 HARD 23 12X\nFormat: Vinyl, 12\", 33 \u2153 RPM\nCountry: UK & Europe\nReleased: Feb 1997\nGenre: Electronic\nStyle: ",
+            "duration": 273,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=ptyazR3pSTs",
+            "title": "Death In Vegas - Rekkit (Greetings From Lino Square) (Concrete HARD 23 12X A1) 1997",
+            "description": "Hi-fi quality #vinyl rip of \"Rekkit (Greetings From Lino Square)\" by Death In Vegas\nFrom the 12\" EP of Two Lone Swordsmen remixes, Death By A Thousand Cuts, released in 1997 #breakbeat\n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by A",
+            "duration": 531,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=-yAPcd2cpC4",
+            "title": "Death In Vegas - Rekkit (Effective Machine) (Concrete HARD 23 12X A2) 1997",
+            "description": "Hi-fi quality #vinyl rip of \"Rekkit (Effective Machine)\" by Death In Vegas\nFrom the 12\" EP of Two Lone Swordsmen remixes, Death By A Thousand Cuts, released in 1997 #breakbeat\n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by Andrew Wea",
+            "duration": 286,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=q15xde8Ck_M",
+            "title": "Death In Vegas - Rekkit (Short Jacking) (Concrete HARD 23 12X B1) 1997",
+            "description": "Hi-fi quality #vinyl rip of \"Rekkit (Greetings From Lino Square)\" by Death In Vegas\nFrom the 12\" EP of Two Lone Swordsmen remixes, Death By A Thousand Cuts, released in 1997 #breakbeat\n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by A",
+            "duration": 278,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=fpyPNavd8hg",
+            "title": "Death In Vegas - Rekkit (Vega Sintro) (Concrete HARD 23 12X B2) 1997",
+            "description": "Hi-fi quality #vinyl rip of \"Rekkit (Vega Sintro)\" by Death In Vegas\nFrom the 12\" EP of Two Lone Swordsmen remixes, Death By A Thousand Cuts, released in 1997 #downtempo \n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by Andrew Weathera",
+            "duration": 269,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=2R0cuPmDGXE",
+            "title": "Death In Vegas - Rekkit (Radio Mix) (Concrete HARD 23CD track 1) 1997",
+            "description": "Hi-fi quality #CD rip of \"Rekkit (Radio Mix)\" by Death In Vegas\nDirty #downtempo track released in 1997\n\nWritten and produced by Richard Fearless & Steve Hellier\nConcrete HARD 23CD track 1\n\nTrack 1 - Rekkit (Radio Mix): https:\/\/youtu.be\/2R0cuPmDGXE\nTrack ",
+            "duration": 231,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=j1COm6eAez8",
+            "title": "Death In Vegas - Rekkit (Full Mix) (Concrete HARD 23CD track 2) 1997",
+            "description": "Hi-fi quality #CD rip of \"Rekkit (Full Mix)\" by Death In Vegas\nDirty #downtempo track released in 1997\n\nWritten and produced by Richard Fearless & Steve Hellier\nConcrete HARD 23CD track 2\n\nTrack 1 - Rekkit (Radio Mix): https:\/\/youtu.be\/2R0cuPmDGXE\nTrack 3",
+            "duration": 388,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=_-RuN1zmFGI",
+            "title": "Death In Vegas - Rekkit (Greetings From Lino Square) (Concrete HARD 23CD track 3) 1997",
+            "description": "Hi-fi quality #CD rip of \"Rekkit (Greetings From Lino Square)\" by Death In Vegas\nTwo Lone Swordsmen remix of #downtempo track released in 1997\n\nWritten and produced by Richard Fearless & Steve Hellier\nRemixed by Andrew Weatherall & Keith Tenniswood\nConcre",
+            "duration": 533,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=pIUyOlF9KmE",
+            "title": "Death In Vegas - I Spy (Concrete HARD 23CD track 4) 1997",
+            "description": "Hi-fi quality #CD rip of \"I Spy\" by Death In Vegas\nCinematic #downtempo track released in 1997 as a b-side to Rekkit\n\nWritten and produced by Richard Fearless & Steve Hellier\nConcrete HARD 23CD track 4\n\nTrack 1 - Rekkit (Radio Mix): https:\/\/youtu.be\/2R0cu",
+            "duration": 295,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=16KivD0wXDg",
+            "title": "Death in Vegas - Rekkit (The 2 Lone Swordsmen mix)",
+            "description": "",
+            "duration": 406,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=fvL_dasVqzE",
+            "title": "I Spy",
+            "description": "Provided to YouTube by Sony Music Entertainment\n\nI Spy \u00b7 Death In Vegas\n\nDead Elvis\n\n\u2117 1997 Deconstruction Limited\n\nComposer, Lyricist: Richard Fearless\nComposer, Lyricist: Steve Hellier\nBass: Mat Flint\nPiano: Seamus Beaghen\nAssociated  Performer: Anth",
+            "duration": 299,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Techno",
+        "Experimental"
+    ],
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Rekkit (Greetings From Lino Square)",
+            "duration": "8:50"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Rekkit (Effective Machine)",
+            "duration": "4:40"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Rekkit (Short Jacking)",
+            "duration": "4:30"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Rekkit (Vega Sintro)",
+            "duration": "4:00"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "Mat Flint",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 467726,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/467726"
+        },
+        {
+            "name": "Fearlessbeaven",
+            "anv": "",
+            "join": "",
+            "role": "Design",
+            "tracks": "",
+            "id": 1841601,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1841601"
+        },
+        {
+            "name": "Anthony Anderson (4)",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 3200812,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/3200812"
+        },
+        {
+            "name": "Nilesh Patel",
+            "anv": "Nilz",
+            "join": "",
+            "role": "Lacquer Cut By",
+            "tracks": "",
+            "id": 386598,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/386598"
+        },
+        {
+            "name": "Death In Vegas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3637,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/3637"
+        },
+        {
+            "name": "Andrew Weatherall",
+            "anv": "",
+            "join": "",
+            "role": "Remix, Producer [Additional]",
+            "tracks": "",
+            "id": 2657,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2657"
+        },
+        {
+            "name": "Keith Tenniswood",
+            "anv": "",
+            "join": "",
+            "role": "Remix, Producer [Additional]",
+            "tracks": "",
+            "id": 23899,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/23899"
+        },
+        {
+            "name": "Two Lone Swordsmen",
+            "anv": "The 2 Lone Swordsmen",
+            "join": "",
+            "role": "Remix, Producer [Additional]",
+            "tracks": "",
+            "id": 958,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/958"
+        },
+        {
+            "name": "Richard Fearless",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3241,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/3241"
+        },
+        {
+            "name": "Steve Hellier",
+            "anv": "Steven Hellier",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 67724,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/67724"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/V5zfjKyh_BaoC2s1ZFXa8-shjtpq4eo8UGFHuzLRu9s\/rs:fit\/g:sm\/q:90\/h:364\/w:350\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTEwNjI3OTQxOS5q\/cGc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/V5zfjKyh_BaoC2s1ZFXa8-shjtpq4eo8UGFHuzLRu9s\/rs:fit\/g:sm\/q:90\/h:364\/w:350\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTEwNjI3OTQxOS5q\/cGc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/CJe13YkExIsL8JKoR21g5aGcD2TB5Hji-FesZ_hPWo0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTEwNjI3OTQxOS5q\/cGc.jpeg",
+            "width": 350,
+            "height": 364
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/XTnCL9ZmQIJWtgnvQV2SX3Hko8c7CEMtrECk1bmQYzk\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My05\/OTM5LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/XTnCL9ZmQIJWtgnvQV2SX3Hko8c7CEMtrECk1bmQYzk\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My05\/OTM5LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/Rwr0EHEhJYNQ0dLW3eyuGlEbVugM4mT5x4eXS4EC1W4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My05\/OTM5LmpwZWc.jpeg",
+            "width": 600,
+            "height": 596
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/8lfORnSX0YculFUj8A5njuFf9k0MZloWt4nWDHsjq14\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My0y\/NDE3LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/8lfORnSX0YculFUj8A5njuFf9k0MZloWt4nWDHsjq14\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My0y\/NDE3LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/IJmpWMY0s5EKRco1t8MdtUbHkOi4DdFxzbEh9ASPyRE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My0y\/NDE3LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/vPFRhgnFXiY9p8ZjiZEnbqZDItP1rg33ZWArzSxSjzg\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My00\/MzAxLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/vPFRhgnFXiY9p8ZjiZEnbqZDItP1rg33ZWArzSxSjzg\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My00\/MzAxLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/hy1vC09NXujCdTwBtCkQ3fpgkEaVdXWuVonvyUUOgjA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTYwMzAxNzg1My00\/MzAxLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        }
+    ],
+    "thumb": "https:\/\/i.discogs.com\/CJe13YkExIsL8JKoR21g5aGcD2TB5Hji-FesZ_hPWo0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkyMzct\/MTEwNjI3OTQxOS5q\/cGc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

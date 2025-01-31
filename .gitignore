@@ -1,0 +1,9 @@
+/.idea/
+/_jsonData/
+/vendor/
+
+
+.DS_Store
+.env.local
+.phpunit.result.cache
+.php-cs-fixer.cache

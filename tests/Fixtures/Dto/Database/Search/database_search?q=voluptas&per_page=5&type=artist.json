@@ -1,0 +1,86 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 5,
+        "items": 5,
+        "urls": []
+    },
+    "results": [
+        {
+            "id": 4464387,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/4464387-Voluptas-Dolendi",
+            "title": "Voluptas Dolendi",
+            "thumb": "https:\/\/i.discogs.com\/b0tKt4qS9ak-5BSLxpzbMvf05-baTleu0xQMDPMPOdM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ0NjQz\/ODctMTUwMDIwODE2\/Mi05NjMyLmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/_8-oMkivQbTht0HDkIU-oqyZrz6Hkz3Y--5LI4K-mtE\/rs:fit\/g:sm\/q:90\/h:405\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ0NjQz\/ODctMTUwMDIwODE2\/Mi05NjMyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/4464387"
+        },
+        {
+            "id": 10561450,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/10561450-Sup-Voluptas",
+            "title": "Sup (Voluptas)",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/10561450"
+        },
+        {
+            "id": 5090348,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/5090348-Voluptas-2",
+            "title": "Voluptas (2)",
+            "thumb": "https:\/\/i.discogs.com\/DEBDtgDS-Thpy9q4G_-ZflBIUHG2OU1r4a3T2brOscI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUwOTAz\/NDgtMTQ2NTMxMjY5\/NC00NDMwLmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/aH6L0TXaoyigjSWMLjz9bRtw8vgcxvMUL2HMT3VGE8U\/rs:fit\/g:sm\/q:90\/h:811\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUwOTAz\/NDgtMTQ2NTMxMjY5\/NC00NDMwLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/5090348"
+        },
+        {
+            "id": 4526627,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/4526627-Voluptas",
+            "title": "Voluptas",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/4526627"
+        },
+        {
+            "id": 5753065,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/5753065-Voluptas-Mors",
+            "title": "Voluptas Mors",
+            "thumb": "https:\/\/i.discogs.com\/g60ZKtdHSsvxrah_xN5o03Jdmm7mTMmvVR-qJsP0Zt4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTU3NTMw\/NjUtMTUyMzA5MTkw\/Mi05NjQzLmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/8pd8eZ80LbrMB0LHCMMfAw1UaZcY-FkGei7MIsBkOCM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTU3NTMw\/NjUtMTUyMzA5MTkw\/Mi05NjQzLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/5753065"
+        }
+    ]
+}

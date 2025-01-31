@@ -1,0 +1,233 @@
+{
+    "id": 1080,
+    "status": "Accepted",
+    "year": 1994,
+    "resource_url": "https:\/\/api.discogs.com\/releases\/1080",
+    "uri": "https:\/\/www.discogs.com\/release\/1080-Liftin-Spirits-Giggle-N-Rush",
+    "artists": [
+        {
+            "name": "Liftin' Spirits",
+            "anv": "Liftin Spirits",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 80270,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/80270",
+            "thumbnail_url": "https:\/\/i.discogs.com\/B2NRVvLsz7sjotLJKpQuHiNhvIBlcQMBGauk5U4tra0\/rs:fit\/g:sm\/q:90\/h:374\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTgwMjcw\/LTExNjU3MjU0MjIu\/anBlZw.jpeg"
+        }
+    ],
+    "artists_sort": "Liftin' Spirits",
+    "labels": [
+        {
+            "name": "Liftin' Spirit Records",
+            "catno": "ADM 1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 274,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/274",
+            "thumbnail_url": "https:\/\/i.discogs.com\/1meW7Kj7l392rItKiji1QNtLsTBjI9QjEpFe03dx2BM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI3NC0x\/NTEzMjgwMTMyLTky\/MDkucG5n.jpeg"
+        }
+    ],
+    "series": [],
+    "companies": [
+        {
+            "name": "JTS Studios",
+            "catno": "",
+            "entity_type": "30",
+            "entity_type_name": "Lacquer Cut At",
+            "id": 266169,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/266169",
+            "thumbnail_url": "https:\/\/i.discogs.com\/sGCFNRSLp4OEp2rMJHlIc6g4KWZUhzPoDwRgM9_BJao\/rs:fit\/g:sm\/q:90\/h:151\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2NjE2\/OS0xMzU5MDY2NTY5\/LTM1MTAuanBlZw.jpeg"
+        }
+    ],
+    "formats": [
+        {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+                "12\"",
+                "45 RPM",
+                "White Label"
+            ],
+            "text": "Stamped"
+        }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+        "have": 323,
+        "want": 398,
+        "rating": {
+            "count": 74,
+            "average": 4.59
+        },
+        "submitter": {
+            "username": "Deepbass9",
+            "resource_url": "https:\/\/api.discogs.com\/users\/Deepbass9"
+        },
+        "contributors": [
+            {
+                "username": "Deepbass9",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Deepbass9"
+            },
+            {
+                "username": "rage",
+                "resource_url": "https:\/\/api.discogs.com\/users\/rage"
+            },
+            {
+                "username": "303",
+                "resource_url": "https:\/\/api.discogs.com\/users\/303"
+            },
+            {
+                "username": "nebkins",
+                "resource_url": "https:\/\/api.discogs.com\/users\/nebkins"
+            },
+            {
+                "username": "vehscle",
+                "resource_url": "https:\/\/api.discogs.com\/users\/vehscle"
+            },
+            {
+                "username": "ian_s",
+                "resource_url": "https:\/\/api.discogs.com\/users\/ian_s"
+            },
+            {
+                "username": "matt_bassline",
+                "resource_url": "https:\/\/api.discogs.com\/users\/matt_bassline"
+            },
+            {
+                "username": "steve_brown",
+                "resource_url": "https:\/\/api.discogs.com\/users\/steve_brown"
+            },
+            {
+                "username": "TRAINSPOTTER47",
+                "resource_url": "https:\/\/api.discogs.com\/users\/TRAINSPOTTER47"
+            },
+            {
+                "username": "Zerodivision",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Zerodivision"
+            },
+            {
+                "username": "vinylmaddy",
+                "resource_url": "https:\/\/api.discogs.com\/users\/vinylmaddy"
+            }
+        ],
+        "data_quality": "Needs Vote",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2000-12-14T16:23:30-08:00",
+    "date_changed": "2022-04-16T18:03:53-07:00",
+    "num_for_sale": 9,
+    "lowest_price": 32.66,
+    "master_id": 473720,
+    "master_url": "https:\/\/api.discogs.com\/masters\/473720",
+    "title": "Giggle N Rush",
+    "country": "UK",
+    "released": "1994-03-00",
+    "notes": "Tracklisting stamped on vinyl label.\n\nTrack A samples dialogue from the film 2010.",
+    "released_formatted": "Mar 1994",
+    "identifiers": [
+        {
+            "type": "Matrix \/ Runout",
+            "value": "(Side A): ADM 1 A"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "(Side AA): ADM 1 AA"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "(Additional etching both sides): -J.T.S-"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=lcZNW_fFAkQ",
+            "title": "Giggle 'n' Rush",
+            "description": "Provided to YouTube by IDOL\n\nGiggle 'n' Rush \u00b7 Liftin Spirits\n\nGiggle 'n' Rush \/ Break It Up \/ Will I Dream?\n\n\u2117 Liftin Spirit Records\n\nReleased on: 1994-02-07\n\nComposer: Antony Miles\n\nAuto-generated by YouTube.",
+            "duration": 331,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=z4FR9X1JS-c",
+            "title": "Break It Up",
+            "description": "Provided to YouTube by IDOL\n\nBreak It Up \u00b7 Liftin Spirits\n\nGiggle 'n' Rush \/ Break It Up \/ Will I Dream?\n\n\u2117 Liftin Spirit Records\n\nReleased on: 1994-02-07\n\nComposer: Antony Miles\n\nAuto-generated by YouTube.",
+            "duration": 328,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=f7H2NQ7jSiU",
+            "title": "Will I Dream?",
+            "description": "Provided to YouTube by IDOL\n\nWill I Dream? \u00b7 Liftin Spirits\n\nGiggle 'n' Rush \/ Break It Up \/ Will I Dream?\n\n\u2117 Liftin Spirit Records\n\nReleased on: 1994-02-07\n\nComposer: Antony Miles\n\nAuto-generated by YouTube.",
+            "duration": 328,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=lcZNW_fFAkQ",
+            "title": "Giggle 'n' Rush",
+            "description": "Provided to YouTube by IDOL\n\nGiggle 'n' Rush \u00b7 Liftin Spirits\n\nGiggle 'n' Rush \/ Break It Up \/ Will I Dream?\n\n\u2117 Liftin Spirit Records\n\nReleased on: 1994-02-07\n\nComposer: Antony Miles\n\nAuto-generated by YouTube.",
+            "duration": 331,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=z4FR9X1JS-c",
+            "title": "Break It Up",
+            "description": "Provided to YouTube by IDOL\n\nBreak It Up \u00b7 Liftin Spirits\n\nGiggle 'n' Rush \/ Break It Up \/ Will I Dream?\n\n\u2117 Liftin Spirit Records\n\nReleased on: 1994-02-07\n\nComposer: Antony Miles\n\nAuto-generated by YouTube.",
+            "duration": 328,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=f7H2NQ7jSiU",
+            "title": "Will I Dream?",
+            "description": "Provided to YouTube by IDOL\n\nWill I Dream? \u00b7 Liftin Spirits\n\nGiggle 'n' Rush \/ Break It Up \/ Will I Dream?\n\n\u2117 Liftin Spirit Records\n\nReleased on: 1994-02-07\n\nComposer: Antony Miles\n\nAuto-generated by YouTube.",
+            "duration": 328,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Jungle"
+    ],
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Giggle N Rush",
+            "duration": ""
+        },
+        {
+            "position": "AA2",
+            "type_": "track",
+            "title": "Break It Up",
+            "duration": ""
+        },
+        {
+            "position": "AA3",
+            "type_": "track",
+            "title": "Will I Dream",
+            "duration": ""
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/QoUaqTEPcR4XE-M9drCq9hD5eak49wKmna8GBMPge0E\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODAt\/MTM0Mjg2OTEwNi04\/NzUzLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/QoUaqTEPcR4XE-M9drCq9hD5eak49wKmna8GBMPge0E\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODAt\/MTM0Mjg2OTEwNi04\/NzUzLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/UkUXr-aZhlftecRIH-TaEZz4aFovcG2EpbYi7CuGNgs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODAt\/MTM0Mjg2OTEwNi04\/NzUzLmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/9ZgTnndOejiq1yOhe9pavG6McO-yS_tkDME1VU9Fmm0\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODAt\/MTM0Mjg2OTExMS0y\/NjA3LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/9ZgTnndOejiq1yOhe9pavG6McO-yS_tkDME1VU9Fmm0\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODAt\/MTM0Mjg2OTExMS0y\/NjA3LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/UkD_2nLSvu6X0f9nZZwDnNF1Ru13K0yy-HFJiRSJlwo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODAt\/MTM0Mjg2OTExMS0y\/NjA3LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        }
+    ],
+    "thumb": "https:\/\/i.discogs.com\/UkUXr-aZhlftecRIH-TaEZz4aFovcG2EpbYi7CuGNgs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODAt\/MTM0Mjg2OTEwNi04\/NzUzLmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false
+}

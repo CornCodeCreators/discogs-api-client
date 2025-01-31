@@ -1,0 +1,18 @@
+{
+    "name": "Bossa Free",
+    "id": 12164,
+    "resource_url": "https:\/\/api.discogs.com\/artists\/12164",
+    "uri": "https:\/\/www.discogs.com\/artist\/12164-Bossa-Free",
+    "releases_url": "https:\/\/api.discogs.com\/artists\/12164\/releases",
+    "realname": "\u5409\u6fa4 \u306f\u3058\u3081 (YOSHIZAWA Hajime)",
+    "profile": "",
+    "aliases": [
+        {
+            "id": 8183,
+            "name": "Hajime Yoshizawa",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/8183",
+            "thumbnail_url": "https:\/\/i.discogs.com\/dbAT5yKC0EBvSQPTmlBYdm3znRWK4bIQFYmNZWKKbZU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTgxODMt\/MTA3NjAzNjQ1OC5q\/cGc.jpeg"
+        }
+    ],
+    "data_quality": "Correct"
+}

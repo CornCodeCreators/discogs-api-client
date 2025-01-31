@@ -1,0 +1,49 @@
+{
+    "name": "corncodecreators/discogs-api-client",
+    "type": "library",
+    "description": "Unofficial official client for Discogs API",
+    "keywords": ["discogs", "api", "client", "php", "dto"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Korn",
+            "email": "info@corncode.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "CornCodeCreators\\Discogs\\": "lib/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CornCodeCreators\\Discogs\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "ext-curl": "*",
+        "php": "^8.1",
+        "symfony/http-foundation": "^6.4",
+        "symfony/finder": "^6.4",
+        "fakerphp/faker": "^1.24"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^2.1",
+        "symfony/var-dumper": "^6.4",
+        "vlucas/phpdotenv": "^5.6",
+        "friendsofphp/php-cs-fixer": "^3.68",
+        "phpunit/phpunit": "^10.5"
+    },
+    "scripts": {
+        "code-fix": "./vendor/bin//php-cs-fixer fix",
+        "code-check": "./vendor/bin/phpstan analyse",
+        "code-test": "./vendor/bin/phpunit"
+    },
+    "config": {
+        "platform-check": true,
+        "platform": {
+            "php": "8.1"
+        }
+    }
+}

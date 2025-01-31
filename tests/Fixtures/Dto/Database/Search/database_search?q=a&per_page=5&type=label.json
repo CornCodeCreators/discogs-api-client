@@ -1,0 +1,89 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 2000,
+        "per_page": 5,
+        "items": 111068,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=a&per_page=5&type=label&page=2000",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=a&per_page=5&type=label&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 910673,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/910673-\u00e4",
+            "title": "\u00e4",
+            "thumb": "https:\/\/i.discogs.com\/Y-R4r4blm3M2NQ5mpYK4plofoM0icvVuz5VVywALFZ0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTkxMDY3\/My0xNDQ1MDM1NjQz\/LTUwMTkuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/qQTs5xOZhuurnB_2QABnr0VOtP1HdpEUtlhcmqI51uY\/rs:fit\/g:sm\/q:90\/h:867\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTkxMDY3\/My0xNDQ1MDM1NjQz\/LTUwMTkuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/910673"
+        },
+        {
+            "id": 904,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/904-AM-Records",
+            "title": "A&M Records",
+            "thumb": "https:\/\/i.discogs.com\/SPcVO3NcIHmZUIofjGF4s6Ixrytadr3hg5mJrfNa_cI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTkwNC0x\/Mzc5NTAyOTM2LTI1\/MDcucG5n.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/Q9MDIgi0APJGemq-xddyJB41sI-g172DIZ_xl628StE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTkwNC0x\/Mzc5NTAyOTM2LTI1\/MDcucG5n.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/904"
+        },
+        {
+            "id": 265722,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/265722-AM-Studios",
+            "title": "A&M Studios",
+            "thumb": "https:\/\/i.discogs.com\/CwOau121mhr8GDLun4XSSioz-QsdVJiLe2EAS3El4W4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2NTcy\/Mi0xNTU2OTkzMjYx\/LTU2OTkuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/eJvDquiaSWROpGx7wfC23vmtQpi9P6W-q_oux74HSI4\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2NTcy\/Mi0xNTU2OTkzMjYx\/LTU2OTkuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/265722"
+        },
+        {
+            "id": 264419,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/264419-AR-Studios",
+            "title": "A&R Studios",
+            "thumb": "https:\/\/i.discogs.com\/5KwGQEmkxl5e5NgzFAavO1PCrCZOkVI4EyTKDwlX3Ns\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2NDQx\/OS0xMzUzMDA5OTc3\/LTQ3NTYuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/x-HuOdXrsByg6HZkh_M4UEITnYbYjzBUfdafy5jMP20\/rs:fit\/g:sm\/q:90\/h:191\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2NDQx\/OS0xMzUzMDA5OTc3\/LTQ3NTYuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/264419"
+        },
+        {
+            "id": 1549959,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/1549959-A-7",
+            "title": "A (7)",
+            "thumb": "https:\/\/i.discogs.com\/pBptiG4FS1yTWRF2m8PgPhQ9kn_6lLm73i6iQGT7_4k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE1NDk5\/NTktMTYxOTcwMDU0\/My0xNjU2LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/pTrxsL9JZxFyN0WeuyA2Ysub0d1tcui6Oe5CnMM-tJw\/rs:fit\/g:sm\/q:90\/h:230\/w:260\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE1NDk5\/NTktMTYxOTcwMDU0\/My0xNjU2LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1549959"
+        }
+    ]
+}

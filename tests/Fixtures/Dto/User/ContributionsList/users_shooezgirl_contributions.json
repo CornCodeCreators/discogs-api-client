@@ -1,0 +1,565 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 5,
+        "urls": []
+    },
+    "contributions": [
+        {
+            "id": 6299073,
+            "status": "Accepted",
+            "year": 2000,
+            "resource_url": "https:\/\/api.discogs.com\/releases\/6299073",
+            "uri": "https:\/\/www.discogs.com\/release\/6299073-West-Magnetic-Blue-Royal",
+            "artists": [
+                {
+                    "name": "West Magnetic",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 3332,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/3332"
+                }
+            ],
+            "artists_sort": "West Magnetic",
+            "labels": [
+                {
+                    "name": "OM Records",
+                    "catno": "OM049SV",
+                    "entity_type": "1",
+                    "entity_type_name": "Label",
+                    "id": 702,
+                    "resource_url": "https:\/\/api.discogs.com\/labels\/702"
+                }
+            ],
+            "series": [],
+            "companies": [],
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "12\"",
+                        "33 \u2153 RPM",
+                        "White Label"
+                    ]
+                }
+            ],
+            "data_quality": "Needs Vote",
+            "community": {
+                "have": 15,
+                "want": 17,
+                "rating": {
+                    "count": 2,
+                    "average": 4
+                },
+                "submitter": {
+                    "username": "shooezgirl",
+                    "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                },
+                "contributors": [
+                    {
+                        "username": "shooezgirl",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                    },
+                    {
+                        "username": "jivemofo",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/jivemofo"
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "status": "Accepted"
+            },
+            "format_quantity": 1,
+            "date_added": "2014-11-13T09:37:46-08:00",
+            "date_changed": "2020-07-27T16:13:20-07:00",
+            "num_for_sale": 1,
+            "lowest_price": 6.9,
+            "master_id": 757895,
+            "master_url": "https:\/\/api.discogs.com\/masters\/757895",
+            "title": "Blue Royal",
+            "country": "US",
+            "released": "2000",
+            "released_formatted": "2000",
+            "identifiers": [],
+            "genres": [
+                "Electronic"
+            ],
+            "styles": [
+                "House"
+            ],
+            "images": [
+                {
+                    "type": "primary",
+                    "uri": "https:\/\/i.discogs.com\/fhu_QKlIEhQt8EY6DjNejCVAkZEyd3JUfR9lYOlT-0M\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyOTkw\/NzMtMTU5NTg5MTU5\/Ni00MTY3LmpwZWc.jpeg",
+                    "resource_url": "https:\/\/i.discogs.com\/fhu_QKlIEhQt8EY6DjNejCVAkZEyd3JUfR9lYOlT-0M\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyOTkw\/NzMtMTU5NTg5MTU5\/Ni00MTY3LmpwZWc.jpeg",
+                    "uri150": "https:\/\/i.discogs.com\/5eAjF3BWhWH-EQGc08NIH-H-IvISWqteYCBJTr-_Cio\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyOTkw\/NzMtMTU5NTg5MTU5\/Ni00MTY3LmpwZWc.jpeg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "thumb": "https:\/\/i.discogs.com\/5eAjF3BWhWH-EQGc08NIH-H-IvISWqteYCBJTr-_Cio\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyOTkw\/NzMtMTU5NTg5MTU5\/Ni00MTY3LmpwZWc.jpeg",
+            "estimated_weight": 230
+        },
+        {
+            "id": 5797978,
+            "status": "Accepted",
+            "year": 1998,
+            "resource_url": "https:\/\/api.discogs.com\/releases\/5797978",
+            "uri": "https:\/\/www.discogs.com\/release\/5797978-Black-Moon-I-Got-Cha-Opin-The-Drum-N-Bass-Mixes",
+            "artists": [
+                {
+                    "name": "Black Moon",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 14757,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/14757"
+                }
+            ],
+            "artists_sort": "Black Moon",
+            "labels": [
+                {
+                    "name": "Nervous Dog Records",
+                    "catno": "ND 20335",
+                    "entity_type": "1",
+                    "entity_type_name": "Label",
+                    "id": 31316,
+                    "resource_url": "https:\/\/api.discogs.com\/labels\/31316"
+                }
+            ],
+            "series": [],
+            "companies": [
+                {
+                    "name": "WEA Manufacturing",
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": 264250,
+                    "resource_url": "https:\/\/api.discogs.com\/labels\/264250"
+                }
+            ],
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "12\"",
+                        "33 \u2153 RPM",
+                        "Test Pressing"
+                    ]
+                }
+            ],
+            "data_quality": "Correct",
+            "community": {
+                "have": 2,
+                "want": 105,
+                "rating": {
+                    "count": 3,
+                    "average": 4.33
+                },
+                "submitter": {
+                    "username": "shooezgirl",
+                    "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                },
+                "contributors": [
+                    {
+                        "username": "shooezgirl",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                    },
+                    {
+                        "username": "dub_e_72",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/dub_e_72"
+                    },
+                    {
+                        "username": "brianvy",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/brianvy"
+                    }
+                ],
+                "data_quality": "Correct",
+                "status": "Accepted"
+            },
+            "format_quantity": 1,
+            "date_added": "2014-06-16T13:27:59-07:00",
+            "date_changed": "2019-02-26T06:03:22-08:00",
+            "num_for_sale": 0,
+            "lowest_price": null,
+            "master_id": 57006,
+            "master_url": "https:\/\/api.discogs.com\/masters\/57006",
+            "title": "I Got Cha Opin (The Drum N' Bass Mixes)",
+            "country": "US",
+            "released": "1998",
+            "released_formatted": "1998",
+            "identifiers": [],
+            "genres": [
+                "Electronic",
+                "Hip Hop"
+            ],
+            "styles": [
+                "Drum n Bass",
+                "Hip Hop"
+            ],
+            "images": [
+                {
+                    "type": "primary",
+                    "uri": "https:\/\/i.discogs.com\/85zGas-xFLUiayP0SfNqwwCihks2QUlu7XXNbLjD3T4\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTc5\/NzgtMTQwMjk1MDky\/OC0zNTUwLmpwZWc.jpeg",
+                    "resource_url": "https:\/\/i.discogs.com\/85zGas-xFLUiayP0SfNqwwCihks2QUlu7XXNbLjD3T4\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTc5\/NzgtMTQwMjk1MDky\/OC0zNTUwLmpwZWc.jpeg",
+                    "uri150": "https:\/\/i.discogs.com\/MhBZCR7ybnWBkhLCq8Zfa8bahePPCXKKz9PRp5df7YI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTc5\/NzgtMTQwMjk1MDky\/OC0zNTUwLmpwZWc.jpeg",
+                    "width": 600,
+                    "height": 594
+                }
+            ],
+            "thumb": "https:\/\/i.discogs.com\/MhBZCR7ybnWBkhLCq8Zfa8bahePPCXKKz9PRp5df7YI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTc5\/NzgtMTQwMjk1MDky\/OC0zNTUwLmpwZWc.jpeg",
+            "estimated_weight": 230
+        },
+        {
+            "id": 5531933,
+            "status": "Accepted",
+            "year": 1989,
+            "resource_url": "https:\/\/api.discogs.com\/releases\/5531933",
+            "uri": "https:\/\/www.discogs.com\/release\/5531933-Cher-And-Peter-Cetera-After-All",
+            "artists": [
+                {
+                    "name": "Cher",
+                    "anv": "",
+                    "join": "And",
+                    "role": "",
+                    "tracks": "",
+                    "id": 17961,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/17961"
+                },
+                {
+                    "name": "Peter Cetera",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 255473,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/255473"
+                }
+            ],
+            "artists_sort": "Cher And Peter Cetera",
+            "labels": [
+                {
+                    "name": "Geffen Records",
+                    "catno": "7-27529-DJ",
+                    "entity_type": "1",
+                    "entity_type_name": "Label",
+                    "id": 821,
+                    "resource_url": "https:\/\/api.discogs.com\/labels\/821"
+                }
+            ],
+            "series": [],
+            "companies": [],
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "7\"",
+                        "45 RPM",
+                        "Single",
+                        "Promo"
+                    ]
+                }
+            ],
+            "data_quality": "Needs Vote",
+            "community": {
+                "have": 35,
+                "want": 12,
+                "rating": {
+                    "count": 3,
+                    "average": 5
+                },
+                "submitter": {
+                    "username": "shooezgirl",
+                    "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                },
+                "contributors": [
+                    {
+                        "username": "shooezgirl",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                    },
+                    {
+                        "username": "Aquacrash_Dj",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Aquacrash_Dj"
+                    },
+                    {
+                        "username": "Diognes_The_Fox",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Diognes_The_Fox"
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "status": "Accepted"
+            },
+            "format_quantity": 1,
+            "date_added": "2014-03-25T15:16:13-07:00",
+            "date_changed": "2014-05-14T13:36:00-07:00",
+            "num_for_sale": 14,
+            "lowest_price": 1.69,
+            "master_id": 223379,
+            "master_url": "https:\/\/api.discogs.com\/masters\/223379",
+            "title": "After All",
+            "country": "US",
+            "released": "1989",
+            "notes": "Promotion Not For Sale",
+            "released_formatted": "1989",
+            "identifiers": [],
+            "genres": [
+                "Rock",
+                "Pop"
+            ],
+            "styles": [
+                "Ballad"
+            ],
+            "images": [
+                {
+                    "type": "primary",
+                    "uri": "https:\/\/i.discogs.com\/3EH20ArxTaZHLfhaI3RhE2J1fN0UH8rw6cHxHRfyv_Q\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE5\/MzMtMTQwMDA5OTc1\/OC02NDQ0LmpwZWc.jpeg",
+                    "resource_url": "https:\/\/i.discogs.com\/3EH20ArxTaZHLfhaI3RhE2J1fN0UH8rw6cHxHRfyv_Q\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE5\/MzMtMTQwMDA5OTc1\/OC02NDQ0LmpwZWc.jpeg",
+                    "uri150": "https:\/\/i.discogs.com\/Ls0cvhs5lqUVBTgUl4OLV6Bj56pFqwBOlboFS3gvPJY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE5\/MzMtMTQwMDA5OTc1\/OC02NDQ0LmpwZWc.jpeg",
+                    "width": 600,
+                    "height": 605
+                }
+            ],
+            "thumb": "https:\/\/i.discogs.com\/Ls0cvhs5lqUVBTgUl4OLV6Bj56pFqwBOlboFS3gvPJY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE5\/MzMtMTQwMDA5OTc1\/OC02NDQ0LmpwZWc.jpeg",
+            "estimated_weight": 60
+        },
+        {
+            "id": 5531909,
+            "status": "Accepted",
+            "year": 1988,
+            "resource_url": "https:\/\/api.discogs.com\/releases\/5531909",
+            "uri": "https:\/\/www.discogs.com\/release\/5531909-Cher-We-All-Sleep-Alone",
+            "artists": [
+                {
+                    "name": "Cher",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 17961,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/17961"
+                }
+            ],
+            "artists_sort": "Cher",
+            "labels": [
+                {
+                    "name": "Geffen Records",
+                    "catno": "PRO-S-3078",
+                    "entity_type": "1",
+                    "entity_type_name": "Label",
+                    "id": 821,
+                    "resource_url": "https:\/\/api.discogs.com\/labels\/821"
+                }
+            ],
+            "series": [],
+            "companies": [],
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "7\"",
+                        "45 RPM",
+                        "Promo"
+                    ]
+                }
+            ],
+            "data_quality": "Needs Vote",
+            "community": {
+                "have": 18,
+                "want": 6,
+                "rating": {
+                    "count": 0,
+                    "average": 0
+                },
+                "submitter": {
+                    "username": "shooezgirl",
+                    "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                },
+                "contributors": [
+                    {
+                        "username": "shooezgirl",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                    },
+                    {
+                        "username": "momento",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/momento"
+                    },
+                    {
+                        "username": "Diognes_The_Fox",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Diognes_The_Fox"
+                    },
+                    {
+                        "username": "casperboytoy",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/casperboytoy"
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "status": "Accepted"
+            },
+            "format_quantity": 1,
+            "date_added": "2014-03-25T15:06:27-07:00",
+            "date_changed": "2025-01-18T15:12:58-08:00",
+            "num_for_sale": 5,
+            "lowest_price": 2,
+            "master_id": 69199,
+            "master_url": "https:\/\/api.discogs.com\/masters\/69199",
+            "title": "We All Sleep Alone",
+            "country": "US",
+            "released": "1988",
+            "notes": "Promotion - Not For Sale\r\nSame track pressed to both sides.\r\n",
+            "released_formatted": "1988",
+            "identifiers": [],
+            "genres": [
+                "Rock"
+            ],
+            "styles": [
+                "Pop Rock"
+            ],
+            "images": [
+                {
+                    "type": "primary",
+                    "uri": "https:\/\/i.discogs.com\/rtvAoBFbRJKx-KYO14kOtyxzsIxaR5HmxoQY0Mv-OkY\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE5\/MDktMTQwMDA5OTAw\/NS04ODE3LmpwZWc.jpeg",
+                    "resource_url": "https:\/\/i.discogs.com\/rtvAoBFbRJKx-KYO14kOtyxzsIxaR5HmxoQY0Mv-OkY\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE5\/MDktMTQwMDA5OTAw\/NS04ODE3LmpwZWc.jpeg",
+                    "uri150": "https:\/\/i.discogs.com\/iWmasi31tZ81Ul_lFqSs0Ac_eaBIf-mSS_lR143wExo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE5\/MDktMTQwMDA5OTAw\/NS04ODE3LmpwZWc.jpeg",
+                    "width": 600,
+                    "height": 601
+                }
+            ],
+            "thumb": "https:\/\/i.discogs.com\/iWmasi31tZ81Ul_lFqSs0Ac_eaBIf-mSS_lR143wExo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE5\/MDktMTQwMDA5OTAw\/NS04ODE3LmpwZWc.jpeg",
+            "estimated_weight": 60
+        },
+        {
+            "id": 5531861,
+            "status": "Accepted",
+            "year": 1986,
+            "resource_url": "https:\/\/api.discogs.com\/releases\/5531861",
+            "uri": "https:\/\/www.discogs.com\/release\/5531861-Chaka-Khan-Love-Of-A-Lifetime",
+            "artists": [
+                {
+                    "name": "Chaka Khan",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 17035,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/17035"
+                }
+            ],
+            "artists_sort": "Chaka Khan",
+            "labels": [
+                {
+                    "name": "Warner Bros. Records",
+                    "catno": "7-28671",
+                    "entity_type": "1",
+                    "entity_type_name": "Label",
+                    "id": 1000,
+                    "resource_url": "https:\/\/api.discogs.com\/labels\/1000"
+                }
+            ],
+            "series": [],
+            "companies": [],
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "7\"",
+                        "45 RPM",
+                        "Promo"
+                    ]
+                }
+            ],
+            "data_quality": "Needs Vote",
+            "community": {
+                "have": 24,
+                "want": 8,
+                "rating": {
+                    "count": 0,
+                    "average": 0
+                },
+                "submitter": {
+                    "username": "shooezgirl",
+                    "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                },
+                "contributors": [
+                    {
+                        "username": "shooezgirl",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/shooezgirl"
+                    },
+                    {
+                        "username": "Diognes_The_Fox",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Diognes_The_Fox"
+                    },
+                    {
+                        "username": "funkyfrancofan69",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/funkyfrancofan69"
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "status": "Accepted"
+            },
+            "format_quantity": 1,
+            "date_added": "2014-03-25T14:52:18-07:00",
+            "date_changed": "2018-11-04T18:28:31-08:00",
+            "num_for_sale": 14,
+            "lowest_price": 1,
+            "master_id": 174698,
+            "master_url": "https:\/\/api.discogs.com\/masters\/174698",
+            "title": "Love Of A Lifetime",
+            "country": "US",
+            "released": "1986",
+            "notes": "Promotion Not for Sale",
+            "released_formatted": "1986",
+            "identifiers": [],
+            "genres": [
+                "Funk \/ Soul"
+            ],
+            "styles": [
+                "Rhythm & Blues"
+            ],
+            "images": [
+                {
+                    "type": "primary",
+                    "uri": "https:\/\/i.discogs.com\/XKdZ3I-J9LWIQ-g4O6A-LInkubXPW-aubM6eiaFbk-8\/rs:fit\/g:sm\/q:90\/h:580\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTQ4OTYwMDY3\/OC05MTgxLmpwZWc.jpeg",
+                    "resource_url": "https:\/\/i.discogs.com\/XKdZ3I-J9LWIQ-g4O6A-LInkubXPW-aubM6eiaFbk-8\/rs:fit\/g:sm\/q:90\/h:580\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTQ4OTYwMDY3\/OC05MTgxLmpwZWc.jpeg",
+                    "uri150": "https:\/\/i.discogs.com\/EF3N8bHngEH0o1V67Tlv0FOzI5-FroIG4_9XRobjj_c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTQ4OTYwMDY3\/OC05MTgxLmpwZWc.jpeg",
+                    "width": 600,
+                    "height": 580
+                },
+                {
+                    "type": "secondary",
+                    "uri": "https:\/\/i.discogs.com\/eZCnYYQkv4gD4G30FjyGgI90-2nAOg0fK8dI9_OaKSM\/rs:fit\/g:sm\/q:90\/h:587\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTU0MTM4NDg4\/My02NTk0LmpwZWc.jpeg",
+                    "resource_url": "https:\/\/i.discogs.com\/eZCnYYQkv4gD4G30FjyGgI90-2nAOg0fK8dI9_OaKSM\/rs:fit\/g:sm\/q:90\/h:587\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTU0MTM4NDg4\/My02NTk0LmpwZWc.jpeg",
+                    "uri150": "https:\/\/i.discogs.com\/2bI4-12myPffjrkest0GNivQklllVQ5VjptKEvIedOA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTU0MTM4NDg4\/My02NTk0LmpwZWc.jpeg",
+                    "width": 600,
+                    "height": 587
+                },
+                {
+                    "type": "secondary",
+                    "uri": "https:\/\/i.discogs.com\/V2qVhAaBIqq-T0OX-Wb4nqMN6N8qtLRXA4a4hhQu0Zo\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTU0MTM4NDg5\/Mi02MDE4LmpwZWc.jpeg",
+                    "resource_url": "https:\/\/i.discogs.com\/V2qVhAaBIqq-T0OX-Wb4nqMN6N8qtLRXA4a4hhQu0Zo\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTU0MTM4NDg5\/Mi02MDE4LmpwZWc.jpeg",
+                    "uri150": "https:\/\/i.discogs.com\/SN4Ffy8mOmPAbfWMmsDCcc7VQNHwWC62Qq9JDerrP4Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTU0MTM4NDg5\/Mi02MDE4LmpwZWc.jpeg",
+                    "width": 600,
+                    "height": 601
+                },
+                {
+                    "type": "secondary",
+                    "uri": "https:\/\/i.discogs.com\/IUwkfU3dhj1am_bZlA3HBQ3phAijN0eUclmKbPJIypk\/rs:fit\/g:sm\/q:90\/h:582\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTQ4OTYwMDY5\/MC01NjQ1LmpwZWc.jpeg",
+                    "resource_url": "https:\/\/i.discogs.com\/IUwkfU3dhj1am_bZlA3HBQ3phAijN0eUclmKbPJIypk\/rs:fit\/g:sm\/q:90\/h:582\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTQ4OTYwMDY5\/MC01NjQ1LmpwZWc.jpeg",
+                    "uri150": "https:\/\/i.discogs.com\/MijhNpvrcAvTIqiyb_R434zHQIoNReWZNOk9NJ1l8pM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTQ4OTYwMDY5\/MC01NjQ1LmpwZWc.jpeg",
+                    "width": 600,
+                    "height": 582
+                }
+            ],
+            "thumb": "https:\/\/i.discogs.com\/EF3N8bHngEH0o1V67Tlv0FOzI5-FroIG4_9XRobjj_c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1MzE4\/NjEtMTQ4OTYwMDY3\/OC05MTgxLmpwZWc.jpeg",
+            "estimated_weight": 60
+        }
+    ]
+}

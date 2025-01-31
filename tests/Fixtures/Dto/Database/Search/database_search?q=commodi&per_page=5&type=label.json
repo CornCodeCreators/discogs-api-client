@@ -1,0 +1,89 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 4,
+        "per_page": 5,
+        "items": 18,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=commodi&per_page=5&type=label&page=4",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=commodi&per_page=5&type=label&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 140080,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/140080-Commodity-Fetish-Records",
+            "title": "Commodity Fetish Records",
+            "thumb": "https:\/\/i.discogs.com\/0U0Ax-aqSZGJCZBLgkLnV2aI-HP6jX0hQMqklc3pAEA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE0MDA4\/MC0xMjcwNDAzODIy\/LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/OyFBrPKueGwlb92dLbmhirUD12ivYjHDIWXaTjQRGPw\/rs:fit\/g:sm\/q:90\/h:480\/w:528\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE0MDA4\/MC0xMjcwNDAzODIy\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/140080"
+        },
+        {
+            "id": 696849,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/696849-Disposable-Commodities",
+            "title": "Disposable Commodities",
+            "thumb": "https:\/\/i.discogs.com\/jePbsPo8B38-WHQRIQyzJOe1gZCUbLsOCW6DXj6es6M\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTY5Njg0\/OS0xNTIyMzkzOTI2\/LTI2NzEuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/8EujY5qcw7-WlDH8esge2ouqp4dQYVxAx_VFv4qLq48\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTY5Njg0\/OS0xNTIyMzkzOTI2\/LTI2NzEuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/696849"
+        },
+        {
+            "id": 737900,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/737900-Commodity-Tapes",
+            "title": "Commodity Tapes",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/737900"
+        },
+        {
+            "id": 211835,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/211835-Spectacular-Commodity",
+            "title": "Spectacular Commodity",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/211835"
+        },
+        {
+            "id": 929220,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/929220-Commodity-Fetish",
+            "title": "Commodity Fetish",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/929220"
+        }
+    ]
+}

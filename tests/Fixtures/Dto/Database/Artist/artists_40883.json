@@ -1,0 +1,34 @@
+{
+    "name": "Memorandum",
+    "id": 40883,
+    "resource_url": "https:\/\/api.discogs.com\/artists\/40883",
+    "uri": "https:\/\/www.discogs.com\/artist\/40883-Memorandum",
+    "releases_url": "https:\/\/api.discogs.com\/artists\/40883\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/8_70H5M7FBQvuisead1n83WpTZugiaBlVes42eWxqjA\/rs:fit\/g:sm\/q:90\/h:408\/w:408\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQwODgz\/LTE2NjA1ODE5ODEt\/Mzg3OC5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/8_70H5M7FBQvuisead1n83WpTZugiaBlVes42eWxqjA\/rs:fit\/g:sm\/q:90\/h:408\/w:408\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQwODgz\/LTE2NjA1ODE5ODEt\/Mzg3OC5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/eqjglmW53R-Gki7CbEje_Um5R6mCVLIfY9nU19p2p-I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQwODgz\/LTE2NjA1ODE5ODEt\/Mzg3OC5qcGVn.jpeg",
+            "width": 408,
+            "height": 408
+        }
+    ],
+    "realname": "Petter Marklund",
+    "profile": "Memorandum was a tribal industrial Swedish oneman band. They mixed metal percussions with ambient music, religious chants and demonic vocals. Memorandum was the first band to release an LP on Cold Meat Industry. The project disappeared suddenly around 1994.",
+    "aliases": [
+        {
+            "id": 217915,
+            "name": "Hollow Men",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/217915",
+            "thumbnail_url": ""
+        },
+        {
+            "id": 343919,
+            "name": "Petter Marklund",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/343919",
+            "thumbnail_url": ""
+        }
+    ],
+    "data_quality": "Needs Vote"
+}

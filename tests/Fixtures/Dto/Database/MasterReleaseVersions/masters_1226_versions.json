@@ -1,0 +1,430 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 10,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "EP": 9,
+                "12\"": 7,
+                "Vinyl": 7,
+                "45 RPM": 4,
+                "Promo": 4,
+                "File": 3,
+                "Remastered": 3,
+                "Test Pressing": 2,
+                "WAV": 2,
+                "White Label": 2,
+                "Limited Edition": 1,
+                "MP3": 1
+            },
+            "label": {
+                "Suburban Base Records": 7,
+                "Underground Music": 3,
+                "Suburban Base Music": 2,
+                "Canal Side Studios": 1,
+                "Subbase Studios": 1
+            },
+            "country": {
+                "UK": 10
+            },
+            "released": {
+                "1993": 3,
+                "2014": 1,
+                "2021": 4
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "EP",
+                    "value": "EP",
+                    "count": 9
+                },
+                {
+                    "title": "12\"",
+                    "value": "12%22",
+                    "count": 7
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 7
+                },
+                {
+                    "title": "45 RPM",
+                    "value": "45+RPM",
+                    "count": 4
+                },
+                {
+                    "title": "Promo",
+                    "value": "Promo",
+                    "count": 4
+                },
+                {
+                    "title": "File",
+                    "value": "File",
+                    "count": 3
+                },
+                {
+                    "title": "Remastered",
+                    "value": "Remastered",
+                    "count": 3
+                },
+                {
+                    "title": "Test Pressing",
+                    "value": "Test+Pressing",
+                    "count": 2
+                },
+                {
+                    "title": "WAV",
+                    "value": "WAV",
+                    "count": 2
+                },
+                {
+                    "title": "White Label",
+                    "value": "White+Label",
+                    "count": 2
+                },
+                {
+                    "title": "Limited Edition",
+                    "value": "Limited+Edition",
+                    "count": 1
+                },
+                {
+                    "title": "MP3",
+                    "value": "MP3",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Suburban Base Records",
+                    "value": "Suburban+Base+Records",
+                    "count": 7
+                },
+                {
+                    "title": "Underground Music",
+                    "value": "Underground+Music",
+                    "count": 3
+                },
+                {
+                    "title": "Suburban Base Music",
+                    "value": "Suburban+Base+Music",
+                    "count": 2
+                },
+                {
+                    "title": "Canal Side Studios",
+                    "value": "Canal+Side+Studios",
+                    "count": 1
+                },
+                {
+                    "title": "Subbase Studios",
+                    "value": "Subbase+Studios",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "UK",
+                    "value": "UK",
+                    "count": 10
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "1993",
+                    "value": "1993",
+                    "count": 3
+                },
+                {
+                    "title": "2014",
+                    "value": "2014",
+                    "count": 1
+                },
+                {
+                    "title": "2021",
+                    "value": "2021",
+                    "count": 4
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 1504106,
+            "label": "Suburban Base Records",
+            "country": "UK",
+            "title": "The Austin EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", White Label, Test Pressing, EP, 45 RPM",
+            "catno": "SUBBASE 18",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1504106",
+            "thumb": "https:\/\/i.discogs.com\/d6EvA0x1FXvIfj7KnTVk3nPbM4QgZ-E6ANoDkS8DtiI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDQx\/MDYtMTIyNDYxMjUx\/MC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 199,
+                    "in_collection": 18
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 65802,
+            "label": "Suburban Base Records",
+            "country": "UK",
+            "title": "The Austin EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM, EP, Promo",
+            "catno": "SUBBASE 18",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/65802",
+            "thumb": "https:\/\/i.discogs.com\/YijMHIzEsuTAJvAkRicCJzKCXE2_60dF4JD4fs7iJ8M\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY1ODAy\/LTEzMDE2NDk1Nzku\/anBlZw.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 463,
+                    "in_collection": 253
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 15339247,
+            "label": "Suburban Base Records",
+            "country": "UK",
+            "title": "The Austin EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM, EP, Promo",
+            "catno": "SUBBASE 18",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/15339247",
+            "thumb": "https:\/\/i.discogs.com\/5op_vdwAgnWK5XhP-4bT5hyspmKQ6p-j19UxFjB1yxQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzM5\/MjQ3LTE1ODk5ODA3\/NDQtMTgzNy5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 80,
+                    "in_collection": 20
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 12006693,
+            "label": "Suburban Base Records",
+            "country": "UK",
+            "title": "The Austin",
+            "major_formats": [
+                "File"
+            ],
+            "format": "WAV",
+            "catno": "SUBBASE 18",
+            "released": "2014",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/12006693",
+            "thumb": "https:\/\/i.discogs.com\/Ap3c1HRKI963MtcpN6tekps1OApw58RLtPeOl9rzbTg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMDA2\/NjkzLTE1MjY0MjY0\/NDctNDE3NC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 22,
+                    "in_collection": 7
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 24812144,
+            "label": "Underground Music",
+            "country": "UK",
+            "title": "THe AUStIN EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", EP, Promo, Remastered",
+            "catno": "UM007",
+            "released": "2021",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/24812144",
+            "thumb": "https:\/\/i.discogs.com\/M0uLBWmRSQuzwaYFvS_PotGm_joB3NcPWwK_NfoZ4pA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODEy\/MTQ0LTE2NjU2Nzkz\/MDMtMjA2OS5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 52,
+                    "in_collection": 121
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 30492382,
+            "label": "Underground Music",
+            "country": "UK",
+            "title": "THe AUStIN EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", EP, Remastered, Test Pressing, White Label",
+            "catno": "UM007",
+            "released": "2021",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/30492382",
+            "thumb": "",
+            "stats": {
+                "community": {
+                    "in_wantlist": 2,
+                    "in_collection": 2
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 26041375,
+            "label": "Underground Music",
+            "country": "UK",
+            "title": "THe AUStIN EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", EP, Limited Edition, Promo, Remastered",
+            "catno": "UM007",
+            "released": "2021",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/26041375",
+            "thumb": "https:\/\/i.discogs.com\/_7tceG4xGdp40dDwfPhhnJ8qcqb6Jri8ks82W2T4AaE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2MDQx\/Mzc1LTE2NzU5MzE5\/MjctODAxMC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 22,
+                    "in_collection": 19
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 31351951,
+            "label": "Suburban Base Records",
+            "country": "UK",
+            "title": "The Austin EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM, EP",
+            "catno": "SUBBASE 018",
+            "released": "2021",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/31351951",
+            "thumb": "https:\/\/i.discogs.com\/JPIiu3iR1LRc49fiJcXTv9cWOHBvR-_t8bSL-eaEd3I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxMzUx\/OTUxLTE3MjIyODcw\/MTgtNjU3MC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 6,
+                    "in_collection": 5
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 3461454,
+            "label": "Suburban Base Records",
+            "country": "UK",
+            "title": "The Austin EP",
+            "major_formats": [
+                "File"
+            ],
+            "format": "MP3, EP",
+            "catno": "SUBBASE 18",
+            "released": "0",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/3461454",
+            "thumb": "https:\/\/i.discogs.com\/MwYtIDyndMAzuNS2k-YbU8nhva5sGQrUGDrlHmAgMHI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0NjE0\/NTQtMTMzMTI5NDQw\/MS5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 40,
+                    "in_collection": 11
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 3461449,
+            "label": "Suburban Base Records",
+            "country": "UK",
+            "title": "The Austin EP",
+            "major_formats": [
+                "File"
+            ],
+            "format": "WAV, EP",
+            "catno": "SUBBASE 18",
+            "released": "0",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/3461449",
+            "thumb": "https:\/\/i.discogs.com\/KnXlYeAyXhN3FcbLlxHxr6SXLLBr8G46mwA6ANJvZC0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0NjE0\/NDktMTMzMTI5NDI5\/Mi5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 39,
+                    "in_collection": 2
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

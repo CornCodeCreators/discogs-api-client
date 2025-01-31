@@ -1,0 +1,386 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 8,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "12\"": 5,
+                "Vinyl": 5,
+                "33 \u2153 RPM": 4,
+                "45 RPM": 4,
+                "File": 3,
+                "Reissue": 3,
+                "AAC": 1,
+                "FLAC": 1,
+                "Limited Edition": 1,
+                "MP3": 1,
+                "Repress": 1,
+                "White Label": 1
+            },
+            "label": {
+                "Rhythm & Sound": 8,
+                "Dubplates & Mastering": 3,
+                "Efa": 3,
+                "Bcp": 1,
+                "Bmg Ufa": 1
+            },
+            "country": {
+                "Germany": 6,
+                "Unknown": 2
+            },
+            "released": {
+                "1999": 4,
+                "2012": 3,
+                "2017": 1
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "12\"",
+                    "value": "12%22",
+                    "count": 5
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 5
+                },
+                {
+                    "title": "33 \u2153 RPM",
+                    "value": "33+%E2%85%93+RPM",
+                    "count": 4
+                },
+                {
+                    "title": "45 RPM",
+                    "value": "45+RPM",
+                    "count": 4
+                },
+                {
+                    "title": "File",
+                    "value": "File",
+                    "count": 3
+                },
+                {
+                    "title": "Reissue",
+                    "value": "Reissue",
+                    "count": 3
+                },
+                {
+                    "title": "AAC",
+                    "value": "AAC",
+                    "count": 1
+                },
+                {
+                    "title": "FLAC",
+                    "value": "FLAC",
+                    "count": 1
+                },
+                {
+                    "title": "Limited Edition",
+                    "value": "Limited+Edition",
+                    "count": 1
+                },
+                {
+                    "title": "MP3",
+                    "value": "MP3",
+                    "count": 1
+                },
+                {
+                    "title": "Repress",
+                    "value": "Repress",
+                    "count": 1
+                },
+                {
+                    "title": "White Label",
+                    "value": "White+Label",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Rhythm & Sound",
+                    "value": "Rhythm+%26+Sound",
+                    "count": 8
+                },
+                {
+                    "title": "Dubplates & Mastering",
+                    "value": "Dubplates+%26+Mastering",
+                    "count": 3
+                },
+                {
+                    "title": "Efa",
+                    "value": "Efa",
+                    "count": 3
+                },
+                {
+                    "title": "Bcp",
+                    "value": "Bcp",
+                    "count": 1
+                },
+                {
+                    "title": "Bmg Ufa",
+                    "value": "Bmg+Ufa",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "Germany",
+                    "value": "Germany",
+                    "count": 6
+                },
+                {
+                    "title": "Unknown",
+                    "value": "Unknown",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "1999",
+                    "value": "1999",
+                    "count": 4
+                },
+                {
+                    "title": "2012",
+                    "value": "2012",
+                    "count": 3
+                },
+                {
+                    "title": "2017",
+                    "value": "2017",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 17572,
+            "label": "Rhythm & Sound",
+            "country": "Germany",
+            "title": "Smile",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM, 45 RPM",
+            "catno": "RS-04",
+            "released": "1999",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/17572",
+            "thumb": "https:\/\/i.discogs.com\/hyfBLRxz6_Fykt_MAyG0hyps6QAttw3PElyNYWFtlkI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3NTcy\/LTE3MDM5MzI0MTYt\/NjY0OC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 887,
+                    "in_collection": 1462
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 13134975,
+            "label": "Rhythm & Sound",
+            "country": "Germany",
+            "title": "Smile",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM, 45 RPM",
+            "catno": "RS-04",
+            "released": "1999",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/13134975",
+            "thumb": "https:\/\/i.discogs.com\/d-pMVGz3i2kwlGSJgS6akODP-mYChnoD6kRKz8PKxWE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMTM0\/OTc1LTE1NDg2NzMy\/MzAtMjgzOC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 226,
+                    "in_collection": 118
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1452266,
+            "label": "Rhythm & Sound",
+            "country": "Germany",
+            "title": "Smile",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM, 45 RPM, White Label",
+            "catno": "RS-04",
+            "released": "1999",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1452266",
+            "thumb": "",
+            "stats": {
+                "community": {
+                    "in_wantlist": 300,
+                    "in_collection": 24
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1098406,
+            "label": "Rhythm & Sound",
+            "country": "Germany",
+            "title": "Smile",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", Limited Edition",
+            "catno": "RS\u202204, RS-04",
+            "released": "1999",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1098406",
+            "thumb": "https:\/\/i.discogs.com\/jANJwBA2Bl6uWP9X0vCsOb2vpmOTi3L-ezrxfH63Fus\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTg0\/MDYtMTE5MzY4OTY2\/OC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 509,
+                    "in_collection": 117
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 3915916,
+            "label": "Rhythm & Sound",
+            "country": "",
+            "title": "Smile",
+            "major_formats": [
+                "File"
+            ],
+            "format": "FLAC, Reissue",
+            "catno": "RS-04",
+            "released": "2012",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/3915916",
+            "thumb": "https:\/\/i.discogs.com\/vVzH09cOh39YT1kvxvbj4_EWZTLXlTWXRtUNGrPFUek\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM5MTU5\/MTYtMTM0OTEwNTU1\/NS01Mzk4LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 126,
+                    "in_collection": 19
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 6608167,
+            "label": "Rhythm & Sound",
+            "country": "Germany",
+            "title": "Smile",
+            "major_formats": [
+                "File"
+            ],
+            "format": "AAC, Reissue",
+            "catno": "RS-04",
+            "released": "2012",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/6608167",
+            "thumb": "https:\/\/i.discogs.com\/wG_ealmp231_XemIg14VTMsyKSB8lr7MpVGY8Q8Dd_A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY2MDgx\/NjctMTQyMjk5Mzc5\/NS01MTkxLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 95,
+                    "in_collection": 9
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 28806781,
+            "label": "Rhythm & Sound",
+            "country": "",
+            "title": "Smile",
+            "major_formats": [
+                "File"
+            ],
+            "format": "MP3, Reissue",
+            "catno": "RS-04",
+            "released": "2012",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/28806781",
+            "thumb": "https:\/\/i.discogs.com\/LA4Twcff_jLP1F1pDjQKAOwtXheWYhI6jjWkQc9AETA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI4ODA2\/NzgxLTE2OTkxNzMz\/MjYtMjk5NC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 11,
+                    "in_collection": 5
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 12651736,
+            "label": "Rhythm & Sound",
+            "country": "Germany",
+            "title": "Smile",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM, 45 RPM, Repress",
+            "catno": "RS-04",
+            "released": "2017",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/12651736",
+            "thumb": "https:\/\/i.discogs.com\/3Ysd6k4WJIfulgI16ZrPVygVw3I1O3PliSq5qNCcWVY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjUx\/NzM2LTE1MzkzNjc2\/MTUtODg0Ny5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 276,
+                    "in_collection": 348
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

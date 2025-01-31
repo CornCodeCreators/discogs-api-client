@@ -1,0 +1,29 @@
+{
+    "name": "Cookin' With Gas",
+    "id": 93335,
+    "resource_url": "https:\/\/api.discogs.com\/artists\/93335",
+    "uri": "https:\/\/www.discogs.com\/artist\/93335-Cookin-With-Gas",
+    "releases_url": "https:\/\/api.discogs.com\/artists\/93335\/releases",
+    "profile": "",
+    "namevariations": [
+        "Cookin' With Gas Prods",
+        "Cookin' With Gas Productions"
+    ],
+    "members": [
+        {
+            "id": 132835,
+            "name": "Dennis Martin",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/132835",
+            "active": true,
+            "thumbnail_url": ""
+        },
+        {
+            "id": 491028,
+            "name": "Ray Grappone",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/491028",
+            "active": true,
+            "thumbnail_url": ""
+        }
+    ],
+    "data_quality": "Needs Vote"
+}

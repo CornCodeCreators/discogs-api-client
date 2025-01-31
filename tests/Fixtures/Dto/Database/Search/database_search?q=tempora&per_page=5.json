@@ -1,0 +1,148 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 528,
+        "per_page": 5,
+        "items": 2638,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=tempora&per_page=5&page=528",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=tempora&per_page=5&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 9952,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/9952-Temporary-Residence-Limited",
+            "title": "Temporary Residence Limited",
+            "thumb": "https:\/\/i.discogs.com\/lNb1_dqHJ9aOQAbf5bp-NZJpX7h2gtpw60FARn8-q0Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTk5NTIt\/MTYwMDg0Njg1OC0z\/NTM2LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/HCPt4660rX-yQqNSE0Gq1zCuuIR-FS2H8U53HMdV4LA\/rs:fit\/g:sm\/q:90\/h:636\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTk5NTIt\/MTYwMDg0Njg1OC0z\/NTM2LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/9952"
+        },
+        {
+            "id": 348390,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/348390-Temporary-Music-2",
+            "title": "Temporary Music (2)",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/348390"
+        },
+        {
+            "country": "Netherlands",
+            "year": "2015",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Limited Edition"
+            ],
+            "label": [
+                "Soulseller Records"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Hard Rock",
+                "Doom Metal"
+            ],
+            "id": 863351,
+            "barcode": [
+                "4046661390919"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 863351,
+            "master_url": "https:\/\/api.discogs.com\/masters\/863351",
+            "uri": "\/master\/863351-Demon-Eye-Tempora-Infernalia",
+            "catno": "SSR 079LP",
+            "title": "Demon Eye - Tempora Infernalia",
+            "thumb": "https:\/\/i.discogs.com\/UdcD5ldYsjuRVkDpxqqWJgmXYCPH9UPYYfK50XExXOw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxMjU1\/NDQtMTQzNDI5MDkz\/Ny05MjA5LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/T18-rWKFhKqNO3mQpnDiaVTqfiEw6KQ8XtkZpoBGTvE\/rs:fit\/g:sm\/q:90\/h:611\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcxMjU1\/NDQtMTQzNDI5MDkz\/Ny05MjA5LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/863351",
+            "community": {
+                "want": 75,
+                "have": 226
+            }
+        },
+        {
+            "id": 870828,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/870828-Eddie-Temporal",
+            "title": "Eddie Temporal",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/870828"
+        },
+        {
+            "country": "Germany",
+            "year": "1994",
+            "format": [
+                "CD",
+                "EP"
+            ],
+            "label": [
+                "Dome Recordings",
+                "SPV GmbH",
+                "Dome Recordings",
+                "Dome Recordings",
+                "SPV GmbH",
+                "Sonopress",
+                "Edition SPV Musik"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Acid",
+                "Hard Trance"
+            ],
+            "id": 24422,
+            "barcode": [
+                "4001617 628034",
+                "SONOPRESS I-0511 \/ 055-62803 A 2",
+                "GEMA",
+                "LC 4971"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 24422,
+            "master_url": "https:\/\/api.discogs.com\/masters\/24422",
+            "uri": "\/master\/24422-MCD-Tempora-EP",
+            "catno": "SPV CDS 055-62803",
+            "title": "M.C.D. (2) - Tempora E.P.",
+            "thumb": "https:\/\/i.discogs.com\/QXptaa8FMSBoq-2E2NuB3xushW_ofQJmnn8vaiaJnKE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjg1\/NzQtMTIyODg4MjYw\/MS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/-dAcOhtxtSjQxqn4Nrb8FZF3mjYZ3gDgo7n1Xobrbto\/rs:fit\/g:sm\/q:90\/h:523\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjg1\/NzQtMTIyODg4MjYw\/MS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/24422",
+            "community": {
+                "want": 106,
+                "have": 129
+            }
+        }
+    ]
+}

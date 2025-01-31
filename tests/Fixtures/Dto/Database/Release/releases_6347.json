@@ -1,0 +1,798 @@
+{
+    "id": 6347,
+    "status": "Accepted",
+    "year": 1996,
+    "resource_url": "https:\/\/api.discogs.com\/releases\/6347",
+    "uri": "https:\/\/www.discogs.com\/release\/6347-100-Isis-100-Isis",
+    "artists": [
+        {
+            "name": "100% Isis",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 238218,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/238218",
+            "thumbnail_url": "https:\/\/i.discogs.com\/NN4fGNGbLlRnwgoo4fBhD41oGaVSdblMcPaDCn9-2ug\/rs:fit\/g:sm\/q:90\/h:474\/w:499\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIzODIx\/OC0xMTE2NjA4ODcx\/LmpwZw.jpeg"
+        }
+    ],
+    "artists_sort": "100% Isis",
+    "labels": [
+        {
+            "name": "EVA",
+            "catno": "8370072",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2637,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/2637",
+            "thumbnail_url": "https:\/\/i.discogs.com\/2afCNyoqHIpO7DtpWfqxIa3VzlFH13z0OGgF5msTlMk\/rs:fit\/g:sm\/q:90\/h:228\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2Mzct\/MTM2MjU4NTU1Ni03\/NzI3LnBuZw.jpeg"
+        }
+    ],
+    "series": [
+        {
+            "name": "100% Isis",
+            "catno": "1",
+            "entity_type": "2",
+            "entity_type_name": "Series",
+            "id": 888637,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/888637"
+        }
+    ],
+    "companies": [
+        {
+            "name": "Eric Nouhan's Magic Studios, Amsterdam",
+            "catno": "",
+            "entity_type": "26",
+            "entity_type_name": "Produced At",
+            "id": 1051141,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1051141"
+        },
+        {
+            "name": "Eric Nouhan's Magic Studios, Amsterdam",
+            "catno": "",
+            "entity_type": "27",
+            "entity_type_name": "Mixed At",
+            "id": 1051141,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1051141"
+        },
+        {
+            "name": "EMI Holland B.V.",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 302319,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/302319",
+            "thumbnail_url": "https:\/\/i.discogs.com\/dFur1h4SOXjEBxyNQWwQdpnca8ooT5hX8Vwz70ZhZcA\/rs:fit\/g:sm\/q:90\/h:144\/w:323\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTMwMjMx\/OS0xNjg0MDE2OTE2\/LTQ4MDIucG5n.jpeg"
+        },
+        {
+            "name": "EVA",
+            "catno": "",
+            "entity_type": "8",
+            "entity_type_name": "Marketed By",
+            "id": 2637,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/2637",
+            "thumbnail_url": "https:\/\/i.discogs.com\/2afCNyoqHIpO7DtpWfqxIa3VzlFH13z0OGgF5msTlMk\/rs:fit\/g:sm\/q:90\/h:228\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2Mzct\/MTM2MjU4NTU1Ni03\/NzI3LnBuZw.jpeg"
+        },
+        {
+            "name": "EMI Holland B.V.",
+            "catno": "",
+            "entity_type": "9",
+            "entity_type_name": "Distributed By",
+            "id": 302319,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/302319",
+            "thumbnail_url": "https:\/\/i.discogs.com\/dFur1h4SOXjEBxyNQWwQdpnca8ooT5hX8Vwz70ZhZcA\/rs:fit\/g:sm\/q:90\/h:144\/w:323\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTMwMjMx\/OS0xNjg0MDE2OTE2\/LTQ4MDIucG5n.jpeg"
+        },
+        {
+            "name": "EMI Uden",
+            "catno": "",
+            "entity_type": "17",
+            "entity_type_name": "Pressed By",
+            "id": 266256,
+            "resource_url": "https:\/\/api.discogs.com\/labels\/266256",
+            "thumbnail_url": "https:\/\/i.discogs.com\/JBT73GHwPDnPJltiwdenba9YhZAZLwvOEhzp5Fu4onY\/rs:fit\/g:sm\/q:90\/h:543\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI2NjI1\/Ni0xNjAwNjk1MjEy\/LTI4MDguanBlZw.jpeg"
+        }
+    ],
+    "formats": [
+        {
+            "name": "CD",
+            "qty": "1",
+            "descriptions": [
+                "Compilation",
+                "Mixed"
+            ]
+        }
+    ],
+    "data_quality": "Correct",
+    "community": {
+        "have": 296,
+        "want": 40,
+        "rating": {
+            "count": 40,
+            "average": 4
+        },
+        "submitter": {
+            "username": "elisel",
+            "resource_url": "https:\/\/api.discogs.com\/users\/elisel"
+        },
+        "contributors": [
+            {
+                "username": "elisel",
+                "resource_url": "https:\/\/api.discogs.com\/users\/elisel"
+            },
+            {
+                "username": "Allard-S",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Allard-S"
+            },
+            {
+                "username": "mayday",
+                "resource_url": "https:\/\/api.discogs.com\/users\/mayday"
+            },
+            {
+                "username": "vdq",
+                "resource_url": "https:\/\/api.discogs.com\/users\/vdq"
+            },
+            {
+                "username": "qqerwin",
+                "resource_url": "https:\/\/api.discogs.com\/users\/qqerwin"
+            },
+            {
+                "username": "ledjfab",
+                "resource_url": "https:\/\/api.discogs.com\/users\/ledjfab"
+            },
+            {
+                "username": "BeatSensor",
+                "resource_url": "https:\/\/api.discogs.com\/users\/BeatSensor"
+            },
+            {
+                "username": "Jooles",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Jooles"
+            },
+            {
+                "username": "fun4themusic",
+                "resource_url": "https:\/\/api.discogs.com\/users\/fun4themusic"
+            },
+            {
+                "username": "Kater_Murr",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Kater_Murr"
+            },
+            {
+                "username": "gaga789",
+                "resource_url": "https:\/\/api.discogs.com\/users\/gaga789"
+            },
+            {
+                "username": "DiscogsUpdateBot",
+                "resource_url": "https:\/\/api.discogs.com\/users\/DiscogsUpdateBot"
+            },
+            {
+                "username": "Barry_Xwood",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Barry_Xwood"
+            },
+            {
+                "username": "jandlvw",
+                "resource_url": "https:\/\/api.discogs.com\/users\/jandlvw"
+            },
+            {
+                "username": "Vox-Records",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Vox-Records"
+            },
+            {
+                "username": "WilhelmT",
+                "resource_url": "https:\/\/api.discogs.com\/users\/WilhelmT"
+            },
+            {
+                "username": "FastDispatch",
+                "resource_url": "https:\/\/api.discogs.com\/users\/FastDispatch"
+            },
+            {
+                "username": "-desfax-",
+                "resource_url": "https:\/\/api.discogs.com\/users\/-desfax-"
+            },
+            {
+                "username": "doctor_trance",
+                "resource_url": "https:\/\/api.discogs.com\/users\/doctor_trance"
+            },
+            {
+                "username": "Techn-xs",
+                "resource_url": "https:\/\/api.discogs.com\/users\/Techn-xs"
+            },
+            {
+                "username": "soulvibes88",
+                "resource_url": "https:\/\/api.discogs.com\/users\/soulvibes88"
+            }
+        ],
+        "data_quality": "Correct",
+        "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2001-06-20T21:44:15-07:00",
+    "date_changed": "2024-06-11T13:25:48-07:00",
+    "num_for_sale": 33,
+    "lowest_price": 1.19,
+    "title": "100% Isis",
+    "country": "Netherlands",
+    "released": "1996-03-00",
+    "notes": "Track 12 incorrectly listed on inlay as: Artist: Burning Paradise, Track name: Space Bug.\nTrack 19 incorrectly listed as the Fusion Dubb when it is actually CD Remix #9.",
+    "released_formatted": "Mar 1996",
+    "identifiers": [
+        {
+            "type": "Barcode",
+            "value": "7 24383 70072 1"
+        },
+        {
+            "type": "Rights Society",
+            "value": "BIEM\/STEMRA"
+        },
+        {
+            "type": "Label Code",
+            "value": "LC 0542"
+        },
+        {
+            "type": "Matrix \/ Runout",
+            "value": "EMI UDEN 8370072 @ 1"
+        },
+        {
+            "type": "Barcode",
+            "value": "724383700721",
+            "description": "Number"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=SSSzC_Xlu0Q",
+            "title": "Eric Nouhan & King Bee - Trip 2 India",
+            "description": "",
+            "duration": 454,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=c7QeB8zPvVU",
+            "title": "THEDJS Marko (La Rocca) | Celeste | 100% Isis",
+            "description": "The first twenty minutes of fame for the big names Tiesto, Armin van Buuren and Marco V. now on YouTube...\r\n\r\nIt all began February 29 in 1998. History came in the Dutch dance field. Visual Jammin' creates with the TV program TMF THE DJ'S a platform for k",
+            "duration": 3562,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=KcdxlhJfKN8",
+            "title": "T.E.T. - Disco Drunkard",
+            "description": "Vinyl Solution  STORM 87  UK  1994",
+            "duration": 133,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=C8lDvbBLEbg",
+            "title": "Blake Baxter - \"La La Song\" (Original Mix)",
+            "description": "http:\/\/www.discogs.com\/Blake-Baxter-La-La-Song\/release\/18189\r\nTresor 51, 1996",
+            "duration": 276,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=HOtdQLBpPQQ",
+            "title": "FIGHT THE POWER '95 - DREADZONE",
+            "description": "great record with beastie boys sample.\r\nthis record was a reaction on the criminal justice act in 1994 in britain, which made it illegal to organize an outdoor rave without license.",
+            "duration": 495,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=1hYFvmSqs4c",
+            "title": "Franco Moiraghi Presents Amnesia~Ay Ninos [Frank Lou Dub]",
+            "description": "Franco Moiraghi Presents Amnesia~Ay Ninos [Frank Lou Dub]\n\nClassic Italian House Music 1994.\n\nFor entertainment\/non-profit purposes only.",
+            "duration": 315,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=gxfu1dMLaB8",
+            "title": "Neuropolitique - Switchback",
+            "description": " ",
+            "duration": 348,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=o2tCckCKVqo",
+            "title": "Insync vs Mysteron - Inhale",
+            "description": "PLK0025",
+            "duration": 333,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=akt7dVItDKs",
+            "title": "T.E.T. \u200e- Burning Paradise (Space Bug) 1994",
+            "description": "\u2584 \u2588 \u2584 \u2588 \u2584 \u2588 \u2584 \u2588 \u2584 \u2588 \u2584 \u2588 \u2584 \u2588 \u2584 \u2588 \u2584 \u2588 \u2584",
+            "duration": 485,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=onbbJmZYwtw",
+            "title": "Lisa White-Keep On Doing (101 Dub)",
+            "description": "1995",
+            "duration": 446,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=4rgxN1nes7s",
+            "title": "B4 Wuz Then",
+            "description": "Provided to YouTube by PIAS\n\nB4 Wuz Then \u00b7 Felix Da Housecat\n\nMetropolis Present Day? Thee Album\n\n\u2117 [PIAS] Recordings Catalogue\n\nReleased on: 2002-08-26\n\nAuto-generated by YouTube.",
+            "duration": 355,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=s_ES2489Xpk",
+            "title": "The Blue Buddha \u200e\u2013 Blue Buddha (Hi-Techno Bass Dub)",
+            "description": "Matrix Records  \u200e\u2013 MAX 006 UK 1994",
+            "duration": 271,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=BXM4MmEi_qc",
+            "title": "The Bucketheads - Sayin' Dope",
+            "description": "",
+            "duration": 364,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=zHJPov2AdDw",
+            "title": "16B - Trail of dreams (original jazz mix)",
+            "description": "Label:Stronghouse Records -- STR12008 \r\nFormat:Vinyl, 12\", 33 \u2153 RPM \r\n\r\nCountry:UK \r\nReleased:1995 \r\nGenre:Electronic, Jazz \r\nStyle:Broken Beat, Jazzdance",
+            "duration": 402,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=9yJASmn6PhM",
+            "title": "Romanthony - The Wanderer (Fusion Dubb)",
+            "description": "Romanthony - The Wanderer\nA2 - The Wanderer (Fusion Dubb)\nPrescription (PRES000) - 1994\n\nhttp:\/\/www.discogs.com\/release\/57503\n\n...",
+            "duration": 481,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=G6hxGJ__Jp8",
+            "title": "100% Isis - 100% Isis - Breakbeat, House, Tech House - 1996",
+            "description": "",
+            "duration": 3942,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=jQkD6y2bJ1o",
+            "title": "100% Isis \u200e\u2013 100% Isis",
+            "description": "100% Isis \u200e\u2013 100% Isis\n\nFacebook:\nhttps:\/\/www.facebook.com\/deejayisis\nWebsite:\nhttps:\/\/www.djisis.nl\/\n\nIsis van der Wel (born 29 April 1975 in Amsterdam), better known by her stage name Isis (previously 100% Isis), is a Dutch DJ.\n\nVan der Wel had alre",
+            "duration": 3942,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Breakbeat",
+        "House",
+        "Tech House"
+    ],
+    "tracklist": [
+        {
+            "position": "1",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Eric Nouhan",
+                    "anv": "",
+                    "join": "&",
+                    "role": "",
+                    "tracks": "",
+                    "id": 12570,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/12570"
+                },
+                {
+                    "name": "King Bee",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 14469,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/14469"
+                }
+            ],
+            "title": "Trip To India",
+            "duration": "1:30"
+        },
+        {
+            "position": "2",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "TC 1995",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 7114,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/7114"
+                }
+            ],
+            "title": "Just Get Up And Dance (808 State Mix)",
+            "extraartists": [
+                {
+                    "name": "808 State",
+                    "anv": "",
+                    "join": "",
+                    "role": "Remix",
+                    "tracks": "",
+                    "id": 318,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/318"
+                }
+            ],
+            "duration": "1:07"
+        },
+        {
+            "position": "3",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Eric Kupper",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 1812,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1812"
+                }
+            ],
+            "title": "K-Scope Project",
+            "duration": "1:54"
+        },
+        {
+            "position": "4",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "T.E.T.",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 7115,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/7115"
+                }
+            ],
+            "title": "Disco Drunkard",
+            "duration": "1:29"
+        },
+        {
+            "position": "5",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Blake Baxter",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 1100,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1100"
+                }
+            ],
+            "title": "The Lala Song",
+            "duration": "2:17"
+        },
+        {
+            "position": "6",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Dreadzone",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 7116,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/7116"
+                }
+            ],
+            "title": "Fight The Power 95",
+            "duration": "4:35"
+        },
+        {
+            "position": "7",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Amnesia (5)",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 431537,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/431537"
+                }
+            ],
+            "title": "Ayni\u00f1os (Frank Lou Dub)",
+            "duration": "2:02"
+        },
+        {
+            "position": "8",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "DJ Snake (5)",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 3441484,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/3441484"
+                }
+            ],
+            "title": "Deep Housing",
+            "duration": "5:19"
+        },
+        {
+            "position": "9",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Extasia",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 62061,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/62061"
+                }
+            ],
+            "title": "Alegrya (Etno-Progressive Mix)",
+            "duration": "4:45"
+        },
+        {
+            "position": "10",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Neuropolitique",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 3258,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/3258"
+                }
+            ],
+            "title": "Switchback",
+            "duration": "3:12"
+        },
+        {
+            "position": "11",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "In Sync",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 5988,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/5988"
+                }
+            ],
+            "title": "Inhale",
+            "duration": "4:41"
+        },
+        {
+            "position": "12",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "T.E.T.",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 7115,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/7115"
+                }
+            ],
+            "title": "Burning Paradise (Space Bug)",
+            "duration": "5:57"
+        },
+        {
+            "position": "13",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Reel Houze",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 16099,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/16099"
+                }
+            ],
+            "title": "Feel The Warmth (Inside Of You) (The Unreel Dub)",
+            "duration": "5:26"
+        },
+        {
+            "position": "14",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Lisa White",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 7123,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/7123"
+                }
+            ],
+            "title": "Keep On Doing (101 Dub)",
+            "duration": "2:16"
+        },
+        {
+            "position": "15",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Felix Da Housecat",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 1570,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/1570"
+                }
+            ],
+            "title": "B4 Wuz Then",
+            "duration": "3:28"
+        },
+        {
+            "position": "16",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "The Blue Buddha",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 7126,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/7126"
+                }
+            ],
+            "title": "Blue Buddha (Hi Techno Bass Dub)",
+            "duration": "3:52"
+        },
+        {
+            "position": "17",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "The Bucketheads",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 3344,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/3344"
+                }
+            ],
+            "title": "Sayin' Dope",
+            "duration": "3:00"
+        },
+        {
+            "position": "18",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "16B",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 2046,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/2046"
+                }
+            ],
+            "title": "Trail Of Dreams (Original Jazz Mix)",
+            "duration": "2:20"
+        },
+        {
+            "position": "19",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Romanthony",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 2583,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/2583"
+                }
+            ],
+            "title": "The Wanderer (CD Remix #9)",
+            "duration": "6:32"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "De Kemp\/Ernest",
+            "anv": "",
+            "join": "",
+            "role": "Art Direction",
+            "tracks": "",
+            "id": 5201482,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/5201482"
+        },
+        {
+            "name": "100% Isis",
+            "anv": "",
+            "join": "",
+            "role": "DJ Mix",
+            "tracks": "",
+            "id": 238218,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/238218"
+        },
+        {
+            "name": "Hotline (4)",
+            "anv": "Hotline, Maarssen",
+            "join": "",
+            "role": "Design",
+            "tracks": "",
+            "id": 1833921,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1833921"
+        },
+        {
+            "name": "100% Isis",
+            "anv": "",
+            "join": "",
+            "role": "Liner Notes",
+            "tracks": "",
+            "id": 238218,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/238218"
+        },
+        {
+            "name": "100% Isis",
+            "anv": "Isis",
+            "join": "",
+            "role": "Liner Notes",
+            "tracks": "",
+            "id": 238218,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/238218"
+        },
+        {
+            "name": "Maurice Scheltens",
+            "anv": "",
+            "join": "",
+            "role": "Photography By",
+            "tracks": "",
+            "id": 2383125,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2383125"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/sl24_DzaUuhWlZRQhaYFUMWcExLtB5O02-XMYSPA_j0\/rs:fit\/g:sm\/q:90\/h:397\/w:399\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTExNjYwOTUzMi5q\/cGc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/sl24_DzaUuhWlZRQhaYFUMWcExLtB5O02-XMYSPA_j0\/rs:fit\/g:sm\/q:90\/h:397\/w:399\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTExNjYwOTUzMi5q\/cGc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/bJVSeTemvC0GNRKX0eKAsy-_R4uOHOMjctb3Z76Znho\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTExNjYwOTUzMi5q\/cGc.jpeg",
+            "width": 399,
+            "height": 397
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/uFf2Ra8Je8CrX5OiJbmp-a8a1Zh0YuU3aVMcnrJZMdk\/rs:fit\/g:sm\/q:90\/h:517\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTUyMjk0OTI0OC02\/MTc3LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/uFf2Ra8Je8CrX5OiJbmp-a8a1Zh0YuU3aVMcnrJZMdk\/rs:fit\/g:sm\/q:90\/h:517\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTUyMjk0OTI0OC02\/MTc3LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/-qAwU2EAo70sTiwGsLz520fxIrmYzf3Xww_tpairl0o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTUyMjk0OTI0OC02\/MTc3LmpwZWc.jpeg",
+            "width": 600,
+            "height": 517
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/lVw0ztLYrZYsLO5AAtEAIpSaPdYx2db4gIwAXUInIz8\/rs:fit\/g:sm\/q:90\/h:561\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTcxNTE4MTU2OC0z\/MjgxLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/lVw0ztLYrZYsLO5AAtEAIpSaPdYx2db4gIwAXUInIz8\/rs:fit\/g:sm\/q:90\/h:561\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTcxNTE4MTU2OC0z\/MjgxLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/aSFFfxVE2UtHh6ed19s8-UC8vOOXrOur_mhH2taqE-8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTcxNTE4MTU2OC0z\/MjgxLmpwZWc.jpeg",
+            "width": 600,
+            "height": 561
+        }
+    ],
+    "thumb": "https:\/\/i.discogs.com\/bJVSeTemvC0GNRKX0eKAsy-_R4uOHOMjctb3Z76Znho\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNDct\/MTExNjYwOTUzMi5q\/cGc.jpeg",
+    "estimated_weight": 85,
+    "blocked_from_sale": false
+}

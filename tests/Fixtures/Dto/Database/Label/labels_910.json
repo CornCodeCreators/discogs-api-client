@@ -1,0 +1,28 @@
+{
+    "id": 910,
+    "name": "Shah-Records",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/910",
+    "uri": "https:\/\/www.discogs.com\/label\/910-Shah-Records",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/910\/releases",
+    "images": [
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/h2hY6t9begS9kUjSPVXCoYxEA0GICNfMHgJklVoHY58\/rs:fit\/g:sm\/q:90\/h:147\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTkxMC0x\/MTU4NTk3NDUxLmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/h2hY6t9begS9kUjSPVXCoYxEA0GICNfMHgJklVoHY58\/rs:fit\/g:sm\/q:90\/h:147\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTkxMC0x\/MTU4NTk3NDUxLmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/eJR6ZX-jN35YaruRU4la_6HLSI-4ZPLjhUCcKaH7Tqk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTkxMC0x\/MTU4NTk3NDUxLmpw\/ZWc.jpeg",
+            "width": 150,
+            "height": 147
+        }
+    ],
+    "contact_info": "Shah-Records\r\nStuifenstr. 11\r\n73734 Esslingen\r\n",
+    "profile": "German Trance Label, founded by [a=Pedro Del Mar] & [a=Roger P. Shah]\r\n \r\n[b]Labelcode: LC 03292[\/b]",
+    "parent_label": {
+        "id": 70696,
+        "name": "Shah-Music",
+        "resource_url": "https:\/\/api.discogs.com\/labels\/70696"
+    },
+    "data_quality": "Correct",
+    "urls": [
+        "http:\/\/www.shah-music.com"
+    ]
+}

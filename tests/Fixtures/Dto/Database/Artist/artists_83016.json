@@ -1,0 +1,32 @@
+{
+    "name": "The Chill (2)",
+    "id": 83016,
+    "resource_url": "https:\/\/api.discogs.com\/artists\/83016",
+    "uri": "https:\/\/www.discogs.com\/artist\/83016-The-Chill-2",
+    "releases_url": "https:\/\/api.discogs.com\/artists\/83016\/releases",
+    "profile": "",
+    "members": [
+        {
+            "id": 442633,
+            "name": "Georges Goderis",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/442633",
+            "active": true,
+            "thumbnail_url": "https:\/\/i.discogs.com\/4-B6uzADgZ2809ULzqCxv9TpXAMfmmCn6JDkeewOcyI\/rs:fit\/g:sm\/q:40\/h:476\/w:574\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ0MjYz\/My0xMjIzMjI0NDMz\/LmpwZWc.jpeg"
+        },
+        {
+            "id": 539982,
+            "name": "David Poot",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/539982",
+            "active": true,
+            "thumbnail_url": "https:\/\/i.discogs.com\/4KFkd6G78KBBKaG9FFUmbBu48jFqw2PONVVq4gkvPF4\/rs:fit\/g:sm\/q:40\/h:800\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTUzOTk4\/Mi0xMzI4NzQzOTEy\/LmpwZWc.jpeg"
+        },
+        {
+            "id": 539983,
+            "name": "Dorian Honor\u00e9",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/539983",
+            "active": true,
+            "thumbnail_url": ""
+        }
+    ],
+    "data_quality": "Needs Vote"
+}

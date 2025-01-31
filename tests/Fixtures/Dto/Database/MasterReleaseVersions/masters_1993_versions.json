@@ -1,0 +1,152 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 2,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "12\"": 2,
+                "Vinyl": 2,
+                "Reissue": 1,
+                "White Label": 1
+            },
+            "label": {
+                "Don'T": 2
+            },
+            "country": {
+                "UK": 2
+            },
+            "released": {
+                "2001": 1,
+                "2007": 1
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "12\"",
+                    "value": "12%22",
+                    "count": 2
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 2
+                },
+                {
+                    "title": "Reissue",
+                    "value": "Reissue",
+                    "count": 1
+                },
+                {
+                    "title": "White Label",
+                    "value": "White+Label",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Don'T",
+                    "value": "Don%27T",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "UK",
+                    "value": "UK",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "2001",
+                    "value": "2001",
+                    "count": 1
+                },
+                {
+                    "title": "2007",
+                    "value": "2007",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 27107,
+            "label": "Don't",
+            "country": "UK",
+            "title": "Work That Sucker",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\"",
+            "catno": "DON'T002",
+            "released": "2001",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/27107",
+            "thumb": "https:\/\/i.discogs.com\/CWfXRQVacasaoTYKUnPzl2jGegsQzowTQrjYGje7mIM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MTA3\/LTEwNzQwMzczMzMu\/anBn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 184,
+                    "in_collection": 120
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1160169,
+            "label": "Don't",
+            "country": "UK",
+            "title": "Work That Sucker",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", Reissue, White Label",
+            "catno": "DONT 002",
+            "released": "2007",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1160169",
+            "thumb": "https:\/\/i.discogs.com\/aQActDxpUqx4C4xqtcTcNkPmOspiHiP0efStxPd8mLg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjAx\/NjktMTI1Mjk0NzI1\/OC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 94,
+                    "in_collection": 76
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

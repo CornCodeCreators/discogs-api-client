@@ -1,0 +1,610 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 4,
+        "urls": []
+    },
+    "submissions": {
+        "releases": [
+            {
+                "id": 258854,
+                "status": "Accepted",
+                "year": 1980,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/258854",
+                "uri": "https:\/\/www.discogs.com\/release\/258854-Erotic-Drum-Band-Pop-Pop-Shoo-Wah",
+                "artists": [
+                    {
+                        "name": "Erotic Drum Band",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 67036,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/67036"
+                    }
+                ],
+                "artists_sort": "Erotic Drum Band",
+                "labels": [
+                    {
+                        "name": "Rams Horn Records",
+                        "catno": "RAMSH 12-3002",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 5218,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/5218"
+                    }
+                ],
+                "series": [],
+                "companies": [
+                    {
+                        "name": "Casanova Productions (2)",
+                        "catno": "",
+                        "entity_type": "37",
+                        "entity_type_name": "Produced For",
+                        "id": 1735458,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/1735458"
+                    },
+                    {
+                        "name": "Rams Horn Productions B.V.",
+                        "catno": "",
+                        "entity_type": "13",
+                        "entity_type_name": "Phonographic Copyright (p)",
+                        "id": 270570,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/270570"
+                    },
+                    {
+                        "name": "Rams Horn Records B.V.",
+                        "catno": "",
+                        "entity_type": "9",
+                        "entity_type_name": "Distributed By",
+                        "id": 279642,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/279642"
+                    },
+                    {
+                        "name": "Prismatic Music Publishing Inc.",
+                        "catno": "",
+                        "entity_type": "21",
+                        "entity_type_name": "Published By",
+                        "id": 332150,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/332150"
+                    },
+                    {
+                        "name": "Mazarin Music Publishing Inc.",
+                        "catno": "",
+                        "entity_type": "21",
+                        "entity_type_name": "Published By",
+                        "id": 332151,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/332151"
+                    },
+                    {
+                        "name": "Sigma Sound Studios, New York",
+                        "catno": "",
+                        "entity_type": "27",
+                        "entity_type_name": "Mixed At",
+                        "id": 270335,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/270335"
+                    },
+                    {
+                        "name": "Sterling Sound",
+                        "catno": "",
+                        "entity_type": "29",
+                        "entity_type_name": "Mastered At",
+                        "id": 264060,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/264060"
+                    },
+                    {
+                        "name": "CBS, Haarlem",
+                        "catno": "08-21438",
+                        "entity_type": "17",
+                        "entity_type_name": "Pressed By",
+                        "id": 371454,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/371454"
+                    }
+                ],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "12\"",
+                            "Single",
+                            "33 \u2153 RPM"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 51,
+                    "want": 63,
+                    "rating": {
+                        "count": 6,
+                        "average": 3.83
+                    },
+                    "submitter": {
+                        "username": "cyberhippie",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/cyberhippie"
+                    },
+                    "contributors": [
+                        {
+                            "username": "cyberhippie",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/cyberhippie"
+                        },
+                        {
+                            "username": "moseslawson",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/moseslawson"
+                        },
+                        {
+                            "username": "indeemixx",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/indeemixx"
+                        },
+                        {
+                            "username": "MaximusMCX",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/MaximusMCX"
+                        },
+                        {
+                            "username": "sebfact",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/sebfact"
+                        },
+                        {
+                            "username": "allerhande",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/allerhande"
+                        },
+                        {
+                            "username": "Allard-S",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Allard-S"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2004-05-27T15:10:36-07:00",
+                "date_changed": "2022-05-10T17:30:19-07:00",
+                "num_for_sale": 8,
+                "lowest_price": 3.07,
+                "master_id": 59665,
+                "master_url": "https:\/\/api.discogs.com\/masters\/59665",
+                "title": "Pop Pop Shoo Wah",
+                "country": "Netherlands",
+                "released": "1980",
+                "notes": "Produced & Arranged for Casanova Productions\nPrismatic Music Publishing Inc.\/Mazarin Music Publishing Inc.\nFrom The Rams Horn Records Album RAMSH 5002 \"Touch Me Where It's Hot\"\nDistributed by Rams Horn Records B.V. Aerdenhout-Holland \n\u2117 1980 Rams Horn Productions B.V.\nA Prism Records Recording",
+                "released_formatted": "1980",
+                "identifiers": [
+                    {
+                        "type": "Rights Society",
+                        "value": "BIEM\/STEMRA"
+                    },
+                    {
+                        "type": "Matrix \/ Runout",
+                        "value": "08-21438-1A-1",
+                        "description": "Side 1 runout"
+                    },
+                    {
+                        "type": "Matrix \/ Runout",
+                        "value": "08-21438-1B-1",
+                        "description": "Side 2 runout"
+                    },
+                    {
+                        "type": "Other",
+                        "value": "VR 21438",
+                        "description": "Labels"
+                    }
+                ],
+                "genres": [
+                    "Funk \/ Soul"
+                ],
+                "styles": [
+                    "Disco"
+                ],
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/jSO35Q0OidQBkKlG4kqpSk8BpEZL4GuIGJZ5H1G-KZI\/rs:fit\/g:sm\/q:90\/h:600\/w:595\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1MjQ2\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/jSO35Q0OidQBkKlG4kqpSk8BpEZL4GuIGJZ5H1G-KZI\/rs:fit\/g:sm\/q:90\/h:600\/w:595\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1MjQ2\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/RLpkJEOp-U5O8l_fjf7sS2lvxVjWbGWeZf3xiaQnGdA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1MjQ2\/LmpwZWc.jpeg",
+                        "width": 595,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/K_GsP48Hv6tZ1MFy9mC5mOuF21QE8XUTwTHM_fmjnJc\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1MjU3\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/K_GsP48Hv6tZ1MFy9mC5mOuF21QE8XUTwTHM_fmjnJc\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1MjU3\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/mlbViVbmjAQolCU5Xf_oH1f1tPiCnp7dLRS1_H9vSo4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1MjU3\/LmpwZWc.jpeg",
+                        "width": 600,
+                        "height": 599
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/Xi5GJZVY5b_evDypyvTrLHbFSZwah1bIw9ZHumNy5Lk\/rs:fit\/g:sm\/q:90\/h:600\/w:594\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1Mjg0\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/Xi5GJZVY5b_evDypyvTrLHbFSZwah1bIw9ZHumNy5Lk\/rs:fit\/g:sm\/q:90\/h:600\/w:594\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1Mjg0\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/vmOYm3B5QXrOitWtxP9BQlxpJa2HtQtQJih5hZ8xTVE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1Mjg0\/LmpwZWc.jpeg",
+                        "width": 594,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/xNXukVf5ChndyJAvh7h2KSwwRhqDrEtfyGR5854ARYw\/rs:fit\/g:sm\/q:90\/h:600\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1Mjky\/LmpwZWc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/xNXukVf5ChndyJAvh7h2KSwwRhqDrEtfyGR5854ARYw\/rs:fit\/g:sm\/q:90\/h:600\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1Mjky\/LmpwZWc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/LGN_vdrfDL62_7TCLHh18-YZKrfK8usOas5eS60-a7w\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1Mjky\/LmpwZWc.jpeg",
+                        "width": 593,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/RLpkJEOp-U5O8l_fjf7sS2lvxVjWbGWeZf3xiaQnGdA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1ODg1\/NC0xMzI1NDk1MjQ2\/LmpwZWc.jpeg",
+                "estimated_weight": 230
+            },
+            {
+                "id": 16014893,
+                "status": "Accepted",
+                "year": 1999,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/16014893",
+                "uri": "https:\/\/www.discogs.com\/release\/16014893-DeNiro-State-Of-Mind-Deepsky",
+                "artists": [
+                    {
+                        "name": "De Niro",
+                        "anv": "DeNiro",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 8127,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/8127"
+                    }
+                ],
+                "artists_sort": "De Niro",
+                "labels": [
+                    {
+                        "name": "Hook Recordings Silver Series",
+                        "catno": "HOOK 39 SILVER",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 678422,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/678422"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "12\"",
+                            "45 RPM",
+                            "Remastered"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Vote",
+                "community": {
+                    "have": 24,
+                    "want": 31,
+                    "rating": {
+                        "count": 2,
+                        "average": 4
+                    },
+                    "submitter": {
+                        "username": "Allard-S",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Allard-S"
+                    },
+                    "contributors": [
+                        {
+                            "username": "Allard-S",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Allard-S"
+                        },
+                        {
+                            "username": "deepzonemusix",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/deepzonemusix"
+                        }
+                    ],
+                    "data_quality": "Needs Vote",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2020-10-05T08:10:18-07:00",
+                "date_changed": "2020-12-08T20:29:23-08:00",
+                "num_for_sale": 4,
+                "lowest_price": 11.11,
+                "master_id": 1010676,
+                "master_url": "https:\/\/api.discogs.com\/masters\/1010676",
+                "title": "State Of Mind \/ Deepsky",
+                "country": "UK",
+                "released": "1999",
+                "released_formatted": "1999",
+                "identifiers": [],
+                "genres": [
+                    "Electronic"
+                ],
+                "styles": [
+                    "Trance",
+                    "Progressive Trance"
+                ],
+                "images": [
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/BLWzBKKuCvWpqH_eLNPpEoHofWSBKq2DqPsQgfUpRHk\/rs:fit\/g:sm\/q:90\/h:614\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/MjMtMTU0OS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/BLWzBKKuCvWpqH_eLNPpEoHofWSBKq2DqPsQgfUpRHk\/rs:fit\/g:sm\/q:90\/h:614\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/MjMtMTU0OS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/PmGp4yEe6EASJcqaTXxfOqRlqgZPghDEjUE_D_oxAWc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/MjMtMTU0OS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 614
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/d5HIDanoijtedFyCu_0KaPmIAeSSl9jk8Y2Xz3xMfSM\/rs:fit\/g:sm\/q:90\/h:625\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/MjgtODE5OC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/d5HIDanoijtedFyCu_0KaPmIAeSSl9jk8Y2Xz3xMfSM\/rs:fit\/g:sm\/q:90\/h:625\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/MjgtODE5OC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/AyD9X6diuZcdkqvNHRf_zFzWqbxtOxUqPoUYW4AJyyM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/MjgtODE5OC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 625
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/S5wIXGLIPY9LZLewoZEPJSpMqDa85e6hrEpAPWikYf4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/NTUtNzQ0Mi5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/S5wIXGLIPY9LZLewoZEPJSpMqDa85e6hrEpAPWikYf4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/NTUtNzQ0Mi5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/heX0ObLao8-fPc8Td3dEFEWJs4dkEskytAgMqouDOX4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/NTUtNzQ0Mi5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/lm-kwqRML-fQfT9hrjFMiShmrhg_ixhUN-A2wKwYBr4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/NTctMzIwOC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/lm-kwqRML-fQfT9hrjFMiShmrhg_ixhUN-A2wKwYBr4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/NTctMzIwOC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/fX4UX4Ze24wZOp2gPR3HsPWbY18AEZrZYcY1IfUlkkk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/NTctMzIwOC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 600
+                    }
+                ],
+                "thumb": "https:\/\/i.discogs.com\/PmGp4yEe6EASJcqaTXxfOqRlqgZPghDEjUE_D_oxAWc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2MDE0\/ODkzLTE2MDE5MTA2\/MjMtMTU0OS5qcGVn.jpeg",
+                "estimated_weight": 230
+            },
+            {
+                "id": 849053,
+                "status": "Accepted",
+                "year": 1999,
+                "resource_url": "https:\/\/api.discogs.com\/releases\/849053",
+                "uri": "https:\/\/www.discogs.com\/release\/849053-PIM-Zo-Voorbij",
+                "artists": [
+                    {
+                        "name": "PIM (3)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 685931,
+                        "resource_url": "https:\/\/api.discogs.com\/artists\/685931"
+                    }
+                ],
+                "artists_sort": "PIM (3)",
+                "labels": [
+                    {
+                        "name": "EMI Music (Netherlands)",
+                        "catno": "7243 8 87312 2 5",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 17809,
+                        "resource_url": "https:\/\/api.discogs.com\/labels\/17809"
+                    }
+                ],
+                "series": [],
+                "companies": [],
+                "formats": [
+                    {
+                        "name": "CD",
+                        "qty": "1",
+                        "descriptions": [
+                            "Maxi-Single"
+                        ]
+                    }
+                ],
+                "data_quality": "Needs Minor Changes",
+                "community": {
+                    "have": 3,
+                    "want": 0,
+                    "rating": {
+                        "count": 0,
+                        "average": 0
+                    },
+                    "submitter": {
+                        "username": "Epistaxis",
+                        "resource_url": "https:\/\/api.discogs.com\/users\/Epistaxis"
+                    },
+                    "contributors": [
+                        {
+                            "username": "Epistaxis",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Epistaxis"
+                        },
+                        {
+                            "username": "Allard-S",
+                            "resource_url": "https:\/\/api.discogs.com\/users\/Allard-S"
+                        }
+                    ],
+                    "data_quality": "Needs Minor Changes",
+                    "status": "Accepted"
+                },
+                "format_quantity": 1,
+                "date_added": "2006-12-04T02:43:43-08:00",
+                "date_changed": "2007-06-30T16:30:22-07:00",
+                "num_for_sale": 2,
+                "lowest_price": 0.52,
+                "title": "Zo Voorbij",
+                "country": "Netherlands",
+                "released": "1999",
+                "released_formatted": "1999",
+                "identifiers": [],
+                "genres": [
+                    "Electronic",
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": [
+                    "Pop Rock"
+                ],
+                "thumb": "",
+                "estimated_weight": 85
+            }
+        ],
+        "artists": [
+            {
+                "name": "Format",
+                "id": 15213,
+                "resource_url": "https:\/\/api.discogs.com\/artists\/15213",
+                "uri": "https:\/\/www.discogs.com\/artist\/15213-Format",
+                "releases_url": "https:\/\/api.discogs.com\/artists\/15213\/releases",
+                "images": [
+                    {
+                        "type": "primary",
+                        "uri": "https:\/\/i.discogs.com\/QycyZVOmhQSm0eOAMQjz-tgudHfF4Ukch9QbdpZX51g\/rs:fit\/g:sm\/q:90\/h:400\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjct\/OTUyNi5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/QycyZVOmhQSm0eOAMQjz-tgudHfF4Ukch9QbdpZX51g\/rs:fit\/g:sm\/q:90\/h:400\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjct\/OTUyNi5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/8cC2RJAqoRsJddQ1FQvYdf_ghvmFQilHaqu5bwyPgDI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjct\/OTUyNi5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 400
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/PCkyhGyqDmf0XdFeC11fvBRfUx_dtYIgiNius5QTISc\/rs:fit\/g:sm\/q:90\/h:300\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTExNDk3MDk0NTIu\/anBlZw.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/PCkyhGyqDmf0XdFeC11fvBRfUx_dtYIgiNius5QTISc\/rs:fit\/g:sm\/q:90\/h:300\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTExNDk3MDk0NTIu\/anBlZw.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/vzigCFOlfxftHuY0wuYMWmgJznnDlKhSdqCTkewJLdA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTExNDk3MDk0NTIu\/anBlZw.jpeg",
+                        "width": 450,
+                        "height": 300
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/gGDwSFS5NyJAnvqmeFm3EQ0f1QAV7amJWOSpKxOwkJI\/rs:fit\/g:sm\/q:90\/h:420\/w:420\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjMt\/NzQyMy5wbmc.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/gGDwSFS5NyJAnvqmeFm3EQ0f1QAV7amJWOSpKxOwkJI\/rs:fit\/g:sm\/q:90\/h:420\/w:420\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjMt\/NzQyMy5wbmc.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/44fKOcMdF1rpLx1R6GnHiGYQG_p3-iuEZYvZcDfDczI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjMt\/NzQyMy5wbmc.jpeg",
+                        "width": 420,
+                        "height": 420
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/1E4R-IgcyEEmTCcL53psuPABFTacCvDzQLN3xIZq50A\/rs:fit\/g:sm\/q:90\/h:400\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzIt\/OTYzMC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/1E4R-IgcyEEmTCcL53psuPABFTacCvDzQLN3xIZq50A\/rs:fit\/g:sm\/q:90\/h:400\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzIt\/OTYzMC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/vG2r-XdsErsWWtC6OXLcsBzMXA-j9IPvy9gDAz0GiuM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzIt\/OTYzMC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 400
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/DEhaqMix-e3_qS-Vva7srtRirTPxrpxS1Nmtsg2z54s\/rs:fit\/g:sm\/q:90\/h:320\/w:243\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjYt\/NzE5OC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/DEhaqMix-e3_qS-Vva7srtRirTPxrpxS1Nmtsg2z54s\/rs:fit\/g:sm\/q:90\/h:320\/w:243\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjYt\/NzE5OC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/SNvhfIlMOGmWtJLW5blCJHEnGr9r1Kcfb7Oo96ti4sg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjYt\/NzE5OC5qcGVn.jpeg",
+                        "width": 243,
+                        "height": 320
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/1TjF3QVq9hUlXZzcfRHmbGManTPvlblwLuc5mHreLUA\/rs:fit\/g:sm\/q:90\/h:399\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzct\/MjQ4Ni5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/1TjF3QVq9hUlXZzcfRHmbGManTPvlblwLuc5mHreLUA\/rs:fit\/g:sm\/q:90\/h:399\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzct\/MjQ4Ni5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/dpVRaZCg6zdrTgzcSbRH-2_8O0jZ861VlEXk5l7eA1Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzct\/MjQ4Ni5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 399
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/d0m8vRdv1U0mW2TERA7QFpRQ6aRTUoVzAtRyEy0QMXI\/rs:fit\/g:sm\/q:90\/h:399\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NDEyNy5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/d0m8vRdv1U0mW2TERA7QFpRQ6aRTUoVzAtRyEy0QMXI\/rs:fit\/g:sm\/q:90\/h:399\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NDEyNy5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/BspW5ui0srFBAkqgmcNNEVWYZ11iAGeIYaLJRNeHX68\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NDEyNy5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 399
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/zNxC3rJylfSPFVSe2Msgp9JdUmRoAtVsD1nRDINtpl0\/rs:fit\/g:sm\/q:90\/h:638\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjQt\/OTAwMC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/zNxC3rJylfSPFVSe2Msgp9JdUmRoAtVsD1nRDINtpl0\/rs:fit\/g:sm\/q:90\/h:638\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjQt\/OTAwMC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/1twSSUvRWqHLwdZ0JLZqVVASQZu7StjJlxiVPaUs4jM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjQt\/OTAwMC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 638
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/-vfo9wGv_rewA-H_uQD6loBhp6tWQ2BNWV3LOLOV7_o\/rs:fit\/g:sm\/q:90\/h:282\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjkt\/OTk2NC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/-vfo9wGv_rewA-H_uQD6loBhp6tWQ2BNWV3LOLOV7_o\/rs:fit\/g:sm\/q:90\/h:282\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjkt\/OTk2NC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/8nluR4Y2UscHdGi2lJ814MJhcnmCLQwtomql_r09iAI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMjkt\/OTk2NC5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 282
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/G6VF-KSB9nD-Lc36AlTZiGxorQX5wDEkV7DWSVZtp1k\/rs:fit\/g:sm\/q:90\/h:352\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzMt\/MzQwNS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/G6VF-KSB9nD-Lc36AlTZiGxorQX5wDEkV7DWSVZtp1k\/rs:fit\/g:sm\/q:90\/h:352\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzMt\/MzQwNS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/-p3rLzKaReD8nAMv23RKbx13yf65D2ImwqvOtQdU5OU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzMt\/MzQwNS5qcGVn.jpeg",
+                        "width": 450,
+                        "height": 352
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/l5xY_JpQNz2ONa0Fikp75NVvfN15QSwLlne1_GYhGGk\/rs:fit\/g:sm\/q:90\/h:427\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NjEyNS5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/l5xY_JpQNz2ONa0Fikp75NVvfN15QSwLlne1_GYhGGk\/rs:fit\/g:sm\/q:90\/h:427\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NjEyNS5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/OqbwuawFVfmOdQmVNinZNnyygqa0n9XFTUbnqB0azwQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NjEyNS5qcGVn.jpeg",
+                        "width": 600,
+                        "height": 427
+                    },
+                    {
+                        "type": "secondary",
+                        "uri": "https:\/\/i.discogs.com\/f6C38-eUdYiw0n_zrIUquMBL66Y5HtSFrLWQS5PmF64\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NjU2NC5qcGVn.jpeg",
+                        "resource_url": "https:\/\/i.discogs.com\/f6C38-eUdYiw0n_zrIUquMBL66Y5HtSFrLWQS5PmF64\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NjU2NC5qcGVn.jpeg",
+                        "uri150": "https:\/\/i.discogs.com\/GI5HAIlU6AfQ9lsA3ihxmLjs2ETKh6BlW1Gf011lmvg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1MjEz\/LTE1MTM0NjEzMzEt\/NjU2NC5qcGVn.jpeg",
+                        "width": 500,
+                        "height": 500
+                    }
+                ],
+                "realname": "Orlando Voorn",
+                "profile": "Orlando Voorn (born 25 April 1968, Amsterdam) is a Dutch DJ and electronic music producer. As a solo artist he has released work since the early 90s under a large amount of aliases containing Balance, Frequency, Baruka, Basic Bastard, Fix, Dope Dog, Boy, Stalker and The Nighttripper. He also produced tracks with Blake Baxter under the name Ghetto Brothers and with Jeff Porter as Designer Loops.",
+                "urls": [
+                    "https:\/\/en.wikipedia.org\/wiki\/Orlando_Voorn"
+                ],
+                "namevariations": [
+                    "Format  2",
+                    "Format # 1",
+                    "Format #1",
+                    "Format #2",
+                    "Format - 1",
+                    "Format 1",
+                    "Format 2",
+                    "Format I",
+                    "Format Number One",
+                    "Format One",
+                    "Format#1"
+                ],
+                "aliases": [
+                    "Balance (9)",
+                    "Baruka",
+                    "Basic Bastard",
+                    "Complex",
+                    "Defence",
+                    "Detroit Boogie Assemble",
+                    "DJ Fix (2)",
+                    "Dope Dog",
+                    "Fix",
+                    "Fixomatic",
+                    "Frequency (3)",
+                    "Galaxy (2)",
+                    "Hammerhead",
+                    "High Places (2)",
+                    "Limited Edition (2)",
+                    "Mainstream (22)",
+                    "Maniax Traxxx",
+                    "Mute",
+                    "No Guts No Glory",
+                    "Orlando Voorn",
+                    "PB 2000",
+                    "Playboy",
+                    "Richard Geurkoop",
+                    "Solar (2)",
+                    "Tank (3)",
+                    "The Judge (3)",
+                    "The Living Room",
+                    "The Nighttripper",
+                    "The Progress (2)",
+                    "The Stalker",
+                    "Trigger (4)",
+                    "Ultra (2)",
+                    "Urban Nature",
+                    "X-It"
+                ],
+                "data_quality": "Needs Vote"
+            }
+        ],
+        "labels": []
+    }
+}

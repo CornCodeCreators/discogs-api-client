@@ -1,0 +1,276 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 284,
+        "per_page": 5,
+        "items": 1419,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&type=master&page=284",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=Nirvana&per_page=5&type=master&page=2"
+        }
+    },
+    "results": [
+        {
+            "country": "US",
+            "year": "2002",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "DGC",
+                "Geffen Records",
+                "Geffen Records",
+                "Universal Music & Video Distribution, Corp.",
+                "Universal Music & Video Distribution, Corp.",
+                "Future Media",
+                "Future Media"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 42476,
+            "barcode": [
+                "606949350727",
+                "6 06949 35072 7",
+                "IFPI LG33",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M04 S01",
+                "IFPI 3V53",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M03 S04",
+                "IFPI 3V42",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M03 S03",
+                "IFPI 3V15",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M02 S07",
+                "IFPI 3V36",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M01 S01",
+                "IFPI 3V04",
+                "FM\/CA FM 22851 (0694935072\/TE001) C02 M02 S02",
+                "IFPI 3V18",
+                "FM\/CA FM 22851 (0694935072\/TE001) C01 M02 S04",
+                "IFPI 3V17",
+                "FM\/CA FM 22851 (0694935072\/TE001) C02 M01 S04",
+                "IFPI 3V22"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 42476,
+            "master_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "uri": "\/master\/42476-Nirvana-Nirvana",
+            "catno": "0694935072",
+            "title": "Nirvana - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/8aBENWXMv5PcGJ_YIQT1PA0ep2e64gjTyrKAM1audJM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NzYx\/NC0xMTQzMDAxNjMy\/LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/G9aRdNnZUwH1uehJ6i6w06triCGAQ2U1oIbjjV1Dg0g\/rs:fit\/g:sm\/q:90\/h:297\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NzYx\/NC0xMTQzMDAxNjMy\/LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/42476",
+            "community": {
+                "want": 15674,
+                "have": 69317
+            }
+        },
+        {
+            "country": "US",
+            "year": "1964",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Mono"
+            ],
+            "label": [
+                "Atlantic",
+                "Atlantic Studios",
+                "MGM Record Manufacturing Division",
+                "Herbie Mann",
+                "E. B. Marks",
+                "Chappell",
+                "Bourne",
+                "Pickwick"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz"
+            ],
+            "style": [
+                "Cool Jazz"
+            ],
+            "id": 256996,
+            "barcode": [
+                "ASCAP",
+                "A-12131-A 9-19-64",
+                "A-12132-A AT 9-19-64 W",
+                "A-12131-A",
+                "A-12132-B AT W",
+                "A-12131-A",
+                "A-12132-A AT 9-19-64 W"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 256996,
+            "master_url": "https:\/\/api.discogs.com\/masters\/256996",
+            "uri": "\/master\/256996-Herbie-Mann-The-Bill-Evans-Trio-Nirvana",
+            "catno": "1426",
+            "title": "Herbie Mann & The Bill Evans Trio - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/QuuHdX5AHLHiKiFfNAXoRbuDMtlS82c3qkSJL3AFr_0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMzg4\/NTEtMTU1NDkyMjg2\/OC0zODE4LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/TU8XHWW1UdQSog4Fw9VMvRbLqGw40Hzbff80oB5dzq4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMzg4\/NTEtMTU1NDkyMjg2\/OC0zODE4LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/256996",
+            "community": {
+                "want": 3102,
+                "have": 3034
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "1990",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "Es Paranza Records",
+                "Es Paranza Records",
+                "Warner Communications",
+                "Atlantic Recording Corporation",
+                "Robert Plant",
+                "WEA International Inc.",
+                "Record Service",
+                "Record Service Alsdorf",
+                "Olympic Studios",
+                "EMI Music Publishing Ltd.",
+                "Talk Time Ltd.",
+                "Virgin Music (Publishers) Ltd.",
+                "Chappell Music Ltd."
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Pop Rock",
+                "Hard Rock"
+            ],
+            "id": 74177,
+            "barcode": [
+                "0 7567-91336-1 8",
+                "075679133618",
+                "LC 8500",
+                "WE 391",
+                "GEMA \/ BIEM",
+                "R\/S Alsdorf 756 791336-9-1-1-A",
+                "R\/S Alsdorf 756 791336-9-1-1-B",
+                "R\/S Alsdorf 756 791336-1-Ax-9-Ax",
+                "R\/S Alsdorf 756 791336-1-Bxx-9-Bxx",
+                "R\/S Alsdorf 756 791336-1-Ax-9-Ax",
+                "R\/S Alsdorf 756 791336-1-Bxx-9-Bxx 1 1"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 74177,
+            "master_url": "https:\/\/api.discogs.com\/masters\/74177",
+            "uri": "\/master\/74177-Robert-Plant-Manic-Nirvana",
+            "catno": "WX 339",
+            "title": "Robert Plant - Manic Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/2eENF3HshHwMOqMu2JoiviID7YQtR4fyXaJcC02AHaU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3ODAy\/MzAtMTQyNTgzNDk2\/Ni0xOTc5LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/QFRKhRQs2NKkQhFUZxFHz2tPFbAOYSn_VmeekJhQHjM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3ODAy\/MzAtMTQyNTgzNDk2\/Ni0xOTc5LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/74177",
+            "community": {
+                "want": 2120,
+                "have": 12044
+            }
+        },
+        {
+            "country": "US",
+            "year": "1974",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Groove Merchant"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz"
+            ],
+            "style": [],
+            "id": 338621,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 338621,
+            "master_url": "https:\/\/api.discogs.com\/masters\/338621",
+            "uri": "\/master\/338621-Zoot-Sims-Bucky-Pizzarelli-Special-Guest-Buddy-Rich-Nirvana",
+            "catno": "GM 533",
+            "title": "Zoot Sims, Bucky Pizzarelli Special Guest Buddy Rich - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/iHxRVq5wqkM6bJ97vsRsWOUi2UfDPw_z0gjN14Einbk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2NTUx\/MTYtMTQzMjg2MzI2\/My05MTAyLmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/p4e0J77Gx-IIo3QUXbHqmvBV_6_nkpWmj_ematdyyHE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2NTUx\/MTYtMTQzMjg2MzI2\/My05MTAyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/338621",
+            "community": {
+                "want": 357,
+                "have": 1256
+            }
+        },
+        {
+            "country": "US",
+            "year": "1968",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "Columbia",
+                "Columbia Records"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz"
+            ],
+            "style": [
+                "Bop",
+                "Soul-Jazz"
+            ],
+            "id": 678321,
+            "barcode": [
+                "XSM 135347",
+                "XSM 135348",
+                "XSM13547-1D A2 ",
+                "XSM13548-1C A",
+                "XSM13547-1B 1 T",
+                "XSM13548-1A 1 T",
+                "XSM13548-1C",
+                "XSM13547-1B"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 678321,
+            "master_url": "https:\/\/api.discogs.com\/masters\/678321",
+            "uri": "\/master\/678321-Charles-Lloyd-Nirvana",
+            "catno": "CS 9609",
+            "title": "Charles Lloyd - Nirvana",
+            "thumb": "https:\/\/i.discogs.com\/f5lvJS1NmW9exT6gF1Z2TpnIFDPkx0UHimxyFcGKdMo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMjMx\/OTEtMTI4NjI3OTI2\/NS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/3Dcr30rqcDvhzz8ewJik154I_5bkiISlasRZ_OSWMk4\/rs:fit\/g:sm\/q:90\/h:400\/w:382\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMjMx\/OTEtMTI4NjI3OTI2\/NS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/678321",
+            "community": {
+                "want": 396,
+                "have": 748
+            }
+        }
+    ]
+}

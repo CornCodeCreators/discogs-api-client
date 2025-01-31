@@ -1,0 +1,331 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 666,
+        "per_page": 15,
+        "items": 24435,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=Bates&per_page=15&page=666",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=Bates&per_page=15&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 91298,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/91298-Steve-Bates",
+            "title": "Steve Bates",
+            "thumb": "https:\/\/i.discogs.com\/hjsznl_NV__fPeNUaqQmMCPVwEep816IXLfN_V_KS28\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTkxMjk4\/LTE2NzcyODMxNzUt\/OTgwNS5wbmc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/-s3cTpFf6mTrAHxcLazJ9cP_KjSfXQo7WCEoQiC8vJc\/rs:fit\/g:sm\/q:90\/h:799\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTkxMjk4\/LTE2NzcyODMxNzUt\/OTgwNS5wbmc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/91298"
+        },
+        {
+            "id": 332286,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/332286-Alan-Bates",
+            "title": "Alan Bates",
+            "thumb": "https:\/\/i.discogs.com\/3LIvMOBRe3sB2m1B6hrD-hy2w722ONUME6nYnOEGS4Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMzMjI4\/Ni0xNTM3MTgxMTM3\/LTk3MDYuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/kGZAZHqY07gwowLRp7VYNL9aE9Y3yJxXtDVepqcopNk\/rs:fit\/g:sm\/q:90\/h:350\/w:221\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTMzMjI4\/Ni0xNTM3MTgxMTM3\/LTk3MDYuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/332286"
+        },
+        {
+            "id": 733024,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/733024-JT-Bates",
+            "title": "JT Bates",
+            "thumb": "https:\/\/i.discogs.com\/dBhF1Sh278U96DhwW0liL-J-BrxAtlPqCRZ2mPc8tt8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTczMzAy\/NC0xNDI5MDMyNzEx\/LTcyNTMuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/rSy-3IwRllDvBHJJf8jVA2D4GXyjWBLQu_9-lDPhoZw\/rs:fit\/g:sm\/q:90\/h:403\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTczMzAy\/NC0xNDI5MDMyNzEx\/LTcyNTMuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/733024"
+        },
+        {
+            "country": "Europe",
+            "year": "1993",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Virgin",
+                "Virgin Schallplatten GmbH",
+                "Virgin Schallplatten GmbH",
+                "Virgin Schallplatten GmbH",
+                "Nana Musikverlag",
+                "Musik Edition Discoton GmbH",
+                "Vielklang Studio, Berlin",
+                "Vielklang Studio, Berlin",
+                "Pauler Acoustics"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Punk",
+                "Pop Punk",
+                "Power Pop"
+            ],
+            "id": 928697,
+            "barcode": [
+                "7 24383 94262 6",
+                "724383942626",
+                "BIEM\/STEMRA",
+                "LC 3098",
+                "839426 2 @ 2 1-1-1-NL",
+                "839426 2 @ 2 1-1-17-NL",
+                "839426 2 @ 2 1-1-25-NL",
+                "839426 2 @ 2 1-1-7-NL",
+                "839426 2 @ 2 1-1-23-NL"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 928697,
+            "master_url": "https:\/\/api.discogs.com\/masters\/928697",
+            "uri": "\/master\/928697-The-Bates-The-Bates",
+            "catno": "7243 8394262 6",
+            "title": "The Bates - The Bates",
+            "thumb": "https:\/\/i.discogs.com\/3erBYqqxxuBZEWhfiliJ88JTcnieRCrxxI0P3lCItEs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMjIx\/MjUtMTI0NDIxNzE4\/NC5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/GG5DchRu9KNfTlfyJCGWtfF5tEbm-j2E596QsDbuT8I\/rs:fit\/g:sm\/q:90\/h:592\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMjIx\/MjUtMTI0NDIxNzE4\/NC5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/928697",
+            "community": {
+                "want": 27,
+                "have": 705
+            }
+        },
+        {
+            "id": 168946,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/168946-Tyler-Bates",
+            "title": "Tyler Bates",
+            "thumb": "https:\/\/i.discogs.com\/rjffjEFsTe0QviCZDOFMR2TJC30EN8OqaFNdMBbYrrg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE2ODk0\/Ni0xNDU0MzgxNDIw\/LTk5NzIuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/qK4lv0j5EECG6_mn-_PTevcnqkWi0wWDg9CtX6UBEv8\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE2ODk0\/Ni0xNDU0MzgxNDIw\/LTk5NzIuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/168946"
+        },
+        {
+            "country": "Europe",
+            "year": "1993",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Virgin",
+                "Virgin Schallplatten GmbH",
+                "Virgin Schallplatten GmbH",
+                "Virgin Schallplatten GmbH",
+                "Nana Musikverlag",
+                "Musik Edition Discoton GmbH",
+                "Vielklang Studio, Berlin",
+                "Vielklang Studio, Berlin",
+                "Pauler Acoustics"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Punk",
+                "Pop Punk",
+                "Power Pop"
+            ],
+            "id": 1122125,
+            "barcode": [
+                "7 24383 94262 6",
+                "724383942626",
+                "BIEM\/STEMRA",
+                "LC 3098",
+                "839426 2 @ 2 1-1-1-NL",
+                "839426 2 @ 2 1-1-17-NL",
+                "839426 2 @ 2 1-1-25-NL",
+                "839426 2 @ 2 1-1-7-NL",
+                "839426 2 @ 2 1-1-23-NL"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 928697,
+            "master_url": "https:\/\/api.discogs.com\/masters\/928697",
+            "uri": "\/release\/1122125-The-Bates-The-Bates",
+            "catno": "7243 8394262 6",
+            "title": "The Bates - The Bates",
+            "thumb": "https:\/\/i.discogs.com\/3erBYqqxxuBZEWhfiliJ88JTcnieRCrxxI0P3lCItEs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMjIx\/MjUtMTI0NDIxNzE4\/NC5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/GG5DchRu9KNfTlfyJCGWtfF5tEbm-j2E596QsDbuT8I\/rs:fit\/g:sm\/q:90\/h:592\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMjIx\/MjUtMTI0NDIxNzE4\/NC5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1122125",
+            "community": {
+                "want": 16,
+                "have": 620
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 89226,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/89226-Mark-Bates",
+            "title": "Mark Bates",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/89226"
+        },
+        {
+            "id": 98894,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/98894-David-Bates",
+            "title": "David Bates",
+            "thumb": "https:\/\/i.discogs.com\/Kq5WOoGSpsplPktaegXtLC1joYG5DdeH5QgL0ihQL2A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTk4ODk0\/LTEzMTY5NDYyNjYu\/anBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/FtOwQo7XfwBIFZI8HihGlJKpZ-b8kOCZ6CPW1CUNPxc\/rs:fit\/g:sm\/q:90\/h:600\/w:544\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTk4ODk0\/LTEzMTY5NDYyNjYu\/anBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/98894"
+        },
+        {
+            "id": 2016312,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/2016312-Jules-Bates",
+            "title": "Jules Bates",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2016312"
+        },
+        {
+            "id": 257405,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/257405-Bob-Bates",
+            "title": "Bob Bates",
+            "thumb": "https:\/\/i.discogs.com\/uwDD3oUBzVIzNVIz4gceHKnYpgAa1AWQI1VcsXHEoEk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI1NzQw\/NS0xNDc1OTk5MzM1\/LTE0NDcuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/g9XrWewUwvsyPZEM1OuQk0j3myMZQ8LPlTkL-UfKA3c\/rs:fit\/g:sm\/q:90\/h:1347\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI1NzQw\/NS0xNDc1OTk5MzM1\/LTE0NDcuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/257405"
+        },
+        {
+            "id": 49833,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/49833-Martyn-Bates",
+            "title": "Martyn Bates",
+            "thumb": "https:\/\/i.discogs.com\/hmManJLG6yVzjC3zDaT7XumPaENrcCSMF4-sQjT63-c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ5ODMz\/LTE3MTc4NTcwOTkt\/NTEzMC5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/jGIJ7g4TOki7vOPw2LC_cJZHcPHkF1O6HYTcKQ4_O0w\/rs:fit\/g:sm\/q:90\/h:648\/w:480\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ5ODMz\/LTE3MTc4NTcwOTkt\/NTEzMC5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/49833"
+        },
+        {
+            "id": 1834932,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/1834932-Sevie-Bates",
+            "title": "Sevie Bates",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/1834932"
+        },
+        {
+            "id": 342173,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/342173-Norman-Bates-2",
+            "title": "Norman Bates (2)",
+            "thumb": "https:\/\/i.discogs.com\/SG7dYPvxiG5VLSPNrarIlVA8YExGrihFZl5Ntg6NrqM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTM0MjE3\/My0xNDIwMDU4MDY2\/LTE5MjguanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/gliLqDlLpcr3HBYNZFmsQW5pGWb5fwu-gib133KO_o8\/rs:fit\/g:sm\/q:90\/h:965\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTM0MjE3\/My0xNDIwMDU4MDY2\/LTE5MjguanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/342173"
+        },
+        {
+            "id": 649450,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/649450-John-Bates-2",
+            "title": "John Bates (2)",
+            "thumb": "https:\/\/i.discogs.com\/Jt8hwJ_yUODlvud0zKEUR0b4E4jpN2CN8J9yRGslpwg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTY0OTQ1\/MC0xNTUwMzQ0OTgx\/LTQ3ODEuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/ME1m-6_AnoPlqLnRWZngaSftBrgLWr3JBKH7mnV6gZM\/rs:fit\/g:sm\/q:90\/h:332\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTY0OTQ1\/MC0xNTUwMzQ0OTgx\/LTQ3ODEuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/649450"
+        },
+        {
+            "id": 740472,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/740472-Leroy-Bates",
+            "title": "Leroy Bates",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/740472"
+        }
+    ]
+}

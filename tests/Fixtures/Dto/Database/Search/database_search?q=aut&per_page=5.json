@@ -1,0 +1,161 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 2000,
+        "per_page": 5,
+        "items": 42713,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=aut&per_page=5&page=2000",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=aut&per_page=5&page=2"
+        }
+    },
+    "results": [
+        {
+            "country": "Italy",
+            "year": "1988",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Not On Label (Fru Aut Self-released)",
+                "Space Station Studio, Vicenza"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic",
+                "Rock"
+            ],
+            "style": [
+                "Goth Rock",
+                "Darkwave"
+            ],
+            "id": 2438681,
+            "barcode": [
+                "SIAE",
+                "FRU AUT - A",
+                "FRU AUT - B"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "\/Fru-Aut-Fru-Aut\/release\/2438681",
+            "catno": "FA1",
+            "title": "Fru Aut - Fru Aut",
+            "thumb": "https:\/\/i.discogs.com\/NtSgb14FKpYYY6mbLpouxP34Y7YKyc0PnJx6epNCRr8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0Mzg2\/ODEtMTMyNjU0OTIy\/NC5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/VJn3VaycRb8GWhRMDsTXFidlJ23V_afQI2PFy7gS6as\/rs:fit\/g:sm\/q:90\/h:500\/w:476\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0Mzg2\/ODEtMTMyNjU0OTIy\/NC5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/2438681",
+            "community": {
+                "want": 126,
+                "have": 68
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 677697,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/677697-AutChose",
+            "title": "Aut'Chose",
+            "thumb": "https:\/\/i.discogs.com\/BNvdhzmf4XUDzVk3pqWyy3Xv_9w9UZFC_1X-0tgm7Vs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTY3NzY5\/Ny0xNTcxNDI3NzQx\/LTMwNDcuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/fMWYSlAZ1i72TBPOskslwPjEsyVOYCt-UF14WAleMXk\/rs:fit\/g:sm\/q:90\/h:397\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTY3NzY5\/Ny0xNTcxNDI3NzQx\/LTMwNDcuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/677697"
+        },
+        {
+            "country": "France",
+            "year": "2012",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Osmose Productions",
+                "Osmose Productions",
+                "Osmose Productions",
+                "Les Editions Hurlantes",
+                "Sony DADC"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Black Metal"
+            ],
+            "id": 447695,
+            "barcode": [
+                "4 260236 092248",
+                "LC 02406",
+                "SACEM SDRM SACD SCAM",
+                "Sony DADC A0101910468-0101 11 A00",
+                "IFPI L551",
+                "IFPI 94K7"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 447695,
+            "master_url": "https:\/\/api.discogs.com\/masters\/447695",
+            "uri": "\/master\/447695-Sektemtum-Aut-Caesar-Aut-Nihil",
+            "catno": "OPCD267",
+            "title": "Sektemtum - Aut Caesar, Aut Nihil",
+            "thumb": "https:\/\/i.discogs.com\/xd-7CFnZS3i2U3vYJTCmMDKsU4Wka_4uHbCjGT8wRl4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0NDI1\/NjQtMTMzOTc4MDI3\/NS0xOTM1LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/UUj8SszYfPnCyASGAdaehxHoTvzhYdTfS5btwPOPDxk\/rs:fit\/g:sm\/q:90\/h:532\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0NDI1\/NjQtMTMzOTc4MDI3\/NS0xOTM1LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/447695",
+            "community": {
+                "want": 68,
+                "have": 342
+            }
+        },
+        {
+            "id": 2176477,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/2176477-Aut-Aut-2",
+            "title": "Aut Aut (2)",
+            "thumb": "https:\/\/i.discogs.com\/odJ9NdPeygK1GQAnE0DWlkO3w3PmLtqspCXf-ismVaQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIxNzY0\/NzctMTQyNDE2OTI1\/OC05NTI0LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/sFCpvT7In48SeizUeApul6h4cFryInV1UsdH0zPgssw\/rs:fit\/g:sm\/q:90\/h:721\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIxNzY0\/NzctMTQyNDE2OTI1\/OC05NTI0LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/2176477"
+        },
+        {
+            "id": 667606,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/artist\/667606-Aut-Aut",
+            "title": "Aut Aut",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/667606"
+        }
+    ]
+}

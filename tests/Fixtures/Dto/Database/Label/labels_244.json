@@ -1,0 +1,86 @@
+{
+    "id": 244,
+    "name": "Plastic City",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/244",
+    "uri": "https:\/\/www.discogs.com\/label\/244-Plastic-City",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/244\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/l79IJzAYBBF-sZ8HjxC0EbsgV7SYgPOK4BNNU9Sq3sA\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/NTg3MTE0MzEzLTU0\/NTAuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/l79IJzAYBBF-sZ8HjxC0EbsgV7SYgPOK4BNNU9Sq3sA\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/NTg3MTE0MzEzLTU0\/NTAuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/nCsKO1wwRXe8KF06ph_jqN7MvzWRDxDA2NVgaYONVDI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/NTg3MTE0MzEzLTU0\/NTAuanBlZw.jpeg",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/j-jiRX_I2o6mxW9zJ_83n2uNUriZOf4kIZ8ddxnJa-0\/rs:fit\/g:sm\/q:90\/h:506\/w:552\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/MTc2NTAyMTEwLmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/j-jiRX_I2o6mxW9zJ_83n2uNUriZOf4kIZ8ddxnJa-0\/rs:fit\/g:sm\/q:90\/h:506\/w:552\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/MTc2NTAyMTEwLmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/8SW8spSEYTdzA6bDoulZTTnsoa7iZyV51PL7bal9rn0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/MTc2NTAyMTEwLmpw\/ZWc.jpeg",
+            "width": 552,
+            "height": 506
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/olHVrPkl0G-fxDjeYG_2i5TTIbPH-shbL0LgRp-jBKA\/rs:fit\/g:sm\/q:90\/h:300\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/MTM5MTEyOTE1Lmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/olHVrPkl0G-fxDjeYG_2i5TTIbPH-shbL0LgRp-jBKA\/rs:fit\/g:sm\/q:90\/h:300\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/MTM5MTEyOTE1Lmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/9vGqH-XHgpCU-_d9jG4pNEo5U78jSmaQTWZ0k4Bsbno\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTI0NC0x\/MTM5MTEyOTE1Lmpw\/ZWc.jpeg",
+            "width": 300,
+            "height": 300
+        }
+    ],
+    "contact_info": "Plastic City \/ UCM.ONE GmbH\r\nWrangelstra\u00dfe 79\r\n10997 Berlin\r\nGermany",
+    "profile": "German label run by long time A&R [a=Alexander Hendorf] since 1993 and was a part of [l=UCMG Germany]. \r\n[b]Label Code: LC 4675 \/ LC 04675[\/b]\r\nFrom 2001 - 2002 [a=Babak Shayan] was the Junior A&R for Plastic City. \r\nSince 2004 Plastic City has a new A&R [a=Joachim Keil] and is part of [l=Daredo Music] labelgroup. \r\nIn 2006, [a=Alex Flatner] joint as the second A&R for the label. \r\nSince November 2017, Plastic City belongs to [l=UCM.ONE].\r\nActive A&R is Thorsten Kriebus.\r\n\r\n[b]PLAC[\/b]000: Original German label.\r\n[b]PLAX[\/b]000: German label after reconstruction, when the numbering restarted at zero.\r\n[b]PLACFX[\/b]000: [l=Plastic City FX]\r\n[b]PLACUK[\/b]000: [l=Plastic City UK]\r\n[b]PLAS[\/b]000: [l=Plastic City Suburbia]; originally a house music sublabel of Plastic City, Germany, later relocated to UK.\r\n[b]PLACUS[\/b]000: [l=Plastic City America]\r\n[b]PLAY[\/b]000: [l=Plastic City. Play]\r\n[b]PLAXX[\/b]000: [l=Plastic City History]",
+    "parent_label": {
+        "id": 1972422,
+        "name": "UCM.One GmbH",
+        "resource_url": "https:\/\/api.discogs.com\/labels\/1972422"
+    },
+    "data_quality": "Needs Vote",
+    "urls": [
+        "http:\/\/www.plasticcity.de",
+        "https:\/\/www.ucm.one",
+        "https:\/\/www.mixcloud.com\/plasticcityradioshow\/",
+        "https:\/\/www.facebook.com\/plasticcity.de\/",
+        "https:\/\/twitter.com\/plastic_city",
+        "https:\/\/plasticcityrecords.bandcamp.com\/"
+    ],
+    "sublabels": [
+        {
+            "id": 33519,
+            "name": "Citadel",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/33519"
+        },
+        {
+            "id": 858070,
+            "name": "Plastic City FX",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/858070"
+        },
+        {
+            "id": 81179,
+            "name": "Plastic City History",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/81179"
+        },
+        {
+            "id": 1641597,
+            "name": "Plastic City Radio Show",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1641597"
+        },
+        {
+            "id": 729386,
+            "name": "Plastic City Recartists",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/729386"
+        },
+        {
+            "id": 2455,
+            "name": "Plastic City Suburbia",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/2455"
+        },
+        {
+            "id": 122197,
+            "name": "Plastic City. Play",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/122197"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "id": 2987,
+    "main_release": 248696,
+    "most_recent_release": 1448130,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2987",
+    "uri": "https:\/\/www.discogs.com\/master\/2987-Ja\u00ff-Z-Dead-President-Aint-No-Nigga",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2987\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/248696",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/982235",
+    "num_for_sale": 78,
+    "lowest_price": 5.69,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/_jPfWIaJmGp-retosSrWsVa7cjNpBa3Rh67MY8CGuDk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjUyNjQ5ODE5\/LTE3NjQuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/_jPfWIaJmGp-retosSrWsVa7cjNpBa3Rh67MY8CGuDk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjUyNjQ5ODE5\/LTE3NjQuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/yRfQSnn6LwCXkZ_ZzgSOcB-hb1j7-met-ERpg6g4foo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjUyNjQ5ODE5\/LTE3NjQuanBlZw.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/QMlgArb_TqEblUHLu4dZFleWxjcb0p3Njgr8CTWKxdE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjUyNjQ5ODE5\/LTc3NTEuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/QMlgArb_TqEblUHLu4dZFleWxjcb0p3Njgr8CTWKxdE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjUyNjQ5ODE5\/LTc3NTEuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/OxJ-vKJ5fojRT9fhI9c5Agfs0jmDrrfJOmqdYuuaM60\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjUyNjQ5ODE5\/LTc3NTEuanBlZw.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/vio8FXW0U0LbpjDxv5_m-ht9JJ4mxhnelX4odsmpCyw\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xMzQ0NDEwNTU4\/LTEyODQuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/vio8FXW0U0LbpjDxv5_m-ht9JJ4mxhnelX4odsmpCyw\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xMzQ0NDEwNTU4\/LTEyODQuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/Rbap7FiTqG6L2ZKloeLV-lqVBfeC7EbxfE6kNcX2z-g\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xMzQ0NDEwNTU4\/LTEyODQuanBlZw.jpeg",
+            "width": 600,
+            "height": 597
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/EWqp1CTizubCi_pkaretV4L5aN-vhzhyNlK7cLf64l0\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xMzQ0NDEwNTY3\/LTU2NjMuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/EWqp1CTizubCi_pkaretV4L5aN-vhzhyNlK7cLf64l0\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xMzQ0NDEwNTY3\/LTU2NjMuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/kdomts3FY5aIZNrYXCDfPF1cCuJTMCc0qj-H6daKkXE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xMzQ0NDEwNTY3\/LTU2NjMuanBlZw.jpeg",
+            "width": 600,
+            "height": 599
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/yJzNRUiTUrLvVVtBrkNXs-8nd25akHps0iX7LnOn3gw\/rs:fit\/g:sm\/q:90\/h:600\/w:569\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjMwNzYzODU4\/LTM1OTEuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/yJzNRUiTUrLvVVtBrkNXs-8nd25akHps0iX7LnOn3gw\/rs:fit\/g:sm\/q:90\/h:600\/w:569\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjMwNzYzODU4\/LTM1OTEuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/juQOFG6t1pzOjzwrMq-8C_Cri2dlK24Aa5WNAR6ATKY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY5\/Ni0xNjMwNzYzODU4\/LTM1OTEuanBlZw.jpeg",
+            "width": 569,
+            "height": 600
+        }
+    ],
+    "genres": [
+        "Hip Hop"
+    ],
+    "styles": [
+        "Conscious"
+    ],
+    "year": 1996,
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Dead Presidents (Album Version)",
+            "extraartists": [
+                {
+                    "name": "Joe Chink",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 5627360,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/5627360"
+                },
+                {
+                    "name": "Ski",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 167511,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/167511"
+                }
+            ],
+            "duration": ""
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Dead Presidents (Clean Version)",
+            "extraartists": [
+                {
+                    "name": "Joe Chink",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 5627360,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/5627360"
+                },
+                {
+                    "name": "Ski",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 167511,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/167511"
+                }
+            ],
+            "duration": ""
+        },
+        {
+            "position": "A3",
+            "type_": "track",
+            "title": "Dead Presidents (Instrumental)",
+            "extraartists": [
+                {
+                    "name": "Joe Chink",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 5627360,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/5627360"
+                },
+                {
+                    "name": "Ski",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 167511,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/167511"
+                }
+            ],
+            "duration": ""
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Ain't No Nigga (Album Version)",
+            "extraartists": [
+                {
+                    "name": "Foxy Brown",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 26592,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/26592"
+                },
+                {
+                    "name": "Big Jaz",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 111661,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/111661"
+                }
+            ],
+            "duration": ""
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Ain't No Nigga (Instrumental Version)",
+            "extraartists": [
+                {
+                    "name": "Foxy Brown",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 26592,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/26592"
+                },
+                {
+                    "name": "Big Jaz",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 111661,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/111661"
+                }
+            ],
+            "duration": ""
+        }
+    ],
+    "artists": [
+        {
+            "name": "Jay-Z",
+            "anv": "Ja\u00ff-Z",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 21742,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/21742",
+            "thumbnail_url": "https:\/\/i.discogs.com\/Qc_aAO6UrHqrEf4LACWYV3fb9hwaz_Stiz_rLIYbHAM\/rs:fit\/g:sm\/q:90\/h:600\/w:539\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIxNzQy\/LTE2NjE4NDIxMzYt\/MjEzMS5qcGVn.jpeg"
+        }
+    ],
+    "title": "Dead President$ \/ Ain't No Nigga",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=GZLJ9O4-pbw",
+            "title": "Jay-Z - Dead Presidents (Promo) (1996) [Full Album] (FLAC) [4K]",
+            "description": "Ja\u00ff-Z \u2013 Dead President$ \/ Ain't No Nigga\nJay-Z - Dead Presidents (Promo) (1996) [Full Album] (FLAC) [4K]\n\nTrackList\n01. Dead Presidents I (Radio Edit) 00:00 - 3:29\n02. Dead Presidents I (Dirty Version) 3:30 - 7:00\n03. Dead Presidents I (Instrumental Versi",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=Co1M0zuPe5s",
+            "title": "Jay-Z - Dead Presidents",
+            "description": "Rock on\r\nRoc-A-Fella y'all\r\n\r\n[Chorus][Nas]\r\nPresidents to represent me\r\nI'm out for Presidents to represent me (x2)\r\nI'm out for Dead Presidents to represent me\r\n\r\n[Jay-Z]\r\nWell I was fit that wonderama shit\r\nme and my conglomerate\r\nshare remain anonymou",
+            "duration": 267,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=CgNoA99tTtc",
+            "title": "Jay-Z - Ain't No Nigga (feat. Foxy Brown) [Album Version]",
+            "description": "Audio of Ain't No Nigga (feat. Foxy Brown) [Album Version] performed by Jay-Z from the single Dead President$. \n\u00a9 1996 Freeze Records, Inc.\n\nCredits & Info:\n\nFormats: CD, vinyl\nLabel: Roc-A-Fella, Priority\nWritten by: Shawn Carter, Inga Marchand, Jonathan",
+            "duration": 244,
+            "embed": true
+        }
+    ]
+}

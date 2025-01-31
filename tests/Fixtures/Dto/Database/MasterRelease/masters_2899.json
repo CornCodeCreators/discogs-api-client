@@ -1,0 +1,344 @@
+{
+    "id": 2899,
+    "main_release": 1575294,
+    "most_recent_release": 12755234,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2899",
+    "uri": "https:\/\/www.discogs.com\/master\/2899-Mastodon-Blood-Mountain",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2899\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/1575294",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/12744570",
+    "num_for_sale": 393,
+    "lowest_price": 1.79,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/bi3FByEql-h1n5F_gupDgiruvw88XoNhx0EnYiQ3hvw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTI0ODAzMDAx\/OC5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/bi3FByEql-h1n5F_gupDgiruvw88XoNhx0EnYiQ3hvw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTI0ODAzMDAx\/OC5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/HIAODFOsw9P5ASiVuF78hQhvg_M6rdFebS0nxsFt_Ls\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTI0ODAzMDAx\/OC5qcGVn.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/q8GU-iF6ITAELHJF4HDCc1jt60ru1J-FBW7wdUXcZWk\/rs:fit\/g:sm\/q:90\/h:522\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTQ1Nzk3NDUz\/OC01NjEyLmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/q8GU-iF6ITAELHJF4HDCc1jt60ru1J-FBW7wdUXcZWk\/rs:fit\/g:sm\/q:90\/h:522\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTQ1Nzk3NDUz\/OC01NjEyLmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/gEnL5_nBZG96RxQ_M5TCDnC0kM4-969kpyghY_w3Rgo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTQ1Nzk3NDUz\/OC01NjEyLmpwZWc.jpeg",
+            "width": 600,
+            "height": 522
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/iX61Obfw9nqcAWwclUQh1o8T6-leEdTEG8GnjhV2rns\/rs:fit\/g:sm\/q:90\/h:600\/w:580\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTUwMDIxNjc1\/MC0zNDI4LmpwZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/iX61Obfw9nqcAWwclUQh1o8T6-leEdTEG8GnjhV2rns\/rs:fit\/g:sm\/q:90\/h:600\/w:580\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTUwMDIxNjc1\/MC0zNDI4LmpwZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/5LP5mTdPpalpqkWWM7fklA3jQAJbacNIeeDd-wtToHQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NzUy\/OTQtMTUwMDIxNjc1\/MC0zNDI4LmpwZWc.jpeg",
+            "width": 580,
+            "height": 600
+        }
+    ],
+    "genres": [
+        "Rock"
+    ],
+    "styles": [
+        "Sludge Metal",
+        "Progressive Metal"
+    ],
+    "year": 2006,
+    "tracklist": [
+        {
+            "position": "1",
+            "type_": "track",
+            "title": "The Wolf Is Loose",
+            "duration": "3:34"
+        },
+        {
+            "position": "2",
+            "type_": "track",
+            "title": "Crystal Skull",
+            "extraartists": [
+                {
+                    "name": "Scott Kelly",
+                    "anv": "",
+                    "join": "",
+                    "role": "Lyrics By [Additional Lyrics By], Vocals [Additional Vocals By]",
+                    "tracks": "",
+                    "id": 251434,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/251434"
+                },
+                {
+                    "name": "Doug Hill",
+                    "anv": "",
+                    "join": "",
+                    "role": "Recorded By [Scott Kelly Recorded By]",
+                    "tracks": "",
+                    "id": 267496,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/267496"
+                }
+            ],
+            "duration": "3:27"
+        },
+        {
+            "position": "3",
+            "type_": "track",
+            "title": "Sleeping Giant",
+            "extraartists": [
+                {
+                    "name": "Jennifer Ellison (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Strings, Cello",
+                    "tracks": "",
+                    "id": 610332,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/610332"
+                },
+                {
+                    "name": "Erica Brewer",
+                    "anv": "",
+                    "join": "",
+                    "role": "Strings, Violin",
+                    "tracks": "",
+                    "id": 610335,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/610335"
+                },
+                {
+                    "name": "Nicola Shangrow",
+                    "anv": "",
+                    "join": "",
+                    "role": "Strings, Violin",
+                    "tracks": "",
+                    "id": 610333,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/610333"
+                }
+            ],
+            "duration": "5:36"
+        },
+        {
+            "position": "4",
+            "type_": "track",
+            "title": "Capillarian Crest",
+            "duration": "4:25"
+        },
+        {
+            "position": "5",
+            "type_": "track",
+            "title": "Circle Of Cysquatch",
+            "duration": "3:19"
+        },
+        {
+            "position": "6",
+            "type_": "track",
+            "title": "Bladecatcher",
+            "duration": "3:20"
+        },
+        {
+            "position": "7",
+            "type_": "track",
+            "title": "Colony Of Birchmen",
+            "extraartists": [
+                {
+                    "name": "Alain Moschulski",
+                    "anv": "",
+                    "join": "",
+                    "role": "Engineer [Additional Vocals By Joshua Homme Engineered By]",
+                    "tracks": "",
+                    "id": 610337,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/610337"
+                },
+                {
+                    "name": "Josh Homme",
+                    "anv": "Joshua Homme",
+                    "join": "",
+                    "role": "Vocals [Additional Vocals By]",
+                    "tracks": "",
+                    "id": 241002,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/241002"
+                }
+            ],
+            "duration": "4:19"
+        },
+        {
+            "position": "8",
+            "type_": "track",
+            "title": "Hunters Of The Sky",
+            "duration": "3:52"
+        },
+        {
+            "position": "9",
+            "type_": "track",
+            "title": "Hand Of Stone",
+            "duration": "3:30"
+        },
+        {
+            "position": "10",
+            "type_": "track",
+            "title": "This Mortal Soil",
+            "duration": "5:00"
+        },
+        {
+            "position": "11",
+            "type_": "track",
+            "title": "Siberian Divide",
+            "extraartists": [
+                {
+                    "name": "Jon Debaun",
+                    "anv": "Jonathon Debaun",
+                    "join": "",
+                    "role": "Engineer [Additional Vocals By Cedric Bixler-Zavala Engineered By]",
+                    "tracks": "",
+                    "id": 500572,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/500572"
+                },
+                {
+                    "name": "Cedric Bixler-Zavala",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals [Additional Vocals By]",
+                    "tracks": "",
+                    "id": 163568,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/163568"
+                }
+            ],
+            "duration": "5:32"
+        },
+        {
+            "position": "12",
+            "type_": "track",
+            "title": "Pendulous Skin",
+            "extraartists": [
+                {
+                    "name": "Isaiah Owens",
+                    "anv": "Isaiah Ikey Owens",
+                    "join": "",
+                    "role": "Organ, Synth",
+                    "tracks": "",
+                    "id": 210843,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/210843"
+                },
+                {
+                    "name": "Nobody",
+                    "anv": "",
+                    "join": "",
+                    "role": "Recorded By [Isaiah Ikey Owens Recorded By]",
+                    "tracks": "",
+                    "id": 18128,
+                    "resource_url": "https:\/\/api.discogs.com\/artists\/18128"
+                }
+            ],
+            "duration": "22:16"
+        }
+    ],
+    "artists": [
+        {
+            "name": "Mastodon",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 252161,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/252161",
+            "thumbnail_url": "https:\/\/i.discogs.com\/5HTQH5PNMe0InrIZnkIIY-LPZ1BpdlO1fnfGdpZgIUo\/rs:fit\/g:sm\/q:90\/h:600\/w:445\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI1MjE2\/MS0xNjM1NDM1NTU0\/LTc3MTQucG5n.jpeg"
+        }
+    ],
+    "title": "Blood Mountain",
+    "notes": "Pressing info for the Relapse vinyl:\r\n\r\nFirst pressing (2006):\r\n100 clear\r\n500 red\/blue\r\n500 180 gram black\r\n1900 white\r\n\r\nSecond pressing (2006):\r\n500 red\/yellow\r\n500 white \r\n\r\nPressing info for the Reprise Records vinyl: \r\n\r\n(Record Store Day 2010):\r\n2xLP 180g 45 RPM: 2500\r\nSingle LP version:\r\n1375 Clear Red\r\n1375 Clear Blue\r\n250 White on Blue\r\n\r\nSecond Pressing (2010):\r\n??? Black\r\n\r\nThird pressing (March 3, 2015):\r\n??? Solid Yellow Marbled\r\n??? Solid Green Marbled",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=VQo9bwQ2rQc",
+            "title": "Mastodon \"Colony Of Birchmen\" (Official Video)",
+            "description": "The new video for Mastodon's \"Colony Of Birchmen\" from Blood Mountain",
+            "duration": 258,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=Gm9P1QsoGhw",
+            "title": "Mastodon - The Wolf Is Loose (Lyrics)",
+            "description": "Band: Mastodon\nSong: The Wolf Is Loose\nAlbum: Blood Mountain\n\n..:: LYRICS ::..\n\nThe hero of the gods\nThe crossing of the threshold\nThe belly of the whale\nRefusal of return\nHollow eyes\nDry pale legs\nHowling on\nThrough fields and graves\nLanguage of the sign",
+            "duration": 215,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=wHv3MqhT9Jk",
+            "title": "Crystal Skull",
+            "description": "Provided to YouTube by Reprise\n\nCrystal Skull \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nBacking  Vocals: Bill Kelliher",
+            "duration": 205,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=1Oo63VEPFMA",
+            "title": "Sleeping Giant",
+            "description": "Provided to YouTube by Reprise\n\nSleeping Giant \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nBacking  Vocals: Bill Kellihe",
+            "duration": 337,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=9d75JaaUVuU",
+            "title": "Mastodon - Capillarian Crest",
+            "description": "CAPILLARIAN!",
+            "duration": 266,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=cX9TYo130jg",
+            "title": "Circle of Cysquatch",
+            "description": "Provided to YouTube by Reprise\n\nCircle of Cysquatch \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nBacking  Vocals: Bill Ke",
+            "duration": 200,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=6_v4V6JTF3M",
+            "title": "Bladecatcher",
+            "description": "Provided to YouTube by Reprise\n\nBladecatcher \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nDrums: Brann Dailor\nGuitar: Bre",
+            "duration": 201,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=2vyc8Ns9Xfs",
+            "title": "Mastodon-Colony Of Birchmen",
+            "description": "From the album Blood Mountain all rights go to Mastodon\n\r\n\r-uploaded in HD at http:\/\/www.TunesToTube.com",
+            "duration": 260,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=GUku12XRcEI",
+            "title": "Hunters of the Sky",
+            "description": "Provided to YouTube by Reprise\n\nHunters of the Sky \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nBacking  Vocals: Bill Kel",
+            "duration": 233,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=DPv11wS8kG4",
+            "title": "Hand of Stone",
+            "description": "Provided to YouTube by Reprise\n\nHand of Stone \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nBacking  Vocals: Bill Kelliher",
+            "duration": 211,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=HKQcUz79bNo",
+            "title": "This Mortal Soil",
+            "description": "Provided to YouTube by Reprise\n\nThis Mortal Soil \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nBacking  Vocals: Bill Kelli",
+            "duration": 301,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=iFk13cobMcQ",
+            "title": "Siberian Divide",
+            "description": "Provided to YouTube by Reprise\n\nSiberian Divide \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nBacking  Vocals: Bill Kellih",
+            "duration": 329,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=F-S4Q0MwpBY",
+            "title": "Pendulous Skin",
+            "description": "Provided to YouTube by Reprise\n\nPendulous Skin \u00b7 Mastodon\n\nBlood Mountain\n\n\u2117 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.\n\nAssistant  Engineer: Ben Verellen\nGuitar: Bill Kelliher\nDrums: Brann Dailor\nGuitar: B",
+            "duration": 304,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=E6_gkmlbkBs",
+            "title": "Mastodon-Hidden Track (Pendulous Skin)",
+            "description": "This is the hidden track off of Blood Mountain.\r\n\r\nNo copyright intended. All rights and songs belong to Mastodon and their respective record label and owners.",
+            "duration": 59,
+            "embed": true
+        }
+    ]
+}

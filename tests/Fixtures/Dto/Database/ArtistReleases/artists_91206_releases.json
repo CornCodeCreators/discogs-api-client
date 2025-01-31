@@ -1,0 +1,342 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 15,
+        "urls": []
+    },
+    "releases": [
+        {
+            "id": 1103588,
+            "title": "Tot Funciona Igual",
+            "type": "master",
+            "main_release": 6665238,
+            "artist": "FP",
+            "role": "Main",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/1103588",
+            "year": 2006,
+            "thumb": "https:\/\/i.discogs.com\/UBNKxomKpaVs8kYmoDqq5nPmFY3PyMbibAtpvNLbQ0A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY2NjUy\/MzgtMTQyNDE3MzI1\/NS0yNzYzLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 1,
+                    "in_collection": 17
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 4661311,
+            "status": "Accepted",
+            "type": "release",
+            "format": "CD, Album, Comp",
+            "label": "Carn\u00fas Records",
+            "title": "D'aqu\u00ed 100 Anys No Hi Haur\u00e0 Alcades (El Tripartit Invertit)",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/4661311",
+            "role": "Main",
+            "artist": "El Mal Ja Est\u00e0 Fet, FP, Els Surfing Sirles",
+            "year": 2007,
+            "thumb": "https:\/\/i.discogs.com\/QHuqjJCGiYOpGPg5XQb-r1VOkqvRv8gPrHc91oEdEC4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2NjEz\/MTEtMTM3MTQxNTE3\/MS02NjMxLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 4,
+                    "in_collection": 27
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1103591,
+            "title": "Ciment",
+            "type": "master",
+            "main_release": 2884267,
+            "artist": "Fills De La Plana*",
+            "role": "Main",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/1103591",
+            "year": 2008,
+            "thumb": "https:\/\/i.discogs.com\/swwbcmgICqdAGlv1h6ISRL8-WbnDRIsiR7GaxAZxL0U\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI4ODQy\/NjctMTMwNTU5Mjk3\/Ni5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 1,
+                    "in_collection": 25
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 3417092,
+            "status": "Accepted",
+            "type": "release",
+            "format": "12\", Album, EP, Comp",
+            "label": "Carn\u00fas Records",
+            "title": "Santsadurn\u00edl'uncluagust\u00edilamarequeensvaparir \/ Pepdelaguixa EP",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/3417092",
+            "role": "Main",
+            "artist": "TCN And FP",
+            "year": 2009,
+            "thumb": "https:\/\/i.discogs.com\/t3TRXVGdRKo7rXrFL_gLvp3FLDC3l5Fc0KiS65dAtso\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0MTcw\/OTItMTMyOTU5NzIx\/MS5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 2,
+                    "in_collection": 48
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1103593,
+            "title": "Pedres Contra Planetes",
+            "type": "master",
+            "main_release": 3209371,
+            "artist": "FP",
+            "role": "Main",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/1103593",
+            "year": 2010,
+            "thumb": "https:\/\/i.discogs.com\/GWbaCkAbLOsmVbwEkN9zcX0KTaHonCLU2h4k1pC-BDM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMyMDkz\/NzEtMTMyMDU5MDUx\/Ny5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 6,
+                    "in_collection": 37
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 820743,
+            "title": "FP S\u00f3n Els Altres",
+            "type": "master",
+            "main_release": 6628205,
+            "artist": "FP",
+            "role": "Main",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/820743",
+            "year": 2013,
+            "thumb": "https:\/\/i.discogs.com\/GZXkUZuFxVhdSg0zByXHGF5cGh-eU4u6fVh24Zv6GLo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY2Mjgy\/MDUtMTQyMzQxMDIw\/Mi0zMzMxLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 2,
+                    "in_collection": 5
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1103594,
+            "title": "L'\u00c0nima Als Peus",
+            "type": "master",
+            "main_release": 5233969,
+            "artist": "FP",
+            "role": "Main",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/1103594",
+            "year": 2013,
+            "thumb": "https:\/\/i.discogs.com\/eMk0KYNCy3ZDllycHEy4_AsJzXKf8qq4B0M8KYrT-Q4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUyMzM5\/NjktMTM4ODMxNDc5\/MC0yNjQxLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 2,
+                    "in_collection": 23
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1438555,
+            "title": "Quan Tot S'Atura",
+            "type": "master",
+            "main_release": 12662682,
+            "artist": "FP",
+            "role": "Main",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/1438555",
+            "year": 2018,
+            "thumb": "https:\/\/i.discogs.com\/YyNgtlatuFyboqnZEKHCsi7TPcAnCdw-OS7D9nNSJQQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjYy\/NjgyLTE1Mzk1NzM0\/MTUtNjc0My5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 576443,
+            "title": "My Own Way",
+            "type": "master",
+            "main_release": 10295842,
+            "artist": "Jay Sean",
+            "role": "Remix",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/576443",
+            "year": 2009,
+            "thumb": "https:\/\/i.discogs.com\/X6qxtXo1DbS_VIwk6fY6CaIPvY-97eFs2U6pD94ldG4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMjk1\/ODQyLTE1MjEwNzE4\/NzktNzA3My5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 3,
+                    "in_collection": 4
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1508376,
+            "title": "Welcome",
+            "type": "master",
+            "main_release": 13274290,
+            "artist": "Rhino (27)",
+            "role": "Appearance",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/1508376",
+            "year": 2018,
+            "thumb": "https:\/\/i.discogs.com\/gf9gfEmCKgrYgg4Gw5q8FKPIxEIkJZ8m0Okzrtg1a6E\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjc0\/MjkwLTE1NTQ3OTQ2\/NTgtNDMwMi5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 1,
+                    "in_collection": 4
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 6030124,
+            "status": "Accepted",
+            "type": "release",
+            "format": "CD, Comp",
+            "label": "Not On Label",
+            "title": "10 Anys Cantant I Ballant Fora De LAparador",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/6030124",
+            "role": "TrackAppearance",
+            "artist": "Various",
+            "trackinfo": "Vic (La Loteria)",
+            "year": 2009,
+            "thumb": "https:\/\/i.discogs.com\/H00nd0PA7IrVf3_SV2s4RTsFQSOWgbVHy2I-uY--E3c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwMzAx\/MjQtMTQwOTI0Nzc2\/NC05MzAxLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 3,
+                    "in_collection": 1
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1104739,
+            "title": "When It's Over - Wipers Tribute",
+            "type": "master",
+            "main_release": 2886020,
+            "artist": "Various",
+            "role": "TrackAppearance",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/1104739",
+            "year": 2010,
+            "thumb": "https:\/\/i.discogs.com\/vltCpE75eDAaauCId0LL3u2tYUUESWzNbzC6jHHlI9o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI4ODYw\/MjAtMTQ4MTc3NTg2\/Ny05OTM1LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 2,
+                    "in_collection": 3
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 4906486,
+            "status": "Accepted",
+            "type": "release",
+            "format": "CD, Comp, Boo",
+            "label": "Canya De La Muntanya Records, V\u00edctimas Del Progreso - Cr\u00edmenes De Estado, Distribuidoras Genosas, El Grillo Libertario",
+            "title": "Cd De Apoyo A Presxs",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/4906486",
+            "role": "TrackAppearance",
+            "artist": "Various",
+            "trackinfo": "El Pati Del Col\u00b7legi",
+            "year": 2011,
+            "thumb": "https:\/\/i.discogs.com\/Gv-EBBFWwnTPS7_T1iPXGQjyUe_Tlokip9nLyTpRSlU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5MDY0\/ODYtMTM3OTA2Njgw\/My04MzUxLmdpZg.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 3,
+                    "in_collection": 3
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 5740827,
+            "status": "Accepted",
+            "type": "release",
+            "format": "CDr",
+            "label": "Dio Drone",
+            "title": "Vol\u200b.\u200b0",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/5740827",
+            "role": "TrackAppearance",
+            "artist": "Various",
+            "trackinfo": "Black Metal, Drones An...",
+            "year": 2013,
+            "thumb": "https:\/\/i.discogs.com\/lODATW_YgJWnSangxPe_9Pub6cDQJcBVqeOAv6QC7H4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3NDA4\/MjctMTQwMTM3MzIx\/OC0zNTY2LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 6,
+                    "in_collection": 0
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 15017803,
+            "status": "Accepted",
+            "type": "release",
+            "format": "LP, Comp",
+            "label": "Not On Label",
+            "title": "Homenatge A Uri Caballero",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/15017803",
+            "role": "TrackAppearance",
+            "artist": "Various",
+            "trackinfo": "Cuando la vigilia es l...",
+            "year": 2014,
+            "thumb": "https:\/\/i.discogs.com\/68Wo2Wh80Un0xxqnH4L0khFBILZf7w0sS-GRWo-XUk8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDE3\/ODAzLTE1ODU1Njk3\/MTQtNjMzNC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 4,
+                    "in_collection": 8
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

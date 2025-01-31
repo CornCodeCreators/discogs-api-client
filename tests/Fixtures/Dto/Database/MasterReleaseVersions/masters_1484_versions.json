@@ -1,0 +1,152 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 2,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "12\"": 2,
+                "Vinyl": 2,
+                "33 \u2153 RPM": 1,
+                "EP": 1,
+                "White Label": 1
+            },
+            "label": {
+                "Smb Records": 2
+            },
+            "country": {
+                "France": 2
+            },
+            "released": {
+                "2007": 2
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "12\"",
+                    "value": "12%22",
+                    "count": 2
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 2
+                },
+                {
+                    "title": "33 \u2153 RPM",
+                    "value": "33+%E2%85%93+RPM",
+                    "count": 1
+                },
+                {
+                    "title": "EP",
+                    "value": "EP",
+                    "count": 1
+                },
+                {
+                    "title": "White Label",
+                    "value": "White+Label",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Smb Records",
+                    "value": "Smb+Records",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "France",
+                    "value": "France",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "2007",
+                    "value": "2007",
+                    "count": 2
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 1209589,
+            "label": "SMB Records",
+            "country": "France",
+            "title": "Blackpool Rock EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", White Label",
+            "catno": "SMB 17",
+            "released": "2007",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1209589",
+            "thumb": "",
+            "stats": {
+                "community": {
+                    "in_wantlist": 32,
+                    "in_collection": 17
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 881969,
+            "label": "SMB Records",
+            "country": "France",
+            "title": "Blackpool Rock EP",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 33 \u2153 RPM, EP",
+            "catno": "SMB 17",
+            "released": "2007",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/881969",
+            "thumb": "https:\/\/i.discogs.com\/Ew9xjnbAmHhgRbw8S99AV-2cXHWf3hyagXJWN6db_IY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg4MTk2\/OS0xMTcyNTE0OTIw\/LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 94,
+                    "in_collection": 200
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

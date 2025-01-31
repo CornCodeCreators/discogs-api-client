@@ -1,0 +1,223 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 34,
+        "per_page": 5,
+        "items": 169,
+        "urls": {
+            "last": "https:\/\/api.discogs.com\/database\/search?q=veritatis&per_page=5&page=34",
+            "next": "https:\/\/api.discogs.com\/database\/search?q=veritatis&per_page=5&page=2"
+        }
+    },
+    "results": [
+        {
+            "id": 1340181,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/1340181-Consistentis-Veritatis-Peremptoria",
+            "title": "Consistentis Veritatis Peremptoria",
+            "thumb": "https:\/\/i.discogs.com\/mFYozcnm1mS2QGxQzqV5fdf8elzTn7bbuoaUIa-KeKk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEzNDAx\/ODEtMTUwNjUzODcx\/Mi0zMTI2LnBuZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/lXL5sxTezre7APE0vP37vqPFFoc08Zo1OJQ4WyOkP44\/rs:fit\/g:sm\/q:90\/h:239\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEzNDAx\/ODEtMTUwNjUzODcx\/Mi0zMTI2LnBuZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/1340181"
+        },
+        {
+            "country": "Spain",
+            "year": "1994",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Geometrik",
+                "Noitect",
+                "Noruega Studio"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Industrial",
+                "Rhythmic Noise"
+            ],
+            "id": 698941,
+            "barcode": [
+                "M-16628-1994",
+                "GR 06 TECNO CD 01",
+                "none"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 698941,
+            "master_url": "https:\/\/api.discogs.com\/masters\/698941",
+            "uri": "\/master\/698941-Esplendor-Geom%C3%A9trico-Veritatis-Splendor",
+            "catno": "GR-06",
+            "title": "Esplendor Geom\u00e9trico - Veritatis Splendor",
+            "thumb": "https:\/\/i.discogs.com\/8jbSjE_lnUv5Jh679cO9v9iYCqnevHS2J3JkI8Pk2mM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwODk4\/Mi0xNTI2ODIwODEy\/LTE1MTYuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/0dYNLi2AgnuqHUGsWkN-2z47qTmscYdVqssHEEL7bsM\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwODk4\/Mi0xNTI2ODIwODEy\/LTE1MTYuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/698941",
+            "community": {
+                "want": 121,
+                "have": 249
+            }
+        },
+        {
+            "country": "Spain",
+            "year": "1994",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Geometrik",
+                "Noitect",
+                "Noruega Studio"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Industrial",
+                "Rhythmic Noise"
+            ],
+            "id": 308982,
+            "barcode": [
+                "M-16628-1994",
+                "GR 06 TECNO CD 01",
+                "none"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 698941,
+            "master_url": "https:\/\/api.discogs.com\/masters\/698941",
+            "uri": "\/release\/308982-Esplendor-Geom%C3%A9trico-Veritatis-Splendor",
+            "catno": "GR-06",
+            "title": "Esplendor Geom\u00e9trico - Veritatis Splendor",
+            "thumb": "https:\/\/i.discogs.com\/8jbSjE_lnUv5Jh679cO9v9iYCqnevHS2J3JkI8Pk2mM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwODk4\/Mi0xNTI2ODIwODEy\/LTE1MTYuanBlZw.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/0dYNLi2AgnuqHUGsWkN-2z47qTmscYdVqssHEEL7bsM\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwODk4\/Mi0xNTI2ODIwODEy\/LTE1MTYuanBlZw.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/308982",
+            "community": {
+                "want": 76,
+                "have": 202
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Italy",
+            "year": "2008",
+            "format": [
+                "Vinyl",
+                "12\""
+            ],
+            "label": [
+                "Future Sound Corporation"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Hardstyle",
+                "Hard Trance"
+            ],
+            "id": 1369795,
+            "barcode": [
+                "8 022090 119181"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "\/Trance-Generators-vs-Stylez-Meets-Tonteufel-Spiritum-Veritatis-The-Spirit-Of-Truth\/release\/1369795",
+            "catno": "FTS 069",
+            "title": "Trance Generators vs Stylez Meets Tonteufel - Spiritum Veritatis (The Spirit Of Truth)",
+            "thumb": "https:\/\/i.discogs.com\/BW9RZlAykqo7GXPWRiJ4qdCfhflTCK5fZuz-sy_ZrkQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNjk3\/OTUtMTIxNDQ3NDUw\/MS5qcGVn.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/VKXmrBJ3mn4Iy0bPO5GL5yMS1BqPuIR9KzbAsoJuQaI\/rs:fit\/g:sm\/q:90\/h:567\/w:567\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNjk3\/OTUtMTIxNDQ3NDUw\/MS5qcGVn.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1369795",
+            "community": {
+                "want": 91,
+                "have": 114
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "12\""
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Poland",
+            "year": "2012",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Wydawnictwo Muzyczne Psycho",
+                "No Fear Records, Rybnik"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Black Metal"
+            ],
+            "id": 4251986,
+            "barcode": [
+                "12738 WYDAWNICTWO MUZYCZNE PSYCHO 2011"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "\/release\/4251986-Heretique-Ore-Veritatis",
+            "catno": "PR024CD",
+            "title": "Heretique - Ore Veritatis",
+            "thumb": "https:\/\/i.discogs.com\/CwgReMW8qijJ7-Xzz6WtBJky4-eEjYtxPqQqqtl6WVo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQyNTE5\/ODYtMTcwMjY3NzE2\/My03OTc2LmpwZWc.jpeg",
+            "cover_image": "https:\/\/i.discogs.com\/16ZNtxJwPxMAyZ7N14ew2n7jHZXC-h8FQPPvUexNQdc\/rs:fit\/g:sm\/q:90\/h:604\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQyNTE5\/ODYtMTcwMjY3NzE2\/My03OTc2LmpwZWc.jpeg",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/4251986",
+            "community": {
+                "want": 5,
+                "have": 51
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        }
+    ]
+}

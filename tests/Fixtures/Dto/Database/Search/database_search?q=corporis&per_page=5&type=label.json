@@ -1,0 +1,26 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 5,
+        "items": 1,
+        "urls": []
+    },
+    "results": [
+        {
+            "id": 3732037,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "\/label\/3732037-Corporis-Mysterium",
+            "title": "\u2020Corporis Mysterium\u2020",
+            "thumb": "",
+            "cover_image": "https:\/\/st.discogs.com\/905f882a7a7bac5fbe8d575403c42aea54235d6c\/images\/spacer.gif",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/3732037"
+        }
+    ]
+}

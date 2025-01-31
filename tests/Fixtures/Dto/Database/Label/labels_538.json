@@ -1,0 +1,47 @@
+{
+    "id": 538,
+    "name": "Perlon",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/538",
+    "uri": "https:\/\/www.discogs.com\/label\/538-Perlon",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/538\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/2gj2BCbDDnWtRQCE_Fe35r_YtWTs7VHiUiT_QZ5nh0g\/rs:fit\/g:sm\/q:90\/h:300\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/MjU1MDIxNTQzLmdp\/Zg.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/2gj2BCbDDnWtRQCE_Fe35r_YtWTs7VHiUiT_QZ5nh0g\/rs:fit\/g:sm\/q:90\/h:300\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/MjU1MDIxNTQzLmdp\/Zg.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/jtZirq4_58tgOuFXFkqyGLqvrikFsY6HQppQgANiCWk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/MjU1MDIxNTQzLmdp\/Zg.jpeg",
+            "width": 300,
+            "height": 300
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/zGnKK1cHaciIZV784eV73nyOI4gqhDsX7qMfwtVfZjw\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/MjQzODgyODMwLmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/zGnKK1cHaciIZV784eV73nyOI4gqhDsX7qMfwtVfZjw\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/MjQzODgyODMwLmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/u3If4dTURhT7DsEI5S0Yitn4wDA3R4BOBf0gJ6Qa7w0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/MjQzODgyODMwLmpw\/ZWc.jpeg",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Cog-bJ4_1zGAWiAg_gPMOzhOA_2Fc45qG8v6zQzcPTQ\/rs:fit\/g:sm\/q:90\/h:580\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/NDU3MDkxNDYzLTgw\/MjguanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Cog-bJ4_1zGAWiAg_gPMOzhOA_2Fc45qG8v6zQzcPTQ\/rs:fit\/g:sm\/q:90\/h:580\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/NDU3MDkxNDYzLTgw\/MjguanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/stiFvucgTR1k1e-EUUKshMnRtDJOO-F-CJTjrcbvZ3Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTUzOC0x\/NDU3MDkxNDYzLTgw\/MjguanBlZw.jpeg",
+            "width": 600,
+            "height": 580
+        }
+    ],
+    "profile": "[b]Perlon[\/b] is a minimal techno\/microhouse record label, founded in 1997 by [a=Markus Nikolai], [a=Thomas Franzmann] ([a=Zip]) and  [a=Chris Rehberger] at Frankfurt and currently based in Berlin. It is often recognized as one of the genre-defining labels in the world of minimalistic and experimental techno. All releases on Perlon are physical only (vinyl and CD), not available for downloading. \r\n[b]Label Code: LC 11584[\/b] .\r\n\r\nIt is distributed by [l=Wordandsound], Hamburg.\r\n\r\nPerlon catalog includes such artists as [a=Ricardo Villalobos], [a=Baby Ford], [a=Stefan Goldmann], [a=Akufen], [a=Pantytec], [a=Dandy Jack], [a=A Guy Called Gerald], [a=Wareika] and many others. The label famously never accepts demos. The name of the label came from Nikolai. Originally it was a working title for one of the albums of [a=Pile], his project with Zip and graphic designer [a=Chris Rehberger], who later created famous Perlon logo and designed covers for a number of their releases.\r\n\r\n\r\n\r\n[b]PERL 11[\/b] (1999) is a Perlon t-shirt, the only non-musical release.",
+    "data_quality": "Correct",
+    "urls": [
+        "http:\/\/www.perlon.net",
+        "http:\/\/doublestandards.net\/clients\/perlon-records",
+        "http:\/\/wordandsound.net\/labels\/en\/perlon.html",
+        "http:\/\/www.facebook.com\/profile.php?id=100050677200538",
+        "http:\/\/www.facebook.com\/groups\/546470788701655",
+        "http:\/\/instagram.com\/perlonation",
+        "http:\/\/linktr.ee\/perlon.nation",
+        "http:\/\/www.soundcloud.com\/perlon-nation",
+        "",
+        "http:\/\/www.youtube.com\/channel\/UCAmi8sdCTZl1C4lWbfqEbFg"
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 3,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "12\"": 2,
+                "45 RPM": 2,
+                "Vinyl": 2,
+                "CD": 1,
+                "Maxi-Single": 1,
+                "Test Pressing": 1,
+                "White Label": 1
+            },
+            "label": {
+                "Eye Q Records": 3,
+                "Edition Cheyenne": 2,
+                "Neue Welt Musikverlag": 2,
+                "Warner Music Manufacturing Europe": 2,
+                "Wmme Alsdorf": 2,
+                "Eye Q Musikproduktion Gmbh": 1,
+                "Time Warner": 1
+            },
+            "country": {
+                "Germany": 3
+            },
+            "released": {
+                "1993": 3
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "12\"",
+                    "value": "12%22",
+                    "count": 2
+                },
+                {
+                    "title": "45 RPM",
+                    "value": "45+RPM",
+                    "count": 2
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 2
+                },
+                {
+                    "title": "CD",
+                    "value": "CD",
+                    "count": 1
+                },
+                {
+                    "title": "Maxi-Single",
+                    "value": "Maxi-Single",
+                    "count": 1
+                },
+                {
+                    "title": "Test Pressing",
+                    "value": "Test+Pressing",
+                    "count": 1
+                },
+                {
+                    "title": "White Label",
+                    "value": "White+Label",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Eye Q Records",
+                    "value": "Eye+Q+Records",
+                    "count": 3
+                },
+                {
+                    "title": "Edition Cheyenne",
+                    "value": "Edition+Cheyenne",
+                    "count": 2
+                },
+                {
+                    "title": "Neue Welt Musikverlag",
+                    "value": "Neue+Welt+Musikverlag",
+                    "count": 2
+                },
+                {
+                    "title": "Warner Music Manufacturing Europe",
+                    "value": "Warner+Music+Manufacturing+Europe",
+                    "count": 2
+                },
+                {
+                    "title": "Wmme Alsdorf",
+                    "value": "Wmme+Alsdorf",
+                    "count": 2
+                },
+                {
+                    "title": "Eye Q Musikproduktion Gmbh",
+                    "value": "Eye+Q+Musikproduktion+Gmbh",
+                    "count": 1
+                },
+                {
+                    "title": "Time Warner",
+                    "value": "Time+Warner",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "Germany",
+                    "value": "Germany",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "1993",
+                    "value": "1993",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 154759,
+            "label": "Eye Q Records",
+            "country": "Germany",
+            "title": "Vol. 1",
+            "major_formats": [
+                "CD"
+            ],
+            "format": "Maxi-Single",
+            "catno": "EYE Q 009 CD",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/154759",
+            "thumb": "https:\/\/i.discogs.com\/ZOxPDnGcb29yKpSoQoa4uHXgb5PVmUjYrXwX-cMEVgY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NDc1\/OS0xMDgyOTkwMTY4\/LmpwZw.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 107,
+                    "in_collection": 90
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 25511341,
+            "label": "Eye Q Records",
+            "country": "Germany",
+            "title": "Synfonica \/ Hypnotic Shuffle",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM, Test Pressing, White Label",
+            "catno": "EYE Q 009",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/25511341",
+            "thumb": "https:\/\/i.discogs.com\/bnuava0KHqTosWhqvJMjiGJBnr6Taup8Oxjm1wOLGK4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NTEx\/MzQxLTE2NzE0Njkx\/NjUtMTcxMy5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 6,
+                    "in_collection": 1
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 26989,
+            "label": "Eye Q Records",
+            "country": "Germany",
+            "title": "Synfonica \/ Hypnotic Shuffle",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM",
+            "catno": "EYE Q 009",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/26989",
+            "thumb": "https:\/\/i.discogs.com\/tfXE4AQLjqsFZ8kcktrXTSR_Xji8CM_dGkN1Jr95qkw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2OTg5\/LTE0MjkyMTg2MDIt\/MzM0Mi5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 496,
+                    "in_collection": 649
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

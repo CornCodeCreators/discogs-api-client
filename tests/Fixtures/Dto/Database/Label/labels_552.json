@@ -1,0 +1,76 @@
+{
+    "id": 552,
+    "name": "Tigerbeat6",
+    "resource_url": "https:\/\/api.discogs.com\/labels\/552",
+    "uri": "https:\/\/www.discogs.com\/label\/552-Tigerbeat6",
+    "releases_url": "https:\/\/api.discogs.com\/labels\/552\/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https:\/\/i.discogs.com\/cKLYznHkMLYNP2PPiglQMRPklVbmpttpszCklzdzL7s\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0x\/NjEwOTQzMzAwLTg2\/NzIuanBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/cKLYznHkMLYNP2PPiglQMRPklVbmpttpszCklzdzL7s\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0x\/NjEwOTQzMzAwLTg2\/NzIuanBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/bWIPEicRUv5_v1xPm6d2YFgeVDZLu9G4nj9rOWwVfHE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0x\/NjEwOTQzMzAwLTg2\/NzIuanBlZw.jpeg",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/dZ9UOVNaYTvouHcB9faoT8pi4oV6BWGgvE3-0ERRELU\/rs:fit\/g:sm\/q:90\/h:170\/w:169\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0w\/MDIuanBn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/dZ9UOVNaYTvouHcB9faoT8pi4oV6BWGgvE3-0ERRELU\/rs:fit\/g:sm\/q:90\/h:170\/w:169\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0w\/MDIuanBn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/oZjtdKFQtjemeC4LIlqkONqpnZwncr9F_gOlHGc9tXc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0w\/MDIuanBn.jpeg",
+            "width": 169,
+            "height": 170
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/feXVg4NllGNri4CXJnf8ensdrQEBmTcSRQq4zJJtU0g\/rs:fit\/g:sm\/q:90\/h:398\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0x\/MTQ3NzMyNzQyLmpw\/ZWc.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/feXVg4NllGNri4CXJnf8ensdrQEBmTcSRQq4zJJtU0g\/rs:fit\/g:sm\/q:90\/h:398\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0x\/MTQ3NzMyNzQyLmpw\/ZWc.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/BIVuzOhxNcI5IdlQ6S5efLuqm-L9kdUZlOI6LtEoQ-0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTU1Mi0x\/MTQ3NzMyNzQyLmpw\/ZWc.jpeg",
+            "width": 600,
+            "height": 398
+        }
+    ],
+    "contact_info": "tb6biz@gmail.com\r\n",
+    "profile": "Label run by [a=Kid606]",
+    "data_quality": "Needs Vote",
+    "urls": [
+        "https:\/\/web.archive.org\/web\/20040610164747\/http:\/\/www.tigerbeat6.com\/html\/main.htm",
+        "http:\/\/soundcloud.com\/tigerbeat6",
+        "http:\/\/soundcloud.com\/kid606",
+        "http:\/\/www.facebook.com\/pages\/Tigerbeat6\/126385525685",
+        "http:\/\/plus.google.com\/u\/0\/110151064428635431218",
+        "http:\/\/www.last.fm\/label\/Tigerbeat6",
+        "http:\/\/myspace.com\/Tigerbeat6",
+        "http:\/\/www.songkick.com\/artists\/309174-kid606",
+        "http:\/\/twitter.com\/tigerbeat6",
+        "http:\/\/www.youtube.com\/user\/tigerbeat6",
+        "http:\/\/en.wikipedia.org\/wiki\/Tigerbeat6"
+    ],
+    "sublabels": [
+        {
+            "id": 485709,
+            "name": "\"$\"",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/485709"
+        },
+        {
+            "id": 440290,
+            "name": "Nibbana",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/440290"
+        },
+        {
+            "id": 10365,
+            "name": "Shockout",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/10365"
+        },
+        {
+            "id": 83293,
+            "name": "Tigerbass Records",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/83293"
+        },
+        {
+            "id": 6449,
+            "name": "Violent Turd",
+            "resource_url": "https:\/\/api.discogs.com\/labels\/6449"
+        }
+    ]
+}

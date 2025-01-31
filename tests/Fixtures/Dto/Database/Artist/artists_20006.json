@@ -1,0 +1,105 @@
+{
+    "name": "Bertocucci Feranzano",
+    "id": 20006,
+    "resource_url": "https:\/\/api.discogs.com\/artists\/20006",
+    "uri": "https:\/\/www.discogs.com\/artist\/20006-Bertocucci-Feranzano",
+    "releases_url": "https:\/\/api.discogs.com\/artists\/20006\/releases",
+    "images": [
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/QwddTwmM_KGtJI-J9x9_uN5i-gohuy7afTSOVcfbTtE\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIwMDA2\/LTExODEzOTkzODcu\/anBlZw.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/QwddTwmM_KGtJI-J9x9_uN5i-gohuy7afTSOVcfbTtE\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIwMDA2\/LTExODEzOTkzODcu\/anBlZw.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/o2p5vUeEJtRjBzz7hctjfiO0el0tq7tkDbeYXlRDIhA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIwMDA2\/LTExODEzOTkzODcu\/anBlZw.jpeg",
+            "width": 600,
+            "height": 450
+        }
+    ],
+    "realname": "Mark Vos",
+    "profile": "Another alias of Dutch Hardcore Techno\/Happy Hardcore producer (DJ) Buzz Fuzz.",
+    "namevariations": [
+        "B Feranzano",
+        "B. Faranzano",
+        "B. Feranzano",
+        "B. Freanzano",
+        "B.Feranzano",
+        "Bertocucci",
+        "Bertocucci Feranzo",
+        "Bertocucci Fernanzano",
+        "Bertocucci Noizer",
+        "Bertocuchi Feranzano",
+        "Bertogucci Feranzano",
+        "Bertolucci Feranzano",
+        "Bertolucci Freanzano",
+        "Bertolussi Feranzano",
+        "Feranzano"
+    ],
+    "aliases": [
+        {
+            "id": 17421,
+            "name": "Nina Feranzano",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/17421",
+            "thumbnail_url": "https:\/\/i.discogs.com\/A9HFzMibea-JSmKapbbNFftSou8uzZo_mFa_JySMfWQ\/rs:fit\/g:sm\/q:40\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE3NDIx\/LTE3MzU2MDM2OTEt\/NjE2NS5qcGVn.jpeg"
+        },
+        {
+            "id": 20272,
+            "name": "Pino D'Ambini",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/20272",
+            "thumbnail_url": "https:\/\/i.discogs.com\/qejV5bPFxi0ksz5-eTYCiFguBk2eRxAXRqx7XkEIJ7w\/rs:fit\/g:sm\/q:40\/h:600\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTIwMjcy\/LTExODEzOTkzMzUu\/anBlZw.jpeg"
+        },
+        {
+            "id": 27311,
+            "name": "Sons Of Louis",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/27311",
+            "thumbnail_url": "https:\/\/i.discogs.com\/Be6Jjm-JvAiiv9twYqdQ1A175roYmMC2rX7XUq3H1Us\/rs:fit\/g:sm\/q:40\/h:400\/w:318\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI3MzEx\/LTE3MzU2MDM3Mzkt\/NjI4NS5qcGVn.jpeg"
+        },
+        {
+            "id": 35897,
+            "name": "Tony Salmonelli",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/35897",
+            "thumbnail_url": "https:\/\/i.discogs.com\/EJhRrpNxByx0qe-4ZlFclXXbPvFJ0xW1wDT3vzJH30M\/rs:fit\/g:sm\/q:40\/h:640\/w:480\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTM1ODk3\/LTExODEzOTk2MDku\/anBlZw.jpeg"
+        },
+        {
+            "id": 40647,
+            "name": "Bumble Bee",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/40647",
+            "thumbnail_url": "https:\/\/i.discogs.com\/wFQyeWJR3PxtjPB_q1VXeoSG6haSR-GXvdIl0iyT554\/rs:fit\/g:sm\/q:40\/h:640\/w:480\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQwNjQ3\/LTExODEzOTk0OTAu\/anBlZw.jpeg"
+        },
+        {
+            "id": 41255,
+            "name": "Bigguz Dickuzz",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/41255",
+            "thumbnail_url": "https:\/\/i.discogs.com\/KnEY7nr4mTMq4izy-W3-xUVM7tB3D-Uc1QIk2zhN9kk\/rs:fit\/g:sm\/q:40\/h:400\/w:318\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQxMjU1\/LTE3MzU2MDM2MzAt\/MjE4OC5qcGVn.jpeg"
+        },
+        {
+            "id": 48461,
+            "name": "Bone Crusher",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/48461",
+            "thumbnail_url": "https:\/\/i.discogs.com\/NBgka8H9vg2UYYJ-iPjeTeQhqnEJYbvZPTkcFb7ShEY\/rs:fit\/g:sm\/q:40\/h:600\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ4NDYx\/LTExODEzOTk0MjAu\/anBlZw.jpeg"
+        },
+        {
+            "id": 131224,
+            "name": "Stuka DJ",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/131224",
+            "thumbnail_url": "https:\/\/i.discogs.com\/AMMViBxZchXu_ZV-P_iKEF6ifbLlOpff8pxCatvO8M4\/rs:fit\/g:sm\/q:40\/h:640\/w:480\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEzMTIy\/NC0xMTgxMzk5NTY2\/LmpwZWc.jpeg"
+        },
+        {
+            "id": 155082,
+            "name": "UK (2)",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/155082",
+            "thumbnail_url": "https:\/\/i.discogs.com\/HdgD-9f0m0x-O5r2KMYPa_ryI2jXuphlmIbyUQWJpAs\/rs:fit\/g:sm\/q:40\/h:400\/w:318\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE1NTA4\/Mi0xNzM1NjAzNzU0\/LTI2OTQuanBlZw.jpeg"
+        },
+        {
+            "id": 196886,
+            "name": "Buzz Fuzz",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/196886",
+            "thumbnail_url": "https:\/\/i.discogs.com\/dMW-bfEn1eiP_MTB4p8NBGMtmUM3CquN_3YADLHKrY0\/rs:fit\/g:sm\/q:40\/h:300\/w:200\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE5Njg4\/Ni0xMTA2MDU1NTc5\/LmdpZg.jpeg"
+        },
+        {
+            "id": 461440,
+            "name": "Mark Vos",
+            "resource_url": "https:\/\/api.discogs.com\/artists\/461440",
+            "thumbnail_url": "https:\/\/i.discogs.com\/S-9F-qk6ZgdlayKzfRPN9SoxsVh1jCRgRd3ZnXzcVuY\/rs:fit\/g:sm\/q:40\/h:400\/w:318\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ2MTQ0\/MC0xMTUzOTA5MDE1\/LmpwZWc.jpeg"
+        }
+    ],
+    "data_quality": "Needs Vote"
+}

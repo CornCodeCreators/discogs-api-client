@@ -1,0 +1,150 @@
+{
+    "id": 2358,
+    "main_release": 1075953,
+    "most_recent_release": 23563139,
+    "resource_url": "https:\/\/api.discogs.com\/masters\/2358",
+    "uri": "https:\/\/www.discogs.com\/master\/2358-Damage-Inc-To-The-Extreme",
+    "versions_url": "https:\/\/api.discogs.com\/masters\/2358\/versions",
+    "main_release_url": "https:\/\/api.discogs.com\/releases\/1075953",
+    "most_recent_release_url": "https:\/\/api.discogs.com\/releases\/3570106",
+    "num_for_sale": 5,
+    "lowest_price": 9.6,
+    "images": [
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/B3wVIgB6WsRWoLjt13Wlw8rudfnjzCawkpriKO9mrbw\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDI5MDE4\/Ny5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/B3wVIgB6WsRWoLjt13Wlw8rudfnjzCawkpriKO9mrbw\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDI5MDE4\/Ny5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/8MOMkDjGAJxrv2yV-I1dFQtT2phBZqbLqAEMEJ1LWrg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDI5MDE4\/Ny5qcGVn.jpeg",
+            "width": 600,
+            "height": 599
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/b-qahum2T6wJPHueC2qSpSiIo1ywjqw2IAvew9mxhgk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDI5MDE5\/Ny5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/b-qahum2T6wJPHueC2qSpSiIo1ywjqw2IAvew9mxhgk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDI5MDE5\/Ny5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/MeIWDtEkuGYKDnscs3uK-KFfkVd-h1x4LRiqkyve7ug\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDI5MDE5\/Ny5qcGVn.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/Djbgj5TrDzBEO0g3l6HrjxPt2VOCveVRikvK1yEF31A\/rs:fit\/g:sm\/q:90\/h:600\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDMxMjU3\/OS5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/Djbgj5TrDzBEO0g3l6HrjxPt2VOCveVRikvK1yEF31A\/rs:fit\/g:sm\/q:90\/h:600\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDMxMjU3\/OS5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/FAxMiOqUCSZcZrjC5hza3HrQUs2Lj_B8QVJ9O-0Mmcs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDMxMjU3\/OS5qcGVn.jpeg",
+            "width": 598,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https:\/\/i.discogs.com\/wynelP2QN16ggzvTOStErl6UugELtn96tmTVgyuaVLE\/rs:fit\/g:sm\/q:90\/h:600\/w:596\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDMxMjU5\/Mi5qcGVn.jpeg",
+            "resource_url": "https:\/\/i.discogs.com\/wynelP2QN16ggzvTOStErl6UugELtn96tmTVgyuaVLE\/rs:fit\/g:sm\/q:90\/h:600\/w:596\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDMxMjU5\/Mi5qcGVn.jpeg",
+            "uri150": "https:\/\/i.discogs.com\/Ha_vkqU-fFL8VRkQxyJhP68FtL5NygSRYWAY1SE5Tow\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzU5\/NTMtMTE5MDMxMjU5\/Mi5qcGVn.jpeg",
+            "width": 596,
+            "height": 600
+        }
+    ],
+    "genres": [
+        "Electronic"
+    ],
+    "styles": [
+        "Hardcore",
+        "Gabber",
+        "Acid"
+    ],
+    "year": 1994,
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "To The Extreme",
+            "duration": "5:20"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Dead Head Ed",
+            "duration": "5:33"
+        },
+        {
+            "position": "A3",
+            "type_": "track",
+            "title": "Cardiac Arrest",
+            "duration": "4:29"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Chico Man",
+            "duration": "4:16"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Liedje Zonder Naam",
+            "duration": "3:42"
+        },
+        {
+            "position": "B3",
+            "type_": "track",
+            "title": "Total Insanity",
+            "duration": "3:50"
+        }
+    ],
+    "artists": [
+        {
+            "name": "Damage Inc.",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 20407,
+            "resource_url": "https:\/\/api.discogs.com\/artists\/20407"
+        }
+    ],
+    "title": "To The Extreme",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=A_oZtgBaD-4",
+            "title": "Damage Inc. - To The Extreme",
+            "description": "https:\/\/www.discogs.com\/master\/2358-Damage-Inc-To-The-Extreme",
+            "duration": 320,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=CfqBm-OFqwM",
+            "title": "Damage Inc. - Dead Head Ed",
+            "description": "https:\/\/www.discogs.com\/master\/2358-Damage-Inc-To-The-Extreme",
+            "duration": 335,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=sTIJkJdG5W4",
+            "title": "Damage Inc. - Cardiac Arrest",
+            "description": "https:\/\/www.discogs.com\/master\/2358-Damage-Inc-To-The-Extreme",
+            "duration": 272,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=paRKi-OagOY",
+            "title": "Damage Inc. - Chico Man",
+            "description": "https:\/\/www.discogs.com\/master\/2358-Damage-Inc-To-The-Extreme",
+            "duration": 258,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=rvfuCVQ0sF4",
+            "title": "Damage Inc. - Liedje Zonder Naam",
+            "description": "https:\/\/www.discogs.com\/master\/2358-Damage-Inc-To-The-Extreme",
+            "duration": 225,
+            "embed": true
+        },
+        {
+            "uri": "https:\/\/www.youtube.com\/watch?v=wBXT0KZE1Xk",
+            "title": "Damage Inc. - Total Insanity",
+            "description": "https:\/\/www.discogs.com\/master\/2358-Damage-Inc-To-The-Extreme",
+            "duration": 235,
+            "embed": true
+        }
+    ]
+}

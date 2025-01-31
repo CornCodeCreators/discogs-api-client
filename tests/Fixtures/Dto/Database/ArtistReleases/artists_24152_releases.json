@@ -1,0 +1,236 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 10,
+        "urls": []
+    },
+    "releases": [
+        {
+            "id": 142438,
+            "title": "Do Me Right",
+            "type": "master",
+            "main_release": 1244063,
+            "artist": "Clusterfunk",
+            "role": "Main",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/142438",
+            "year": 1994,
+            "thumb": "https:\/\/i.discogs.com\/RCrb2Wqj7dp6Cm2EKeMJtUffFZslRy9U52GLKdBsODo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNDQw\/NjMtMTU5NjEzNTY3\/NC01ODI3LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 9,
+                    "in_collection": 21
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 142439,
+            "title": "'Inside' Original Mixes",
+            "type": "master",
+            "main_release": 29261,
+            "artist": "Clusterfunk",
+            "role": "Main",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/142439",
+            "year": 1995,
+            "thumb": "https:\/\/i.discogs.com\/BGS2I9UKnV7OgyCOPje9GNfXBcVRZS6RmvznRfIR4lw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MjYx\/LTE1MDg3MjU3MzEt\/NTAzMi5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 57,
+                    "in_collection": 159
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1261193,
+            "status": "Accepted",
+            "type": "release",
+            "format": "2xLP, Album, Ltd",
+            "label": "Funkasaurus Records",
+            "title": "Mini LP - The Real Deal",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1261193",
+            "role": "Main",
+            "artist": "Clusterfunk",
+            "thumb": "https:\/\/i.discogs.com\/YPOcC4wUzNYjlflwbcMmmPRDQZsjlw1PFdlJuxsZSGs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjEx\/OTMtMTI3OTEyMDgw\/MS5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 48,
+                    "in_collection": 61
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1824365,
+            "status": "Accepted",
+            "type": "release",
+            "format": "CD, Comp, Promo",
+            "label": "EMI Germany",
+            "title": "EMI Hot Shots No. 1\/94",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1824365",
+            "role": "TrackAppearance",
+            "artist": "Various",
+            "trackinfo": "Do Me Right",
+            "year": 1994,
+            "thumb": "https:\/\/i.discogs.com\/ekcPOd8OOR03XrSP0gDl0qChGaDcLkIMlX3tXpYtzOE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4MjQz\/NjUtMTI0NTgyNjEw\/Ny5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 5,
+                    "in_collection": 15
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 9121243,
+            "status": "Accepted",
+            "type": "release",
+            "format": "CD, Comp",
+            "label": "Sk\u00edfan",
+            "title": "Heyr\u00f0u 4",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/9121243",
+            "role": "TrackAppearance",
+            "artist": "Various",
+            "trackinfo": "Do Me Right",
+            "year": 1994,
+            "thumb": "https:\/\/i.discogs.com\/3KUFDBnD8qfos32xil3JgrB-LHXtRu1-cQA6wRsAy2s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkxMjEy\/NDMtMTQ3NTE0NjUw\/NS02NzI4LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 2,
+                    "in_collection": 3
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 845663,
+            "title": "\u00a1Toma Energia!",
+            "type": "master",
+            "main_release": 1433769,
+            "artist": "Various",
+            "role": "TrackAppearance",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/845663",
+            "year": 1994,
+            "thumb": "https:\/\/i.discogs.com\/OSkiIq7ek_mwts9f3hDElhshs6t6Fk3FNUImcFBiAAM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0MzM3\/NjktMTM1NTA4MDAy\/OC03OTg0LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 5,
+                    "in_collection": 28
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 79606,
+            "title": "Quality Produce",
+            "type": "master",
+            "main_release": 1017433,
+            "artist": "Various",
+            "role": "TrackAppearance",
+            "resource_url": "https:\/\/api.discogs.com\/masters\/79606",
+            "year": 1994,
+            "thumb": "https:\/\/i.discogs.com\/6UocPbJs_rh0OgjUCPCL4_KU1Bh0zw4Ei6P6Mshb_H8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMTc0\/MzMtMTcwMzY5OTY4\/OC01MjE4LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 11,
+                    "in_collection": 35
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 4343055,
+            "status": "Accepted",
+            "type": "release",
+            "format": "2xCD, Comp",
+            "label": "EMI Electrola",
+            "title": "Fit For Fun",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/4343055",
+            "role": "TrackAppearance",
+            "artist": "Various",
+            "trackinfo": "Do Me Right (7&quot; Mix)",
+            "year": 1995,
+            "thumb": "https:\/\/i.discogs.com\/m3VwHBP90VWv5AV8a7faKjy7RKSzJASA5WBfkIAQ2bM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzNDMw\/NTUtMTM2OTk5NjU2\/Ni00NzEyLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 3,
+                    "in_collection": 4
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 32784582,
+            "status": "Accepted",
+            "type": "release",
+            "format": "CD, Mixed, Promo",
+            "label": "Monster Music (6)",
+            "title": "Illegal Side Soul 2",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/32784582",
+            "role": "TrackAppearance",
+            "artist": "DJ Seiji",
+            "trackinfo": "Inside (Nasty Mix)",
+            "year": 2008,
+            "thumb": "https:\/\/i.discogs.com\/ueQLuoewQVFS9K4RvNTXhyNlkQI0r4SH21_rWhBShsc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMyNzg0\/NTgyLTE3MzYzMjMx\/OTUtNTcxMi5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 13246082,
+            "status": "Accepted",
+            "type": "release",
+            "format": "Cass, Comp, Mixed",
+            "label": "Not On Label",
+            "title": "Presents Remember That \"Da Groove Research\"",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/13246082",
+            "role": "TrackAppearance",
+            "artist": "DJ Damage (2)",
+            "trackinfo": "Do Me Right",
+            "thumb": "https:\/\/i.discogs.com\/40N0R2Qu_OE7or_-damNPYu9RcLkUTyu66mAdN6ACf0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjQ2\/MDgyLTE3MjY5OTU0\/MjctNDY0OC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 24,
+                    "in_collection": 12
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

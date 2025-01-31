@@ -1,0 +1,421 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 7,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "Single": 5,
+                "CD": 4,
+                "Maxi-Single": 2,
+                "Promo": 2,
+                "Reissue": 2,
+                "CDr": 1,
+                "Cassette": 1,
+                "Limited Edition": 1,
+                "U-matic": 1,
+                "Unofficial Release": 1
+            },
+            "label": {
+                "Roadrunner Records": 7,
+                "Roadblock Music, Inc.": 5,
+                "Roadster Music B.V.": 4,
+                "The All Blacks B.V.": 4,
+                "Cdm": 3,
+                "Dureco": 3,
+                "Intercord": 3,
+                "Twelve Point Rule": 3,
+                "Devlin Videoservice": 1,
+                "Massacre Records": 1,
+                "Metal Mind Productions": 1,
+                "Metal Mind Records": 1,
+                "Music Planet": 1,
+                "Rock Planet": 1,
+                "Sonopress Usa": 1
+            },
+            "country": {
+                "Netherlands": 3,
+                "US": 2,
+                "Poland": 1,
+                "Ukraine": 1
+            },
+            "released": {
+                "1993": 3,
+                "1994": 3,
+                "2008": 1
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "Single",
+                    "value": "Single",
+                    "count": 5
+                },
+                {
+                    "title": "CD",
+                    "value": "CD",
+                    "count": 4
+                },
+                {
+                    "title": "Maxi-Single",
+                    "value": "Maxi-Single",
+                    "count": 2
+                },
+                {
+                    "title": "Promo",
+                    "value": "Promo",
+                    "count": 2
+                },
+                {
+                    "title": "Reissue",
+                    "value": "Reissue",
+                    "count": 2
+                },
+                {
+                    "title": "CDr",
+                    "value": "CDr",
+                    "count": 1
+                },
+                {
+                    "title": "Cassette",
+                    "value": "Cassette",
+                    "count": 1
+                },
+                {
+                    "title": "Limited Edition",
+                    "value": "Limited+Edition",
+                    "count": 1
+                },
+                {
+                    "title": "U-matic",
+                    "value": "U-matic",
+                    "count": 1
+                },
+                {
+                    "title": "Unofficial Release",
+                    "value": "Unofficial+Release",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Roadrunner Records",
+                    "value": "Roadrunner+Records",
+                    "count": 7
+                },
+                {
+                    "title": "Roadblock Music, Inc.",
+                    "value": "Roadblock+Music%2C+Inc.",
+                    "count": 5
+                },
+                {
+                    "title": "Roadster Music B.V.",
+                    "value": "Roadster+Music+B.V.",
+                    "count": 4
+                },
+                {
+                    "title": "The All Blacks B.V.",
+                    "value": "The+All+Blacks+B.V.",
+                    "count": 4
+                },
+                {
+                    "title": "Cdm",
+                    "value": "Cdm",
+                    "count": 3
+                },
+                {
+                    "title": "Dureco",
+                    "value": "Dureco",
+                    "count": 3
+                },
+                {
+                    "title": "Intercord",
+                    "value": "Intercord",
+                    "count": 3
+                },
+                {
+                    "title": "Twelve Point Rule",
+                    "value": "Twelve+Point+Rule",
+                    "count": 3
+                },
+                {
+                    "title": "Devlin Videoservice",
+                    "value": "Devlin+Videoservice",
+                    "count": 1
+                },
+                {
+                    "title": "Massacre Records",
+                    "value": "Massacre+Records",
+                    "count": 1
+                },
+                {
+                    "title": "Metal Mind Productions",
+                    "value": "Metal+Mind+Productions",
+                    "count": 1
+                },
+                {
+                    "title": "Metal Mind Records",
+                    "value": "Metal+Mind+Records",
+                    "count": 1
+                },
+                {
+                    "title": "Music Planet",
+                    "value": "Music+Planet",
+                    "count": 1
+                },
+                {
+                    "title": "Rock Planet",
+                    "value": "Rock+Planet",
+                    "count": 1
+                },
+                {
+                    "title": "Sonopress Usa",
+                    "value": "Sonopress+Usa",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "Netherlands",
+                    "value": "Netherlands",
+                    "count": 3
+                },
+                {
+                    "title": "US",
+                    "value": "US",
+                    "count": 2
+                },
+                {
+                    "title": "Poland",
+                    "value": "Poland",
+                    "count": 1
+                },
+                {
+                    "title": "Ukraine",
+                    "value": "Ukraine",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "1993",
+                    "value": "1993",
+                    "count": 3
+                },
+                {
+                    "title": "1994",
+                    "value": "1994",
+                    "count": 3
+                },
+                {
+                    "title": "2008",
+                    "value": "2008",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 476815,
+            "label": "Roadrunner Records",
+            "country": "US",
+            "title": "Christian Woman",
+            "major_formats": [
+                "CD"
+            ],
+            "format": "Maxi-Single, Promo",
+            "catno": "RR PROMO 089",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/476815",
+            "thumb": "https:\/\/i.discogs.com\/pKaHIcNrsXHNRCg5-MpzUlbgTkGWr56xP0gM2Qes-CQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ3Njgx\/NS0xMTU1ODI3OTEx\/LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 95,
+                    "in_collection": 74
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 368076,
+            "label": "Roadrunner Records",
+            "country": "Netherlands",
+            "title": "Christian Woman",
+            "major_formats": [
+                "CD"
+            ],
+            "format": "Single",
+            "catno": "RR 2378-3",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/368076",
+            "thumb": "https:\/\/i.discogs.com\/9i6qFO4rkYWcvyyVs7UUaMjcoTS-mRQ63N_2tS_ASHI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODA3\/Ni0xMjcxODY2OTM5\/LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 166,
+                    "in_collection": 595
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 4501898,
+            "label": "Roadrunner Records",
+            "country": "US",
+            "title": "Christian Woman",
+            "major_formats": [
+                "U-matic"
+            ],
+            "format": "Single",
+            "catno": "none",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/4501898",
+            "thumb": "https:\/\/i.discogs.com\/r1Vjdx-oNdF0btaYDjSNBDLlMxWTzI8IXcEzjd7og3o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1MDE4\/OTgtMTM2NjY3NjU3\/OS01OTcwLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 44,
+                    "in_collection": 2
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 7794387,
+            "label": "Roadrunner Records",
+            "country": "Netherlands",
+            "title": "Christian Woman",
+            "major_formats": [
+                "CD"
+            ],
+            "format": "Single, Reissue",
+            "catno": "RR 2378-3",
+            "released": "1994",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/7794387",
+            "thumb": "https:\/\/i.discogs.com\/_didhQMbf5gZAQN5-5dcNQhJVf5FV7HoKbnQojdKyTc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc3OTQz\/ODctMTY2OTcyMzgw\/Ni05MzAwLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 44,
+                    "in_collection": 39
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 7809273,
+            "label": "Roadrunner Records",
+            "country": "Netherlands",
+            "title": "Christian Woman",
+            "major_formats": [
+                "CD"
+            ],
+            "format": "Single, Reissue",
+            "catno": "RR 2378-3",
+            "released": "1994",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/7809273",
+            "thumb": "https:\/\/i.discogs.com\/IyKmK49sr5E6GN7rMHDYqZWcPr4275w8O20QAVYyxuA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4MDky\/NzMtMTQ0OTIzNDY1\/NC0zMzE1LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 51,
+                    "in_collection": 33
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1750887,
+            "label": "Metal Mind Records",
+            "country": "Poland",
+            "title": "Christian Woman",
+            "major_formats": [
+                "Cassette"
+            ],
+            "format": "Maxi-Single",
+            "catno": "MASI 0005",
+            "released": "1994",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1750887",
+            "thumb": "https:\/\/i.discogs.com\/cVi1vL5leC0WMNPmy42g1H7n1u-Omiqd7_M5UATXXYY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3NTA4\/ODctMTMxMDU5Mzg0\/MC5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 109,
+                    "in_collection": 35
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 4015802,
+            "label": "Rock Planet",
+            "country": "Ukraine",
+            "title": "Christian Woman",
+            "major_formats": [
+                "CDr"
+            ],
+            "format": "Single, Promo, Limited Edition, Unofficial Release",
+            "catno": "none",
+            "released": "2008",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/4015802",
+            "thumb": "https:\/\/i.discogs.com\/u6j-kHklKjD_j2G0iSbEl48mggxevzIiNyyn1syL1X4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMTU4\/MDItMTM1MjQxMjMy\/My01NjMzLmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 33,
+                    "in_collection": 3
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}

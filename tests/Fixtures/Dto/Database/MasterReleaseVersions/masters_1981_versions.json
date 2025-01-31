@@ -1,0 +1,183 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 3,
+        "urls": []
+    },
+    "filters": {
+        "applied": [],
+        "available": {
+            "format": {
+                "12\"": 3,
+                "45 RPM": 3,
+                "Vinyl": 3,
+                "White Label": 1
+            },
+            "label": {
+                "Relief Records": 3,
+                "Metropolis Mastering, Ltd": 2,
+                "Cajual Records": 1
+            },
+            "country": {
+                "US": 3
+            },
+            "released": {
+                "1993": 3
+            }
+        }
+    },
+    "filter_facets": [
+        {
+            "title": "Format",
+            "id": "format",
+            "values": [
+                {
+                    "title": "12\"",
+                    "value": "12%22",
+                    "count": 3
+                },
+                {
+                    "title": "45 RPM",
+                    "value": "45+RPM",
+                    "count": 3
+                },
+                {
+                    "title": "Vinyl",
+                    "value": "Vinyl",
+                    "count": 3
+                },
+                {
+                    "title": "White Label",
+                    "value": "White+Label",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Label",
+            "id": "label",
+            "values": [
+                {
+                    "title": "Relief Records",
+                    "value": "Relief+Records",
+                    "count": 3
+                },
+                {
+                    "title": "Metropolis Mastering, Ltd",
+                    "value": "Metropolis+Mastering%2C+Ltd",
+                    "count": 2
+                },
+                {
+                    "title": "Cajual Records",
+                    "value": "Cajual+Records",
+                    "count": 1
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Country",
+            "id": "country",
+            "values": [
+                {
+                    "title": "US",
+                    "value": "US",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": true
+        },
+        {
+            "title": "Released",
+            "id": "released",
+            "values": [
+                {
+                    "title": "1993",
+                    "value": "1993",
+                    "count": 3
+                }
+            ],
+            "allows_multiple_values": false
+        }
+    ],
+    "versions": [
+        {
+            "id": 32970,
+            "label": "Relief Records",
+            "country": "US",
+            "title": "Velvet Tracks",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM",
+            "catno": "RR701",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/32970",
+            "thumb": "https:\/\/i.discogs.com\/x1hJXUjN-YltysSmPl8CH09RhPTBn7SXEGzuouqcUFw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMyOTcw\/LTExODc5NzAxNzYu\/anBlZw.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 932,
+                    "in_collection": 415
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 1272821,
+            "label": "Relief Records",
+            "country": "US",
+            "title": "Velvet Tracks",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM",
+            "catno": "RR701",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/1272821",
+            "thumb": "https:\/\/i.discogs.com\/8megWmubCBXBDFVdCVZ24s9lTM9Zei3tFYvKEjiMbBQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNzI4\/MjEtMTI5Mjc4MzM3\/OS5qcGVn.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 752,
+                    "in_collection": 296
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        },
+        {
+            "id": 8767059,
+            "label": "Relief Records",
+            "country": "US",
+            "title": "Velvet Tracks",
+            "major_formats": [
+                "Vinyl"
+            ],
+            "format": "12\", 45 RPM, White Label",
+            "catno": "RR 701",
+            "released": "1993",
+            "status": "Accepted",
+            "resource_url": "https:\/\/api.discogs.com\/releases\/8767059",
+            "thumb": "https:\/\/i.discogs.com\/G7-HBStH4gM3TQn0qA0woB38BjCndHnmQ4iO4fd9-f8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg3Njcw\/NTktMTQ2ODMzNjI2\/NS0yNzI0LmpwZWc.jpeg",
+            "stats": {
+                "community": {
+                    "in_wantlist": 209,
+                    "in_collection": 15
+                },
+                "user": {
+                    "in_wantlist": 0,
+                    "in_collection": 0
+                }
+            }
+        }
+    ]
+}
