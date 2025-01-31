@@ -49,9 +49,8 @@ foreach ($release->getImages() as $image) {
 
 Use Composer to add the client to your Symfony project:
 
-> **Remark:** to be cross-checked
 ```bash
-composer require your-vendor/discogs-api-client
+composer require corncodecreators/discogs-api-client
 ```
 
 ### Configure your credentials (optional)
