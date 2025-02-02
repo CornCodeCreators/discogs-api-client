@@ -24,16 +24,16 @@
     "require": {
         "ext-curl": "*",
         "php": "^8.1",
-        "symfony/http-foundation": "^6.4",
-        "symfony/finder": "^6.4",
+        "symfony/http-foundation": ">=5.4",
+        "symfony/finder": ">=5.4",
         "fakerphp/faker": "^1.24"
     },
     "require-dev": {
-        "phpstan/phpstan": "^2.1",
         "symfony/var-dumper": "^6.4",
         "vlucas/phpdotenv": "^5.6",
         "friendsofphp/php-cs-fixer": "^3.68",
-        "phpunit/phpunit": "^10.5"
+        "phpunit/phpunit": "^10.5",
+        "phpstan/phpstan": "^2.1"
     },
     "scripts": {
         "code-fix": "./vendor/bin//php-cs-fixer fix",
